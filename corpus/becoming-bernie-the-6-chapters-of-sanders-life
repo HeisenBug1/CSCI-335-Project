@@ -1,0 +1,860 @@
+<!doctype html><html class="no-js" lang="en"><head><script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemscope itemtype="https://schema.org/SpeakableSpecification" itemref="speakable" /><title>Becoming Bernie: The 6 Chapters Of Sanders' Life : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]" /><meta id="google-site-verification" name="google-site-verification" content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" /><meta charset="utf-8" /><meta name="robots" content="noarchive,index,follow" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="npr-pjax" /><meta name="date" content="2015-11-03" /><link rel="canonical" href="https://www.npr.org/2015/11/03/452912856/becoming-bernie-the-6-chapters-of-sanders-life" /><meta name="description" content="Bernie Sanders is an improbable politician. Independent, occasionally irascible, he came from the far left and an urban background to win elections in one of the most rural states in the country." /><link rel="alternate" type="application/rss+xml" title="Politics" href="https://feeds.npr.org/1014/rss.xml" /><link rel="alternate" type="application/json" title="Politics" href="https://feeds.npr.org/feeds/1014/feed.json" /><link rel="apple-touch-icon" sizes="180x180" href="https://static-assets.npr.org/static/images/favicon/favicon-180x180.png" /><link rel="icon" sizes="96x96" href="https://static-assets.npr.org/static/images/favicon/favicon-96x96.png" /><link rel="icon" sizes="32x32" href="https://static-assets.npr.org/static/images/favicon/favicon-32x32.png" /><link rel="icon" sizes="16x16" href="https://static-assets.npr.org/static/images/favicon/favicon-16x16.png" /><meta property="og:title" content="Becoming Bernie: The 6 Chapters Of Sanders' Life" /><meta property="og:url" content="https://www.npr.org/2015/11/03/452912856/becoming-bernie-the-6-chapters-of-sanders-life" /><meta property="og:type" content="article" /><meta property="og:description" content="Bernie Sanders is an improbable politician. Independent, occasionally irascible, he came from the far left and an urban background to win elections in one of the most rural states in the country." /><meta property="og:image" content="https://media.npr.org/assets/img/2015/11/02/berniemayor-1443721908-78_wide-fcf6eaffa21ee6b5ee20a77958be09ba1026c06d.jpg?s=1400" /><meta property="og:image" content="https://media.npr.org/assets/img/2015/11/02/becomingber-1444056622-14_wide-175ab6ba884136382ea4ec3f2d0d8c39d5ded458.jpg?s=1400" /><meta property="og:image" content="https://media.npr.org/assets/img/2015/11/03/gettyimages-474806256_wide-1959bf41f93f54f625ecfdfc887f702c20406c21.jpg?s=1400" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><meta property="fb:pages" content="10643211755" /><meta property="article:content_tier" content="free" /><meta property="article:opinion" content="false" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Becoming Bernie: The 6 Chapters Of Sanders' Life" /><meta name="twitter:site" content="@NPR" /><meta name="twitter:domain" content="npr.org" /><meta name="twitter:image:src" content="https://media.npr.org/assets/img/2015/11/02/berniemayor-1443721908-78_wide-fcf6eaffa21ee6b5ee20a77958be09ba1026c06d.jpg?s=1400" /><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","legacyWebHost":"https:\/\/legacy.npr.org","stripeServiceHost":"https:\/\/stripe.npr.org","recaptchaV3SiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","identityHost":"https:\/\/identity.api.npr.org","apiHost":"https:\/\/api.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"readingServiceHostname":"https:\/\/reading.api.npr.org","cookieDomain":".npr.org"};
+NPR.serverVars = {"storyId":"452912856","facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/bundles.npr.org\/dist\/bundles\/","persistenceVersion":"b2e426a8faf099cee17e212b6c0ec3d7","isBuildOut":true,"topicIds":["P1014","1001","1002","1003"],"primaryTopic":"Politics","topics":["Politics","News","Home Page Top Stories","National"],"theme":"1014","aggIds":["1001","1002","1003","1014","421134416"],"tagIds":["bernie sanders"],"contentPartnerOrg":"Vermont Public Radio","pubDate":"2015110310","pageTypeId":"1","title":"Becoming Bernie: The 6 Chapters Of Sanders\u0027 Life","publisherOrgId":"691"};
+</script>
+<script type="text/javascript" src="https://cdn.optimizely.com/js/11107397707.js">
+   </script>
+<script type="text/javascript" src="https://static-assets.npr.org/static/javascript/lib/modernizr/modernizr.custom.js">
+   </script>
+<script type="text/javascript" async src="https://js.stripe.com/v3/">
+   </script>
+<script>
+   !function(e){function a(c){if(f[c])return f[c].exports;var b=f[c]={exports:{},id:c,loaded:!1};return e[c].call(b.exports,b,b.exports,a),b.loaded=!0,b.exports}var c=window.webpackJsonp;window.webpackJsonp=function(d,t){for(var n,r,o=0,i=[];o<d.length;o++)r=d[o],b[r]&&i.push.apply(i,b[r]),b[r]=0;for(n in t)if(Object.prototype.hasOwnProperty.call(t,n)){var p=t[n];switch(typeof p){case"object":e[n]=function(a){var c=a.slice(1),f=a[0];return function(a,b,d){e[f].apply(this,[a,b,d].concat(c))}}(p);break;case"function":e[n]=p;break;default:e[n]=e[p]}}for(c&&c(d,t);i.length;)i.shift().call(null,a);if(t[0])return f[0]=0,a(0)};var f={},b={23:0};a.e=function(e,c){if(0===b[e])return c.call(null,a);if(void 0!==b[e])b[e].push(c);else{b[e]=[c];var f=document.getElementsByTagName("head")[0],d=document.createElement("script");d.type="text/javascript",d.charset="utf-8",d.async=!0,d.src=a.p+""+e+"."+{0:"7546cbfccce16a21871c",1:"103a4bac9079fc5533b7",2:"6059270e550464df1001",3:"7ada89356f26c3c3aefc",4:"ca4b093b76a515e0c684",5:"ee69bd8e443eca42a0d6",6:"0b314d25caff9e6eca4d",7:"866d400d8c5dd7996412",8:"45514f720f38c9ef7208",9:"2405df678c7df3af088e",10:"eee180a15ca16a74f273",11:"57382769d48dfa1b2875",12:"963165bc37b097351b79",13:"a90e89590bfe3b5042c6",14:"fb2db3c921d7afa4a206",15:"a0668a390c5b2db2f4b9",16:"6f05b9b31c2f533609ef",17:"8f8f5c7764ee5bad886c",18:"24d9b2ecbe9ed9cf6fc7",19:"7713e9a9382ac7264fcb",20:"3f4d65995021685d6ecb",21:"944c402b115b1f1a91a6",22:"28b07ff2c141bc3effb8",24:"76ada2fe4c02ab6196fb",25:"bdb0554f863f8e35a482",26:"3e48e1fc52b0d586597e",27:"5e78d09f0275685cd293",28:"71d0a9989393dc042cf0",29:"a3363e48f6c79daec4f2",30:"c63dc27fb1af07fd6b8b",31:"c93cb5cb57e784b2fac1",32:"f8c2b249733de7d643bc",33:"c20b4e522659829874b6",34:"41dedc1a647706d0e53a",35:"b92883d1e71d64634953",36:"e100eac600287c2eed98",37:"0aed468854301124209f",38:"e6e81b29aa8417aca729",39:"df11e62eb19ef0693b5e",40:"5622cb29edc9d0e0ffe9",41:"8fab6d00e8891562bfe6",42:"2360ac768f678f9b221d",43:"ac40008b0c33906d3166",44:"21a9b06f8a10251c99f1",45:"2822fe866af9c070b6f6",46:"2489f0f3cb6bb4d684fa",47:"a96a1252bce84367d276",48:"6f9f8f4ab8998fdc2dc1",49:"62e865ab9dd0b7d4c3bc",50:"7683998e67a4777b1a6b",51:"13a6d444e05ac8e1a1b6",52:"37f3e342c9c04097924d",53:"2bcb02424afc017527f4",54:"bac8a6e061ac1e0557a6",55:"4d95e6241e0db1b92e7c",56:"9cce3e63d5c3125cbced",57:"cdf9d7538bd94a7120eb",58:"ee4a0056e4c345a8e695",59:"3efb3d21f5484bc8c789",60:"d33a7bf0199e37a69da4",61:"ebd2a56c7fba7b421ab0",62:"acaedaa98aee3e1115ae",63:"ae84fb214d6a1610f9c0",64:"a627344f9c087a162dfa",65:"bcb76c1c15fe3c838cb5",66:"39fe7e344fc594ec4b89",67:"25e4bd5c8c65e31a6a4a",68:"de2aa06338169223c18d",69:"27ab4a386e3457511839",70:"6700e43ad2708b3f6b12",71:"a6770597790e95db3d48",72:"63b39ee7416f34e91aef",73:"046cfbeadf9c361bf42c",74:"eb881dd844c9e61a627c",75:"d9ddafa1469a7a74d86f",76:"49cf7b7bab1fa0effe82",77:"46945feb9a03a152046c",78:"8c80b18e4ad81063e395",79:"3b55d653933c3adb9981",80:"ca1d8bbae15e1b0fab5b"}[e]+".chunk.js",f.appendChild(d)}},a.m=e,a.c=f,a.p="/dist/bundles/"}(function(e){for(var a in e)if(Object.prototype.hasOwnProperty.call(e,a))switch(typeof e[a]){case"function":break;case"object":e[a]=function(a){var c=a.slice(1),f=e[a[0]];return function(e,a,b){f.apply(this,[e,a,b].concat(c))}}(e[a]);break;default:e[a]=e[e[a]]}return e}([]));
+</script>
+<script type="text/javascript" src="https://bundles.npr.org/dist/bundles/globalNavigationDropdowns-3e48e1fc52b0d586597e.js">
+   </script>
+<link rel="stylesheet" data-persist="true" media="screen, print" href="https://bundles.npr.org/dist/bundles/persistent-css-f9765a568d66ad61750e.css" /><link rel="stylesheet" media="screen, print" href="https://bundles.npr.org/dist/bundles/newsStory-css-f9765a568d66ad61750e.css" /><link rel="stylesheet" media="screen" href="https://static-assets.npr.org/branding/sections/politics/branding.css" /><link rel="stylesheet" media="screen" href="https://s.npr.org/include/overridecss/theme1014.css" /><script type="application/ld+json">
+   {"@type":"NewsArticle","publisher":{"@type":"Organization","name":"Vermont Public Radio","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/images\/stations\/nprone_logos\/vpr.png"}},"headline":"Becoming Bernie: The 6 Chapters Of Sanders' Life","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.npr.org\/2015\/11\/03\/452912856\/becoming-bernie-the-6-chapters-of-sanders-life"},"datePublished":"2015-11-03T10:17:00-05:00","dateModified":"2015-11-20T13:04:00-05:00","author":{"@type":"Organization","name":"Vermont Public Radio","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/images\/stations\/nprone_logos\/vpr.png"}},"description":"Bernie Sanders is an improbable politician. Independent, occasionally irascible, he came from the far left and an urban background to win elections in one of the most rural states in the country.","image":[{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2015\/11\/02\/berniemayor-1443721908-78_wide-fcf6eaffa21ee6b5ee20a77958be09ba1026c06d.jpg"},{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2015\/11\/02\/sanderstrac-1443541802-50_custom-65349f362975a1c2df27f7c0fc106f6f030c3fb7.jpg"},{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2015\/11\/02\/becomingber-1444056622-14_wide-175ab6ba884136382ea4ec3f2d0d8c39d5ded458.jpg"},{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2015\/11\/02\/berniesande-1443465341-17_custom-cce8060106eddde88c64707ee52a573fe208ec01.jpg"},{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2015\/11\/02\/becomingber-1444057429-84_custom-0b7f9244d5fcc1b447fc0665063a1a0df965c714.jpg"},{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2015\/11\/03\/gettyimages-474806256_wide-1959bf41f93f54f625ecfdfc887f702c20406c21.jpg"}],"@context":"http:\/\/schema.org"}
+</script>
+<script type="text/javascript">
+   document.domain="npr.org";
+</script>
+</head><body id="news" class="news tmplNewsMultimedia  story-layout is-buildout no-transcript has-no-branding multimedia id452912856  " data-pjax-modules="util/env images/lazy-load chartbeat comscore metrics nielsen nielsenDCR copyright auto-refresh navigation/global-navigation fitvids dfp globalfooter persistent-audio player/more-options player/audio-module-clickable what-input metrics/doubleclickFloodlight metrics/facebookTracking callout/on-page-callouts global-alerts ecommerce jw social/share slideshow images/enlargement swfbuilder recommendations/end-of-story-recommendations-callout social/sharepop podcast-cards"><div class="skip-links">
+      <span>Accessibility links</span>   <ul>
+            <li><a href="#mainContent" class="skiplink">Skip to main content</a></li>
+      <li><a href="https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player" class="skiplink">Keyboard shortcuts for audio player</a></li>
+   </ul>
+</div>
+<header class="npr-header" id="globalheader" aria-label="NPR header">
+<nav class="navigation">
+    <div class="navigation__top-level-wrap" data-metrics-all data-metrics-category="global navigation">
+        <ul class="navigation__top-level">
+            <li class="navigation__home">
+                <a href="/" data-metrics-action="click npr logo">
+                    <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+                </a>
+            </li>
+
+            <li id="navigation__station-mount"></li>
+
+            <li id="user-account-dropdown-mount" class="navigation__account"></li>
+
+            <li class="navigation__shop">
+                <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
+            </li>
+
+            <li id="navigation__station-donate-mount"></li>
+
+            <li class="navigation__toggle-wrap">
+                <button id="navigation__toggle--open" class="navigation__toggle navigation__toggle--open" aria-haspopup="true" aria-expanded="false" data-metrics-action="open navigation menu">
+                    Open Navigation Menu
+                </button>
+            </li>
+        </ul>
+    </div>
+    <section id="main-menu" class="menu menu--main" data-metrics-all data-metrics-category="global navigation">
+        <div class="menu__inner">
+            <header class="menu__header">
+                <button id="navigation__toggle--close" class="navigation__toggle navigation__toggle--close" aria-haspopup="true" aria-expanded="true" data-metrics-action="close navigation menu">
+                    Close <span>Navigation Menu</span>
+                </button>
+            </header>
+            <ul class="menu__list">
+                <li class="menu__item menu__item--home">
+                    <div class="menu__item-inner"><a href="/" data-metrics-action="click npr logo">Home</a></div>
+                </li>
+                <li class="menu__item menu__item--news menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/news/" data-metrics-action="click news">News</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle news drawer">Expand/collapse submenu for News</button>
+                    </div>
+
+                    <ul class="submenu submenu--news">
+                        <li class="submenu__item"><a href="/sections/national/" data-metrics-action="click national">National</a></li>
+                        <li class="submenu__item"><a href="/sections/world/" data-metrics-action="click world">World</a></li>
+                        <li class="submenu__item"><a href="/sections/politics/" data-metrics-action="click politics">Politics</a></li>
+                        <li class="submenu__item"><a href="/sections/business/" data-metrics-action="click business">Business</a></li>
+                        <li class="submenu__item"><a href="/sections/health/" data-metrics-action="click health">Health</a></li>
+                        <li class="submenu__item"><a href="/sections/science/" data-metrics-action="click science">Science</a></li>
+                        <li class="submenu__item"><a href="/sections/technology/" data-metrics-action="click technology">Technology</a></li>
+                        <li class="submenu__item"><a href="/sections/codeswitch/" data-metrics-action="click race & culture">Race &amp; Culture</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--arts-life menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/arts/" data-metrics-action="click arts & life">Arts &amp; Life</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle arts drawer">Expand/collapse submenu for Arts &amp; Life</button>
+                    </div>
+
+                    <ul class="submenu submenu--arts-life">
+                        <li class="submenu__item"><a href="/books/" data-metrics-action="click books">Books</a></li>
+                        <li class="submenu__item"><a href="/sections/movies/" data-metrics-action="click movies">Movies</a></li>
+                        <li class="submenu__item"><a href="/sections/television/" data-metrics-action="click television">Television</a></li>
+                        <li class="submenu__item"><a href="/sections/pop-culture/" data-metrics-action="click pop culture">Pop Culture</a></li>
+                        <li class="submenu__item"><a href="/sections/food/" data-metrics-action="click food">Food</a></li>
+                        <li class="submenu__item"><a href="/sections/art-design/" data-metrics-action="click art & design">Art &amp; Design</a> </li>
+                        <li class="submenu__item"><a href="/sections/performing-arts/" data-metrics-action="click performing arts">Performing Arts</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--music menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/music/" data-metrics-action="click music">Music</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle music drawer">Expand/collapse submenu for Music</button>
+                    </div>
+
+                    <ul class="submenu submenu--music"><li class="submenu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/898709145/we-insist-a-timeline-of-protest-music-in-2020" data-metrics-action="click we insist: a timeline of protest music in 2020">
+        We Insist: A Timeline Of Protest Music In 2020
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-news/" data-metrics-action="click music news">
+        Music News
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/new-music/" data-metrics-action="click new music">
+        New Music
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions" data-metrics-action="click live sessions">
+        Live Sessions
+    </a>
+</li></ul>
+
+                </li>
+                <li class="menu__item menu__item--shows-podcasts menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/programs/" data-metrics-action="click shows & podcasts">Shows &amp; Podcasts</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle programs &amp; podcasts drawer">Expand/collapse submenu for Shows &amp; Podcasts</button>
+                    </div>
+
+                    <div class="submenu submenu--shows-podcasts">
+                        <span class="submenu__category submenu__category--daily">Daily</span>
+                        <ul class="submenu__list submenu__list--daily">
+                            <li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+                                <a href="/programs/morning-edition/" data-metrics-action="click morning edition">
+                                    <img src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg" alt="" />
+                                    Morning Edition
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--saturday hidden" >
+                                <a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png" alt="" />
+                                    Weekend Edition Saturday
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+                                <a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png" alt="" />
+                                    Weekend Edition Sunday
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/all-things-considered/" data-metrics-action="click all things considered">
+                                    <img src="https://media.npr.org/chrome/programs/logos/all-things-considered.png" alt="" />
+                                    All Things Considered
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/fresh-air/" data-metrics-action="click fresh air">
+                                    <img src="https://media.npr.org/chrome/programs/logos/fresh-air.png" alt="" />
+                                    Fresh Air
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/podcasts/510318/up-first" data-metrics-action="click up first">
+                                    <img src="https://media.npr.org/chrome/programs/logos/up-first.jpg?version=2" alt="" />
+                                    Up First
+                                </a>
+                            </li>
+                        </ul>
+                        <span class="submenu__category submenu__category--featured">Featured</span>
+
+                        <ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510357/louder-than-a-riot" data-metrics-action="click louder than a riot">
+        <img src="https://media.npr.org/assets/img/2020/09/16/ltar_tile_3000x3000_sq-31ca3d396ef2632daac24101765842d13b00ca8b.jpg?s=100" alt="" />
+        Louder Than A Riot
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510333/throughline" data-metrics-action="click throughline">
+        <img src="https://media.npr.org/assets/img/2019/01/28/nprthroughline_podcasttile_sq-3bddbe49827adf54bdbc1f94b40fc61d581704f6.png?s=100" alt="" />
+        Throughline
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510310/npr-politics-podcast" data-metrics-action="click the npr politics podcast">
+        <img src="https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final-826d49ee33322d9a602351186f9c10149121d451.jpg?s=100" alt="" />
+        The NPR Politics Podcast
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510318/up-first" data-metrics-action="click up first">
+        <img src="https://media.npr.org/assets/img/2020/03/30/up-first-tile_sq-8c917c992869803df1f6fe9511c0bd613cab1249.png?s=100" alt="" />
+        Up First
+    </a>
+</li></ul>
+
+                        <ul class="submenu__list submenu__list--directories">
+                            <li class="submenu__item"><a href="/programs/" data-metrics-action="click all programs">More Shows &amp; Podcasts</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="menu__item menu__item--search">
+                    <div class="menu__item-inner">
+                        <a href="/search" id="navigation_dropdown-search" data-metrics-action="click search">Search</a>
+                    </div>
+                </li>
+                <li id="user-account-dropdown-mount-two" class="menu__item menu__item--account"></li>
+                <li class="menu__item menu__item--shop">
+                    <div class="menu__item-inner">
+                        <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--music" data-metrics-all data-metrics-category="music ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--music">
+                <li class="menu__item menu__item--music-home">
+                    <a href="/music/" data-metrics-action="click npr music logo">
+                        <img src="https://media.npr.org/chrome_svg/music-logo-dark.svg" class="music-logo"  alt="NPR Music" />
+                        <img src="https://media.npr.org/chrome_svg/music-logo-light.svg" class="music-logo-alt" alt="NPR Music" />
+                    </a>
+                </li>
+
+                <li class="menu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/898709145/we-insist-a-timeline-of-protest-music-in-2020" data-metrics-action="click we insist: a timeline of protest music in 2020">
+        We Insist: A Timeline Of Protest Music In 2020
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-news/" data-metrics-action="click music news">
+        Music News
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/new-music/" data-metrics-action="click new music">
+        New Music
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions" data-metrics-action="click live sessions">
+        Live Sessions
+    </a>
+</li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--about" data-metrics-all data-metrics-category="about ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--about">
+                <li class="menu__item menu__item--about-home"><a href="/about/" data-metrics-action="click about npr">About NPR</a></li>
+                <li class="menu__item menu__item--about-overview"><a href="/overview/" data-metrics-action="click overview">Overview</a></li>
+                <li class="menu__item menu__item--about-support"><a href="/support/" data-metrics-action="click support">Support</a></li>
+                <li class="menu__item menu__item--about-careers"><a href="/careers/" data-metrics-action="click careers">Careers</a></li>
+                <li class="menu__item menu__item--about-connect"><a href="/connect/" data-metrics-action="click connect">Connect</a></li>
+                <li class="menu__item menu__item--about-press"><a href="/press/" data-metrics-action="click press">Press</a></li>
+                <li class="menu__item menu__item--about-ethics"><a href="/ethics/" data-metrics-action="click ethics">Ethics</a></li>
+            </ul>
+        </div>
+    </section>
+</nav></header><main aria-label="main content"><div class="speakable">
+      <b data-is-speakable>Becoming Bernie: The 6 Chapters Of Sanders' Life</b>   <b data-is-speakable>Bernie Sanders is an improbable politician. Independent, occasionally irascible, he came from the far left and an urban background to win elections in one of the most rural states in the country.</b>
+</div>
+<div id="wrapper">
+      <header class="contentheader contentheader--one" data-metrics='{"category":"Politics"}' ></header>   <div class="story-sticky-header">
+    <div class="story-sticky-header-inner">
+        <a href="/" class="nprhome nprhome-news"  data-metrics='{&quot;category&quot;:&quot;global navigation&quot;,&quot;action&quot;:&quot;click npr logo&quot;,&quot;label&quot;:&quot;\/&quot;}' >
+            <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+        </a>
+
+        <article id="res454318001" class="bucketwrap resaudio insecure" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Listen to VPR's Special, "Becoming Bernie"</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"452912856:454318001","available":true,"duration":"3176","title":"Listen to VPR\u0027s Special, \"Becoming Bernie\"","audioUrl":"aHR0cHM6Ly9vbmRlbWFuZC5ucHIub3JnL2Fub24ubnByLW1wMy9ucHIvc3BlY2lhbHMvMjAxNS8xMS8yMDE1MTEwM19zcGVjaWFsc19iZWNvbWluZ2Jlcm5pZS5tcDM\/b3JnSWQ9NjkxJnRvcGljSWQ9MTAxNCZkPTMxNzYmc3Rvcnk9NDUyOTEyODU2JmRsPTEmc2l0ZXBsYXllcj10cnVl","storyUrl":"https:\/\/www.npr.org\/2015\/11\/03\/452912856\/becoming-bernie-the-6-chapters-of-sanders-life","slug":"politics","program":"","affiliation":"Vermont Public Radio","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='{"playedFrom":"from sticky header"}'>
+        <div class="audio-module-controls">
+
+                <time class="audio-module-duration" datetime="P52M,56S">
+                  <span class="audio-module-duration__initial-value">52:56</span>
+                </time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/452912856/454318001"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;452912856&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/452912856/454318001&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/452912856/454318001" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+        </ul>
+    </div>
+</div>
+</article>
+
+        <a href="#" class="title">
+          <b>Becoming Bernie: The 6 Chapters Of Sanders' Life</b>
+          <time datetime="P52M,56S">52:56</time>
+        </a>
+    </div>
+</div>   <section id="main-section"><article class="story"><a id="mainContent"></a><ul class="podcast-tools podcast-tools--510310">
+    <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final-826d49ee33322d9a602351186f9c10149121d451-s800-c15.jpg" data-original="https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final-826d49ee33322d9a602351186f9c10149121d451-s800.jpg" class="img lazyOnLoad"  alt="The NPR Politics Podcast" loading="lazy" />
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+        </div>
+
+
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        NPR
+        
+    </span>
+</div>
+
+    <li class="subscribe" data-sharepop data-selector=".sharepop.subscribe">
+      <button  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;toggle subscribe menu&quot;}' >subscribe
+        <span class="subscribe-more-info"> to 
+          <span class="channel-title">The NPR Politics Podcast</span>
+          <span class="generic-title">podcast</span>
+        </span>
+      </button>
+    </li>
+
+    <li class="podcast-tools__subscribe-links">
+      <div class="sharepop-four">
+          <div class="sharepop">
+              <ul>
+                  <li>
+                  <svg width="17" class="subscribe__tooltip">
+                      <g id="Canvas" fill="none">
+                        <g id="tooltip-point">
+                          <path d="M 10.7679 3C 11.5377 1.66667 13.4623 1.66667 14.2321 3L 21.5933 15.75C 22.3631 17.0833 21.4008 18.75 19.8612 18.75L 5.13878 18.75C 3.59918 18.75 2.63693 17.0833 3.40673 15.75L 10.7679 3Z" transform="matrix(0 -1 1 0 -2 22)" fill="#1D3261"/>
+                        </g>
+                      </g>
+                    </svg>
+                    <a href="https://rpb3r.app.goo.gl/XDGl" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click npr one universal&quot;,&quot;label&quot;:&quot;the npr politics podcast&quot;}' >NPR One</a></li>
+                  <li>
+                    <a href="https://podcasts.apple.com/podcast/id1057255460?mt=2&amp;at=11l79Y&amp;ct=nprdirectory" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click itunes&quot;,&quot;label&quot;:&quot;the npr politics podcast&quot;}' >Apple Podcasts</a></li>
+                  <li>
+                    <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cubnByLm9yZy9yc3MvcG9kY2FzdC5waHA_aWQ9NTEwMzEw" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click google podcasts&quot;,&quot;label&quot;:&quot;the npr politics podcast&quot;}' >Google Podcasts</a></li>
+                  <li>
+                      <a href="https://pca.st/npr-politics" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click Pocket Casts&quot;,&quot;label&quot;:&quot;the npr politics podcast&quot;}' >Pocket Casts</a></li>
+                  <li>
+                      <a href="https://open.spotify.com/show/2PnWnDNwU3wKesCHCpy252" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click Spotify&quot;,&quot;label&quot;:&quot;the npr politics podcast&quot;}' >Spotify</a></li>
+                  
+                  
+                  <li>
+                    <a target="_blank" href="https://feeds.npr.org/510310/podcast.xml" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click rss&quot;,&quot;label&quot;:&quot;the npr politics podcast&quot;}' >RSS link</a></li>
+              </ul>
+          </div>
+      </div>
+    </li>
+</ul><div class="slug-wrap">
+
+    <h3 class="slug">
+        <a href="https://www.npr.org/sections/politics/">Politics</a>
+    </h3>
+</div>
+<div class="storytitle">
+      <h1>Becoming Bernie: The 6 Chapters Of Sanders' Life</h1>
+   <input type="hidden" id="title452912856" value="Becoming Bernie: The 6 Chapters Of Sanders' Life" />
+   <input type="hidden" id="shortTitle452912856" value="Becoming Bernie: The 6 Chapters Of Sanders' Life" />
+   <input type="hidden" id="modelFullUrl452912856" value="https://www.npr.org/2015/11/03/452912856/becoming-bernie-the-6-chapters-of-sanders-life" />
+</div>
+
+<!-- END CLASS="STORYTITLE" -->
+<div id="story-meta" class="story-meta has-org">
+      <div class="story-meta__one">
+            <div class="dateblock">
+    <time datetime="2015-11-03T10:17:00-05:00">
+            <span class="date">November 3, 2015</span><span class="time">10:17 AM ET</span>
+    </time>
+</div>
+   </div>
+   
+<!-- END CLASS="STORY-META__ONE" -->
+   <div class="story-meta__two">
+            <div class="station">
+                  <p> <b>From</b><a class="station" href="https://www.vpr.org?utm_source=npr.org&utm_medium=referral&utm_campaign=click%2Bstation&utm_term=local-story"  data-metrics='{"action":"Click Org Association","category":"Story Metadata"}' ><img src='https://media.npr.org/images/stations/logos/vpr.gif' alt='Vermont Public Radio' /></a></p>
+      </div>
+      
+<!-- END CLASS="STATION" -->
+   </div>
+   
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-ORG" -->
+<div id="storytext" class="storytext storylocation linkLocation">
+      <div id="res453963211" class="bucketwrap image large">
+            <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2015/11/02/berniemayor-1443721908-78_wide-fcf6eaffa21ee6b5ee20a77958be09ba1026c06d-s1100-c15.jpg" data-original="https://media.npr.org/assets/img/2015/11/02/berniemayor-1443721908-78_wide-fcf6eaffa21ee6b5ee20a77958be09ba1026c06d-s1100.jpg" class="img lazyOnLoad"  alt="Burlington in 1981 was a stratified city, geographically and economically." loading="lazy" />
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2015/11/02/berniemayor-1443721908-78_wide-fcf6eaffa21ee6b5ee20a77958be09ba1026c06d-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+        </div>
+
+
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Aaron Shrewsbury/VPR
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <img data-original="https://media.npr.org/assets/img/2015/11/02/berniemayor-1443721908-78_wide-fcf6eaffa21ee6b5ee20a77958be09ba1026c06d-s1200.jpg" alt="Burlington in 1981 was a stratified city, geographically and economically." />
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <span class="credit" aria-label="Image credit">
+            
+            Aaron Shrewsbury/VPR
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <p><em>This story comes from Vermont Public Radio and is an abridged version of its feature "Becoming Bernie: His Rise And His Record." </em><a href="http://projects.vpr.net/becoming-bernie" target="_blank">You can view the full story here</a>.</p>   <p>Bernie Sanders is an improbable politician. Independent, occasionally irascible, he came from the far left and an urban background to win elections in one of the most rural states in the country.</p>   <p>Now Sanders' rhetoric is on the national stage with his surging run for president. He's made headlines for his staying power in polls and his policy platforms singularly focused on income inequality and curbing corporate power.</p>   <p>His run for the White House has been described as quixotic, and pundits have called his goals unachievable. But Sanders and his policies have struck a nerve in American politics. The candidate who's been dismissed and underestimated every time he reaches for new political heights has become the leading challenger to Democratic front-runner Hillary Clinton.</p>   <aside id="ad-backstage-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-backstage-News_Politics" class="ad-backstage" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"zone":"News_Politics","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"452912856"},"location":"backstage","deferred":false,"isBetweenContent":true,"isAggSponsorship":false,"borderClass":""}'></div>
+
+</aside>   <article id="res454318001" class="bucketwrap resaudio secondary insecure" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Listen to VPR's Special, "Becoming Bernie"</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"452912856:454318001","available":true,"duration":"3176","title":"Listen to VPR\u0027s Special, \"Becoming Bernie\"","audioUrl":"aHR0cHM6Ly9vbmRlbWFuZC5ucHIub3JnL2Fub24ubnByLW1wMy9ucHIvc3BlY2lhbHMvMjAxNS8xMS8yMDE1MTEwM19zcGVjaWFsc19iZWNvbWluZ2Jlcm5pZS5tcDM\/b3JnSWQ9NjkxJnRvcGljSWQ9MTAxNCZkPTMxNzYmc3Rvcnk9NDUyOTEyODU2JmRsPTEmc2l0ZXBsYXllcj10cnVl","storyUrl":"https:\/\/www.npr.org\/2015\/11\/03\/452912856\/becoming-bernie-the-6-chapters-of-sanders-life","slug":"politics","program":"","affiliation":"Vermont Public Radio","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+
+                <time class="audio-module-duration" datetime="P52M,56S">
+                  <span class="audio-module-duration__initial-value">52:56</span>
+                </time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/452912856/454318001"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;452912856&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/452912856/454318001&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/452912856/454318001" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+        </ul>
+    </div>
+</div>
+</article>   <p>As American voters get to know the 74-year-old — his wispy white hair, his Brooklyn accent that's persisted in the decades since he left home, his unyielding focus on economic equality, and his impatience with the gamesmanship of presidential politics — he's shared little about what made him who he is.</p>   <p>Sanders deflects personal questions and admonishes reporters who stray from the subjects he considers important, but there's no separating Sanders' candidacy from Sanders himself.</p>   <p>So who is Bernie Sanders? What molded his politics and his convictions? And what can the chapters of his life tell us about what might come next?</p>   <p><strong>A Brooklyn Youth</strong></p>   <div id="res453961073" class="bucketwrap image large">
+            <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2015/11/02/sanderstrac-1443541802-50_custom-65349f362975a1c2df27f7c0fc106f6f030c3fb7-s1100-c15.jpg" data-original="https://media.npr.org/assets/img/2015/11/02/sanderstrac-1443541802-50_custom-65349f362975a1c2df27f7c0fc106f6f030c3fb7-s1100.jpg" class="img lazyOnLoad"  alt="" loading="lazy" />
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Bernie Sanders was known to teammates as a talented — and sometimes selfless — runner at James Madison High School in Brooklyn.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Courtesy Lou Howort
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Courtesy Lou Howort
+        
+    </span>
+</div>
+   </div>
+   <p>Bernie Sanders' athletic strength in high school was in long-distance running, according to his teammate Steve Slavin. As a sophomore at James Madison High School in the late 1950s, Sanders was racing with seniors — and winning.</p>   <p>Slavin also recalls Sanders as someone who didn't boast about his successes. Years after graduating, Slavin heard a story about one cross-country race in particular in which Sanders let the second-place runner take the lead, ignoring a tradition that the top two runners join hands at the end and cross the finish line together.</p>   <p>"But Bernie knew that this other guy had not ever won a race by himself," Slavin says. "So when they approached the finish line, the other guy reached out to take Bernie's hand and Bernie sort of nudged him across the finish line so that the other guy would finish first and Bernie would finish second, and it's a story that this guy has always remembered."</p>   <p>...</p>   <p>Farther down the block from the Brooklyn high school, the area feels more urban, with tan brick apartment houses from the 1920s and '30s.</p>   <p>Bernie Sanders grew up in one such building on East 26th Street. Today, a couple of elderly Russian men are sitting out in front of the Sanderses' old apartment house.</p>   <p>"They're just sitting outside," Slavin says. "That's how they socialize. That's the way they used to do it in the old days too — a lot of adults sitting in front of the apartment houses."</p>   <p>Slavin says to the men: "There was someone who lived here 60 years ago and he's running for president."</p>   <p>Walking into the building's bare and dimly lit lobby, it's clear not much has changed. There's faded paint on the high ceilings, and old ceramic tiles cover the floor.</p>   <p>Sanders lived in the 3 1/2-room apartment with his parents and brother, Larry, who is seven years older.</p>   <p>Larry says their father, Eli, worked most of his life as a struggling paint salesman. Dorothy Sanders was a stay-at-home mother who died young — she was 46 — the year after Bernie graduated from high school.</p>   <p>"She played a huge — I may even cry at some point," Larry says. He pauses. "She played a huge part in our lives."</p>   <p>Larry describes his mother as an "assertive and energetic" woman, and he says he and "Bernard," as he calls his brother, grew up feeling loved and secure — except in matters of money.</p>   <p>"It was the issue on which our parents had arguments," he recalls. "That they didn't really know whether they'd have the rent the following month. They probably would, but it wasn't sure. We had what we needed in general, but it was the fact that our parents were arguing that was the problem. And I think what Bernard and I took from that is that financial problems are never just financial problems. They enter into people's lives in very deep and personal levels."</p>   <p><p data-disable-return="true">Education for the Sanders brothers was in Brooklyn's public schools and in Hebrew school. Larry says he and his brother grew up learning about basic concepts like justice and equality, "that all people are equal, that people are entitled to be treated with dignity. That justice was something that was meant to be for everybody. Yes, we had a very deep sense of that, of the human solidarity."</p>   <p>Bernie Sanders' education, unlike his parents', would continue in college, and it would become an education that wasn't solely academic.</p>   <p><strong>Chicago: An Education</strong></p>   <div id="res453962197" class="bucketwrap image large">
+            <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2015/11/02/becomingber-1444056622-14_wide-175ab6ba884136382ea4ec3f2d0d8c39d5ded458-s1100-c15.jpg" data-original="https://media.npr.org/assets/img/2015/11/02/becomingber-1444056622-14_wide-175ab6ba884136382ea4ec3f2d0d8c39d5ded458-s1100.jpg" class="img lazyOnLoad"  alt="&quot;I'm sure that in class, he didn't say what the professor wanted to hear,&quot; former teammate Steve Slavin says." loading="lazy" />
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2015/11/02/becomingber-1444056622-14_wide-175ab6ba884136382ea4ec3f2d0d8c39d5ded458-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+        </div>
+
+
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Aaron Shrewsbury/VPR
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <img data-original="https://media.npr.org/assets/img/2015/11/02/becomingber-1444056622-14_wide-175ab6ba884136382ea4ec3f2d0d8c39d5ded458-s1200.jpg" alt="&quot;I'm sure that in class, he didn't say what the professor wanted to hear,&quot; former teammate Steve Slavin says." />
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <span class="credit" aria-label="Image credit">
+            
+            Aaron Shrewsbury/VPR
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <p>Sanders spent the year after high school at Brooklyn College, where he rented a room with his old high school teammate Slavin.</p>   <p>Slavin says Sanders didn't make much effort to curry favor with his instructors.</p>   <p>"I'm sure that in class, he didn't say what the professor wanted to hear," Slavin says. "And the professors were pretty decent — I mean it was, you know, open discussion. But yet there is always the feeling that if you say what the professor wants to hear this is gonna help your grade. ... And Bernie would have none of that."</p>   <p>In 1961, Sanders transferred to the University of Chicago, where the bells of the school carillon echoed through Hyde Park on the city's South Side.</p>   <p>University of Chicago students in the early 1960s were a smart, erudite, precocious bunch.</p>   <p>One of Sanders' classmates at the time interviewed students about their college experience for a documentary called <em>The College</em>.</p>   <p>Describing a rock concert at the school, one of the students said: "I see it as sort of a reversion to a primitive, pagan rite, you see the rampant sexuality, and, you know, it's kind of interesting from a purely sociological standpoint."</p>   <p>Robin Kaufman laughs when she hears the clip.</p>   <p>"Yeah, yeah," she says. "There were a lot of us like this. You know, University of Chicago's a place for nerds, you know?"</p>   <p>Kaufman was active in the same political groups as Sanders — including the Congress on Racial Equality, or CORE. Sanders was also involved in the Young People's Socialist League.</p>   <p>"I think we were more fun-loving than some of the nerds," Kaufman says. "But I think Bernie was pretty serious and I think many of us were pretty serious."</p>   <p>...</p>   <p>In January 1962, Sanders and other student leaders asked the administration to immediately integrate the housing.</p>   <p>When the university did not, Kaufman says, about 35 students marched up to the university president's office, sat down, and didn't leave.</p>   <div id="res453962357" class="bucketwrap image large">
+            <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2015/11/02/berniesande-1443465341-17_custom-cce8060106eddde88c64707ee52a573fe208ec01-s1100-c15.jpg" data-original="https://media.npr.org/assets/img/2015/11/02/berniesande-1443465341-17_custom-cce8060106eddde88c64707ee52a573fe208ec01-s1100.jpg" class="img lazyOnLoad"  alt="" loading="lazy" />
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Sanders has said this 1962 sit-in for housing equality introduced him to the power of political activism.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Courtesy Special Collections Research Center, University of Chicago Library
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Courtesy Special Collections Research Center, University of Chicago Library
+        
+    </span>
+</div>
+   </div>
+   <p>"My mother was in Boston," Kaufman says, "and a friend of hers called her up and said, 'I just saw Robin on TV. You know, you're putting all this money into sending her to college, and she's out there sitting in!' "</p>   <p>Kaufman reported in the student newspaper that the protesters at the sit-in played bridge and ate salami and cheese sandwiches. One guy read aloud from <em>Winnie-the-Pooh</em>. Several wore neckties.</p>   <p>One of the leaders of the sit-in was a young Bernard Sanders, shown in one photo sporting a wide-necked dark sweater and horn-rimmed glasses, clutching a book in one hand and gesturing with the other as he speaks to the protesters.</p>   <p>"He was a great speaker," Kaufman recalls, "and he was able to convince a bunch of other 19-year-olds ... that what was going on was something that was wrong ... and we had the power and the obligation to try to create change."</p>   <p>Sanders <a href="http://mag.uchicago.edu/law-policy-society/political-education" target="_blank">has said</a> the sit-in was <em>the event</em> that kick-started his political activism.</p>   <p>Not everyone remembers him as eloquent. Gavin MacFadyen says Sanders was no "electrifying speechmaker" but a soft-spoken, intelligent kid who was still figuring out how to lead.</p>   <p>"If you'd said, 'Is this guy going to run for president?' I think we all would have smiled," MacFadyen says.</p>   <p><strong>Settling In Vermont</strong></p>   <p>As a kid growing up in New York City, Sanders developed a fascination with Vermont by way of real estate brochures and a small storefront the state had set up in the city to boost tourism.</p>   <p>Sanders recalled in <a href="http://www.npr.org/sections/itsallpolitics/2015/06/20/415747576/leaving-brooklyn-bernie-sanders-found-home-in-vermont" target="_blank">a June 2015 interview with NPR</a> that he and his brother would pick up the brochures and look at the farms for sale.</p>   <p>After college, in the mid-1960s, Sanders, his then-wife and brother pooled together money and bought a piece of land in Middlesex, about 6 miles north of the state capital of Montpelier.</p>   <p>"We had never been to Vermont in our lives; we just drove up," Sanders told NPR. "We bought 85 acres for $2,500. How's that? But it was woodland."</p>   <p>Sanders stayed occasionally in a converted maple sugar house on the Middlesex property. But it was far to the north, in the town of Stannard, that Sanders put down more permanent Vermont roots.</p>   <p>...</p>   <p>In late 1971, Sanders was invited by his old friend Jim Rader to a convention of the Liberty Union Party at Goddard College.</p>   <p>Liberty Union opposed the Vietnam War and was trying to become a viable third party in Vermont. The state was seeing an influx of young people, a demographic shift that later became known as the "hippie invasion."</p>   <div id="res454241631" class="bucketwrap pullquote">
+            <aside  aria-label="pullquote"><div class="bucket">
+      <p>Bernie certainly surprised me, and I have the sense, maybe even surprised himself, by volunteering [to run for Senate].</p>
+</div>
+
+<!-- END CLASS="BUCKET" -->
+<p class="byline">Old friend Jim Rader</p></aside>
+   </div>
+   
+<!-- END ID="RES454241631" CLASS="BUCKETWRAP PULLQUOTE" -->
+   <p>Sanders wasn't a hippie. But he was anti-war and had an intense interest in politics, so he went along.</p>   <p>Rader says the Liberty Union convention had already selected a candidate for the U.S. House, "and then the question was: 'Well, we don't have a candidate for Senate; is there anybody who is willing to run for Senate?' "</p>   <p>There was a pause, Rader says, and then Bernie Sanders held up his hand.</p>   <p>"Bernie certainly surprised me, and I have the sense, maybe even surprised himself, by volunteering," Rader recalls.</p>   <p>Nearly 45 years later, Sanders holds that first office he sought. It didn't come quickly.</p>   <p><p data-disable-return="true">Sanders lost that first race for Senate, as well as a 1974 race for Senate and a 1976 race for governor, never breaking more than 6 percent. In 1979, he broke with the Liberty Union.</p>   <p>In his book, <em>Outsider in the House,</em> he explains why. He says it was a painful decision, but that the small third party wasn't attracting members, energy or leadership.</p>   <p>Though he's shirked party status since, Sanders' friends say some of the political themes he stressed in his Liberty Union campaigns are elements of his presidential bid.</p>   <p>"I think what motivates Bernie is a passionate desire for justice, and especially economic justice," says Huck Gutman, an English professor at the University of Vermont and one of Sanders' closest friends and advisers.</p>   <p>"[It's] not so different from his Liberty Union days, saying the country is not fair, we've got to try and do something through the ballot box."</p>   <p>But there is one key difference between Sanders the fringe third-party candidate and the political independent who later won races for mayor and Congress.</p>   <p>Garrison Nelson, a professor of political science at the University of Vermont, says the Liberty Union Party, like many in the counterculture left of the 1960s and '70s, was never about winning elections.</p>   <p>"They don't want to win, because if you win you're gonna have to govern," Nelson says. "And they don't want to govern. They don't want to be responsible for anything. It's much more fun to make the speeches and sit down and have coffee with your buddies."</p>   <p>Richard Sugarman, a professor of religion at the University of Vermont, became friends with Sanders during his Liberty Union days. He says that by the end of the 1970s, Sanders believed the Liberty Union party had run its course.</p>   <p>"I think he realized that ... Liberty Union had exhausted their primary purpose, which was anti-Vietnam War. And it was over!" Sugarman says. "And Bernie, unlike many people on the left ... was never one to be disappointed by a good outcome."</p>   <p>After Sanders left Liberty Union, in the cold winter of 1980 and '81, snow piled on in Burlington.</p>   <p><strong>Burlington's Mayor</strong></p>   <p>Burlington in 1981 was a stratified city, geographically and economically. The wealthy neighborhoods sat atop a large hill, with views of the sun setting across Lake Champlain, behind New York's Adirondack Mountains.</p>   <p>In 1981, when Sanders was elected, the poorer of the city's almost 38,000 lived in wood-frame houses clustered at the foot of the hill, near the lake. This, Sugarman remembers, is what led to the plowing problems at the end of the winter in 1981.</p>   <p>"At that time, the plowing always went from the top of the hill to the bottom," Sugarman said. "And it would seem to be income based, frankly, at least to some extent."</p>   <p>Sugarman had noticed that as a third-party candidate running for governor, Sanders had done pretty well in the working-class sections of Burlington.</p>   <p>"I always thought he could win it," he said. "But I was the only one, including him, I believe."</p>   <p>Burlington at the time was a community in transition. A small town by national standards, it is Vermont's largest city. Major industry — including textile plants — had left the area. Its downtown shopping district was struggling to compete with a ring of suburban malls.</p>   <p>The city is now a cosmopolitan, gentrified enclave, home to a thriving high-tech industry. Some native Vermonters like to joke that the best thing about Burlington is that it's so close to Vermont.</p>   <p>But one part of the city that hasn't changed much in 35 years is City Hall Park, a small green space with a lawn scuffed bare and seagulls circling overhead.</p>   <p>Sitting on a park bench, former newspaper reporter Scott MacKay recalls a sleepy college town with a Democratic Party losing its near-total control over city government.</p>   <p>"A couple of things happened," MacKay recalls. "You had a mayor named Gordon Paquette, who wanted a last term. Now there were a lot of younger people in the Democratic Party who said he's over the hill; he's over. But they decided not to challenge him."</p>   <p>Paquette dismissed Sanders as the fringe candidate he had been when he ran those quixotic campaigns under the Liberty Union banner.</p>   <p>"They took Sanders for granted," MacKay says. "There was one quote, I'll never forget, that Mayor Paquette said, 'Oh, he's nothing, he just talks about the Rockefellers all the time.' "</p>   <p>...</p>   <p>"Bernie Sanders ran the city in a coalition with the Republicans," Sanders ally John Franco says. "You know, I tell that to people from out of state and they think I'm crazy."</p>   <p>Sanders worked during his first year without key staff to run the city.</p>   <p>"We had to do two city budgets with volunteers sitting around a kitchen table in a rented apartment," Franco says.</p>   <p>Those budgets got the attention of Republicans, who could appreciate the discipline Sanders brought to the city budget.</p>   <p>"Bernie's fiscal management and updating of city management and government had real attraction to the Republicans," Franco says. "The Democrats wouldn't deal with us at all. They were just so mad that we had beaten Gordon Paquette they wouldn't speak to us."</p>   <p>In Burlington, Sanders also learned the value of well-plowed streets and filling potholes. Businessman Pat Robins says Sanders brought a staff of professionals to City Hall.</p>   <p>"And they did a great job in fixing the city's finances, which were pretty shoddy at the time, quite frankly," Robins adds.</p>   <p>...</p>   <p>Sanders' four terms as mayor of Burlington gave him the name recognition needed for another statewide run.</p>   <p>In 1986, Sanders ran for governor and lost to the Democratic incumbent as well as the Republican, Peter Smith.</p>   <p>In 1988, Sanders faced Smith again, this time in a race for Vermont's one seat in the U.S. House of Representatives. Smith won, but the results this time were surprising; Sanders got more votes than the Democrat in the race, Paul Poirier.</p>   <p>In 1990 Sanders challenged Smith again. This time, the Democrats put up only token opposition, and Smith made some costly mistakes, including support for a ban on assault rifles.</p>   <p>Sanders then won the endorsement of the National Rifle Association.</p>   <p>"The NRA, the only time I think they ever endorsed him, said we'd rather have somebody who tells us the truth than somebody who lies to us," remembers Sanders' friend Gutman.</p>   <p><strong>Bernie Sanders Goes To Washington</strong></p>   <p>Smith also launched a series of negative ads late in the campaign including one accusing Sanders of favoring the communist Castro regime in Cuba. The strategy backfired.</p>   <p>In November 1990 a gleeful Sanders announced the results.</p>   <p><p data-disable-return="true">"We won a smashing victory in Rutland," Sanders said to a cheering crowd. "And if you can believe this, our friends in Windham County are giving us Brattleboro 2 to 1."</p>   <p>Sanders — who came of age in the era of the New Deal, overhearing worried parents fighting over money, who'd spent almost a decade in office pushing an agenda of social and economic justice and human rights — was going to Washington.</p>   <p><p data-disable-return="true">Once in Congress, Sanders again had to do some on-the-job training. He had never been a legislator, and in D.C., he had no party affiliation. At first Democrats refused to let him into their caucus. Later, after they lost control to the Republicans in 1995 under then-House Speaker Newt Gingrich, they decided they needed Sanders' vote.</p>   <p>Ever since, Sanders has caucused with the Democrats and earned seniority in the congressional system, even though he was not a member of either party.</p>   <p>In 2006, when Sanders ran for an open U.S. Senate seat, he pulled in more than twice as many votes as his opponent. In 2012, he was re-elected with 71 percent of the vote.</p>   <p><strong>An Independent In Congress</strong></p>   <p>It's a hot summer afternoon as Sanders jumps on the underground train that connects the Dirksen Senate Office Building with the Capitol. He's headed to the Senate chamber to cast a vote on one of the many bills he has considered during his career.</p>   <p>In Congress, Sanders has been known for, and worked hardest on, issues that have been close to him since his days in Brooklyn, Chicago and Burlington.</p>   <div id="res453965239" class="bucketwrap image large">
+            <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2015/11/02/becomingber-1444057429-84_custom-0b7f9244d5fcc1b447fc0665063a1a0df965c714-s1100-c15.jpg" data-original="https://media.npr.org/assets/img/2015/11/02/becomingber-1444057429-84_custom-0b7f9244d5fcc1b447fc0665063a1a0df965c714-s1100.jpg" class="img lazyOnLoad"  alt="While Bernie Sanders has a well-founded reputation for political consistency, there have been times when a pragmatic choice angers his supporters." loading="lazy" />
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+        </div>
+
+
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Aaron Shrewsbury/VPR
+        
+    </span>
+</div>
+   </div>
+   <p>Often, he has urged his colleagues to address the issue of income inequality.</p>   <p>In a 2006 Senate campaign debate, Sanders insisted that his plan to raise taxes on wealthy people was not an effort to penalize the rich.</p>   <p>"It's a question of creating a society in which all of us are in together, in which we take responsibility to make sure that all of our people have at least a minimal standard of living," he said. "Frankly, from both a moral and an economic perspective, giving tax breaks to millionaires and billionaires when so many people in our society are hurting is wrong."</p>   <p>On Dec. 10, 2010, Sanders' message of income inequality finally reached a national audience.</p>   <p>At 10:25 a.m., <a href="http://www.c-span.org/video/?297021-5/senator-sanders-filibuster" target="_blank">he rose to speak on the Senate floor</a>. The target: President Obama's plan to extend the Bush-era income tax cuts on everyone, including the wealthy. So many people tuned in to Sanders' filibuster that the Senate's Web servers crashed.</p>   <p>He didn't sit down until 7 p.m.</p>   <p>"We should be embarrassed that we are not investing in our infrastructure, that we're not breaking up these large financial institutions, that we're not putting a cap on interest rates," he said during the daylong speech. "That we are the only country in the world that does not have health care for all of their people in major countries. We should be embarrassed!"</p>   <p>Despite Sanders' lengthy oration, the tax package was overwhelmingly adopted and signed into law by President Obama.</p>   <p>...</p>   <p>Former NPR Political Director Ken Rudin now runs the Political Junkie Podcast. Rudin has reported on Congress for several decades.</p>   <p>"The years in the House, from '91 to 2006, he was seen as a gadfly," Rudin says of Sanders' early years in Washington. "Uncompromising, you know, played to his own tune. He seems to have done some kind of change since he came to the Senate."</p>   <p>As a senator, Rudin says, Sanders takes a serious approach to dealing with issues — unlike some former members of the chamber.</p>   <p>"They called Hubert Humphrey practicing 'the politics of joy.' There's no happy, there's no joy with Bernie Sanders," Rudin says. "The issues he cares about — he deeply cares about — are serious issues and he's not somebody who just takes the time to just schmooze. ... He doesn't know how long he has to accomplish what he wants to accomplish, and he's not about to waste any time."</p>   <p><strong>A 'Political Revolution' Presidential C</strong><strong>ampaign</strong></p>   <p>Sanders and his base aren't in agreement on every issue. Nor is their dialogue always civil. Sanders can get touchy with critics — even on the campaign trail.</p>   <p>In Phoenix this summer, when members of the Black Lives Matter movement disrupted his speech, Sanders was visibly irritated and tried to talk through their chanting.</p>   <p>In 2014, after the Israeli government sent troops into Gaza, things got heated at a town hall meeting in rural Cabot, Vt. Some members of the audience repeatedly interrupted Sanders, shouting at him about his stance on Israel.</p>   <div id="res454244269" class="bucketwrap image large">
+            <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2015/11/03/gettyimages-474806256_wide-1959bf41f93f54f625ecfdfc887f702c20406c21-s1100-c15.jpg" data-original="https://media.npr.org/assets/img/2015/11/03/gettyimages-474806256_wide-1959bf41f93f54f625ecfdfc887f702c20406c21-s1100.jpg" class="img lazyOnLoad"  alt="" loading="lazy" />
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2015/11/03/gettyimages-474806256_wide-1959bf41f93f54f625ecfdfc887f702c20406c21-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Announcing his presidential campaign before a crowd of around 5,500 people in May, Sanders  addressed "brothers and sisters" in the crowd and invoked "a political revolution."
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Win McNamee/Getty Images
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Win McNamee/Getty Images
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <img data-original="https://media.npr.org/assets/img/2015/11/03/gettyimages-474806256_wide-1959bf41f93f54f625ecfdfc887f702c20406c21-s1200.jpg" alt="" />
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption">Announcing his presidential campaign before a crowd of around 5,500 people in May, Sanders  addressed "brothers and sisters" in the crowd and invoked "a political revolution."</p>
+        <span class="credit" aria-label="Image credit">
+            
+            Win McNamee/Getty Images
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <p>The Burlington-based <a href="http://www.sevendaysvt.com/OffMessage/archives/2014/08/20/sanders-tells-disruptive-members-of-town-hall-meeting-crowd-to-shut-up" target="_blank">newspaper Seven Days reported</a> that the meeting became so tense that Sanders' Senate staff called the state police. State troopers responded and stayed for the rest of the meeting, but their presence didn't put a stop to the interruptions.</p>   <p>Sanders didn't evade questions about the conflict, though. When one activist pressed him to be harder on Israel for civilian casualties and because "Israel blockades, besieges and bombs a stateless people who are cut off from the world," Sanders began to describe the way he sees the situation.</p>   <p>As he delivered his answer, someone in the crowd cut him off, arguing with his characterization of the situation.</p>   <p>"OK, one second — now I don't want to be interrupted," Sanders said calmly. "The question was asked, it's a fair question, I'm trying to —" Sanders said before again being cut off by shouts from the audience. He tried to respond a few more times, but one man continued yelling.</p>   <p>Finally, Sanders snapped.</p>   <p>"Excuse me, shut up!" Sanders fired back. "You don't have the microphone."</p>   <p>Regina Troiano, who has known Sanders since his visits to Stannard, was at the meeting. She says she had never seen anything like that happen before.</p>   <p>"It was very upsetting," she says, "and in that situation the people were extremely rude. Mr. Sanders always takes questions and always answers people and he was speaking and they would not allow him to speak. It was rude."</p>   <p>Sanders' outburst was uncharacteristic — even for a senator with a reputation for being brusque. But friends and staff know Sanders isn't always patient.</p>   <p>"Well, I think he is impatient," says Gutman, Sanders' close friend.</p>   <p>Gutman says he learned long ago that with Sanders, he never has to say anything twice. That's because "he's a good listener," Gutman says, "and he gets impatient if I repeat it again."</p>   <p>Gutman says he thinks Sanders' impatience comes with his work ethic.</p>   <p>"He wants to move forward and get things done and he really doesn't want to hear people say the same thing over again," Gutman says. "That's because he hears it the first time. That's my sense."</p>   <p>...</p>   <p>Thirty-four years after he was elected mayor at the end of a snowy Burlington winter, Sen. Bernie Sanders stood under the beating sun on a May afternoon at the edge of Lake Champlain.</p>   <p>"Today," he said to thousands of supporters, "here in our small state — a state that has led the nation in so many ways — I am proud to announce my candidacy for president of the United States of America."</p>   <p>The words of the speech were characteristically energized, and they had that ring of radicalism; he addressed "brothers and sisters" in the crowd and invoked "a political revolution."</p>   <p><p data-disable-return="true">The lessons of social justice learned during childhood have stuck for a lifetime. The oratory of Eugene Debs seems to ring in Sanders' ears.</p>   <p>There have been compromises; the longtime independent chose to run as a Democrat. Hillary Clinton would use that, saying she is the "true" Democrat.</p>   <p>Sanders has not lost an election in more than a quarter-century, but the 74-year-old still isn't satisfied; the sense of social and economic justice he's held for so long has pushed him to try to win the biggest race of his life.</p>   <p><em>Read VPR's full story: </em><a href="http://projects.vpr.net/becoming-bernie" target="_blank">Becoming Bernie: His Rise And His Record</a><em> </em></p>
+</div>
+<div class="tags">
+      <ul>
+            <li><a class="tag tag--story" data-metrics='{"category":"story actions","action":"click tag"}' href="https://www.npr.org/tags/421134416/bernie-sanders">bernie sanders</a></li>
+   </ul>
+</div>
+
+<!-- END CLASS="TAGS" -->
+<div class="share-tools share-tools--secondary" aria-label="Share tools">
+      <ul>
+            <li class="share-tools__service share-tools__service--facebook"><button class="fbStory452912856" data-share-facebook='{"storyId": 452912856 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2015\/11\/03\/452912856\/becoming-bernie-the-6-chapters-of-sanders-life"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+      <li class="share-tools__service share-tools__service--twitter"><button class="story452912856" data-share-twitter='{"storyId": 452912856 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2015\/11\/03\/452912856\/becoming-bernie-the-6-chapters-of-sanders-life"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+      <li class="share-tools__service share-tools__service--flipboard"><button class="story452912856" data-share-flipboard='{"storyId": 452912856 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2015\/11\/03\/452912856\/becoming-bernie-the-6-chapters-of-sanders-life"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+      <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='452912856'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2015\/11\/03\/452912856\/becoming-bernie-the-6-chapters-of-sanders-life"}' ><b class="share-tools__service-name">Email</b></button></li>
+   </ul>
+</div>
+
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div id="newsletter-acquisition-callout-data" data-newsletter="{&quot;newsletterId&quot;:&quot;politics&quot;,&quot;title&quot;:&quot;Politics&quot;,&quot;marketingHeader&quot;:&quot;Sign Up For The NPR Politics Newsletter&quot;,&quot;frequency&quot;:&quot;every week&quot;,&quot;shortDescription&quot;:&quot;From the White House to your home \u2014 political news and analysis that matter, sent twice a week.&quot;,&quot;stickyDescription&quot;:&quot;Follow live debate coverage and election analysis by subscribing to the NPR Politics Newsletter.&quot;,&quot;contentImage&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2020\/08\/28\/npr-politics.png&quot;,&quot;staticMarkupDir&quot;:&quot; &quot;,&quot;brandingDir&quot;:&quot;\/branding\/sections\/politics\/&quot;,&quot;brandingLink&quot;:&quot;https:\/\/www.npr.org\/sections\/politics\/&quot;,&quot;organizationId&quot;:691,&quot;recaptchaSiteKey&quot;:&quot;6LfD6CYUAAAAAIBeUekwZ9KCjF4UyLFtu7NWNaEK&quot;}">
+   </div>
+
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;POLITICS&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;POLITICS&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE NPR POLITICS NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EVERY WEEK&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;FROM THE WHITE HOUSE TO YOUR HOME \U2014 POLITICAL NEWS AND ANALYSIS THAT MATTER, SENT TWICE A WEEK.&QUOT;,&QUOT;STICKYDESCRIPTION&QUOT;:&QUOT;FOLLOW LIVE DEBATE COVERAGE AND ELECTION ANALYSIS BY SUBSCRIBING TO THE NPR POLITICS NEWSLETTER.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2020\/08\/28\/NPR-POLITICS.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT; &QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/POLITICS\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/POLITICS\/&QUOT;,&QUOT;ORGANIZATIONID&QUOT;:691,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LFD6CYUAAAAAIBEUEKWZ9KCJF4UYLFTU7NWNAEK&QUOT;}" -->
+<div id="station-data" data-station="{&quot;id&quot;:&quot;691&quot;,&quot;name&quot;:&quot;Vermont Public Radio&quot;,&quot;abbr&quot;:&quot;VPR&quot;,&quot;donationUrl&quot;:&quot;https:\/\/donate.vpr.org\/?utm_source=npr.org&amp;utm_medium=referral&amp;utm_content=donate&amp;utm_campaign=stationstory&quot;,&quot;homepageUrl&quot;:&quot;https:\/\/www.vpr.org?utm_source=npr.org&amp;utm_medium=referral&amp;utm_content=website&amp;utm_campaign=stationstory&quot;}">
+   </div>
+
+<!-- END ID="STATION-DATA" DATA-STATION="{&QUOT;ID&QUOT;:&QUOT;691&QUOT;,&QUOT;NAME&QUOT;:&QUOT;VERMONT PUBLIC RADIO&QUOT;,&QUOT;ABBR&QUOT;:&QUOT;VPR&QUOT;,&QUOT;DONATIONURL&QUOT;:&QUOT;HTTPS:\/\/DONATE.VPR.ORG\/?UTM_SOURCE=NPR.ORG&AMP;UTM_MEDIUM=REFERRAL&AMP;UTM_CONTENT=DONATE&AMP;UTM_CAMPAIGN=STATIONSTORY&QUOT;,&QUOT;HOMEPAGEURL&QUOT;:&QUOT;HTTPS:\/\/WWW.VPR.ORG?UTM_SOURCE=NPR.ORG&AMP;UTM_MEDIUM=REFERRAL&AMP;UTM_CONTENT=WEBSITE&AMP;UTM_CAMPAIGN=STATIONSTORY&QUOT;}" -->
+<div id="podcast-callout-data" data-podcast="{&quot;name&quot;:&quot;The NPR Politics Podcast&quot;,&quot;itunesUrl&quot;:&quot;https:\/\/podcasts.apple.com\/podcast\/id1057255460?mt=2&amp;at=11l79Y&amp;ct=nprdirectory&quot;,&quot;googlePodcastsUrl&quot;:&quot;https:\/\/www.google.com\/podcasts?feed=aHR0cHM6Ly93d3cubnByLm9yZy9yc3MvcG9kY2FzdC5waHA_aWQ9NTEwMzEw&quot;,&quot;rssUrl&quot;:&quot;https:\/\/feeds.npr.org\/510310\/podcast.xml&quot;,&quot;jsonFeedUrl&quot;:&quot;https:\/\/feeds.npr.org\/feeds\/452912856\/feed.json&quot;,&quot;nprOneUniversalUrl&quot;:&quot;https:\/\/rpb3r.app.goo.gl\/XDGl&quot;,&quot;amazonAlexaUrl&quot;:&quot;&quot;,&quot;pocketCastsUrl&quot;:&quot;https:\/\/pca.st\/npr-politics&quot;,&quot;spotifyUrl&quot;:&quot;https:\/\/open.spotify.com\/show\/2PnWnDNwU3wKesCHCpy252&quot;,&quot;brandingUrl&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2019\/05\/07\/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6.jpg&quot;}">
+   </div>
+
+<!-- END ID="PODCAST-CALLOUT-DATA" DATA-PODCAST="{&QUOT;NAME&QUOT;:&QUOT;THE NPR POLITICS PODCAST&QUOT;,&QUOT;ITUNESURL&QUOT;:&QUOT;HTTPS:\/\/PODCASTS.APPLE.COM\/PODCAST\/ID1057255460?MT=2&AMP;AT=11L79Y&AMP;CT=NPRDIRECTORY&QUOT;,&QUOT;GOOGLEPODCASTSURL&QUOT;:&QUOT;HTTPS:\/\/WWW.GOOGLE.COM\/PODCASTS?FEED=AHR0CHM6LY93D3CUBNBYLM9YZY9YC3MVCG9KY2FZDC5WAHA_AWQ9NTEWMZEW&QUOT;,&QUOT;RSSURL&QUOT;:&QUOT;HTTPS:\/\/FEEDS.NPR.ORG\/510310\/PODCAST.XML&QUOT;,&QUOT;JSONFEEDURL&QUOT;:&QUOT;HTTPS:\/\/FEEDS.NPR.ORG\/FEEDS\/452912856\/FEED.JSON&QUOT;,&QUOT;NPRONEUNIVERSALURL&QUOT;:&QUOT;HTTPS:\/\/RPB3R.APP.GOO.GL\/XDGL&QUOT;,&QUOT;AMAZONALEXAURL&QUOT;:&QUOT;&QUOT;,&QUOT;POCKETCASTSURL&QUOT;:&QUOT;HTTPS:\/\/PCA.ST\/NPR-POLITICS&QUOT;,&QUOT;SPOTIFYURL&QUOT;:&QUOT;HTTPS:\/\/OPEN.SPOTIFY.COM\/SHOW\/2PNWNDNWU3WKESCHCPY252&QUOT;,&QUOT;BRANDINGURL&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2019\/05\/07\/THE-NPR-POLITICS-PODCAST_FINAL_SQ-ECDD1508BE24F14C6B6EE98E6627CBF2BE192EA6.JPG&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+   </div>
+
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<aside id="end-of-story-recommendations-mount" class="recommended-stories" aria-label="recommended stories"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><header class="contentheader contentheader--two" data-metrics='{"category":"Politics"}' ></header><footer id="npr-footer" class="npr-footer" role="contentinfo" aria-label="NPR footer"><div class="npr-footer__content" data-metrics-category="Global Footer" data-metrics-label="Footer">
+    <div class="npr-footer__module-group">
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Read &amp; Listen</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/" data-metrics-action="Click Homepage">Home</a></li>
+                <li class="npr-footer__item"><a href="/sections/news/" data-metrics-action="Click News">News</a></li>
+                <li class="npr-footer__item"><a href="/sections/arts/" data-metrics-action="Click Arts &amp; Life">Arts &amp; Life</a></li>
+                <li class="npr-footer__item"><a href="/music/" data-metrics-action="Click Music">Music</a></li>
+                <li class="npr-footer__item"><a href="/podcasts/" data-metrics-action="Click Podcasts">Podcasts</a></li>
+                <li class="npr-footer__item"><a href="/programs/" data-metrics-action="Click Programs">Programs</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Connect</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/newsletters/" data-metrics-action="Click Newsletters">Newsletters</a></li>
+                <li class="npr-footer__item"><a href="https://www.facebook.com/NPR/" data-metrics-action="Click Facebook">Facebook</a></li>
+                <li class="npr-footer__item"><a href="https://twitter.com/NPR" data-metrics-action="Click Twitter">Twitter</a></li>
+                <li class="npr-footer__item"><a href="https://www.instagram.com/npr/" data-metrics-action="Click Instagram">Instagram</a></li>
+                <li class="npr-footer__item"><a href="https://www.npr.org/contact" data-metrics-action="Click Contact">Contact</a></li>
+                <li class="npr-footer__item"><a href="https://help.npr.org" data-metrics-action="Click Help">Help</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">About NPR</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/about/" data-metrics-action="Click Overview">Overview</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="Click Finances">Finances</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/179803822/people-at-npr" data-metrics-action="Click People">People</a></li>
+                <li class="npr-footer__item"><a href="/press/" data-metrics-action="Click Press">Press</a></li>
+                <li class="npr-footer__item"><a href="/sections/publiceditor/" data-metrics-action="Click Public Editor">Public Editor</a></li>
+                <li class="npr-footer__item"><a href="/corrections/" data-metrics-action="Click Corrections">Corrections</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Get Involved</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/support/" data-metrics-action="Click Support Public Radio">Support Public Radio</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="Click Sponsor NPR">Sponsor NPR</a></li>
+                <li class="npr-footer__item"><a href="/careers/" data-metrics-action="Click NPR Careers">NPR Careers</a></li>
+                <li class="npr-footer__item"><a href="https://shop.npr.org/" data-metrics-action="Click NPR Shop">NPR Shop</a></li>
+                <li class="npr-footer__item"><a href="https://www.nprpresents.org" data-metrics-action="Click NPR Events">NPR Events</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/177066727/visit-npr" data-metrics-action="Click Visit NPR">Visit NPR</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="npr-footer__module npr-footer__module--secondary">
+        <ul>
+            <li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use" data-metrics-action="Click Terms of Use">Terms of Use</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy" data-metrics-action="Click Privacy">Privacy</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices" data-metrics-action="Click Your Privacy Choices">Your Privacy Choices</a></li>
+            <li class="npr-footer__item"><a href="https://text.npr.org/" data-metrics-action="Click Text Only">Text Only</a></li>
+            <li class="npr-footer__item"><span class="copy-year"></span></li>
+        </ul>
+    </div>
+</div></footer><div id="global-stickybar-mount" class="global-stickybar-mount">
+   </div>
+</section>   <div id="main-sidebar">
+            <aside id="ad-standard-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-standard-News_Politics" class="ad-standard" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"zone":"News_Politics","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"452912856"},"location":"standard","deferred":false,"isBetweenContent":false,"isAggSponsorship":false,"borderClass":""}'></div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+
+</aside>
+   </div>
+   
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<section id="global-modal-mount"></section>
+<!-- END ID="GLOBAL-MODAL-MOUNT" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { webpackJsonp([77,23],{0:function(n,t,c){n.exports=c(1914)},1914:function(n,t,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,function(){var n=2,t=function(){--n<1&&function(n){c(40),c(2321),c(268),c(378),c(215),c(1499),c(650),c(384),c(2326),c(383),c(2325),c(2324),c(440),c(2319),c(1649),c(2312),c(259)}(c)}.bind(this);c.e(0,t),c.e(3,t)}.call(this)}}); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main><noscript><iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe></noscript><script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = '18888';
+    _sf_async_config.domain = NPR.ServerConstants.cbHost;
+    _sf_async_config.useCanonical = true;
+
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            // Wait until the metric for chartbeat have been setup
+            // in templates/javascript/metrics/chartbeat.js
+            if( !!NPR.ChartbeatLoaded) {
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            } else {
+                setTimeout(loadChartbeat, 1000);
+            }
+        }
+
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+            oldonload();
+            window._sf_endpt = (new Date()).getTime();
+            loadChartbeat();
+        };
+    })();
+</script></body></html>

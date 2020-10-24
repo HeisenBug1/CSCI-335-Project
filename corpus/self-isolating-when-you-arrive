@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en">
+<!--<![endif]-->
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="og:description" content="UK border control - passport checks, visas for entering, customs, transiting and layovers.">
+<meta property="og:title" content="Entering the UK">
+<meta property="og:url" content="https://www.gov.uk/uk-border-control/self-isolating-when-you-arrive">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GOV.UK">
+<meta name="twitter:card" content="summary">
+<meta name="description" content="UK border control - passport checks, visas for entering, customs, transiting and layovers.">
+<meta name="govuk:taxon-slugs" content="coming-to-uk,international-travel-immigration-repatriation">
+<meta name="govuk:taxon-slug" content="coming-to-uk">
+<meta name="govuk:taxon-ids" content="ff8f4cd7-05dd-4478-b37b-a9dcd984a810,c7dbc2d2-d070-4315-952a-fb77faa78021">
+<meta name="govuk:taxon-id" content="ff8f4cd7-05dd-4478-b37b-a9dcd984a810">
+<meta name="govuk:themes" content="coronavirus-taxon, money">
+<meta name="govuk:analytics:organisations" content="&lt;OT535&gt;&lt;D25&gt;&lt;OT718&gt;&lt;OT554&gt;">
+<meta name="govuk:content-id" content="435fb04f-2b9f-4f44-8b41-2a962e8c46a8">
+<meta name="govuk:schema-name" content="guide">
+<meta name="govuk:publishing-application" content="publisher">
+<meta name="govuk:format" content="guide">
+<meta name="csrf-token" content="/RsNMyCME+Zs88SrboaWfnZ7s2OS5UrzzuXhuQ1Qzv0dw9jIRcs59lDGL8zTKhOXF3W48AX3Zvha4ahrmoKZtQ==">
+<meta name="csrf-param" content="authenticity_token">
+    <meta charset="utf-8">
+    <title lang="en">
+      Entering the UK: Self-isolating when you arrive in the UK - GOV.UK
+  </title>
+
+    <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://www.gov.uk/assets/static/govuk-template-3e3f4a131aca72f9b2e458dfd318f65420aef6ada35539243aac38ebbbbcc64f.css">
+<!--<![endif]-->
+    <!--[if IE 8]><link rel="stylesheet" media="screen" href="https://www.gov.uk/assets/static/govuk-template-ie8-e4fff1a2ce0e93e66e96db6eedae992a3859b1e608aa46bd3e42ac30f61c58ac.css" /><![endif]-->
+    <link rel="stylesheet" media="print" href="https://www.gov.uk/assets/static/govuk-template-print-1076519521c2fffbbf75ab3b0d3b32ee2d96ac7e9778f1cdfac1771eefd1a1c0.css">
+
+    <link rel="stylesheet" media="all" href="https://www.gov.uk/assets/static/fonts-c57ab80a95f2b1764162611b3c98a4c098b356f8e30baf1e50cd63edea464c01.css">
+    <!--[if lt IE 9]><script src="https://www.gov.uk/assets/static/ie-a4524544a53d57a7e259b4bb966b9c32557c98c920b77e52d09304642b68401a.js"></script><![endif]-->
+
+    <link rel="shortcut icon" href="https://www.gov.uk/assets/static/favicon-8d811b8c3badbc0b0e2f6e25d3660a96cc0cca7993e6f32e98785f205fc40907.ico" type="image/x-icon">
+    <link rel="mask-icon" href="https://www.gov.uk/assets/static/gov.uk_logotype_crown-de738c3fcce8ce2a91b67e89787090dc24a5cda0275ab6b75f6226c5b9619d3d.svg" color="#0b0c0c">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.gov.uk/assets/static/apple-touch-icon-180x180-ea1cbb1cbbeddfff275dfa6e8e46b84cd530892df79dc4882a8f99b802b49a90.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="https://www.gov.uk/assets/static/apple-touch-icon-167x167-181e404a50c572923285fb83f0fbd78da6b4e38e3ce52f8e6b8e29da8586450a.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.gov.uk/assets/static/apple-touch-icon-152x152-02457fcdcee8d309276305af2233d41bfb8fd055e855727d355e61bce7ffa9bb.png">
+    <link rel="apple-touch-icon" href="https://www.gov.uk/assets/static/apple-touch-icon-a318f305290c523aed80082456175b46c95350c0eeac93f42e78a71c7a55544e.png">
+
+    <meta name="theme-color" content="#0b0c0c">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <link rel="stylesheet" media="screen" href="https://www.gov.uk/assets/static/core-layout-eb993f3501687bb8c3e07f7f33072f12b3ff23939b2698f05c2c5e44c83c82bf.css">
+<!--[if lte IE 8]><link rel="stylesheet" media="screen" href="https://www.gov.uk/assets/static/core-layout-ie8-773f4cacc5b2d19e924e37800dca2a1e66acd94c661e1cd95a8a165021bdc667.css" /><script>var ieVersion = 8;</script><![endif]-->
+
+<link rel="stylesheet" media="print" href="https://www.gov.uk/assets/static/core-layout-print-3fdeab3ac38fc5d3fd58bd88c6c7e409e22288fc9b9914ee5f852df4743df105.css">
+
+
+
+    <meta property="og:image" content="https://www.gov.uk/assets/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
+  <link rel="stylesheet" media="screen" href="/assets/government-frontend/application-26548c6c09fad14cd472966685af536046f00b1ac0a0e79695e9d0af8d61f0a7.css">
+<link rel="stylesheet" media="print" href="/assets/government-frontend/print-0f1ddfe43860cee8af71ac679a95122a9fe14242c09afc1b3cb7ef0cdd8cf3a7.css">
+<link rel="canonical" href="https://www.gov.uk/uk-border-control/self-isolating-when-you-arrive">
+<meta name="govuk:rendering-application" content="government-frontend">
+</head>
+
+  <body>
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+
+    
+
+    <div id="skiplink-container">
+      <div>
+        <a href="#content" class="skiplink govuk-link">Skip to main content</a>
+      </div>
+    </div>
+
+    
+<div id="global-cookie-message" class="gem-c-cookie-banner govuk-clearfix" data-module="cookie-banner" role="region" aria-label="cookie banner" data-nosnippet>
+  <div class="gem-c-cookie-banner__wrapper govuk-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        <div class="gem-c-cookie-banner__message">
+          <h2 class="govuk-heading-m">Tell us whether you accept cookies</h2>
+          <p class="govuk-body">We use <a class="govuk-link" href="/help/cookies">cookies to collect information</a> about how you use GOV.UK. We use this information to make the website work as well as possible and improve government services.</p>
+        </div>
+          <div class="gem-c-cookie-banner__buttons">
+            <div class="gem-c-cookie-banner__button gem-c-cookie-banner__button-accept govuk-grid-column-full govuk-grid-column-one-half-from-desktop">
+              
+
+
+  <button class="gem-c-button govuk-button gem-c-button--inline" type="submit" data-module="track-click" data-accept-cookies="true" data-track-category="cookieBanner" data-track-action="Cookie banner accepted">Accept all cookies</button>
+
+
+            </div>
+            <div class="gem-c-cookie-banner__button gem-c-cookie-banner__button-settings govuk-grid-column-full govuk-grid-column-one-half-from-desktop">
+              
+
+
+  <a class="gem-c-button govuk-button gem-c-button--inline" role="button" data-module="track-click" data-track-category="cookieBanner" data-track-action="Cookie banner settings clicked" href="/help/cookies">Set cookie preferences</a>
+
+
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="gem-c-cookie-banner__confirmation govuk-width-container" tabindex="-1">
+    <p class="gem-c-cookie-banner__confirmation-message" role="alert">You’ve accepted all cookies. You can <a class="govuk-link" href="/help/cookies" data-module="track-click" data-track-category="cookieBanner" data-track-action="Cookie banner settings clicked from confirmation">change your cookie settings</a> at any time.</p>
+    <button class="gem-c-cookie-banner__hide-button" data-hide-cookie-banner="true" data-module="track-click" data-track-category="cookieBanner" data-track-action="Hide cookie banner">Hide</button>
+  </div>
+</div>
+
+
+    <header role="banner" id="global-header" class="">
+      <div class="header-wrapper">
+        <div class="header-global">
+          <div class="header-logo">
+            <a href="https://www.gov.uk" title="Go to the GOV.UK homepage" class="content govuk-header__link govuk-header__link--homepage" id="logo" data-module="track-click" data-track-category="homeLinkClicked" data-track-action="homeHeader">
+              <span class="govuk-header__logotype">
+                <svg aria-hidden="true" focusable="false" class="govuk-header__logotype-crown" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 132 97" height="30" width="36">
+                  <path fill="currentColor" fill-rule="evenodd" d="M25 30.2c3.5 1.5 7.7-.2 9.1-3.7 1.5-3.6-.2-7.8-3.9-9.2-3.6-1.4-7.6.3-9.1 3.9-1.4 3.5.3 7.5 3.9 9zM9 39.5c3.6 1.5 7.8-.2 9.2-3.7 1.5-3.6-.2-7.8-3.9-9.1-3.6-1.5-7.6.2-9.1 3.8-1.4 3.5.3 7.5 3.8 9zM4.4 57.2c3.5 1.5 7.7-.2 9.1-3.8 1.5-3.6-.2-7.7-3.9-9.1-3.5-1.5-7.6.3-9.1 3.8-1.4 3.5.3 7.6 3.9 9.1zm38.3-21.4c3.5 1.5 7.7-.2 9.1-3.8 1.5-3.6-.2-7.7-3.9-9.1-3.6-1.5-7.6.3-9.1 3.8-1.3 3.6.4 7.7 3.9 9.1zm64.4-5.6c-3.6 1.5-7.8-.2-9.1-3.7-1.5-3.6.2-7.8 3.8-9.2 3.6-1.4 7.7.3 9.2 3.9 1.3 3.5-.4 7.5-3.9 9zm15.9 9.3c-3.6 1.5-7.7-.2-9.1-3.7-1.5-3.6.2-7.8 3.7-9.1 3.6-1.5 7.7.2 9.2 3.8 1.5 3.5-.3 7.5-3.8 9zm4.7 17.7c-3.6 1.5-7.8-.2-9.2-3.8-1.5-3.6.2-7.7 3.9-9.1 3.6-1.5 7.7.3 9.2 3.8 1.3 3.5-.4 7.6-3.9 9.1zM89.3 35.8c-3.6 1.5-7.8-.2-9.2-3.8-1.4-3.6.2-7.7 3.9-9.1 3.6-1.5 7.7.3 9.2 3.8 1.4 3.6-.3 7.7-3.9 9.1zM69.7 17.7l8.9 4.7V9.3l-8.9 2.8c-.2-.3-.5-.6-.9-.9L72.4 0H59.6l3.5 11.2c-.3.3-.6.5-.9.9l-8.8-2.8v13.1l8.8-4.7c.3.3.6.7.9.9l-5 15.4v.1c-.2.8-.4 1.6-.4 2.4 0 4.1 3.1 7.5 7 8.1h.2c.3 0 .7.1 1 .1.4 0 .7 0 1-.1h.2c4-.6 7.1-4.1 7.1-8.1 0-.8-.1-1.7-.4-2.4V34l-5.1-15.4c.4-.2.7-.6 1-.9zM66 92.8c16.9 0 32.8 1.1 47.1 3.2 4-16.9 8.9-26.7 14-33.5l-9.6-3.4c1 4.9 1.1 7.2 0 10.2-1.5-1.4-3-4.3-4.2-8.7L108.6 76c2.8-2 5-3.2 7.5-3.3-4.4 9.4-10 11.9-13.6 11.2-4.3-.8-6.3-4.6-5.6-7.9 1-4.7 5.7-5.9 8-.5 4.3-8.7-3-11.4-7.6-8.8 7.1-7.2 7.9-13.5 2.1-21.1-8 6.1-8.1 12.3-4.5 20.8-4.7-5.4-12.1-2.5-9.5 6.2 3.4-5.2 7.9-2 7.2 3.1-.6 4.3-6.4 7.8-13.5 7.2-10.3-.9-10.9-8-11.2-13.8 2.5-.5 7.1 1.8 11 7.3L80.2 60c-4.1 4.4-8 5.3-12.3 5.4 1.4-4.4 8-11.6 8-11.6H55.5s6.4 7.2 7.9 11.6c-4.2-.1-8-1-12.3-5.4l1.4 16.4c3.9-5.5 8.5-7.7 10.9-7.3-.3 5.8-.9 12.8-11.1 13.8-7.2.6-12.9-2.9-13.5-7.2-.7-5 3.8-8.3 7.1-3.1 2.7-8.7-4.6-11.6-9.4-6.2 3.7-8.5 3.6-14.7-4.6-20.8-5.8 7.6-5 13.9 2.2 21.1-4.7-2.6-11.9.1-7.7 8.8 2.3-5.5 7.1-4.2 8.1.5.7 3.3-1.3 7.1-5.7 7.9-3.5.7-9-1.8-13.5-11.2 2.5.1 4.7 1.3 7.5 3.3l-4.7-15.4c-1.2 4.4-2.7 7.2-4.3 8.7-1.1-3-.9-5.3 0-10.2l-9.5 3.4c5 6.9 9.9 16.7 14 33.5 14.8-2.1 30.8-3.2 47.7-3.2z">
+                  </path>
+                  <image src="https://www.gov.uk/assets/static/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" xlink:href="" class="govuk-header__logotype-crown-fallback-image" width="36" height="32">
+                  </image>
+                </svg>
+                <span class="govuk-header__logotype-text">
+                  GOV.UK
+                </span>
+              </span>
+            </a>
+          </div>
+            <button class="search-toggle js-header-toggle" data-search-toggle-for="search">Show or hide search</button>
+  <form id="search" class="site-search govuk-clearfix" action="/search" method="get" role="search" aria-label="Sitewide">
+    <div class="content govuk-clearfix">
+      <label for="site-search-text">Search on GOV.UK</label>
+      <input type="search" name="q" id="site-search-text" title="Search" class="js-search-focus">
+      <input class="submit" type="submit" value="Search">
+    </div>
+  </form>
+
+        </div>
+        
+      </div>
+    </header>
+
+      <div id="user-satisfaction-survey-container"></div>
+
+
+    <div id="global-header-bar"></div>
+
+      
+  <!--[if gt IE 7]><!-->
+  <div id="global-bar" class="global-bar dont-print" data-module="global-bar" data-global-bar-permanent="true" data-nosnippet>
+    <div class="global-bar-message govuk-width-container">
+
+
+        <div class="global-bar-covid-wrapper">
+            <div class="gem-c-action-link gem-c-action-link--light-text gem-c-action-link--simple-light gem-c-action-link--with-subtext govuk-!-margin-bottom-3">
+
+      <span class="gem-c-action-link__contents-wrapper">      <span class="gem-c-action-link__link-wrapper">
+
+          <a class="govuk-link gem-c-action-link__link js-call-to-action" href="/coronavirus">
+                      Coronavirus (COVID-19)
+          
+
+</a>      </span>
+
+        <span class="gem-c-action-link__subtext-wrapper">
+            <span class="gem-c-action-link__subtext">Guidance and support</span>
+        </span>
+</span>
+  </div>
+
+
+            <div class="gem-c-action-link gem-c-action-link--light-text gem-c-action-link--simple-light gem-c-action-link--with-subtext govuk-!-margin-bottom-0">
+
+      <span class="gem-c-action-link__contents-wrapper">      <span class="gem-c-action-link__link-wrapper">
+
+          <a class="govuk-link gem-c-action-link__link js-call-to-action" href="/transition">
+                      The UK and EU transition
+          
+
+</a>      </span>
+
+        <span class="gem-c-action-link__subtext-wrapper">
+            <span class="gem-c-action-link__subtext">Take action now for new rules in 2021</span>
+        </span>
+</span>
+  </div>
+
+        </div>
+    </div>
+
+  </div>
+  <!--<![endif]-->
+
+
+  <div id="wrapper" class="direction-ltr">
+
+        
+<div class="gem-c-contextual-breadcrumbs">
+    
+
+
+<div class="gem-c-breadcrumbs govuk-breadcrumbs govuk-breadcrumbs--collapse-on-mobile" data-module="track-click">
+  <ol class="govuk-breadcrumbs__list">
+        <li class="govuk-breadcrumbs__list-item">
+          <a data-track-category="homeLinkClicked" data-track-action="homeBreadcrumb" data-track-label="" data-track-options="{}" class="govuk-breadcrumbs__link" href="/">Home</a>
+        </li>
+        <li class="govuk-breadcrumbs__list-item">
+          <a data-track-category="breadcrumbClicked" data-track-action="2" data-track-label="/browse/visas-immigration" data-track-options='{"dimension28":"3","dimension29":"Visas and immigration"}' class="govuk-breadcrumbs__link" href="/browse/visas-immigration">Visas and immigration</a>
+        </li>
+        <li class="govuk-breadcrumbs__list-item">
+          <a data-track-category="breadcrumbClicked" data-track-action="3" data-track-label="/browse/visas-immigration/arriving-in-the-uk" data-track-options='{"dimension28":"3","dimension29":"Travelling to the UK"}' class="govuk-breadcrumbs__link" href="/browse/visas-immigration/arriving-in-the-uk">Travelling to the UK</a>
+        </li>
+  </ol>
+</div>
+
+
+  
+</div>
+
+
+    <main role="main" id="content" class="guide" lang="en">
+      
+
+
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
+  <h1 class="gem-c-title__text ">
+    Entering the UK
+  </h1>
+</div>
+
+      <a class="gem-c-skip-link govuk-skip-link" href="#guide-contents">Skip to contents of guide</a>
+
+      <aside class="part-navigation-container" role="complementary">
+          <nav class="gem-c-contents-list " aria-label="Pages in this guide" role="navigation" data-module="track-click">
+      <h2 class="gem-c-contents-list__title">
+        Contents
+</h2>
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="/uk-border-control" data-track-options='{"dimension29":"Overview"}' href="/uk-border-control">Overview</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="/uk-border-control/before-you-leave-for-the-uk" data-track-options='{"dimension29":"Before you leave for the UK"}' href="/uk-border-control/before-you-leave-for-the-uk">Before you leave for the UK</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="/uk-border-control/at-border-control" data-track-options='{"dimension29":"At border control"}' href="/uk-border-control/at-border-control">At border control</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="/uk-border-control/baggage-checks" data-track-options='{"dimension29":"Baggage checks"}' href="/uk-border-control/baggage-checks">Baggage checks</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed">
+          <a class="gem-c-contents-list__link govuk-link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="/uk-border-control/layovers-and-transiting" data-track-options='{"dimension29":"Layovers and transiting through a UK airport"}' href="/uk-border-control/layovers-and-transiting">Layovers and transiting through a UK airport</a>
+
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed gem-c-contents-list__list-item--active" aria-current="true">
+          Self-isolating when you arrive in the UK
+
+        </li>
+    </ol>
+</nav>
+      </aside>
+  </div>
+
+  <div class="govuk-grid-column-two-thirds" id="guide-contents">
+        <h1 class="part-title">
+          Self-isolating when you arrive in the UK
+        </h1>
+
+      
+<div class="gem-c-govspeak govuk-govspeak direction-ltr disable-youtube" data-module="govspeak">
+      <p>You need to self-isolate in the place you’re staying for the first 14 days after you arrive, unless you’ve only visited an exempt country, territory or region. This is because of coronavirus (COVID-19).</p>
+
+<div role="note" aria-label="Warning" class="application-notice help-notice">
+<p>You may be fined up to £10,000 if you do not self-isolate. You can be prosecuted if you do not pay the fine on time.</p>
+</div>
+
+<p>The government will use the details you provide in the <a href="/provide-journey-contact-details-before-travel-uk">passenger locator form</a> to check you’re self-isolating.</p>
+
+<div role="note" aria-label="Information" class="application-notice info-notice">
+<p>There are different self-isolation rules and penalties if you’re travelling to <a rel="external" href="https://www.gov.scot/publications/coronavirus-covid-19-public-health-checks-at-borders/pages/overview/">Scotland</a>, <a rel="external" href="https://gov.wales/exemptions-self-isolation-coronavirus-covid-19-html">Wales</a> or <a rel="external" href="https://www.nidirect.gov.uk/articles/coronavirus-covid-19-travel-advice">Northern Ireland</a>.</p>
+</div>
+
+<h2 id="when-you-do-not-need-to-self-isolate-exempt-countries-territories-and-regions">When you do not need to self-isolate (exempt countries, territories and regions)</h2>
+
+<p>You do not need to self-isolate in England if you’re travelling from:</p>
+
+<ul>
+  <li>a country, territory or region on the <a href="/guidance/coronavirus-covid-19-travel-corridors">‘travel corridors’ list</a>
+</li>
+  <li>Ireland</li>
+  <li>the Channel Islands or the Isle of Man</li>
+</ul>
+
+<p>You must have spent the last 14 days in one of these places, or the UK.</p>
+
+<h2 id="if-you-visit-or-stop-somewhere-that-is-not-exempt">If you visit or stop somewhere that is not exempt</h2>
+
+<p>You’ll need to self-isolate when you arrive in England if you visit somewhere that is not exempt in the 14 days before you arrive. You’ll need to self-isolate for up to 14 days - the exact number of days depends on when you left the non-exempt country, territory or region.</p>
+
+<div class="example">
+<p><strong>Example</strong> You spend 2 days in an exempt country after you leave the non-exempt country and before you travel to England. You will only need to self-isolate for 12 days when you arrive in England.</p>
+</div>
+
+<h3 id="making-a-transit-stop">Making a ‘transit stop’</h3>
+<p>Visiting includes making a ‘transit stop’ as part of your coach, ferry, train or plane journey, where passengers can get on or off.</p>
+
+<p>If you make a transit stop in a non-exempt country, territory or region, you’ll only need to self-isolate if either:</p>
+
+<ul>
+  <li>new passengers get on</li>
+  <li>you or other passengers get off and back on again</li>
+</ul>
+
+<p>You’ll need to self-isolate for 14 days from the date you left the non-exempt country, territory or region.</p>
+
+<h2 id="if-youre-travelling-as-part-of-your-job">If you’re travelling as part of your job</h2>
+<p>You might not need to self-isolate if you travel as part of your job. <a href="/government/publications/coronavirus-covid-19-travellers-exempt-from-uk-border-rules">Read the guidance about who does not need to self-isolate</a>.</p>
+
+</div>
+
+
+        <nav class="gem-c-pagination" role="navigation" aria-label="Pagination">
+  <ul class="gem-c-pagination__list" data-module="track-click">
+      <li class="gem-c-pagination__item gem-c-pagination__item--previous">
+        <a href="/uk-border-control/layovers-and-transiting" class="gem-c-pagination__link" rel="prev" data-track-category="contentsClicked" data-track-action="previous" data-track-label="/uk-border-control/layovers-and-transiting" data-track-dimension="previous" data-track-dimension-index="29">
+          <span class="gem-c-pagination__link-title">
+            <svg class="gem-c-pagination__link-icon" xmlns="http://www.w3.org/2000/svg" height="13" width="17" viewbox="0 0 17 13">
+              <path d="m6.5938-0.0078125-6.7266 6.7266 6.7441 6.4062 1.377-1.449-4.1856-3.9768h12.896v-2h-12.984l4.2931-4.293-1.414-1.414z"></path>
+            </svg>
+            <span class="gem-c-pagination__link-text">
+              Previous
+            </span>
+          </span>
+            <span class="gem-c-pagination__link-divider visually-hidden">:</span>
+            <span class="gem-c-pagination__link-label">Layovers and transiting through a UK airport</span>
+        </a>
+      </li>
+  </ul>
+</nav>
+
+        
+  <div class="gem-c-print-link gem-c-print-link--show-without-js">
+    <a class="govuk-link gem-c-print-link__link govuk-link--no-visited-state" rel="alternate" data-module="button" role="button" href="/uk-border-control/print">Print entire guide</a>
+  </div>
+
+  </div>
+
+  
+<div class="govuk-grid-column-one-third">
+  
+<div class="gem-c-contextual-sidebar">
+
+
+    
+  <div class="gem-c-related-navigation">
+
+      <h2 id="related-nav-related_items-1248c04a" class="gem-c-related-navigation__main-heading" data-track-count="sidebarRelatedItemSection">
+        Related content
+      </h2>
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-related_items-1248c04a" data-module="gem-toggle">
+
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/airport-rights" data-track-options='{"dimension28":"7","dimension29":"Your rights at the airport"}' href="/airport-rights">Your rights at the airport</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.2 Related content" data-track-label="/duty-free-goods" data-track-options='{"dimension28":"7","dimension29":"Bringing goods into the UK"}' href="/duty-free-goods">Bringing goods into the UK</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.3 Related content" data-track-label="/bringing-cash-into-uk" data-track-options='{"dimension28":"7","dimension29":"Take cash in and out of the UK"}' href="/bringing-cash-into-uk">Take cash in and out of the UK</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.4 Related content" data-track-label="/bringing-food-animals-plants-into-uk" data-track-options='{"dimension28":"7","dimension29":"Bringing food, animals or plants into the UK"}' href="/bringing-food-animals-plants-into-uk">Bringing food, animals or plants into the UK</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.5 Related content" data-track-label="/hand-luggage-restrictions" data-track-options='{"dimension28":"7","dimension29":"Hand luggage restrictions at UK airports"}' href="/hand-luggage-restrictions">Hand luggage restrictions at UK airports</a></li>
+
+      <li class="gem-c-related-navigation__link toggle-wrap">
+        <a href="#" class="gem-c-related-navigation__toggle" data-controls="toggle_related_items" data-expanded="false" data-toggled-text="Show fewer">
+          + 2 more
+        </a>
+      </li>
+
+      <li class="gem-c-related-navigation__link gem-c-related-navigation__link--truncated-links">
+        <span id="toggle_related_items" class="gem-c-related-navigation__toggle-more js-hidden">
+          <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.6 Related content" data-track-label="/registered-traveller" data-track-options='{"dimension28":"7","dimension29":"Registered Traveller: faster entry through the UK border"}' href="/registered-traveller">Registered Traveller: faster entry through the UK border</a> and <a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar gem-c-related-navigation__section-link--inline  gem-c-related-navigation__section-link--other" data-track-category="relatedLinkClicked" data-track-action="1.7 Related content" data-track-label="/check-uk-visa" data-track-options='{"dimension28":"7","dimension29":"Check if you need a UK visa"}' href="/check-uk-visa">Check if you need a UK visa</a>
+        </span>
+      </li>
+  </ul>
+</nav>
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-collections-1248c04a" data-module="gem-toggle">
+
+    <h3 id="related-nav-collections-1248c04a" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--sidebar" data-track-count="sidebarRelatedItemSection">Collection</h3>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.1 Collection" data-track-label="/government/collections/coronavirus-covid-19-immigration-and-borders" data-track-options='{"dimension28":"2","dimension29":"Coronavirus (COVID-19): immigration and borders"}' href="/government/collections/coronavirus-covid-19-immigration-and-borders">Coronavirus (COVID-19): immigration and borders</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--sidebar" data-track-category="relatedLinkClicked" data-track-action="2.2 Collection" data-track-label="/government/collections/coronavirus-covid-19-transport-and-travel-guidance" data-track-options='{"dimension28":"2","dimension29":"Coronavirus (COVID-19): transport and travel guidance"}' href="/government/collections/coronavirus-covid-19-transport-and-travel-guidance">Coronavirus (COVID-19): transport and travel guidance</a></li>
+
+  </ul>
+</nav>
+
+  </div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+        
+  <div class="gem-c-contextual-footer">
+    
+  <div class="gem-c-related-navigation">
+
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-88ad07d8" data-module="gem-toggle">
+
+    <h2 id="related-nav-topics-88ad07d8" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/browse/visas-immigration/arriving-in-the-uk" data-track-options='{"dimension28":"2","dimension29":"Travelling to the UK"}' href="/browse/visas-immigration/arriving-in-the-uk">Travelling to the UK</a></li>
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.2 Explore the topic" data-track-label="/topic/personal-tax/coming-to-uk" data-track-options='{"dimension28":"2","dimension29":"Coming to the UK"}' href="/topic/personal-tax/coming-to-uk">Coming to the UK</a></li>
+
+  </ul>
+</nav>
+
+  </div>
+
+  </div>
+
+
+    </div>
+  </div>
+
+
+    </main>
+    
+<div class="gem-c-feedback" data-module="feedback">
+  
+<div class="gem-c-feedback__prompt gem-c-feedback__js-show js-prompt" tabindex="-1">
+  <div class="gem-c-feedback__prompt-questions js-prompt-questions">
+    <h2 class="gem-c-feedback__prompt-question">Is this page useful?</h2>
+    <!-- Maybe button exists only to try and capture clicks by bots -->
+    <button data-track-category="yesNoFeedbackForm" data-track-action="ffMaybeClick" aria-expanded="false" style="display: none" hidden="hidden" aria-hidden="true">
+      Maybe
+    </button>
+    
+    <ul class="gem-c-feedback__option-list">
+      <li class="gem-c-feedback__option-list-item">
+        <button class="govuk-button gem-c-feedback__prompt-link js-page-is-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffYesClick">
+          Yes <span class="govuk-visually-hidden">this page is useful</span>
+        </button>
+      </li>
+      <li class="gem-c-feedback__option-list-item">
+        <button class="govuk-button gem-c-feedback__prompt-link js-toggle-form js-page-is-not-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffNoClick" aria-controls="page-is-not-useful" aria-expanded="false">
+          No <span class="govuk-visually-hidden">this page is not useful</span>
+        </button>
+      </li>
+    </ul>
+  </div>
+  <div class="gem-c-feedback__prompt-questions gem-c-feedback__prompt-success js-prompt-success js-hidden" role="alert">
+    Thank you for your feedback
+  </div>
+  <div class="gem-c-feedback__prompt-questions gem-c-feedback__prompt-questions--something-is-wrong js-prompt-questions">
+    <button class="govuk-button gem-c-feedback__prompt-link js-toggle-form js-something-is-wrong" data-track-category="Onsite Feedback" data-track-action="GOV-UK Open Form" aria-controls="something-is-wrong" aria-expanded="false">
+      There is something wrong with this page
+    </button>
+  </div>
+</div>
+
+  <form action="/contact/govuk/problem_reports" id="something-is-wrong" class="gem-c-feedback__form js-feedback-form js-hidden" data-track-category="Onsite Feedback" data-track-action="GOV.UK Send Form" method="post">
+  <button class="govuk-button govuk-button--secondary gem-c-feedback__close gem-c-feedback__js-show js-close-form" data-track-category="Onsite Feedback" data-track-action="GOV.UK Close Form" aria-controls="something-is-wrong" aria-expanded="true">
+    Close
+  </button>
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+      <div class="gem-c-feedback__error-summary gem-c-feedback__js-show js-hidden js-errors" tabindex="-1"></div>
+
+      <input type="hidden" name="url" value="https://www.gov.uk/uk-border-control/self-isolating-when-you-arrive">
+
+      <h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
+      <p id="feedback_explanation" class="gem-c-feedback__form-paragraph">Don’t include personal or financial information like your National Insurance number or credit card details.</p>
+
+      
+<div class="govuk-form-group">
+    
+  <label for="input-2ea9cea2" class="gem-c-label govuk-label">What were you doing?</label>
+
+
+
+
+
+
+    <input name="what_doing" class="gem-c-input govuk-input" id="input-2ea9cea2" type="text" aria-describedby="feedback_explanation">
+</div>
+
+      
+<div class="govuk-form-group">
+    
+  <label for="input-6fa57179" class="gem-c-label govuk-label">What went wrong?</label>
+
+
+
+
+
+
+    <input name="what_wrong" class="gem-c-input govuk-input" id="input-6fa57179" type="text">
+</div>
+
+      
+
+
+  <button class="gem-c-button govuk-button" type="submit">Send</button>
+
+
+    </div>
+  </div>
+</form>
+
+  <form action="/contact/govuk/email-survey-signup" id="page-is-not-useful" class="gem-c-feedback__form gem-c-feedback__form--email gem-c-feedback__js-show js-feedback-form js-hidden" data-track-category="yesNoFeedbackForm" data-track-action="Send Form" method="post">
+  <button class="govuk-button govuk-button--secondary gem-c-feedback__close js-close-form" data-track-category="yesNoFeedbackForm" data-track-action="ffFormClose" aria-controls="page-is-not-useful" aria-expanded="true">
+    Close
+  </button>
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds" id="survey-wrapper">
+      <div class="gem-c-feedback__error-summary js-hidden js-errors" tabindex="-1"></div>
+
+      <input name="email_survey_signup[survey_id]" type="hidden" value="footer_satisfaction_survey">
+      <input name="email_survey_signup[survey_source]" type="hidden" value="/uk-border-control/self-isolating-when-you-arrive">
+
+      <h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
+      <p id="survey_explanation" class="gem-c-feedback__form-paragraph">To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.</p>
+
+      
+<div class="govuk-form-group">
+    
+  <label for="input-e223fbc2" class="gem-c-label govuk-label">Email address</label>
+
+
+
+
+
+
+    <input name="email_survey_signup[email_address]" class="gem-c-input govuk-input" id="input-e223fbc2" type="email" autocomplete="email" aria-describedby="survey_explanation">
+</div>
+
+       
+
+
+  <button class="gem-c-button govuk-button" type="submit">Send me the survey</button>
+
+
+    </div>
+  </div>
+</form>
+
+</div>
+
+  </div>
+
+
+    <footer class="group js-footer" id="footer" role="contentinfo">
+      <div class="govuk-width-container">
+        <div class="footer-container govuk-main-wrapper">
+              <div class="govuk-grid-row footer-categories" data-module="track-click">
+      <div class="govuk-grid-column-two-thirds">
+        <h2>Coronavirus (COVID-19)</h2>
+        <ul>
+          <li>
+            <a data-track-category="footerClicked" data-track-action="coronavirusLinks" data-track-label="Coronavirus (COVID-19): guidance and support" href="/coronavirus" class="govuk-link">
+               Coronavirus (COVID-19): guidance and support
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="govuk-grid-column-one-third">
+        <h2>The UK has left the EU</h2>
+        <ul>
+          <li>
+            <a data-track-category="footerClicked" data-track-action="transitionLinks" data-track-label="Check the new rules for January 2021" href="/transition" class="govuk-link">
+               Check the new rules for January 2021
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="govuk-grid-row footer-categories" data-module="track-click">
+      <div class="govuk-grid-column-two-thirds">
+        <h2>Services and information</h2>
+
+        <div class="govuk-grid-row">
+          <div class="govuk-grid-column-one-half">
+            <ul>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Benefits" href="/browse/benefits">
+                  Benefits
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Births, deaths, marriages and care" href="/browse/births-deaths-marriages">
+                  Births, deaths, marriages and care
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Business and self-employed" href="/browse/business">
+                  Business and self-employed
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="" href="/browse/childcare-parenting">
+                  Childcare and parenting
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Citizenship and living in the UK" href="/browse/citizenship">
+                  Citizenship and living in the UK
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Crime, justice and the law" href="/browse/justice">
+                  Crime, justice and the law
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Disabled people" href="/browse/disabilities">
+                  Disabled people
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Driving and transport" href="/browse/driving">
+                  Driving and transport
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="govuk-grid-column-one-half">
+            <ul>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Education and learning" href="/browse/education">
+                  Education and learning
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Employing people" href="/browse/employing-people">
+                  Employing people
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Environment and countryside" href="/browse/environment-countryside">
+                  Environment and countryside
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Housing and local services" href="/browse/housing-local-services">
+                  Housing and local services
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Money and tax" href="/browse/tax">
+                  Money and tax
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Passports, travel and living abroad" href="/browse/abroad">
+                  Passports, travel and living abroad
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Visas and immigration" href="/browse/visas-immigration">
+                  Visas and immigration
+                </a>
+              </li>
+              <li>
+                <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Working, jobs and pensions" href="/browse/working">
+                  Working, jobs and pensions
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="govuk-grid-column-one-third">
+        <h2>Departments and policy</h2>
+
+        <ul>
+          <li>
+            <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="How government works" href="/government/how-government-works">
+              How government works
+            </a>
+          </li>
+          <li>
+            <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Departments" href="/government/organisations">
+              Departments
+            </a>
+          </li>
+          <li>
+            <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Worldwide" href="/world">
+              Worldwide
+            </a>
+          </li>
+          <li>
+            <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Services" href="/search/services">
+              Services
+            </a>
+          </li>
+          <li>
+            <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Guidance and regulation" href="/search/guidance-and-regulation">
+              Guidance and regulation
+            </a>
+          </li>
+          <li>
+            <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="News and communications" href="/search/news-and-communications">
+              News and communications
+            </a>
+          </li>
+          <li>
+            <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Research and statistics" href="/search/research-and-statistics">
+              Research and statistics
+            </a>
+          </li>
+          <li>
+            <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Policy papers and consultations" href="/search/policy-papers-and-consultations">
+              Policy papers and consultations
+            </a>
+          </li>
+          <li>
+            <a class="govuk-link" data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Transparency and freedom of information releases" href="/search/transparency-and-freedom-of-information-releases">
+              Transparency and freedom of information releases
+            </a>
+          </li>
+        </ul>
+      </div>
+      <hr>
+    </div>
+
+
+          <div class="footer-meta">
+            <div class="footer-meta-inner">
+                <h2 class="visuallyhidden">Support links</h2>
+<ul>
+  <li><a class="govuk-link" href="/help">Help</a></li>
+  <li><a class="govuk-link" href="/help/privacy-notice">Privacy</a></li>
+  <li><a class="govuk-link" href="/help/cookies">Cookies</a></li>
+  <li><a class="govuk-link" href="/contact">Contact</a></li>
+  <li><a class="govuk-link" href="/help/accessibility-statement">Accessibility statement</a></li>
+  <li><a class="govuk-link" href="/help/terms-conditions">Terms and conditions</a></li>
+  <li><a class="govuk-link" href="/cymraeg" lang="cy" hreflang="cy">Rhestr o Wasanaethau Cymraeg</a></li>
+  <li>
+    Built by the
+    <a href="https://www.gov.uk/government/organisations/government-digital-service" class="govuk-link">
+      Government Digital Service
+    </a>
+  </li>
+</ul>
+
+
+
+              <div class="open-government-licence">
+                <p class="logo">
+                  <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license" class="govuk-link open-government-licence__logo-link">
+                    Open Government Licence
+                  </a>
+                </p>
+                  <p>All content is available under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license" class="govuk-link">Open Government Licence v3.0</a>, except where otherwise stated</p>
+              </div>
+            </div>
+
+            <div class="copyright">
+              <a class="govuk-link" href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/">
+                 © Crown copyright
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div id="global-app-error" class="app-error hidden"></div>
+
+        <script src="https://www.gov.uk/assets/static/global-bar-init-fdee306aabb4e27c2ab7aabc506b407e6fce180be48271ab093ee168f2d96123.js"></script>
+    <script>
+      if (GOVUK.globalBarInit) {
+        window.GOVUK.globalBarInit.init()
+      }
+    </script>
+  <script src="https://www.gov.uk/assets/static/libs/jquery/jquery-1.12.4-c731c20e2995c576b0509d3bd776f7ab64a66b95363a3b5fae9864299ee594ed.js"></script>
+<script src="https://www.gov.uk/assets/static/header-footer-only-d1a69295fbb7da2b29153596e9e82fcb65b0d0982d780cdf7de7e94c3bcc48d9.js"></script>
+<script src="https://www.gov.uk/assets/static/surveys-5bda3f4eefbce1d584961c032bcde7c72417fdfb41d514fd849d24f0641e6850.js"></script>
+
+
+
+    <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
+  <script src="/assets/government-frontend/application-43321fcd500bad6703a7f981ea72d69c793300fe4a77240235fd2bcc9ce205ff.js"></script><script type="application/ld+json">
+  {
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.gov.uk/uk-border-control/self-isolating-when-you-arrive"
+  },
+  "name": "Entering the UK",
+  "datePublished": "2013-03-28T12:28:54.000+00:00",
+  "dateModified": "2014-11-25T13:49:03.000+00:00",
+  "text": "UK border control - passport checks, visas for entering, customs, transiting and layovers.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "GOV.UK",
+    "url": "https://www.gov.uk",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gov.uk/assets/government-frontend/govuk_publishing_components/govuk-logo-e5962881254c9adb48f94d2f627d3bb67f258a6cbccc969e80abb7bbe4622976.png"
+    }
+  },
+  "image": [
+    "https://www.gov.uk/assets/government-frontend/govuk_publishing_components/govuk-schema-placeholder-1x1-5ceffac04f7f6d4f421bd1d36dbb723ef48c15426d7f77f90be80a83af3c747e.png",
+    "https://www.gov.uk/assets/government-frontend/govuk_publishing_components/govuk-schema-placeholder-4x3-fcfe16abb1a015848e50d2ea797666a9eaf5158dca38ddfb1e52dc8c0543ab74.png",
+    "https://www.gov.uk/assets/government-frontend/govuk_publishing_components/govuk-schema-placeholder-16x9-fcf616879a7b37970df4d2117de962e08f7d057674ef1af6063dcdd529424eee.png"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Government Digital Service",
+    "url": "https://www.gov.uk/government/organisations/government-digital-service"
+  },
+  "isPartOf": [
+    {
+      "@context": "http://schema.org",
+      "@type": "CreativeWork",
+      "sameAs": "https://www.gov.uk/government/collections/coronavirus-covid-19-immigration-and-borders"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "CreativeWork",
+      "sameAs": "https://www.gov.uk/government/collections/coronavirus-covid-19-transport-and-travel-guidance"
+    }
+  ],
+  "about": [
+    {
+      "@context": "http://schema.org",
+      "@type": "Thing",
+      "sameAs": "https://www.gov.uk/money/coming-to-uk"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Thing",
+      "sameAs": "https://www.gov.uk/coronavirus-taxon/international-travel-immigration-repatriation"
+    }
+  ],
+  "headLine": "Entering the UK",
+  "description": "UK border control - passport checks, visas for entering, customs, transiting and layovers.",
+  "articleBody": "<p>You need to self-isolate in the place you’re staying for the first 14 days after you arrive, unless you’ve only visited an exempt country, territory or region. This is because of coronavirus (COVID-19).</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You may be fined up to £10,000 if you do not self-isolate. You can be prosecuted if you do not pay the fine on time.</p>\n</div>\n\n<p>The government will use the details you provide in the <a href=\"/provide-journey-contact-details-before-travel-uk\">passenger locator form</a> to check you’re self-isolating.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There are different self-isolation rules and penalties if you’re travelling to <a rel=\"external\" href=\"https://www.gov.scot/publications/coronavirus-covid-19-public-health-checks-at-borders/pages/overview/\">Scotland</a>, <a rel=\"external\" href=\"https://gov.wales/exemptions-self-isolation-coronavirus-covid-19-html\">Wales</a> or <a rel=\"external\" href=\"https://www.nidirect.gov.uk/articles/coronavirus-covid-19-travel-advice\">Northern Ireland</a>.</p>\n</div>\n\n<h2 id=\"when-you-do-not-need-to-self-isolate-exempt-countries-territories-and-regions\">When you do not need to self-isolate (exempt countries, territories and regions)</h2>\n\n<p>You do not need to self-isolate in England if you’re travelling from:</p>\n\n<ul>\n  <li>a country, territory or region on the <a href=\"/guidance/coronavirus-covid-19-travel-corridors\">‘travel corridors’ list</a>\n</li>\n  <li>Ireland</li>\n  <li>the Channel Islands or the Isle of Man</li>\n</ul>\n\n<p>You must have spent the last 14 days in one of these places, or the UK.</p>\n\n<h2 id=\"if-you-visit-or-stop-somewhere-that-is-not-exempt\">If you visit or stop somewhere that is not exempt</h2>\n\n<p>You’ll need to self-isolate when you arrive in England if you visit somewhere that is not exempt in the 14 days before you arrive. You’ll need to self-isolate for up to 14 days - the exact number of days depends on when you left the non-exempt country, territory or region.</p>\n\n<div class=\"example\">\n<p><strong>Example</strong> You spend 2 days in an exempt country after you leave the non-exempt country and before you travel to England. You will only need to self-isolate for 12 days when you arrive in England.</p>\n</div>\n\n<h3 id=\"making-a-transit-stop\">Making a ‘transit stop’</h3>\n<p>Visiting includes making a ‘transit stop’ as part of your coach, ferry, train or plane journey, where passengers can get on or off.</p>\n\n<p>If you make a transit stop in a non-exempt country, territory or region, you’ll only need to self-isolate if either:</p>\n\n<ul>\n  <li>new passengers get on</li>\n  <li>you or other passengers get off and back on again</li>\n</ul>\n\n<p>You’ll need to self-isolate for 14 days from the date you left the non-exempt country, territory or region.</p>\n\n<h2 id=\"if-youre-travelling-as-part-of-your-job\">If you’re travelling as part of your job</h2>\n<p>You might not need to self-isolate if you travel as part of your job. <a href=\"/government/publications/coronavirus-covid-19-travellers-exempt-from-uk-border-rules\">Read the guidance about who does not need to self-isolate</a>.</p>\n"
+}
+</script><script type="application/ld+json">
+  {
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "name": "Home",
+        "@id": "https://www.gov.uk/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "name": "Visas and immigration",
+        "@id": "https://www.gov.uk/browse/visas-immigration"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "name": "Travelling to the UK",
+        "@id": "https://www.gov.uk/browse/visas-immigration/arriving-in-the-uk"
+      }
+    }
+  ]
+}
+</script>
+</body>
+</html>

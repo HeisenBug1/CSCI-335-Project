@@ -1,0 +1,1002 @@
+<!doctype html><html class="no-js" lang="en"><head><script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemscope itemtype="https://schema.org/SpeakableSpecification" itemref="speakable" /><title>Jobs' Biography: Thoughts On Life, Death And Apple : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]" /><meta id="google-site-verification" name="google-site-verification" content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" /><meta charset="utf-8" /><meta name="robots" content="noarchive,index,follow" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="npr-pjax" /><meta name="date" content="2011-10-25" /><link rel="canonical" href="https://www.npr.org/2011/10/25/141653658/steve-jobs-a-computer-icon-on-life-death-and-apple" /><meta name="description" content="After Steve Jobs was diagnosed with cancer, he asked Walter Isaacson to write his biography. The new book tells the personal story of the man behind the personal computer — from his childhood in California to his thoughts on family, friends, death and religion." /><link rel="alternate" type="application/rss+xml" title="Author Interviews" href="https://feeds.npr.org/1033/rss.xml" /><link rel="alternate" type="application/json" title="Author Interviews" href="https://feeds.npr.org/feeds/1033/feed.json" /><link rel="apple-touch-icon" sizes="180x180" href="https://static-assets.npr.org/static/images/favicon/favicon-180x180.png" /><link rel="icon" sizes="96x96" href="https://static-assets.npr.org/static/images/favicon/favicon-96x96.png" /><link rel="icon" sizes="32x32" href="https://static-assets.npr.org/static/images/favicon/favicon-32x32.png" /><link rel="icon" sizes="16x16" href="https://static-assets.npr.org/static/images/favicon/favicon-16x16.png" /><meta property="og:title" content="Jobs' Biography: Thoughts On Life, Death And Apple" /><meta property="og:url" content="https://www.npr.org/2011/10/25/141653658/steve-jobs-a-computer-icon-on-life-death-and-apple" /><meta property="og:type" content="article" /><meta property="og:description" content="After Steve Jobs was diagnosed with cancer, he asked Walter Isaacson to write his biography. The new book tells the personal story of the man behind the personal computer — from his childhood in California to his thoughts on family, friends, death and religion." /><meta property="og:image" content="https://media.npr.org/assets/img/2011/10/25/130199156_wide-bc8f3b11dc202bdb0abed767044221301f5a2e41.jpg?s=1400" /><meta property="og:image" content="https://media.npr.org/assets/img/2011/10/24/ap080115083026_wide-b8240dd43e3df972a6ffdb17ad3dfce1927415fb.jpg?s=1400" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><meta property="fb:pages" content="10643211755" /><meta property="article:content_tier" content="free" /><meta property="article:opinion" content="false" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Jobs' Biography: Thoughts On Life, Death And Apple" /><meta name="twitter:site" content="@NPR" /><meta name="twitter:domain" content="npr.org" /><meta name="twitter:image:src" content="https://media.npr.org/assets/img/2011/10/25/130199156_wide-bc8f3b11dc202bdb0abed767044221301f5a2e41.jpg?s=1400" /><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","legacyWebHost":"https:\/\/legacy.npr.org","stripeServiceHost":"https:\/\/stripe.npr.org","recaptchaV3SiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","identityHost":"https:\/\/identity.api.npr.org","apiHost":"https:\/\/api.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"readingServiceHostname":"https:\/\/reading.api.npr.org","cookieDomain":".npr.org"};
+NPR.serverVars = {"storyId":"141653658","facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/bundles.npr.org\/dist\/bundles\/","persistenceVersion":"b2e426a8faf099cee17e212b6c0ec3d7","isBuildOut":true,"topicIds":["P1033","1001","1008","1019","1032"],"primaryTopic":"Author Interviews","topics":["Author Interviews","News","Arts \u0026amp; Life","Technology","Books"],"theme":"1033","programId":"Fresh Air","program":"13","aggIds":["13","1001","1008","1019","1032","1033","10101","10102","10108","10115","10127","100876926","125637934","137844016","137864864","137912546","137999713","138303452","141136744","141584217","141584248","141653893"],"contentPartnerOrg":"Fresh Air","pubDate":"2011102511","pageTypeId":"1","title":"Jobs\u0027 Biography: Thoughts On Life, Death And Apple","publisherOrgId":"427869011"};
+</script>
+<script type="text/javascript" src="https://cdn.optimizely.com/js/11107397707.js">
+   </script>
+<script type="text/javascript" src="https://static-assets.npr.org/static/javascript/lib/modernizr/modernizr.custom.js">
+   </script>
+<script type="text/javascript" async src="https://js.stripe.com/v3/">
+   </script>
+<script>
+   !function(e){function a(c){if(f[c])return f[c].exports;var b=f[c]={exports:{},id:c,loaded:!1};return e[c].call(b.exports,b,b.exports,a),b.loaded=!0,b.exports}var c=window.webpackJsonp;window.webpackJsonp=function(d,t){for(var n,r,o=0,i=[];o<d.length;o++)r=d[o],b[r]&&i.push.apply(i,b[r]),b[r]=0;for(n in t)if(Object.prototype.hasOwnProperty.call(t,n)){var p=t[n];switch(typeof p){case"object":e[n]=function(a){var c=a.slice(1),f=a[0];return function(a,b,d){e[f].apply(this,[a,b,d].concat(c))}}(p);break;case"function":e[n]=p;break;default:e[n]=e[p]}}for(c&&c(d,t);i.length;)i.shift().call(null,a);if(t[0])return f[0]=0,a(0)};var f={},b={23:0};a.e=function(e,c){if(0===b[e])return c.call(null,a);if(void 0!==b[e])b[e].push(c);else{b[e]=[c];var f=document.getElementsByTagName("head")[0],d=document.createElement("script");d.type="text/javascript",d.charset="utf-8",d.async=!0,d.src=a.p+""+e+"."+{0:"7546cbfccce16a21871c",1:"103a4bac9079fc5533b7",2:"6059270e550464df1001",3:"7ada89356f26c3c3aefc",4:"ca4b093b76a515e0c684",5:"ee69bd8e443eca42a0d6",6:"0b314d25caff9e6eca4d",7:"866d400d8c5dd7996412",8:"45514f720f38c9ef7208",9:"2405df678c7df3af088e",10:"eee180a15ca16a74f273",11:"57382769d48dfa1b2875",12:"963165bc37b097351b79",13:"a90e89590bfe3b5042c6",14:"fb2db3c921d7afa4a206",15:"a0668a390c5b2db2f4b9",16:"6f05b9b31c2f533609ef",17:"8f8f5c7764ee5bad886c",18:"24d9b2ecbe9ed9cf6fc7",19:"7713e9a9382ac7264fcb",20:"3f4d65995021685d6ecb",21:"944c402b115b1f1a91a6",22:"28b07ff2c141bc3effb8",24:"76ada2fe4c02ab6196fb",25:"bdb0554f863f8e35a482",26:"3e48e1fc52b0d586597e",27:"5e78d09f0275685cd293",28:"71d0a9989393dc042cf0",29:"a3363e48f6c79daec4f2",30:"c63dc27fb1af07fd6b8b",31:"c93cb5cb57e784b2fac1",32:"f8c2b249733de7d643bc",33:"c20b4e522659829874b6",34:"41dedc1a647706d0e53a",35:"b92883d1e71d64634953",36:"e100eac600287c2eed98",37:"0aed468854301124209f",38:"e6e81b29aa8417aca729",39:"df11e62eb19ef0693b5e",40:"5622cb29edc9d0e0ffe9",41:"8fab6d00e8891562bfe6",42:"2360ac768f678f9b221d",43:"ac40008b0c33906d3166",44:"21a9b06f8a10251c99f1",45:"2822fe866af9c070b6f6",46:"2489f0f3cb6bb4d684fa",47:"a96a1252bce84367d276",48:"6f9f8f4ab8998fdc2dc1",49:"62e865ab9dd0b7d4c3bc",50:"7683998e67a4777b1a6b",51:"13a6d444e05ac8e1a1b6",52:"37f3e342c9c04097924d",53:"2bcb02424afc017527f4",54:"bac8a6e061ac1e0557a6",55:"4d95e6241e0db1b92e7c",56:"9cce3e63d5c3125cbced",57:"cdf9d7538bd94a7120eb",58:"ee4a0056e4c345a8e695",59:"3efb3d21f5484bc8c789",60:"d33a7bf0199e37a69da4",61:"ebd2a56c7fba7b421ab0",62:"acaedaa98aee3e1115ae",63:"ae84fb214d6a1610f9c0",64:"a627344f9c087a162dfa",65:"bcb76c1c15fe3c838cb5",66:"39fe7e344fc594ec4b89",67:"25e4bd5c8c65e31a6a4a",68:"de2aa06338169223c18d",69:"27ab4a386e3457511839",70:"6700e43ad2708b3f6b12",71:"a6770597790e95db3d48",72:"63b39ee7416f34e91aef",73:"046cfbeadf9c361bf42c",74:"eb881dd844c9e61a627c",75:"d9ddafa1469a7a74d86f",76:"49cf7b7bab1fa0effe82",77:"46945feb9a03a152046c",78:"8c80b18e4ad81063e395",79:"3b55d653933c3adb9981",80:"ca1d8bbae15e1b0fab5b"}[e]+".chunk.js",f.appendChild(d)}},a.m=e,a.c=f,a.p="/dist/bundles/"}(function(e){for(var a in e)if(Object.prototype.hasOwnProperty.call(e,a))switch(typeof e[a]){case"function":break;case"object":e[a]=function(a){var c=a.slice(1),f=e[a[0]];return function(e,a,b){f.apply(this,[e,a,b].concat(c))}}(e[a]);break;default:e[a]=e[e[a]]}return e}([]));
+</script>
+<script type="text/javascript" src="https://bundles.npr.org/dist/bundles/globalNavigationDropdowns-3e48e1fc52b0d586597e.js">
+   </script>
+<link rel="stylesheet" data-persist="true" media="screen, print" href="https://bundles.npr.org/dist/bundles/persistent-css-f9765a568d66ad61750e.css" /><link rel="stylesheet" media="screen, print" href="https://bundles.npr.org/dist/bundles/newsStory-css-f9765a568d66ad61750e.css" /><script type="application/ld+json">
+   {"@type":"NewsArticle","publisher":{"@type":"Organization","name":"Fresh Air","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/chrome\/npr-logo.jpg"}},"headline":"Jobs' Biography: Thoughts On Life, Death And Apple","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.npr.org\/2011\/10\/25\/141653658\/steve-jobs-a-computer-icon-on-life-death-and-apple"},"datePublished":"2011-10-25T11:08:00-04:00","dateModified":"2011-10-25T15:35:00-04:00","author":{"@type":"Organization","name":"Fresh Air","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/chrome\/npr-logo.jpg"}},"description":"After Steve Jobs was diagnosed with cancer, he asked Walter Isaacson to write his biography. The new book tells the personal story of the man behind the personal computer \u2014 from his childhood in California to his thoughts on family, friends, death and religion.","image":[{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2011\/10\/25\/130199156-7c82599775330bd8a9692b91579cd7199b015930.jpg"},{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2011\/10\/24\/ap080115083026-d5d2dbba4dd115402b8116eaa6aca30b507acb04.jpg"},{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2011\/10\/24\/walterisaacsoncreditpatricegilbert-primary_custom-51cd3ccf937d853684f526a52cc01f2f5147f5e1.jpg"}],"@context":"http:\/\/schema.org"}
+</script>
+<script type="text/javascript">
+   document.domain="npr.org";
+</script>
+</head><body id="books" class="books tmplBookStory  story-layout is-buildout no-transcript has-no-branding id141653658  " data-pjax-modules="util/env images/lazy-load chartbeat comscore metrics nielsen nielsenDCR copyright auto-refresh navigation/global-navigation fitvids dfp globalfooter persistent-audio player/more-options player/audio-module-clickable what-input metrics/doubleclickFloodlight metrics/facebookTracking callout/on-page-callouts global-alerts ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement swfbuilder contentfooter story/sticky-header story/date-tooltip social/sharepop podcast-cards search/faceting-param local/newsletter/callout social/recaptcha"><div class="skip-links">
+      <span>Accessibility links</span>   <ul>
+            <li><a href="#mainContent" class="skiplink">Skip to main content</a></li>
+      <li><a href="https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player" class="skiplink">Keyboard shortcuts for audio player</a></li>
+   </ul>
+</div>
+<header class="npr-header" id="globalheader" aria-label="NPR header">
+<nav class="navigation">
+    <div class="navigation__top-level-wrap" data-metrics-all data-metrics-category="global navigation">
+        <ul class="navigation__top-level">
+            <li class="navigation__home">
+                <a href="/" data-metrics-action="click npr logo">
+                    <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+                </a>
+            </li>
+
+            <li id="navigation__station-mount"></li>
+
+            <li id="user-account-dropdown-mount" class="navigation__account"></li>
+
+            <li class="navigation__shop">
+                <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
+            </li>
+
+            <li id="navigation__station-donate-mount"></li>
+
+            <li class="navigation__toggle-wrap">
+                <button id="navigation__toggle--open" class="navigation__toggle navigation__toggle--open" aria-haspopup="true" aria-expanded="false" data-metrics-action="open navigation menu">
+                    Open Navigation Menu
+                </button>
+            </li>
+        </ul>
+    </div>
+    <section id="main-menu" class="menu menu--main" data-metrics-all data-metrics-category="global navigation">
+        <div class="menu__inner">
+            <header class="menu__header">
+                <button id="navigation__toggle--close" class="navigation__toggle navigation__toggle--close" aria-haspopup="true" aria-expanded="true" data-metrics-action="close navigation menu">
+                    Close <span>Navigation Menu</span>
+                </button>
+            </header>
+            <ul class="menu__list">
+                <li class="menu__item menu__item--home">
+                    <div class="menu__item-inner"><a href="/" data-metrics-action="click npr logo">Home</a></div>
+                </li>
+                <li class="menu__item menu__item--news menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/news/" data-metrics-action="click news">News</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle news drawer">Expand/collapse submenu for News</button>
+                    </div>
+
+                    <ul class="submenu submenu--news">
+                        <li class="submenu__item"><a href="/sections/national/" data-metrics-action="click national">National</a></li>
+                        <li class="submenu__item"><a href="/sections/world/" data-metrics-action="click world">World</a></li>
+                        <li class="submenu__item"><a href="/sections/politics/" data-metrics-action="click politics">Politics</a></li>
+                        <li class="submenu__item"><a href="/sections/business/" data-metrics-action="click business">Business</a></li>
+                        <li class="submenu__item"><a href="/sections/health/" data-metrics-action="click health">Health</a></li>
+                        <li class="submenu__item"><a href="/sections/science/" data-metrics-action="click science">Science</a></li>
+                        <li class="submenu__item"><a href="/sections/technology/" data-metrics-action="click technology">Technology</a></li>
+                        <li class="submenu__item"><a href="/sections/codeswitch/" data-metrics-action="click race & culture">Race &amp; Culture</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--arts-life menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/arts/" data-metrics-action="click arts & life">Arts &amp; Life</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle arts drawer">Expand/collapse submenu for Arts &amp; Life</button>
+                    </div>
+
+                    <ul class="submenu submenu--arts-life">
+                        <li class="submenu__item"><a href="/books/" data-metrics-action="click books">Books</a></li>
+                        <li class="submenu__item"><a href="/sections/movies/" data-metrics-action="click movies">Movies</a></li>
+                        <li class="submenu__item"><a href="/sections/television/" data-metrics-action="click television">Television</a></li>
+                        <li class="submenu__item"><a href="/sections/pop-culture/" data-metrics-action="click pop culture">Pop Culture</a></li>
+                        <li class="submenu__item"><a href="/sections/food/" data-metrics-action="click food">Food</a></li>
+                        <li class="submenu__item"><a href="/sections/art-design/" data-metrics-action="click art & design">Art &amp; Design</a> </li>
+                        <li class="submenu__item"><a href="/sections/performing-arts/" data-metrics-action="click performing arts">Performing Arts</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--music menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/music/" data-metrics-action="click music">Music</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle music drawer">Expand/collapse submenu for Music</button>
+                    </div>
+
+                    <ul class="submenu submenu--music"><li class="submenu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/898709145/we-insist-a-timeline-of-protest-music-in-2020" data-metrics-action="click we insist: a timeline of protest music in 2020">
+        We Insist: A Timeline Of Protest Music In 2020
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-news/" data-metrics-action="click music news">
+        Music News
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/new-music/" data-metrics-action="click new music">
+        New Music
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions" data-metrics-action="click live sessions">
+        Live Sessions
+    </a>
+</li></ul>
+
+                </li>
+                <li class="menu__item menu__item--shows-podcasts menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/programs/" data-metrics-action="click shows & podcasts">Shows &amp; Podcasts</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle programs &amp; podcasts drawer">Expand/collapse submenu for Shows &amp; Podcasts</button>
+                    </div>
+
+                    <div class="submenu submenu--shows-podcasts">
+                        <span class="submenu__category submenu__category--daily">Daily</span>
+                        <ul class="submenu__list submenu__list--daily">
+                            <li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+                                <a href="/programs/morning-edition/" data-metrics-action="click morning edition">
+                                    <img src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg" alt="" />
+                                    Morning Edition
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--saturday hidden" >
+                                <a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png" alt="" />
+                                    Weekend Edition Saturday
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+                                <a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png" alt="" />
+                                    Weekend Edition Sunday
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/all-things-considered/" data-metrics-action="click all things considered">
+                                    <img src="https://media.npr.org/chrome/programs/logos/all-things-considered.png" alt="" />
+                                    All Things Considered
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/fresh-air/" data-metrics-action="click fresh air">
+                                    <img src="https://media.npr.org/chrome/programs/logos/fresh-air.png" alt="" />
+                                    Fresh Air
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/podcasts/510318/up-first" data-metrics-action="click up first">
+                                    <img src="https://media.npr.org/chrome/programs/logos/up-first.jpg?version=2" alt="" />
+                                    Up First
+                                </a>
+                            </li>
+                        </ul>
+                        <span class="submenu__category submenu__category--featured">Featured</span>
+
+                        <ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510357/louder-than-a-riot" data-metrics-action="click louder than a riot">
+        <img src="https://media.npr.org/assets/img/2020/09/16/ltar_tile_3000x3000_sq-31ca3d396ef2632daac24101765842d13b00ca8b.jpg?s=100" alt="" />
+        Louder Than A Riot
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510333/throughline" data-metrics-action="click throughline">
+        <img src="https://media.npr.org/assets/img/2019/01/28/nprthroughline_podcasttile_sq-3bddbe49827adf54bdbc1f94b40fc61d581704f6.png?s=100" alt="" />
+        Throughline
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510310/npr-politics-podcast" data-metrics-action="click the npr politics podcast">
+        <img src="https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final-826d49ee33322d9a602351186f9c10149121d451.jpg?s=100" alt="" />
+        The NPR Politics Podcast
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510318/up-first" data-metrics-action="click up first">
+        <img src="https://media.npr.org/assets/img/2020/03/30/up-first-tile_sq-8c917c992869803df1f6fe9511c0bd613cab1249.png?s=100" alt="" />
+        Up First
+    </a>
+</li></ul>
+
+                        <ul class="submenu__list submenu__list--directories">
+                            <li class="submenu__item"><a href="/programs/" data-metrics-action="click all programs">More Shows &amp; Podcasts</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="menu__item menu__item--search">
+                    <div class="menu__item-inner">
+                        <a href="/search" id="navigation_dropdown-search" data-metrics-action="click search">Search</a>
+                    </div>
+                </li>
+                <li id="user-account-dropdown-mount-two" class="menu__item menu__item--account"></li>
+                <li class="menu__item menu__item--shop">
+                    <div class="menu__item-inner">
+                        <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--music" data-metrics-all data-metrics-category="music ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--music">
+                <li class="menu__item menu__item--music-home">
+                    <a href="/music/" data-metrics-action="click npr music logo">
+                        <img src="https://media.npr.org/chrome_svg/music-logo-dark.svg" class="music-logo"  alt="NPR Music" />
+                        <img src="https://media.npr.org/chrome_svg/music-logo-light.svg" class="music-logo-alt" alt="NPR Music" />
+                    </a>
+                </li>
+
+                <li class="menu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/898709145/we-insist-a-timeline-of-protest-music-in-2020" data-metrics-action="click we insist: a timeline of protest music in 2020">
+        We Insist: A Timeline Of Protest Music In 2020
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-news/" data-metrics-action="click music news">
+        Music News
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/new-music/" data-metrics-action="click new music">
+        New Music
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions" data-metrics-action="click live sessions">
+        Live Sessions
+    </a>
+</li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--about" data-metrics-all data-metrics-category="about ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--about">
+                <li class="menu__item menu__item--about-home"><a href="/about/" data-metrics-action="click about npr">About NPR</a></li>
+                <li class="menu__item menu__item--about-overview"><a href="/overview/" data-metrics-action="click overview">Overview</a></li>
+                <li class="menu__item menu__item--about-support"><a href="/support/" data-metrics-action="click support">Support</a></li>
+                <li class="menu__item menu__item--about-careers"><a href="/careers/" data-metrics-action="click careers">Careers</a></li>
+                <li class="menu__item menu__item--about-connect"><a href="/connect/" data-metrics-action="click connect">Connect</a></li>
+                <li class="menu__item menu__item--about-press"><a href="/press/" data-metrics-action="click press">Press</a></li>
+                <li class="menu__item menu__item--about-ethics"><a href="/ethics/" data-metrics-action="click ethics">Ethics</a></li>
+            </ul>
+        </div>
+    </section>
+</nav></header><main aria-label="main content"><div class="speakable">
+      <b data-is-speakable>Jobs' Biography: Thoughts On Life, Death And Apple</b>   <b data-is-speakable>After Steve Jobs was diagnosed with cancer, he asked Walter Isaacson to write his biography. The new book tells the personal story of the man behind the personal computer — from his childhood in California to his thoughts on family, friends, death and religion.</b>
+</div>
+<div id="wrapper">
+      <header class="contentheader contentheader--one" data-metrics='{"category":"Author Interviews"}' ></header>   <div class="story-sticky-header">
+    <div class="story-sticky-header-inner">
+        <a href="/" class="nprhome nprhome-news"  data-metrics='{&quot;category&quot;:&quot;global navigation&quot;,&quot;action&quot;:&quot;click npr logo&quot;,&quot;label&quot;:&quot;\/&quot;}' >
+            <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+        </a>
+
+        <article id="res141653721" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Jobs' Biography: Thoughts On Life, Death And Apple</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"141653658:141653721","available":true,"duration":"2308","title":"Jobs\u0027 Biography: Thoughts On Life, Death And Apple","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/fa\/2011\/10\/20111025_fa_01.mp3?orgId=427869011&topicId=1033&aggIds=141136744&d=2308&p=13&story=141653658&dl=1&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/2011\/10\/25\/141653658\/steve-jobs-a-computer-icon-on-life-death-and-apple","slug":"Author Interviews","program":"Fresh Air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='{"playedFrom":"from sticky header"}'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2011/10/20111025_fa_01.mp3?orgId=427869011&amp;topicId=1033&amp;aggIds=141136744&amp;d=2308&amp;p=13&amp;story=141653658&amp;dl=1&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>38:28</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P38M,28S">
+                  <span class="audio-module-duration__initial-value">38:28</span>
+                </time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2011/10/20111025_fa_01.mp3?orgId=427869011&amp;topicId=1033&amp;aggIds=141136744&amp;d=2308&amp;p=13&amp;story=141653658&amp;dl=1&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;141653658&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/141653658/141653721"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;141653658&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/141653658/141653721&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/141653658/141653721" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/transcripts/141653658"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;141653658&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+        <a href="#" class="title">
+          <b>Jobs' Biography: Thoughts On Life, Death And Apple</b>
+          <time datetime="P38M,28S">38:28</time>
+        </a>
+    </div>
+</div>   <section id="main-section"><article class="story"><a id="mainContent"></a><div class="slug-wrap">
+
+    <h3 class="slug">
+        <a href="https://www.npr.org/sections/author-interviews/">Author Interviews</a>
+    </h3>
+</div>
+<div class="storytitle">
+      <h1>Jobs' Biography: Thoughts On Life, Death And Apple</h1>
+   <input type="hidden" id="title141653658" value="Jobs' Biography: Thoughts On Life, Death And Apple" />
+   <input type="hidden" id="shortTitle141653658" value="Jobs' Biography: Thoughts On Life, Death And Apple" />
+   <input type="hidden" id="modelFullUrl141653658" value="https://www.npr.org/2011/10/25/141653658/steve-jobs-a-computer-icon-on-life-death-and-apple" />
+</div>
+
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-tools">
+      <div class="share-tools share-tools--primary" aria-label="Share tools">
+            <ul>
+                  <li class="share-tools__service share-tools__service--facebook"><button class="fbStory141653658" data-share-facebook='{"storyId": 141653658 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2011\/10\/25\/141653658\/steve-jobs-a-computer-icon-on-life-death-and-apple"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+         <li class="share-tools__service share-tools__service--twitter"><button class="story141653658" data-share-twitter='{"storyId": 141653658 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2011\/10\/25\/141653658\/steve-jobs-a-computer-icon-on-life-death-and-apple"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+         <li class="share-tools__service share-tools__service--flipboard"><button class="story141653658" data-share-flipboard='{"storyId": 141653658 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2011\/10\/25\/141653658\/steve-jobs-a-computer-icon-on-life-death-and-apple"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+         <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='141653658'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2011\/10\/25\/141653658\/steve-jobs-a-computer-icon-on-life-death-and-apple"}' ><b class="share-tools__service-name">Email</b></button></li>
+      </ul>
+   </div>
+   
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--PRIMARY" ARIA-LABEL="SHARE TOOLS" -->
+</div>
+
+<!-- END CLASS="STORY-TOOLS" -->
+<div id="story-meta" class="story-meta has-org">
+      <div class="story-meta__one">
+            <div class="dateblock">
+    <time datetime="2011-10-25T11:08:00-04:00">
+            <span class="date">October 25, 2011</span><span class="time">11:08 AM ET</span>
+    </time>
+</div>      <div class="program-block">
+                  Heard on          <a href="https://www.npr.org/programs/fresh-air/2011/10/25/141653893/">Fresh Air</a>
+      </div>
+      
+<!-- END CLASS="PROGRAM-BLOCK" -->
+   </div>
+   
+<!-- END CLASS="STORY-META__ONE" -->
+   <div class="story-meta__two">
+            <div class="partner">
+                  <p><a href="http://www.npr.org/programs/fresh-air/"  data-metrics='{"action":"Click Org Association","category":"Story Metadata"}' ><img src="https://media.npr.org/chrome/ext_provider_427869011.gif" alt="Fresh Air" /></a></p>
+      </div>
+   </div>
+   
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-ORG" -->
+<div id="primaryaudio" class="storylocation linkLocation">
+      <article id="res141653721" class="bucketwrap resaudio primaryaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Jobs' Biography: Thoughts On Life, Death And Apple</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"141653658:141653721","available":true,"duration":"2308","title":"Jobs\u0027 Biography: Thoughts On Life, Death And Apple","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/fa\/2011\/10\/20111025_fa_01.mp3?orgId=427869011&topicId=1033&aggIds=141136744&d=2308&p=13&story=141653658&dl=1&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/2011\/10\/25\/141653658\/steve-jobs-a-computer-icon-on-life-death-and-apple","slug":"Author Interviews","program":"Fresh Air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2011/10/20111025_fa_01.mp3?orgId=427869011&amp;topicId=1033&amp;aggIds=141136744&amp;d=2308&amp;p=13&amp;story=141653658&amp;dl=1&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>38:28</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P38M,28S">
+                  <span class="audio-module-duration__initial-value">38:28</span>
+                </time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2011/10/20111025_fa_01.mp3?orgId=427869011&amp;topicId=1033&amp;aggIds=141136744&amp;d=2308&amp;p=13&amp;story=141653658&amp;dl=1&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;141653658&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/141653658/141653721"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;141653658&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/141653658/141653721&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/141653658/141653721" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/transcripts/141653658"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;141653658&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+</div>
+<div id="storytext" class="storytext storylocation linkLocation">
+      <div id="res141683195" class="bucketwrap image medium">
+            <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2011/10/25/130199156-7c82599775330bd8a9692b91579cd7199b015930-s800-c15.jpg" data-original="https://media.npr.org/assets/img/2011/10/25/130199156-7c82599775330bd8a9692b91579cd7199b015930-s800.jpg" class="img lazyOnLoad"  alt="" loading="lazy" />
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2011/10/25/130199156-7c82599775330bd8a9692b91579cd7199b015930-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                <p>Walter Isaacson's biography of Apple co-founder Steve Jobs was published Monday, less than three weeks after Job's death on Oct. 5.</p>
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Joe Raedle/Getty Images
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Joe Raedle/Getty Images
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <img data-original="https://media.npr.org/assets/img/2011/10/25/130199156-7c82599775330bd8a9692b91579cd7199b015930-s1200.jpg" alt="" />
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption"><p>Walter Isaacson's biography of Apple co-founder Steve Jobs was published Monday, less than three weeks after Job's death on Oct. 5.</p></p>
+        <span class="credit" aria-label="Image credit">
+            
+            Joe Raedle/Getty Images
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <p>When Steve Jobs was 6 years old, his young next door neighbor found out he was adopted. "That means your parents abandoned you and didn't want you," she told him.</p>   <p>Jobs ran into his home, where his adoptive parents reassured him that he was theirs and that they wanted him.</p>   <p>"[They said] 'You were special, we chose you out, you were chosen," says biographer Walter Isaacson. "And that helped give [Jobs] a sense of being special. ... For Steve Jobs, he felt throughout his life that he was on a journey — and he often said, 'The journey was the reward.' But that journey involved resolving conflicts about ... his role in this world: why he was here and what it was all about."</p>   <p>When Jobs died on Oct. 5 from complications of pancreatic cancer, many people felt a sense of personal loss for the Apple co-founder and former CEO. Jobs played a key role in the creation of the Macintosh, the iPod, iTunes, the iPhone, the iPad — innovative devices and technologies that people have integrated into their daily lives.</p>   <aside id="ad-backstage-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-backstage-Arts___Life_Books_Author_Interviews" class="ad-backstage" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"zone":"Arts___Life_Books_Author_Interviews","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"141653658","program":"Fresh_Air","agg":["141136744","125637934","100876926"],"book_genres":["Digital_Culture","Nonfiction","Science___Health","Business___Economy","Biography___Memoir"]},"location":"backstage","deferred":false,"isBetweenContent":true,"isAggSponsorship":false,"borderClass":""}'></div>
+
+</aside>   <div id="res559747908" class="bucketwrap internallink internallink--book" previewtitle="Book Edition Information">
+    <div id="res141584247" class="bucketwrap image book">
+      <div class="imagewrap" data-crop-type="">
+    <a href="/books/titles/141584217/steve-jobs-a-biography">
+        <img src="https://media.npr.org/assets/bakertaylor/covers/s/steve-jobs/9781451648539_custom-36492dfe85a737048836f964a83524be1cbc39ef-s1200-c15.jpg" data-original="https://media.npr.org/assets/bakertaylor/covers/s/steve-jobs/9781451648539_custom-36492dfe85a737048836f964a83524be1cbc39ef-s1200.jpg" class="img lazyOnLoad"  alt="Steve Jobs" loading="lazy" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+        </div>
+
+
+    </div>
+
+</div>
+</div>
+
+
+    <div id="res219741899" class="bucketwrap bookedition">
+      <h6><a href="https://www.npr.org/books/titles/141584217/steve-jobs-a-biography">Steve Jobs</a></h6>
+   <p>A Biography</p>   <p class="author">by <a href="https://www.npr.org/books/authors/138303452/walter-isaacson"><span>Walter Isaacson</span></a></p>   <div class="bookinfo">
+            <p>Paperback, 631 pages <span class="pipe">|</span></p>      <a href="#" class="purchase" data-metrics='{"category":"Ecommerce","action":"Click purchase book"}' >purchase</a>      <div class="ecommercepop">
+                  <div class="ecomm_body">
+                        <button class='btn-close'>close overlay</button>            <h3>Buy Featured Book</h3>
+            <dl class="meta"><dt>Title</dt><dd>Steve Jobs</dd><dt>Subtitle</dt><dd>A Biography</dd><dt>Author</dt><dd>Walter Isaacson</dd></dl>            <input type="hidden" id="ecommerceId" value="3" />
+            <p class="support">Your purchase helps support NPR programming. <a href="https://help.npr.org/customer/portal/articles/2168887-how-can-my-online-purchases-support-npr-programming">How?</a></p>            <ul class="purchase-links">
+                              <li><a  data-metrics='{"action":"Click Amazon","category":"Ecommerce","label":"9781451648546"}'  class="buylink1" href="https://www.amazon.com/dp/1451648545?tag=npr-online-20&linkCode=osi&th=1&psc=1">Amazon</a></li>
+               <li><a  data-metrics='{"action":"Click Independent Booksellers","category":"Ecommerce","label":"9781451648546"}'  class="buyLink3" href="http://www.indiebound.org/book/9781451648546?aff=NPR">Independent Booksellers</a></li>
+            </ul>
+         </div>
+         
+<!-- END CLASS="ECOMM_BODY" -->
+      </div>
+      
+<!-- END CLASS="ECOMMERCEPOP" -->
+   </div>
+   
+<!-- END CLASS="BOOKINFO" -->
+</div>
+
+<!-- END ID="RES219741899" CLASS="BUCKETWRAP BOOKEDITION" -->
+
+</div>   <p>Jobs detailed how he created those products — and how he rose through the world of Silicon Valley, competed with Google and Microsoft, and helped transform popular culture — in a series of extended interviews with Isaacson, the president of The Aspen Institute and the author of biographies of Albert Einstein and Benjamin Franklin. The two men met more than 40 times throughout 2009 and 2010, often in Jobs' living room. Isaacson also conducted more than 100 interviews with Jobs' colleagues, relatives, friends and adversaries.</p>   <p>His biography tells the story of how Jobs revolutionized the personal computer. It also tells Jobs' personal story — from his childhood growing up in Mountain   View, Calif., to his lifelong interest in Zen Buddhism to his relationship with family and friends.</p>   <p>In his last meetings with Isaacson, Jobs shifted the conversation to his thoughts regarding religion and death.</p>   <p>"I remember sitting in the back garden on a sunny day [on a day when] he was feeling bad, and he talked about whether or not he believed in an afterlife," Isaacson tells <em>Fresh Air</em>'s Terry Gross. "He said, 'Sometimes I'm 50-50 on whether there's a God. It's the great mystery we never quite know. But I like to believe there's an afterlife. I like to believe the accumulated wisdom doesn't just disappear when you die, but somehow it endures."</p>   <p>Jobs paused for a second, remembers Isaacson.</p>   <p>"And then he says, 'But maybe it's just like an on/off switch and click — and you're gone.' And then he paused for another second and he smiled and said, 'Maybe that's why I didn't like putting on/off switches on Apple devices.' "</p>   <p><strong>'The Depth Of The Simplicity'</strong></p>   <p>Jobs' attention to detail on his creations was unrivaled, says Isaacson. Though he was a technologist and a businessman, he was also an artist and designer.</p>   <p>"[He] connected art with technology," explains Isaacson. "[In his products,] he obsessed over the color of the screws, over the finish of the screws — even the screws you couldn't see." Even with the original Macintosh, he made sure that the circuit board's chips were lined up properly and looked good. He made them go back and redo the circuit board. He made them find the right color, find the right curves on the screw. Even the curves on the machine — he wanted it to feel friendly.</p>   <p>That obsessiveness occasionally drove his Apple co-workers crazy — but it also made them fiercely loyal, says Isaacson.</p>   <div class="container medium" id="con141653943" previewTitle="More On Steve Jobs">
+            <h3 class="conheader">More On Steve Jobs</h3>
+      <div id="res141688103" class="bucketwrap internallink insettwocolumn inset2col ">
+                  <div class="bucket img">
+                        <a id="featuredStackSquareImage141655550" href="https://www.npr.org/2011/10/25/141655550/steve-myself-and-i-the-big-story-of-a-little-prefix"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2011\/10\/25\/141655550\/steve-myself-and-i-the-big-story-of-a-little-prefix"}' ><img src="https://media.npr.org/assets/img/2011/10/24/ap111006080910_sq-c6a4182737176cf353adbcdfc64d406fb1ad81b7-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2011/10/24/ap111006080910_sq-c6a4182737176cf353adbcdfc64d406fb1ad81b7-s100.jpg" class="img lazyOnLoad"  alt="Steve, Myself And i: The Big Story Of A Little Prefix" loading="lazy" /></a>            <div class="bucketblock">
+                              <h3 class="slug"><a href="https://www.npr.org/series/141136744/remembering-steve-jobs-1955-2011">Remembering Steve Jobs (1955-2011) </a></h3>
+               <h3><a href="https://www.npr.org/2011/10/25/141655550/steve-myself-and-i-the-big-story-of-a-little-prefix"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2011\/10\/25\/141655550\/steve-myself-and-i-the-big-story-of-a-little-prefix"}' > Steve, Myself, And i-: The Big Story Of A Little Prefix</a></h3>
+            </div>
+            
+<!-- END CLASS="BUCKETBLOCK" -->
+         </div>
+         
+<!-- END CLASS="BUCKET IMG" -->
+      </div>
+      
+<!-- END ID="RES141688103" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+      <div id="res141683252" class="bucketwrap internallink insettwocolumn inset2col ">
+                  <div class="bucket img">
+                        <a id="featuredStackSquareImage141656955" href="https://www.npr.org/2011/10/25/141656955/new-bio-quotes-jobs-on-god-gates-and-great-design"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2011\/10\/25\/141656955\/new-bio-quotes-jobs-on-god-gates-and-great-design"}' ><img src="https://media.npr.org/assets/img/2011/10/24/steve-jobs-cover_sq-9cedec0941e26ea31bb5818ecdef1a25cd9c3528-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2011/10/24/steve-jobs-cover_sq-9cedec0941e26ea31bb5818ecdef1a25cd9c3528-s100.jpg" class="img lazyOnLoad"  alt="New Biography Quotes Jobs On God, Gates, Great Design" loading="lazy" /></a>            <div class="bucketblock">
+                              <h3 class="slug"><a href="https://www.npr.org/sections/author-interviews/">Author Interviews </a></h3>
+               <h3><a href="https://www.npr.org/2011/10/25/141656955/new-bio-quotes-jobs-on-god-gates-and-great-design"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2011\/10\/25\/141656955\/new-bio-quotes-jobs-on-god-gates-and-great-design"}' > New Bio Quotes Jobs On God, Gates And Great Design</a></h3>
+            </div>
+            
+<!-- END CLASS="BUCKETBLOCK" -->
+         </div>
+         
+<!-- END CLASS="BUCKET IMG" -->
+      </div>
+      
+<!-- END ID="RES141683252" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+      <div id="res141654024" class="bucketwrap internallink insettwocolumn inset2col ">
+                  <div class="bucket img">
+                        <a id="featuredStackSquareImage141105703" href="https://www.npr.org/2011/10/06/141105703/steve-jobs-how-apples-ceo-helped-transform-popular-culture"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2011\/10\/06\/141105703\/steve-jobs-how-apples-ceo-helped-transform-popular-culture"}' ><img src="https://media.npr.org/assets/img/2011/10/06/101749904_sq-00a2133cf784edcb73fa79f4281c9558fcde5444-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2011/10/06/101749904_sq-00a2133cf784edcb73fa79f4281c9558fcde5444-s100.jpg" class="img lazyOnLoad"  alt="Steve Jobs: How Apple's CEO Helped Transform Popular Culture" loading="lazy" /></a>            <div class="bucketblock">
+                              <h3 class="slug"><a href="https://www.npr.org/series/141136744/remembering-steve-jobs-1955-2011">Monkey See </a></h3>
+               <h3><a href="https://www.npr.org/2011/10/06/141105703/steve-jobs-how-apples-ceo-helped-transform-popular-culture"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2011\/10\/06\/141105703\/steve-jobs-how-apples-ceo-helped-transform-popular-culture"}' > Steve Jobs: How Apple's CEO Helped Transform Popular Culture</a></h3>
+            </div>
+            
+<!-- END CLASS="BUCKETBLOCK" -->
+         </div>
+         
+<!-- END CLASS="BUCKET IMG" -->
+      </div>
+      
+<!-- END ID="RES141654024" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+      <div id="res141654052" class="bucketwrap internallink insettwocolumn inset2col ">
+                  <div class="bucket img">
+                        <a id="featuredStackSquareImage139952936" href="https://www.npr.org/2011/08/26/139952936/steve-jobs-the-man-at-apples-core"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2011\/08\/26\/139952936\/steve-jobs-the-man-at-apples-core"}' ><img src="https://media.npr.org/assets/img/2011/08/26/apple_jobs_8450865_sq-fa83695a24e2ca5e22fad8e9e7e251767b5f24b8-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2011/08/26/apple_jobs_8450865_sq-fa83695a24e2ca5e22fad8e9e7e251767b5f24b8-s100.jpg" class="img lazyOnLoad"  alt="Timeline: Steve Jobs, The Man At  Apple's Core" loading="lazy" /></a>            <div class="bucketblock">
+                              <h3 class="slug"><a href="https://www.npr.org/sections/technology/">Technology </a></h3>
+               <h3><a href="https://www.npr.org/2011/08/26/139952936/steve-jobs-the-man-at-apples-core"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2011\/08\/26\/139952936\/steve-jobs-the-man-at-apples-core"}' > Timeline: Steve Jobs, The Man At  Apple's Core</a></h3>
+            </div>
+            
+<!-- END CLASS="BUCKETBLOCK" -->
+         </div>
+         
+<!-- END CLASS="BUCKET IMG" -->
+      </div>
+      
+<!-- END ID="RES141654052" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+      <div id="res141654010" class="bucketwrap internallink insettwocolumn inset2col ">
+                  <div class="bucket img">
+                        <a id="featuredStackSquareImage140039539" href="https://www.npr.org/sections/alltechconsidered/2011/08/30/140039539/apples-secret-is-in-our-dna"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/sections\/alltechconsidered\/2011\/08\/30\/140039539\/apples-secret-is-in-our-dna"}' ><img src="https://media.npr.org/assets/img/2011/08/29/apple_sq-c445d959c05dc31867714df3f63c075a40677477-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2011/08/29/apple_sq-c445d959c05dc31867714df3f63c075a40677477-s100.jpg" class="img lazyOnLoad"  alt="Apple's Secret Is In Our DNA" loading="lazy" /></a>            <div class="bucketblock">
+                              <h3 class="slug"><a href="https://www.npr.org/sections/alltechconsidered/">All Tech Considered </a></h3>
+               <h3><a href="https://www.npr.org/sections/alltechconsidered/2011/08/30/140039539/apples-secret-is-in-our-dna"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/sections\/alltechconsidered\/2011\/08\/30\/140039539\/apples-secret-is-in-our-dna"}' > Apple's Secret Is In Our DNA</a></h3>
+            </div>
+            
+<!-- END CLASS="BUCKETBLOCK" -->
+         </div>
+         
+<!-- END CLASS="BUCKET IMG" -->
+      </div>
+      
+<!-- END ID="RES141654010" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+      <div id="res141653996" class="bucketwrap internallink insettwocolumn inset2col ">
+                  <div class="bucket img">
+                        <a id="featuredStackSquareImage123826622" href="https://www.npr.org/2011/10/05/123826622/apple-visionary-steve-jobs-dies-at-56"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2011\/10\/05\/123826622\/apple-visionary-steve-jobs-dies-at-56"}' ><img src="https://media.npr.org/assets/img/2011/09/21/jobswhiteiphone_8484571_sq-3829825754d88ed3a9064e152d6ee79fcb61db0f-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2011/09/21/jobswhiteiphone_8484571_sq-3829825754d88ed3a9064e152d6ee79fcb61db0f-s100.jpg" class="img lazyOnLoad"  alt="Steve Jobs, Poet Of Computer World, Dies" loading="lazy" /></a>            <div class="bucketblock">
+                              <h3 class="slug"><a href="https://www.npr.org/series/141136744/remembering-steve-jobs-1955-2011">Remembrances </a></h3>
+               <h3><a href="https://www.npr.org/2011/10/05/123826622/apple-visionary-steve-jobs-dies-at-56"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2011\/10\/05\/123826622\/apple-visionary-steve-jobs-dies-at-56"}' > Apple Visionary Steve Jobs Dies At 56</a></h3>
+            </div>
+            
+<!-- END CLASS="BUCKETBLOCK" -->
+         </div>
+         
+<!-- END CLASS="BUCKET IMG" -->
+      </div>
+      
+<!-- END ID="RES141653996" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+      <div id="res141653956" class="bucketwrap internallink insettwocolumn inset2col ">
+                  <div class="bucket img">
+                        <a id="featuredStackSquareImage141115121" href="https://www.npr.org/2011/10/06/141115121/steve-jobs-computer-science-is-a-liberal-art"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2011\/10\/06\/141115121\/steve-jobs-computer-science-is-a-liberal-art"}' ><img src="https://media.npr.org/assets/img/2011/10/06/128289502_sq-03bcf494bb3ce16291c208f1370c40f52f23f2ea-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2011/10/06/128289502_sq-03bcf494bb3ce16291c208f1370c40f52f23f2ea-s100.jpg" class="img lazyOnLoad"  alt="Steve Jobs: 'Computer Science Is A Liberal Art'" loading="lazy" /></a>            <div class="bucketblock">
+                              <h3 class="slug"><a href="https://www.npr.org/series/141136744/remembering-steve-jobs-1955-2011">Remembrances </a></h3>
+               <h3><a href="https://www.npr.org/2011/10/06/141115121/steve-jobs-computer-science-is-a-liberal-art"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2011\/10\/06\/141115121\/steve-jobs-computer-science-is-a-liberal-art"}' > Steve Jobs: 'Computer Science Is A Liberal Art'</a></h3>
+            </div>
+            
+<!-- END CLASS="BUCKETBLOCK" -->
+         </div>
+         
+<!-- END CLASS="BUCKET IMG" -->
+      </div>
+      
+<!-- END ID="RES141653956" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   </div>
+   
+<!-- END CLASS="CONTAINER MEDIUM" ID="CON141653943" PREVIEWTITLE="MORE ON STEVE JOBS" -->
+   <p>"It's one of the dichotomies about Jobs: He could be demanding and tough and irate. On the other hand, he got all A-players and they became fanatically loyal to him," says Isaacson. "Why? They realized they were producing, with other A-players, truly great products for an artist who was a perfectionist — and wasn't always the kindest person when they failed — but he was rallying them to do great stuff."</p>   <p>He relays one story about Jobs that shows, he says, how much he was able to connect great ideas and innovations together. In the early 1980s, Jobs visited Xerox PARC, a research company in Palo Alto that had invented the laser printer, object-oriented programming and the Ethernet. Jobs noticed that the computers running at PARC all featured graphics on their desktops that allowed users to click icons and folders. This was new at the time: Most computers used text prompts and a text interface.</p>   <p>"Steve Jobs made an arrangement with Xerox and he took that concept [of the graphical user interface] and he improved it a hundred-fold," says Isaacson. "He made it so you could drag and drop some of the folders; he invented the pull-down menus. ... So what he was able to do was to take a conception and turn it into a reality."</p>   <p>That's where Jobs' genius was, Isaacson says. Jobs insisted that the software and hardware on Apple products needed to be fully integrated for the best user experience. It was not a great business model at first.</p>   <p>"Microsoft, which licensed itself promiscuously to all sorts of manufacturers, ends up with 90 to 95 percent all the operating system market by the beginning of 2000," says Isaacson. "But in the long run, the end-to-end integration system works very well for Apple and for Steve Jobs. Because it allows him to create devices [like the iPod and iPad] that just work beautifully with the machines."</p>   <p>Isaacson says working with Jobs gave him an additional insight into the design of Jobs' products.</p>   <p>"I see the depth of the simplicity," he says. "[I appreciate] the intuitive nature of the design, and how he would repeatedly sit there with his design engineers and his user-interface software people, and say, 'No, no no, I want to make it simpler.' I also appreciate the beauty of the parts unseen. His father taught him that the back of a fence or the back of a chest of drawers should be as beautiful as the front because [he] would know the craftsmanship that went into it. So somehow, it comes through — the depth of the beauty of the design."</p>   <div class="hr"><hr></div>   <div id="res141654960" class="bucketwrap image medium">
+            <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2011/10/24/ap080115083026-d5d2dbba4dd115402b8116eaa6aca30b507acb04-s800-c15.jpg" data-original="https://media.npr.org/assets/img/2011/10/24/ap080115083026-d5d2dbba4dd115402b8116eaa6aca30b507acb04-s800.jpg" class="img lazyOnLoad"  alt="" loading="lazy" />
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2011/10/24/ap080115083026-d5d2dbba4dd115402b8116eaa6aca30b507acb04-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                <p>Jobs was a perfectionist with a famously mercurial temperament. He was an artist and a visionary who "could be demanding and tough and irate," says Isaacson.</p>
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Jeff Chiu/AP
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Jeff Chiu/AP
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <img data-original="https://media.npr.org/assets/img/2011/10/24/ap080115083026-d5d2dbba4dd115402b8116eaa6aca30b507acb04-s1200.jpg" alt="" />
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption"><p>Jobs was a perfectionist with a famously mercurial temperament. He was an artist and a visionary who "could be demanding and tough and irate," says Isaacson.</p></p>
+        <span class="credit" aria-label="Image credit">
+            
+            Jeff Chiu/AP
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <h3 class="edTag">Interview Highlights</h3>   <p><strong>On what Jobs thought of the Microsoft operating system </strong></p>   <p><strong> </strong></p>   <p>Isaacson: "When it first came out — I can't use the words on the air — but [Jobs thought it was] clunky and not beautiful and not aesthetic. But as always is the case with Microsoft, it improves. And eventually Microsoft made a graphical operating system — Windows — and each new version got better until it was a dominating operating system."</p>   <p><strong>On the rivalry between Jobs and Bill Gates</strong></p>   <p><strong> </strong></p>   <div class="container medium" id="con141654324" previewTitle="Hear Steve Jobs On Fresh Air">
+            <h3 class="conheader">Hear Steve Jobs On Fresh Air</h3>
+      <article id="res141122790" class="bucketwrap resaudio container insecure" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Listen To Steve Jobs' 1996 Conversation With Terry Gross</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"141653658:141122790","available":true,"duration":0,"title":"Listen To Steve Jobs\u0027 1996 Conversation With Terry Gross","audioUrl":"aHR0cHM6Ly9vbmRlbWFuZC5ucHIub3JnL2Fub24ubnByLW1wMy9ucHIvZmEvMjAxMS8xMC8yMDExMTAwNl9mYV9zam9icy5tcDM\/b3JnSWQ9NDI3ODY5MDExJnRvcGljSWQ9MTAzMyZhZ2dJZHM9MTQxMTM2NzQ0JnA9MTMmc3Rvcnk9MTQxNjUzNjU4JmRsPTEmc2l0ZXBsYXllcj10cnVl","storyUrl":"https:\/\/www.npr.org\/2011\/10\/25\/141653658\/steve-jobs-a-computer-icon-on-life-death-and-apple","slug":"Author Interviews","program":"Fresh Air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/141653658/141122790"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;141653658&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/141653658/141122790&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/141653658/141122790" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+        </ul>
+    </div>
+</div>
+</article>
+   </div>
+   
+<!-- END CLASS="CONTAINER MEDIUM" ID="CON141654324" PREVIEWTITLE="HEAR STEVE JOBS ON FRESH AIR" -->
+   <p>Isaacson: "There are all sorts of lawsuits where Apple is trying to sue Microsoft for Windows, for trying to steal the look and feel. Apple loses most of the suits but they drag on and there's even a government investigation. By the time Steve Jobs comes back to Apple in 1997, the relationship is horrible. And when we say that Jobs and Gates had a rivalry, we also have to realize they had a collaboration and a partnership. It was typical of the digital age — both rivalry and partnership."</p>   <p><strong>On the relationship between Jobs and Google</strong></p>   <p><strong> </strong></p>   <p>Isaacson: "I think there was an unnerving historic resonance for what had happened a couple of decades earlier [with Microsoft]. Suddenly you have Google taking the operating system of the iPhone and mobile devices and all of the touch-screen technologies and building upon it, and making it an open technology that various device makers could use. ... Steve Jobs felt very possessive about all of the look, the feel, the swipes, the multitouch gestures that you use — and was driven to absolute distraction when Android's operating system, developed by Google and used by hardware manufacturers, started doing the exact same thing. ... He was furious but that probably understates his feeling. He was really furious and he let Eric Schmidt, who was then the CEO of Google, know it."</p>   <div id="res141654512" class="bucketwrap image small">
+            <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2011/10/24/walterisaacsoncreditpatricegilbert-primary_custom-51cd3ccf937d853684f526a52cc01f2f5147f5e1-s800-c15.jpg" data-original="https://media.npr.org/assets/img/2011/10/24/walterisaacsoncreditpatricegilbert-primary_custom-51cd3ccf937d853684f526a52cc01f2f5147f5e1-s800.jpg" class="img lazyOnLoad"  alt="" loading="lazy" />
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2011/10/24/walterisaacsoncreditpatricegilbert-primary_custom-51cd3ccf937d853684f526a52cc01f2f5147f5e1-s1400.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                <p>Walter Isaacson is president and CEO of The Aspen Institute. His other books include <em>Einstein: His Life and Universe; Benjamin Franklin</em>: <em>An American Life</em>, and <em>Kissinger: A Biography</em>. </p>
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Patrice Gilbert/ 
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Patrice Gilbert/ 
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <img data-original="https://media.npr.org/assets/img/2011/10/24/walterisaacsoncreditpatricegilbert-primary_custom-51cd3ccf937d853684f526a52cc01f2f5147f5e1-s1400.jpg" alt="" />
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption"><p>Walter Isaacson is president and CEO of The Aspen Institute. His other books include <em>Einstein: His Life and Universe; Benjamin Franklin</em>: <em>An American Life</em>, and <em>Kissinger: A Biography</em>. </p></p>
+        <span class="credit" aria-label="Image credit">
+            
+            Patrice Gilbert/ 
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <div class="container small" id="con141654657" previewTitle="More With Walter Isaacson">
+            <h3 class="conheader">More With Walter Isaacson</h3>
+      <div id="res141654592" class="bucketwrap internallink simple">
+                  <div class="bucket simple">
+                        <a href="https://www.npr.org/templates/story/story.php?storyId=9496261"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=9496261"}' > Einstein: Relatively Speaking, a Complicated Life</a>                         <span class="date">April 10, 2007</span>
+         </div>
+         
+<!-- END CLASS="BUCKET SIMPLE" -->
+      </div>
+      
+<!-- END ID="RES141654592" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
+      <div id="res141654577" class="bucketwrap internallink simple">
+                  <div class="bucket simple">
+                        <a href="https://www.npr.org/templates/story/story.php?storyId=1319333"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=1319333"}' >Walter Isaacson On Benjamin Franklin</a>                         <span class="date">July 3, 2003</span>
+         </div>
+         
+<!-- END CLASS="BUCKET SIMPLE" -->
+      </div>
+      
+<!-- END ID="RES141654577" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
+   </div>
+   
+<!-- END CLASS="CONTAINER SMALL" ID="CON141654657" PREVIEWTITLE="MORE WITH WALTER ISAACSON" -->
+   <p><strong>On Jobs' adoptive parents</strong></p>   <p><strong> </strong></p>   <p>Isaacson: "When Steve got placed with [parents who were not college graduates], his biological mother initially balked at first but ... the Jobs family made a pledge that they would start a college fund and make sure that Steve went to college."</p>   <p><strong>On approaching Isaacson to write his biography</strong></p>   <p><strong> </strong></p>   <p>Isaacson: "It was 2004 and he had broached the subject of doing a biography of him and I thought, 'Well, this guy's in the midst of an up-and-down career and he has maybe 20 years to go, so I said to him, 'I'd love to do a biography of you but let's wait 20 or so years until you retire.' Then off and on after 2004, we would be in touch. ...</p>   <p>"I finally talked to his wife, who was very good at understanding his legacy, and she said, 'If you're going to do a book on Steve, you can't just keep saying, 'I'll do it in 20 years or so.' You really ought to do it now.' This was 2009. Steve Jobs, that year, had had a liver transplant and I realized how sick he was. ... And so, that was when I realized that this was a very fascinating tale and this guy may or may not make it. I thought he was going to live much longer. But at the very least, he was facing the prospect of his mortality so it was time for him to be reflective and do a book."</p>   <p><strong>On his final meeting with Jobs</strong></p>   <p><strong> </strong></p>   <p>Isaacson: "He was pretty sick. He was confined to the house. And he said to me, at the end of our long conversation, 'There will be things in this book I don't like, right?' And I said, 'Yes.' Partly because you can interview people right after a meeting they've had with Steve Jobs [and] you interview five people and get five different stories about what happened. ... People have different perceptions of who he is. ...</p>   <p>"He said, 'I'll make you this promise. I'm not going to read the book until next year, until after it comes out.' And it made me feel a grand emotion, of 'Oh! That's great. Steve is going to be alive for another year.' Because when you're around him, the power of his thinking really grabs you. I remember leaving his house and thinking, 'Oh, I'm so relieved. He'll be alive in a year. He just told me so.' Logically, I should have said, 'He doesn't know what ups and downs he's going to have with his health.' But I think that he always felt some miracle would come along because all of his life, miracles had come along."</p>
+</div>
+<div class="share-tools share-tools--secondary" aria-label="Share tools">
+      <ul>
+            <li class="share-tools__service share-tools__service--facebook"><button class="fbStory141653658" data-share-facebook='{"storyId": 141653658 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2011\/10\/25\/141653658\/steve-jobs-a-computer-icon-on-life-death-and-apple"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+      <li class="share-tools__service share-tools__service--twitter"><button class="story141653658" data-share-twitter='{"storyId": 141653658 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2011\/10\/25\/141653658\/steve-jobs-a-computer-icon-on-life-death-and-apple"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+      <li class="share-tools__service share-tools__service--flipboard"><button class="story141653658" data-share-flipboard='{"storyId": 141653658 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2011\/10\/25\/141653658\/steve-jobs-a-computer-icon-on-life-death-and-apple"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+      <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='141653658'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2011\/10\/25\/141653658\/steve-jobs-a-computer-icon-on-life-death-and-apple"}' ><b class="share-tools__service-name">Email</b></button></li>
+   </ul>
+</div>
+
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div id="newsletter-acquisition-callout-data" data-newsletter="{&quot;newsletterId&quot;:&quot;books&quot;,&quot;title&quot;:&quot;Books&quot;,&quot;marketingHeader&quot;:&quot;Sign Up For The Books Newsletter&quot;,&quot;frequency&quot;:&quot;every week&quot;,&quot;shortDescription&quot;:&quot;Get book recommendations, reviews, author interviews and more, sent weekly.&quot;,&quot;stickyDescription&quot;:&quot;Sign up for the weekly Books newsletter for recommendations, reviews, author interviews and more.&quot;,&quot;contentImage&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2018\/08\/03\/newsletters\/books.png&quot;,&quot;staticMarkupDir&quot;:&quot; &quot;,&quot;brandingDir&quot;:&quot;\/branding\/books\/&quot;,&quot;brandingLink&quot;:&quot;https:\/\/www.npr.org\/books\/&quot;,&quot;organizationId&quot;:427869011,&quot;recaptchaSiteKey&quot;:&quot;6LfD6CYUAAAAAIBeUekwZ9KCjF4UyLFtu7NWNaEK&quot;}">
+   </div>
+
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;BOOKS&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;BOOKS&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE BOOKS NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EVERY WEEK&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;GET BOOK RECOMMENDATIONS, REVIEWS, AUTHOR INTERVIEWS AND MORE, SENT WEEKLY.&QUOT;,&QUOT;STICKYDESCRIPTION&QUOT;:&QUOT;SIGN UP FOR THE WEEKLY BOOKS NEWSLETTER FOR RECOMMENDATIONS, REVIEWS, AUTHOR INTERVIEWS AND MORE.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2018\/08\/03\/NEWSLETTERS\/BOOKS.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT; &QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/BOOKS\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/BOOKS\/&QUOT;,&QUOT;ORGANIZATIONID&QUOT;:427869011,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LFD6CYUAAAAAIBEUEKWZ9KCJF4UYLFTU7NWNAEK&QUOT;}" -->
+<div id="podcast-callout-data" data-podcast="{&quot;name&quot;:&quot;Fresh Air&quot;,&quot;itunesUrl&quot;:&quot;https:\/\/podcasts.apple.com\/podcast\/id214089682?mt=2&amp;at=11l79Y&amp;ct=nprdirectory&quot;,&quot;googlePodcastsUrl&quot;:&quot;https:\/\/www.google.com\/podcasts?feed=aHR0cHM6Ly93d3cubnByLm9yZy9yc3MvcG9kY2FzdC5waHA_aWQ9MzgxNDQ0OTA4&quot;,&quot;rssUrl&quot;:&quot;https:\/\/feeds.npr.org\/381444908\/podcast.xml&quot;,&quot;jsonFeedUrl&quot;:&quot;https:\/\/feeds.npr.org\/feeds\/141653658\/feed.json&quot;,&quot;nprOneUniversalUrl&quot;:&quot;https:\/\/rpb3r.app.goo.gl\/4s8b&quot;,&quot;amazonAlexaUrl&quot;:&quot;&quot;,&quot;pocketCastsUrl&quot;:&quot;https:\/\/pca.st\/freshair&quot;,&quot;spotifyUrl&quot;:&quot;https:\/\/open.spotify.com\/show\/0HF5T1BVjaUR6dMlAamdB5&quot;,&quot;brandingUrl&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2018\/08\/03\/npr_freshair_podcasttile_sq-bb34139df91f7a48120ddce9865817ea11baaf32.jpg&quot;}">
+   </div>
+
+<!-- END ID="PODCAST-CALLOUT-DATA" DATA-PODCAST="{&QUOT;NAME&QUOT;:&QUOT;FRESH AIR&QUOT;,&QUOT;ITUNESURL&QUOT;:&QUOT;HTTPS:\/\/PODCASTS.APPLE.COM\/PODCAST\/ID214089682?MT=2&AMP;AT=11L79Y&AMP;CT=NPRDIRECTORY&QUOT;,&QUOT;GOOGLEPODCASTSURL&QUOT;:&QUOT;HTTPS:\/\/WWW.GOOGLE.COM\/PODCASTS?FEED=AHR0CHM6LY93D3CUBNBYLM9YZY9YC3MVCG9KY2FZDC5WAHA_AWQ9MZGXNDQ0OTA4&QUOT;,&QUOT;RSSURL&QUOT;:&QUOT;HTTPS:\/\/FEEDS.NPR.ORG\/381444908\/PODCAST.XML&QUOT;,&QUOT;JSONFEEDURL&QUOT;:&QUOT;HTTPS:\/\/FEEDS.NPR.ORG\/FEEDS\/141653658\/FEED.JSON&QUOT;,&QUOT;NPRONEUNIVERSALURL&QUOT;:&QUOT;HTTPS:\/\/RPB3R.APP.GOO.GL\/4S8B&QUOT;,&QUOT;AMAZONALEXAURL&QUOT;:&QUOT;&QUOT;,&QUOT;POCKETCASTSURL&QUOT;:&QUOT;HTTPS:\/\/PCA.ST\/FRESHAIR&QUOT;,&QUOT;SPOTIFYURL&QUOT;:&QUOT;HTTPS:\/\/OPEN.SPOTIFY.COM\/SHOW\/0HF5T1BVJAUR6DMLAAMDB5&QUOT;,&QUOT;BRANDINGURL&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2018\/08\/03\/NPR_FRESHAIR_PODCASTTILE_SQ-BB34139DF91F7A48120DDCE9865817EA11BAAF32.JPG&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+   </div>
+
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<aside id="end-of-story-recommendations-mount" class="recommended-stories" aria-label="recommended stories"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><header class="contentheader contentheader--two" data-metrics='{"category":"Author Interviews"}' ></header><footer id="npr-footer" class="npr-footer" role="contentinfo" aria-label="NPR footer"><div class="npr-footer__content" data-metrics-category="Global Footer" data-metrics-label="Footer">
+    <div class="npr-footer__module-group">
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Read &amp; Listen</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/" data-metrics-action="Click Homepage">Home</a></li>
+                <li class="npr-footer__item"><a href="/sections/news/" data-metrics-action="Click News">News</a></li>
+                <li class="npr-footer__item"><a href="/sections/arts/" data-metrics-action="Click Arts &amp; Life">Arts &amp; Life</a></li>
+                <li class="npr-footer__item"><a href="/music/" data-metrics-action="Click Music">Music</a></li>
+                <li class="npr-footer__item"><a href="/podcasts/" data-metrics-action="Click Podcasts">Podcasts</a></li>
+                <li class="npr-footer__item"><a href="/programs/" data-metrics-action="Click Programs">Programs</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Connect</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/newsletters/" data-metrics-action="Click Newsletters">Newsletters</a></li>
+                <li class="npr-footer__item"><a href="https://www.facebook.com/NPR/" data-metrics-action="Click Facebook">Facebook</a></li>
+                <li class="npr-footer__item"><a href="https://twitter.com/NPR" data-metrics-action="Click Twitter">Twitter</a></li>
+                <li class="npr-footer__item"><a href="https://www.instagram.com/npr/" data-metrics-action="Click Instagram">Instagram</a></li>
+                <li class="npr-footer__item"><a href="https://www.npr.org/contact" data-metrics-action="Click Contact">Contact</a></li>
+                <li class="npr-footer__item"><a href="https://help.npr.org" data-metrics-action="Click Help">Help</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">About NPR</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/about/" data-metrics-action="Click Overview">Overview</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="Click Finances">Finances</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/179803822/people-at-npr" data-metrics-action="Click People">People</a></li>
+                <li class="npr-footer__item"><a href="/press/" data-metrics-action="Click Press">Press</a></li>
+                <li class="npr-footer__item"><a href="/sections/publiceditor/" data-metrics-action="Click Public Editor">Public Editor</a></li>
+                <li class="npr-footer__item"><a href="/corrections/" data-metrics-action="Click Corrections">Corrections</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Get Involved</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/support/" data-metrics-action="Click Support Public Radio">Support Public Radio</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="Click Sponsor NPR">Sponsor NPR</a></li>
+                <li class="npr-footer__item"><a href="/careers/" data-metrics-action="Click NPR Careers">NPR Careers</a></li>
+                <li class="npr-footer__item"><a href="https://shop.npr.org/" data-metrics-action="Click NPR Shop">NPR Shop</a></li>
+                <li class="npr-footer__item"><a href="https://www.nprpresents.org" data-metrics-action="Click NPR Events">NPR Events</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/177066727/visit-npr" data-metrics-action="Click Visit NPR">Visit NPR</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="npr-footer__module npr-footer__module--secondary">
+        <ul>
+            <li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use" data-metrics-action="Click Terms of Use">Terms of Use</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy" data-metrics-action="Click Privacy">Privacy</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices" data-metrics-action="Click Your Privacy Choices">Your Privacy Choices</a></li>
+            <li class="npr-footer__item"><a href="https://text.npr.org/" data-metrics-action="Click Text Only">Text Only</a></li>
+            <li class="npr-footer__item"><span class="copy-year"></span></li>
+        </ul>
+    </div>
+</div></footer><div id="global-stickybar-mount" class="global-stickybar-mount">
+   </div>
+</section>   <div id="main-sidebar">
+            <aside id="ad-standard-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-standard-Arts___Life_Books_Author_Interviews" class="ad-standard" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"zone":"Arts___Life_Books_Author_Interviews","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"141653658","program":"Fresh_Air","agg":["141136744","125637934","100876926"],"book_genres":["Digital_Culture","Nonfiction","Science___Health","Business___Economy","Biography___Memoir"]},"location":"standard","deferred":false,"isBetweenContent":false,"isAggSponsorship":false,"borderClass":""}'></div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+
+</aside>
+   </div>
+   
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<section id="global-modal-mount"></section>
+<!-- END ID="GLOBAL-MODAL-MOUNT" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { webpackJsonp([77,23],{0:function(n,t,c){n.exports=c(1914)},1914:function(n,t,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,function(){var n=2,t=function(){--n<1&&function(n){c(40),c(2321),c(268),c(378),c(215),c(1499),c(650),c(384),c(2326),c(383),c(2325),c(2324),c(440),c(2319),c(1649),c(2312),c(259)}(c)}.bind(this);c.e(0,t),c.e(3,t)}.call(this)}}); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main><noscript><iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe></noscript><script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = '18888';
+    _sf_async_config.domain = NPR.ServerConstants.cbHost;
+    _sf_async_config.useCanonical = true;
+
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            // Wait until the metric for chartbeat have been setup
+            // in templates/javascript/metrics/chartbeat.js
+            if( !!NPR.ChartbeatLoaded) {
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            } else {
+                setTimeout(loadChartbeat, 1000);
+            }
+        }
+
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+            oldonload();
+            window._sf_endpt = (new Date()).getTime();
+            loadChartbeat();
+        };
+    })();
+</script></body></html>

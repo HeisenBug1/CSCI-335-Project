@@ -1,0 +1,2365 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+            <script type="text/javascript">
+    if (typeof dataLayer == 'undefined') {
+        dataLayer = [];
+    }
+        dataLayer.push({
+                'DidomiStatus': {
+                    // Didomi variables
+                    'GDPRApplies': '1',
+                    'IABConsent':'CO7n8C8O7n8C8AHABBENA8CkAP_AAE7AAAAAF5wAQF5gAAAA.f_gACdgAAAAA',
+                    'VendorsConsent': 'iab:16,iab:91,iab:132,didomi:google,c:bing-ads,c:microsoft,c:yahoo-analytics,c:ab-tasty,c:new-relic,c:yahoo-gemini-and-flurry,c:civitatis-92D3czdb,c:facebook-P3gAx3qD,', //Socios aceptados
+                    'VendorsConsentUnknown': '', //Socios sin estado
+                    'VendorsConsentDenied': '', //Socios denegados
+                    'PurposesConsent': 'datosprop-PVLNLgfk,geo_marketing_studies,geo_ads,cookies,select_basic_ads,create_ads_profile,select_personalized_ads,measure_ad_performance,improve_products,market_research,measure_content_performance,select_personalized_content,create_content_profile,device_characteristics,', //Categorias aceptadas
+                    'PurposesConsentUnknown': '', //Categorias sin estado
+                    'PurposesConsentDenied': '', //Categorias denegadas
+                    'ExperimentId': '', //Id de experimento
+                    'ExperimentUserGroup': '', //Grupo de experimento
+                }
+            });
+</script>        <link rel="preconnect" href="https://cdn2.civitatis.com"/>
+            <title>Currency in London - Money used in London and in the UK</title>
+    <meta name="title" content="Currency in London - Money used in London and in the UK" />
+            <meta name="description" content="The official currency of the United Kingdom is the pound sterling. Find out where to exchange currencies and where to withdraw pounds." />
+                <meta name="keywords" content="money in london, currency in london, pounds in london, money used in the uk, currency used in the uk, coins used in London, coins used in the uk, banknotes london, uk banknotes, uk coins, cash points london, cash machines london, atms in london, london atms, london cash machines" />
+        <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rev="made" rel="author" href="mailto:" />
+    <meta name="revisit-after" content="30" />
+    <meta name="robots" content="all" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"9bf0b81ab3",applicationID:"23981906"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(6),c=e(7),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(5),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,y=["click","keydown","mousedown","pointerdown","touchstart"];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],6:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function n(n,r,i,o){if(!p.aborted||o){e&&e(n,r,i);for(var a=t(i),c=v(n),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var d=s[w[n]];return d&&d.push([b,n,r,a]),a}}function l(e,t){h[e]=v(e).concat(t)}function m(e,t){var n=h[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(n)}function y(e,t){u(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:y,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var c="nr@context",f=e("gos"),u=e(6),s={},d={},p=t.exports=i();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=b.info=NREUM.info,t=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+b.offset],null,"api"),c("timing",["load",n]);var r=p.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===p.readyState&&o()}function o(){c("mark",["domContent",a()+b.offset],null,"api")}var a=e(2),c=e("handle"),f=e(6),u=e("ee"),s=e(4),d=window,p=d.document,l="addEventListener",m="attachEvent",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},w=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:w,userAgent:s};e(1),e(3),p[l]?(p[l]("DOMContentLoaded",o,!1),d[l]("load",r,!1)):(p[m]("onreadystatechange",i),d[m]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0},{}],"wrap-function":[function(e,t,n){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(7),a="nr@original",c=Object.prototype.hasOwnProperty,f=!1;t.exports=function(e,t){function n(e,t,n,i){function nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){p([u,"",[r,a,i],c])}s(t+"start",[r,a,i],c);try{return f=e.apply(a,r)}catch(d){throw s(t+"err",[r,a,d],c),d}finally{s(t+"end",[r,a,f],c)}}return r(e)?e:(t||(t=""),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function u(e,t,i,o){i||(i="");var a,c,f,u="-"===i.charAt(0);for(f=0;f<t.length;f++)c=t[f],a=e[c],r(a)||(e[c]=n(a,u?c+i:i,o,c))}function s(n,r,i){if(!f||t){var o=f;f=!0;try{e.emit(n,r,i,t)}catch(a){p([a,n,r,i])}f=o}}function d(e,t){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(e);return n.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(r){p([r])}for(var i in e)c.call(e,i)&&(t[i]=e[i]);return t}function p(t){try{e.emit("internal-error",t)}catch(n){}}return e||(e=i),n.inPlace=u,n.flag=a,n}},{}]},{},["loader"]);</script>
+    <meta name="theme-color" content="#f70759">
+    <meta name="p:domain_verify" content="c7f46053b0b7b48b381542ef63ebe44e"/>
+    <meta name="pinterest-rich-pin" content="false" />
+        <link rel="preload" href="https://cdn2.civitatis.com/fonts/civitatis-new-icons.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="https://cdn2.civitatis.com/fonts/montserrat-regular-webfont.woff2" as="font" type="font/woff2" crossorigin />
+
+            <link rel="preload" href="https://cdn2.civitatis.com/fonts/guias-new-texts-webfont-v2.woff2" as="font" type="font/woff2" crossorigin />
+                        <link rel="apple-touch-icon" sizes="57x57" href="https://cdn2.civitatis.com/reino-unido/londres/icon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="https://cdn2.civitatis.com/reino-unido/londres/icon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="https://cdn2.civitatis.com/reino-unido/londres/icon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://cdn2.civitatis.com/reino-unido/londres/icon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="https://cdn2.civitatis.com/reino-unido/londres/icon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://cdn2.civitatis.com/reino-unido/londres/icon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="https://cdn2.civitatis.com/reino-unido/londres/icon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://cdn2.civitatis.com/reino-unido/londres/icon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://cdn2.civitatis.com/reino-unido/londres/icon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="https://cdn2.civitatis.com/reino-unido/londres/icon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://cdn2.civitatis.com/reino-unido/londres/icon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="https://cdn2.civitatis.com/reino-unido/londres/icon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://cdn2.civitatis.com/reino-unido/londres/icon/favicon-16x16.png">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="https://cdn2.civitatis.com/reino-unido/londres/icon/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+    
+
+            <link rel="canonical" href="https://www.londoncitybreak.com/currency"/>
+    
+    
+    
+                                                            <meta name="apple-itunes-app" content="app-id=976717995"/>
+                                        
+                                            
+                                                            <link rel="manifest" href="/manifest.json">
+                                            
+        
+                <link rel="alternate" href="https://www.londoncitybreak.com/currency" hreflang="en"/>
+                    <link rel="alternate" href="https://www.londres.es/moneda" hreflang="es"/>
+                    <link rel="alternate" href="https://www.londres.fr/monnaie" hreflang="fr"/>
+                    <link rel="alternate" href="https://www.scoprilondra.com/moneta" hreflang="it"/>
+                    <link rel="alternate" href="https://www.tudosobrelondres.com/moeda" hreflang="pt"/>
+            
+            <script type="text/javascript" src="https://cdn2.civitatis.com/js/vendor/civitatisGuidesVendor-cae220db6d7ee1deb23021d984df3033c33e4c25.min.js" crossorigin="anonymous"></script>
+    <script>
+        var  locale = 'en';
+        
+var i18n = {
+        currencySymbols: {
+            "EUR": "€",
+            "USD": "US$",
+            "GBP": "£"
+        },
+
+        currencyToLocale: {
+            "EUR": "es-ES",
+            "USD": "en-US",
+            "GBP": "en-GB"
+        },
+
+        localeToRegion: {
+            "es": "es-ES",
+            "en": "en-US",
+            "it": "it-IT",
+            "fr": "fr-FR",
+            "pt": "pt-PT",
+            "ar": "es-AR",
+            "mx": "es-MX",
+            "br": "pt-BR",
+        },
+
+
+        "en": {
+            "calendarLegacy.place": "left",
+            "calendarLegacy.places": "left",
+            "calendarLegacy.notAllowedMoreThanNReservations": "You can't reserve for more than {1} people.",
+            "calendarLegacy.nPlacesLeft": "There are {1} places left",
+            "calendarLegacy.onePlaceLeft": "There is one place left",
+            "calendarLegacy.noPlacesLeft": "There are no places left at this time",
+            "calendarLegacy.free": "Free",
+            "calendarLegacy.adults": ['family', 'families', 'adult', 'group', 'retiree', 'and 24', 'and 25', 'and 26', 'between 18'],
+            "calendarLegacy.children": ['Children', 'Youth', 'baby', 'babies', '=Free entry'],
+            "calendarLegacy.minors": ['Minors'],
+            "calendarLegacy.patterns": ['19','20','21','22','23','24','25','26','27','28','29','30'],
+            "calendarLegacy.foldedSupercalendarDateTimeFormat": "dddd, D MMMM YYYY",
+            "calendarLegacy.pagantisQuotasCalendar": "or {1} installments of {2}",
+            "errorMsg.hour": "Select the <strong>time</strong>.",
+            "errorMsg.categoria": "Select the <strong> activity type</strong>.",
+            "errorMsg.totalPeople": "Select the <strong>number of people</strong>.",
+            "errorMsg.totalChildren": "Children and minors can not do this activity <strong>without being accompanied by an adult</strong>.",
+            "errorMsg.date": "Choose a <strong>date</strong>.",
+            "errorMsg.dateHour": "Choose a <strong>new time</strong> for that date.",
+            "errorMsg.notAvailableToday": "We do not have availability for that date.",
+            "errorMsg.availabilityNo": "Sorry, <strong>there is no availability for that date and time. Please select another day / time.</Strong>",
+            "errorMsg.availabilityFail": "Sorry, there is no availability at this time. <strong>Please choose another day/time.</strong>",
+            "errorMsg.availabilityNotFound": "Sorry, we were unable to confirm availability with the provider.",
+            "errorMsg.singleSupplementWarning": "An individual supplement will be added during the next step of the booking process.",
+
+            "errorMsg.Entrada gratuita": "Si sólo vais a reservar entradas gratuitas, no es necesario que hagáis la reserva.",
+            "errorMsg.Free entry": "If you're only reserving free tickets, it\'s not neccesary that you make a reservation.",
+            "errorMsg.Entrée gratuite": "Si vous allez réserver uniquement des entrées gratuites, il n’est pas nécessaire de réaliser la réservation.",
+            "errorMsg.Ingresso gratuito": "Se volete prenotare soltanto biglietti gratuiti, non è necessario eseguire la prenotazione con noi.",
+            "errorMsg.Entrada gratuita": "Se você só precisa de ingressos gratuitos, não é necessário fazer a reserva.",
+            
+
+            "errorMsg.madridBusFamilyWarning": "The family ticket is not available for the two day option.",
+            "actionMsg.availabilityCheck": "Checking availability",
+            "actionMsg.action": "Book",
+            "actionMsg.actionModify": "Update",
+
+
+
+            "button_dispo": "See availability",
+            "actividad": "activity",
+            "activities": "activities",
+            "actividad.plural": "activities",
+            "transfers": "transfers",
+            "touristic_guide": "travel guide",
+            "destinations": "destinations",
+            "dondeVamos": "Where are you travelling to?",
+            "dondeVamosUpperCase": "WHERE ARE YOU TRAVELLING TO?",
+            "dondeVamos2": "Where do you want to go?",
+            "dondeVamosUpperCase2": "WHERE DO YOU WANT TO GO?",
+            "topDestinations": "Top destinations",
+            "recentSearchs": "Recent searches",
+            "arrival-date": "Arrival date",
+            "pickup-date": "Pick up Date",
+            "arrival-time": "Arrival time",
+            "return-date": "Departure date",
+            "return-time": "Pick up time",
+            "transfers.train-text": "Your train arrival time is <b>available on your train ticket or on your email booking</b>.",
+            "transfers.airport-text": "The estimated flight arrival time is on <b>your flight ticket or in the confirmation email</b>.",
+            "transfers.hotel-text": "Later on, we will ask you for your exact address.",
+            "transfers.toairport-text": "Please let us know <b>the exact time you wish us to collect you at your hotel</b>, not your flight departure time.",
+            "transfers.arrival-text.airport": "Flight arrival time",
+            "transfers.arrival-text.port": "Cruise ship arrival time",
+            "transfers.arrival-text.train": "Train arrival time",
+            "transfers.arrival-text.hotel": "Hotel pick-up time",
+            "transfers.airport-hotel": "Airport - Hotel Transfer",
+            "transfers.airport-hotel-2": "Airport - Hotel",
+            "transfers.hotel-airport": "Hotel - Airport Transfer",
+            "transfers.hotel-airport-2": "Hotel - Airport",
+            "transfers.round-trip": "Return Transfer Service",
+            "transfers.round-trip-2": "Round trip",
+            "transfers.others": "Other transfers",
+            "transfers.others-in": "Other transfers in {1}",
+            "transfer.selectOrigin": "Pick a departure location",
+            "transfer.selectDestination": "Select a destination",
+            "transfer.selectAirport": "Pick an airport",
+            "transfer.selectDate": "Select a date",
+            "transfer.selectHour": "Select an hour",
+            "transfer.selectRoundTrip": "Round trip",
+            "transfer.selectReturnDate": "Return date",
+            "transfer.selectReturnHour": "Time of return",
+            "transfer.selectAirportArrival": "Destination airport",
+            "transfer.selectAirportDeparture": "Departure airport",
+            "transfer.selectDestinationArrival": "Destino",
+            "transfer.selectDestinationDeparture": "Pick-up area",
+            "transfer.selectDateArrival": "Arrival date",
+            "transfer.selectDateDeparture": "Pick-up date", //Fecha de recogida
+            "transfer.selectHourArrival": "Arrival time",
+            "transfer.selectHourDeparture": "Pick-up time",
+            "transfer.selectOrigin2": "From",
+            "transfer.selectDate2": "Date",
+            "transfer.selectHour2": "Time",
+            "modify": "Change",
+            "number-of-passengers": "Number of passengers",
+            "deleteTransfer": "Cancel transfer",
+            "search": "search",
+            "searchUpperCase": "SEARCH",
+            "search.in.1": "Search",
+            "search.in.2" : "",
+            "search.emptySearch" : "Where do you want to travel to?",
+            "search.allResultsWith" : "See all the results with \"{1}\"",
+            "search.allResults" : "See all the results",
+            "search.weDontHaveWithThatTerm1" : "We don’t have any destinations or activities that match your search",
+            "search.weDontHaveWithThatTerm11" : "There are no results for this search",
+            "search.weDontHaveWithThatTerm2" : "We’re working so that you can find it next time!",
+            "search.weDontHaveWithThatTerm1Lang" : "Oh no! We still don't have any English-speaking activities in {1}. But they will be available shortly.",
+            "search.weDontHaveWithThatTerm2Lang" : "Meanwhile, you can check out our activities in other languages.",
+            "search.disambiguationUrl" : "/search",
+            "aFromB" : "{1} out of {2}",
+            "viewAllDestinations" : "Show all destinations",
+            "toQuestion" : "{1}?",
+            "paylands.refresh.title" : "Your time has expired :(",
+            "paylands.refresh.text" : "Refresh the web page to complete the payment section.",
+            "paylands.refresh.btn" : "Refresh the page",
+            "btns.book" : "Book",
+            "btns.bookNow" : "Reserve now",
+            "btns.addCart" : "Add to Cart",
+            "btns.continue" : "Continue",
+            "btns.confirm" : "Confirm",
+            "btns.checkingAvailability" : "checking availability",
+            "btns.cancel" : "cancel",
+            "btns.accept" : "accept",
+            "btns.acceptCapitalize" : "Accept",
+            "btns.reset" : "reset",
+            "btns.update" : "update",
+            "btns.cancelCapitalize" : "Cancel",
+            "btns.updateCapitalize" : "Update",
+            "labels.date" : "Date",
+            "labels.time" : "Time",
+            "labels.time.select" : "Select an hour",
+            "labels.date.select" : "Select a date",
+            "labels.activity-type" : "Type of activity",
+            "labels.people" : "People",
+            "selectDate" : "Select a date",
+            "selectDateAndTime" : "Select date and time",
+            "selectOther" : "Select amount",
+            "selectOtherWithTime" : "Select time and amount",
+            "selectOtherWithType" : "Select type and amount",
+            "selectOtherComplete" : "Select time, tour and number of people",
+            "notAvailableToday" : "This activity is not available on the chosen dates.",
+            "errors.reload" : "An error has occurred. Please reload the page and try again.",
+            "errors.retry" : "An error has occurred. Please try again later.",
+            "errors.noResults" : "No results found.",
+            "errors.noResults.short" : "There are no results.",
+            "errors.calendar.main" : "There was an error while loading the calendar. Reload the page and try again.",
+            "errors.date" : "Select a date.",
+            "errors.time" : "Select a time.",
+            "errors.people" : "Select the number of people.",
+            "errors.variants" : "Please fill out the field <i>{1}</i>.",
+            "errors.solo" : "Children and minors must be accompanied by an adult to take part in this activity.",
+            "errors.quota" : "There aren't enough places. There are {1} places left for the chosen date.",
+            "errors.quota.etc" : "There aren't enough places. There are {1} places left for the combination selected.",
+            "errors.availability.no" : "We're sorry, <strong>there are no places for that day and time. Please, choose another day/hour.</strong>.",
+            "errors.availability.no.general" : "We're sorry, we were unable to confirm availability at this time. <strong>Please, try again.</strong>",
+            "errors.availability.fail" : "Sorry, there is no availability at this time. <strong>Please choose another day/time.</strong>",
+            "errors.availability.notFound" : "We're sorry, we were unable to confirm the availability with the supplier.",
+            "errors.date.postbooking" : "Please enter a valid date.",
+            "singleSupplementWarning" : "An individual supplement will be added during the next step of the booking process.",
+            "filters.today" : "Today",
+            "filters.tomorrow" : "Tomorrow",
+            "filters.selectedDate" : "the chosen dates",
+            "filters.range" : "Date range",
+            "filters.from" : "From", 
+            "filters.to" : "Till", 
+            "filters.availability.warning" : "You must select a start and end date",
+            "filters.availability.fromWarning" : "You must select a start date",
+            "filters.availability.maxDaysWarning" : "It is only possible to see availability for a maximum of {1} days",
+            "filters.noactivities.yet" : "We don’t have any activities in {1} yet",
+            "filters.noactivities.yet.nodestination" : "We don’t have any activities yet",
+            "filters.noresults" : "No results found in {1}",
+            "filters.noresults.nodestination" : "No results found",
+            "filters.noresults.long" : "No results were found in {}, but you can check out all the activities in this destination",
+            "filters.noresults.nodestination.long" : "No results were found, but you can check out all the activities in this destination",
+            "filters.noresults.tryanother" : "Try modifying some of the filters",
+            "filters.noresults.date" : "We don’t have activities of this type in {2} for {1}",
+            "filters.noresults.date.nodestination" : "We don’t have activities of this type in {1}",
+            "filters.noresults.dateOnly" : "There are no activities available in {2} for {1}",
+            "filters.noresults.dateOnly.nodestination" : "There are no activities available for {1}",
+            "filters.noresults.viewOnDateToday" : "Check out all the available activities for today",
+            "filters.noresults.viewOnDateTomorrow" : "Check out all the available activities for tomorrow",
+            "filters.noresults.viewOnDateDate" : "Check all the available activities for the chosen dates",
+            "filters.noresults.viewOnAnotherDateDate" : "Check out the activities of this type you can do on another day",
+            "filters.title" : "1 activity in {1}",
+            "filters.title.nodestination" : "1 activity",
+            "filters.title.paginated.nodestination" : "1 activity of {1}",
+            "filters.title.paginated.nodestination.plural" : "{1} activities of {2}",
+            "filter.title.paginated" : "1 activity of {1} in {2}",
+            "filter.title.paginated.plural" : "{1} activities of {2} in {3}",
+            "filters.daytrip.paginated" : "1 day trip to {1} of {2",
+            "filters.daytrip.paginated.nodestination" : "1 day trip of {1}",
+            "filters.daytrip.paginated.filtered.plural" : "{1} day trips to {2} of {3}",
+            "filters.daytrip.paginated.filtered.nodestination.plural" : "{1} day trips of {2}",
+            "filters.title.plural" : "{1} activities in {2}",
+            "filters.title.nodestination.plural" : "{1} activities",
+            "filters.title.filtered.plural" : "{1} activities",
+            "filters.title.filtered.nodestination.plural" : "{1} activities",
+            "filters.noactivities" : "No activities in {1}",
+            "filters.noactivities.nodestination" : "No activities",
+            "filters.nearactivities" : "Nearby activities",
+            "filters.nearactivities.filtered" : "1 nearby activity",
+            "filters.nearactivities.filtered.plural" : "Other {1} nearby activities",
+            "filters.nearactivities.noresults" : "We haven’t found any nearby activities",
+            "filters.daytrip" : "1 day trip to {1}",
+            "filters.daytrip.nodestination" : "1 day trip",
+            "filters.daytrip.filtered.plural" : "{1} day trips to {2}",
+            "filters.daytrip.filtered.nodestination.plural" : "{1} day trips",
+            "filters.labels.availability" : "Availability",
+            "filters.labels.category" : "Categories",
+            "filters.labels.service" : "Services",
+            "filters.labels.accesibility" : "Accessibility",
+            "filters.labels.feature": "Features",
+            "filters.labels.destination" : "Cities",
+            "filters.labels.nearDestinations" : "Nearby destinations",
+            "filters.labels.price" : "Price",
+            "filters.labels.duration" : "Duration",
+            "filters.btns.viewOneActivitie" : "See 1 activity",
+            "filters.btns.viewActivities" : "See {1} activities",
+            "filters.btns.viewResults" : "View results",
+            "filters.transfersLink" : "Airport transfers",
+            "navBarActivity_prices" : "Prices",
+            "schedules" : "Schedules",
+            "flexibleSchedule" : "Flexible schedule",
+            "noSchedule" : "Unavailable on this day",
+            "laterSchedule" : "To check the full availability of dates, please visit the webpage of the activity",
+            "filters.removeFilters" : "Remove filters",
+            "filter" : "Filter",
+            "free" : "free",
+            "confirmation" : "confirmation",
+            "activityCancelWarning" : "Are you sure you wish to cancel the reservation?",
+            "activityCancelAbort" : "No, do not cancel the reservation",
+            "activityCancelConfirm" : "Yes, cancel the reservation",
+            "activityDeleteWarning" : "Are you sure you wish to delete the reservation?",
+            "activityDeleteAbort" : "No, do not delete the reservation",
+            "activityDeleteConfirm" : "Yes, delete the reservation",
+            "minute" : "minute",
+            "minutes" : "minutes",
+            "hour" : "hour",
+            "hours" : "hours",
+            "day" : "day",
+            "days" : "days",
+            "week" : "week",
+            "weeks" : "weeks",
+            "month" : "month",
+            "months" : "months",
+            "year" : "year",
+            "years" : "years",
+            "abbr.minutes" : "min.",
+            "abbr.hours" : "hrs.",
+            "abbr.days" : "d.",
+            "abbr.weeks" : "w.",
+            "filters.applied.range" : "From {1} to {2}",
+            "filters.applied.range.part1.singular" : "From",
+            "filters.applied.range.part1.plural" : "From",
+            "filters.applied.range.part1.first" : "1",
+            "filters.applied.range.part2.singular" : "to",
+            "filters.applied.range.part2.plural" : "to",
+            "filters.applied.range.part2.first" : "1",
+            "filters.applied.price" : "From {1} to {2}",
+            "filters.applied.price.range.from" : "From {1}",
+            "filters.applied.price.range.to" : "Up to {1}",
+            "filters.applied.duration" : "From {1} {2} to {3} {4}",
+            "filters.applied.duration.simple" : "From {1} to {2} {3}",
+            "filters.applied.duration.range.to" : "Up to {1} {2}",
+            "filters.applied.duration.range.from" : "From {1} {2}",
+            "filters.applied.duration.exact" : "{1} {2}",
+            "filters.applied.price.exact" : "{1}",
+            "postbooking.errors.date" : "Please enter a date",
+            "slider.numFoto" : "{1} of {2} photos",
+            "timeFormats.postBookingDateField" : "dddd, D MMMM YYYY",
+            "timeFormats.foldedSupercalendarDate" : "dddd, D MMMM YYYY",
+            "timeFormats.datePickerFormat" : "MM/DD/YYYY",
+            "timeFormats.datePickerFormatCleave" : ['m', 'd', 'Y'],
+            "timeFormats.datePickerSeparatorCleave" : "/",
+            "timeFormats.DDMM" : "MM/DD",
+            "timeFormats.dayOfMonth" : "DD [of] MMMM",
+            "timeFormats.dayOfMonth.nopad" : "D [of] MMMM",
+            "timeFormats.time" : "HH:mm",
+            "timeFormats.time-template" : "HHmm",
+            "weekStart" : "1",
+            "gaq.activities" : "Activities",
+            "gaq.calendar" : "Calendar",
+            parsley: {
+                defaultMessage: "This parameter appears to be invalid.",
+                type: {
+                    email:        "Incorrect email.",
+                    url:          "Incorrect URL.",
+                    number:       "Please enter a valid number.",
+                    integer:      "Please enter a whole number.",
+                    digits:       "Please enter a valid digit.",
+                    alphanum:     "Please enter both letters and numbers.",
+                },
+                notblank:       "This field must be filled out.",
+                required:       "Mandatory field.",
+                pattern:        "Incorrect value.",
+                min:            "The value must not be less than %s.",
+                max:            "The value must not be more than %s.",
+                range:          "The value must be between %s and %s.",
+                minlength:      "The value is too short. It must be at least %s long.",
+                maxlength:      "The value is too long. It must be less than %s long.",
+                length:         "The value must be between %s and %s characters long.",
+                mincheck:       "Please choose at least %s options.",
+                maxcheck:       "Please choose %s options or less.",
+                check:          "Please choose between %s and %s options.",
+                equalto:        "This value must be identical.",
+            },
+            "ratingMsg.1" : "<b>Very bad</b><span>I didn’t like the experience at all</span>",
+            "ratingMsg.2" : "<b>Bad</b><span>The experience was a bit of a letdown</span>",
+            "ratingMsg.3" : "<b>So-so</b><span>I wouldn’t really recommend it</span>",
+            "ratingMsg.4" : "<b>Good!</b><span>We really enjoyed the experience!</span>",
+            "ratingMsg.5" : "<b>Awesome!</b><span>I would recommend the experience to anyone, especially to my closest friends</span>",
+            "moreInfo" : "More information",
+            "close" : "",
+            "urls.destinations" : "/destinations",
+            "cartActivity" : "activity",
+            "cartActivities" : "activities",
+            "cartTransfer" : "transfer",
+            "cartTransfers" : "transfers",
+            "cartMessageCorrect" : "You have successfully added it to your shopping basket :)",
+            "cartMessageWhatsNext" : "What do you wish to do now?",
+            "cartProcessOrder" : "Process the order",
+            "cartFinishBooking" : "Finish the booking",
+            
+            "cartMessageFatalError" : "Oh, something went wrong",
+            "cartMessageRepeat" : "This activity is already in your shopping basket for the same day and time",
+            "cartMessageRepeatFreeTour" : "You have this free tour in your basket",
+            "cartMessageWannaReplace" : "Do you want to replace it?",
+            "cartMessageWannaReplaceMasc" : "Do you want to replace it?",
+            "cartYesReplace" : "Yes, please replace it",
+            "cartNoReplace" : "No, please leave the one I already had",
+            "cartMessageFreeTourReservedTitle" : "You've booked \"{1}\" for the {2} at {3}",
+            "cartMessageFreeTourMultipleReservedTitle" : "You have already got various free tours reserved.",
+            "cartMessageFreeTourReservedBody" : "If you continue, the previous bookings of this free tour will be removed.",
+            "cartMessageFreeTourMultipleReservedBody" : "If you continue, the previous bookings of these free tours will be removed.",
+            "cartMessageFreeTourMultipleReservedBody2" : "\"{1}\" on the {2} at {3}",
+            "cartRefreshPageTitle" : "Please wait a moment :)",
+            "cartRefreshPageSubtitle" : "The activities in your shopping basket have been modified while you were filling out your information. We are going to refresh the page so you can continue.",
+            "seeInGoogleMaps" : "View in Google Maps",
+            "seeInteractiveMap" : "View on interactive map",
+            "clientsUrl" : "/customers",
+            "myBookingsUrl" : "/my-bookings",
+            "bookingUrl" : "/book",
+            "activitiesUrl" : "/activities",
+            "activitiesUrlWithoutSlash" : "activities",
+            "transfersUrl" : "/transfers",
+            "transfersUrlWithoutSlash" : "transfers",
+            "payUrl" : "/payment",
+            "reviewUrl" : "/opinion",
+            "personalDataUrl" : "/personal-information",
+            "modifyUrl" : "/modify",
+            "cancelUrl" : "/cancel",
+            "accept_change_date_offer_link_href" : "/accept-change-date-time",
+            "confirmUrl" : "/confirm",
+            "agenciesUrl" : "/agencies",
+            "contactUrl" : "/contact",
+            "affiliatesUrl" : "/affiliates",
+            "cardTotalPrice" : "Total price",
+            "cardPayNow" : "Pay now",
+            "cardAndTheDayOfTheActivity" : "and the day of the activity",
+            "cardPerson" : "person",
+            "cardPersonPlural" : "people",
+            "cardSeat" : "seat",
+            "cardSeatPlural" : "seats",
+            "cardBigSuitcase" : "large suitcases",
+            "cardBigSuitcasePlural" : "large suitcases",
+            "cardHandLuggage" : "hand luggage",
+            "cardHandLuggagePlural" : "hand luggage",
+            "cardBookingNumber" : "Reservation number",
+            "cardHadPaid" : "You have paid",
+            "cardWillPay" : "You will be asked to pay when you are collected",
+            "cardCommentPendiente" : "Comment pending review",
+            "cardCommentPublicado" : "Published review",
+            "cardCommentNoPublicado" : "Review hasn't been approved",
+            "cardYourValuation" : "Your review of the service",
+            "cardAssessment" : "Review",
+            "cardAssess" : "Review",
+            "cardCancel" : "Cancelled",
+            "cardCustomRoute" : "Custom-made transfer",
+            "cardPayAtDestination" : "Amount to be paid on arrival",
+            "dropzone.dictFileTooBig" : "The file is too large ({1} MB is the maximum size).",
+            "dropzone.dictInvalidFileType" : "This type of file may not be sent.",
+            "dropzone.dictMaxFilesExceeded" : "It is impossible to send more files.",
+            "dropzone.responseError" : "An error has occurred with the files, try it again.",
+            "flights.addDepartureDate" : "Add departure date",
+            "flights.addReturnDate" : "Add return date",
+            "flights.OriginPlaceholder" : "From",
+            "flights.DestinationPlaceholder" : "To",
+            "reviewAboutBooking" : "Share your experience: Leave us a review",
+            "consultationOrClaimAboutBooking" : "Send us a query or a complaint",
+            "downloadInvoice" : "Download the invoice",
+            "index_mainContentReviewsPuntualidad" : "Punctuality",
+            "index_mainContentReviewsVehiculo" : "Vehicle",
+            "index_mainContentReviewsConductor" : "Chauffeur",
+            "index_mainContentReviewsRepeat" : "Would you repeat the experience?",
+            "index_mainContentReviewsRepeatYes" : "Yes",
+            "index_mainContentReviewsRepeatNo" : "No",
+            "total" : "Total",
+            "error.errorInputData" : "Insert the correct code",
+            "error.errorInputDestination" : "Insert a correct destination",
+            "error.errorInputCategory" : "Insert a correct category",
+            "error.errorInputActivity" : "Insert a correct activity",
+            "error.noDestinationFound" : "We don't have this destination",
+            "error.selectCity" : "Choose a city",
+            "tooltip.errorPrivacyConditions" : "You must agree to our privacy policy and terms of use",
+            "tooltip.errorPrivacyConditionsAffiliates" : "You must agree to our privacy policy and affiliate terms and conditions",
+            "tooltip.errorPrivacyConditionsAgencies" : "You must agree to our privacy policy and agency terms and conditions",
+            "tooltip.errorPrivacy" : "You must agree to our privacy policy",
+            "tooltip.errorConditions" : "You must agree to our general terms of use",
+            "tooltip.errorConditionsAffiliates" : "You must agree to our affiliate terms and conditions",
+            "tooltip.errorConditionsAgencies" : "You must agree to our agency terms and conditions",
+            "instalment.singular" : "installment",
+            "instalment.plural" : "installments",
+            "invoices.titleErrorModal" : "The invoice was unable to be generated",
+            
+            "invoices.titleSuccessModal" : "Invoice generated successfully",
+            
+            "invoices.titleSuccessProviderModal" : "Invoice requested successfully",
+            "invoices.bodySuccessProviderModal" : "An email will be sent to you when your invoice is generated.",
+            "invoices.REQUESTED_STATUS_OK_REQUESTED" : "Invoice correctly requested. You will be sent an email containing this invoice once it has been generated.",
+            "invoices.REQUESTED_STATUS_OK_REQUESTED_plural" : "Invoices correctly requested. You will be sent an email containing these invoices once they have been generated.",
+            "invoices.REQUESTED_STATUS_OK_TO_PROVIDER_READY_WHEN_TOUR_FINISH" : "Your invoice has been requested, you'll receive it by email after the activity takes place.",
+            "invoices.REQUESTED_STATUS_OK_TO_PROVIDER_READY_WHEN_TOUR_FINISH_plural" : "Your invoices have been requested, you'll receive them by email after the event takes place.",
+            "invoices.REQUESTED_STATUS_KO_ALREADY_REQUESTED_BUT_NOT_READY" : "Your invoice has been requested, you'll receive it by email after the activity takes place.",
+            "invoices.REQUESTED_STATUS_KO_ALREADY_REQUESTED_BUT_NOT_READY_plural" : "Your invoices have been requested, you'll receive them by email after the event takes place.",
+            "invoices.REQUESTED_STATUS_OK_ALREADY_REQUESTED" : "Your invoice has been generated, you can download it from your user panel.",
+            "invoices.REQUESTED_STATUS_OK_ALREADY_REQUESTED_plural" : "Your invoices have been generated, you can download them from your user panel.",
+            "invoices.REQUESTED_EDIT_STATUS_OK_REQUESTED" : "FALTA LITERAL",
+            "invoices.REQUESTED_STATUS_KO_ERROR_REQUESTING" : "It was not possible to generate the invoice. Please <a target=\"_blank\" href=\"{1}\">contact us</a> and we will offer you a solution.",
+            "invoices.REQUESTED_STATUS_KO_ERROR_REQUESTING_plural" : "It was not possible to generate the invoices. Please <a target=\"_blank\" href=\"{1}\">contact us</a> and we will offer you a solution.",
+            "invoices.REQUESTED_STATUS_KO_10_DAYS_PAST" : "The deadline to request an invoice from Civitatis is 10 days from the activity date. From this moment onwards you should request it directly from the local supplier.",
+            "invoices.REQUESTED_STATUS_KO_10_DAYS_PAST_plural" : "The deadline to request invoices from Civitatis is 10 days from the activity date. From this moment onwards you should request them directly from the local supplier.",
+            "invoices.REQUESTED_STATUS_KO_CANNOT_SOLICIT_BY_STATUS" : "You can't request an invoice for a cancelled reservation.",
+            "invoice.invoiceString" : "Invoice",
+            "invoice.invoiceRequested" : "Invoice requested",
+            "invoices.invoiceRequested_plural" : "Invoices Requested",
+            "invoice.invoiceDownload" : "Download invoice",
+            "invoice.invoiceRequest" : "Request invoice",
+            "invoice.purchaseReceiptDownload" : "Download the purchase receipt",
+            "invoice.messageInfoRequestInvoicePending" : "The invoice can be requested the day after the service takes place",
+            
+            
+            "popUp.agency.acceptButtonAcceptNewConditionsAdmin" : "Accept",
+            "popUp.agency.cancelButtonAcceptNewConditionsAdmin" : "Cancel",
+            "popUp.agency.civitatisAnswer" : "Reply from Civitatis",
+            "delete" : "Delete",
+            "tooltip.errorEmail" : "The email {1} seems to be incorrect",
+            "error.emailValidator" : "The email seems to be incorrect, please check it.",
+            "error.parsleyDropdown" : "There are errors in the passenger details",
+            "sessionExpired.title" : "Your session has expired",
+            "sessionExpired.body" : "Log in again to continue.",
+            "userForgotPassword_success" : "We have sent you an email with instructions on how to change your password",
+            "userResetPassword_success" : "Your password has been successfuly changed",
+            "agency_panel_wrongDataInvoiceWarning1" : "Check the invoice details.",
+            "hoursInAdvance" : "You must reserve a minimum of {1} hours ahead of time.",
+            "orderBy_string" : "Order by",
+            "filter_popularity" : "Popularity",
+            "filter_rating" : "Best rated",
+            "filter_priceAsc" : "Price (from low to high)",
+            "filter_novelty" : "New",
+            "filter_durationAsc" : "Duration (from shortest to longest)",
+            "filter_durationDesc" : "Duration (from longest to shortest)",
+            "transfers_priceSelecting" : "Price shown for a {1}",
+            "instalment_with_amount" : "of <strong>{1}</strong>",
+            "instalment_with_amount_plural" : "of <strong>{1}</strong> each",
+            "instalment_with_amount_simple" : "of {1}",
+            "instalment_with_amount_simple_plural" : "of <strong>{1}</strong> each",
+
+
+            "agency_panel_titleAcceptNewConditionsClient": "We have updated our terms and conditions. Please advise the account administrator to accept these conditions by logging in with their access details. </p><p>Once this is done, you will be able to access the platform as a user. Remember, it's important to carefully read the <a href=\"{1}\" target=\"_blank\">general conditions</a> to fully understand the Agency Programme.",
+            "affiliate_panel_banners_fillYourTrip": "Fill Your Trip",
+            "civitatisChat": "Civitatis chat",
+            "titleSupport_footer": "Customer service",
+
+                        "civitatis_invoiceBodyErrorModal" : "Please <a target=\"_blank\" href=\"{1}\">contact us</a> and we will offer a solution.",
+            "civitatis_cartMessageErrorService" : "Try it again, and if it doesn’t work, <a href=\"{1}\">please contact us</a>",
+
+            "civitatis_invoiceBodySuccessModal" : "The invoice is available by following <a target=\"_blank\" href=\"{1}\">this link</a>.",
+            "civitatis_titleAcceptNewConditionsAdmin":  "I accept the new <a href=\"{1}\" target=\"_blank\">. I authorize Civitatis to generate an automatic commission invoice in my name.",
+            "conditions_agencies_url_form":  "Travel Agency General Conditions",
+            "conditions_agencies_url_form_href":  "travel-agency-general-conditions",
+
+            "error_payment_title": "",
+            "error_payment_subtitle": "",
+            "error_wallet_usedCode": "The code you introduced has already been used. Please try again with a different code.",
+            "error_wallet_wrongCode": "The code you introduced is incorrect. Please try again with a different code.",
+
+            "wallet_refillCodeSuccess_title": "{1} has been added to your account.",
+            "wallet_refillCodeSuccess_subtitle": "Now you can fill your trip with the best excursions, activities and guided tours all over the world.",
+            "seeActivities_string": "See activities",
+
+            "paymentFormCurrency_euros": "Euros",
+            "paymentFormCurrency_dolares": "Dollars",
+            "paymentFormCurrency_dolaresEEUU": "Us dollars",
+            "paymentFormCurrency_libra": "Pounds sterling",
+            "nonModifiable_string": "This activity does not allow cancellations.",
+            "nonModifiableTransfer_string": "This activity does not allow cancellations.",
+
+            "dropzone_required": "File required.",
+
+            "showMore_string": "Show more",
+            "payment_transfer": "Bank transfer",
+            "payment_transfer_note": "Se hará efectivo cuando tengamos notificación de la transferencia",
+            "payment_paypal": "PayPal",
+            "payment_creditCard": "Card",
+            "payment_in_installments": "Payment in installments",
+            "payment_googlePay": "Google Pay",
+            "payment_applePay": "Apple Pay",
+            "payment_boleto": "Boleto Bancario",
+            "payment_creditCardEbanx": "credit card",
+            "payment_debitCardEbanx": "Debit card",
+            "payment_pagofacil": "PagoFacil",
+            "payment_rapipago": "Rapipago, PagoFácil or Coupon",
+            "payment_spei": "SPEI",
+            "payment_wallet": "Wallet",
+            "agency_panel_wallet": "Wallet",
+            "wallet_initSubtitle": "Your wallet will be created using the currency you select in the first top-up. Afterwards you will be unable to modify this.",
+
+            "refund_select_optwallet": "Civitatis credit",
+            "refund_select_optoriginal": "Original payment method",
+            "refund_select_recommendedPay": "Recommended",
+            "refund_select_walletAdvantage1": "Without payment commission and refunds.",
+            "refund_select_walletAdvantage2": "Earn {1}% on every refund you carry out",
+            "refund_select_walletAdvantage3": "Always have your money to hand and pay quicker",
+            "refund_select_walletInitTitle": "Choose a currency",
+            "refund_select_walletInitNote": "Your wallet will be created using the currency you select in the first top-up. Afterwards you will be unable to modify this.",
+            "bookingCancelSuccessModal_title": "Your booking has been cancelled",
+            "bookingCancelSuccessModal_subtitle": "You will receive an email confirming the cancellation.",
+
+            // LOGIN ÚNICO
+                                                                                                                            "profilesSwitcher_option0": "",
+                "passOptionTypology_option0": "",
+                "loginOptionTypology_option0": "",
+                "loginOptionSelectTypology_title0": "",
+                                                                                                                            "profilesSwitcher_option1": "",
+                "passOptionTypology_option1": "",
+                "loginOptionTypology_option1": "",
+                "loginOptionSelectTypology_title1": "",
+                                                                                                                                                                    "profilesSwitcher_option2": "Client Profile",
+                "passOptionTypology_option2": "Client",
+                "loginOptionTypology_option2": "Log in as a client",
+                "loginOptionSelectTypology_title2": "Enter your client account password",
+                                                                                                                                                                    "profilesSwitcher_option3": "Agency Profile",
+                "passOptionTypology_option3": "Agency",
+                "loginOptionTypology_option3": "Log in as an agency",
+                "loginOptionSelectTypology_title3": "Enter your agency account password",
+                                                                                                                                                                    "profilesSwitcher_option4": "Agency Profile",
+                "passOptionTypology_option4": "Agency",
+                "loginOptionTypology_option4": "Log in as an agency",
+                "loginOptionSelectTypology_title4": "Enter your agency account password",
+                                                                                                                                                                    "profilesSwitcher_option5": "Affiliate Profile",
+                "passOptionTypology_option5": "Affiliate",
+                "loginOptionTypology_option5": "Log in as an affiliate",
+                "loginOptionSelectTypology_title5": "Enter your affiliate account password",
+                                                                                                                                                                    "profilesSwitcher_option6": "Supplier Profile",
+                "passOptionTypology_option6": "Supplier",
+                "loginOptionTypology_option6": "Log in as a supplier",
+                "loginOptionSelectTypology_title6": "Enter your supplier account password",
+                                                                                                                            "profilesSwitcher_option7": "",
+                "passOptionTypology_option7": "",
+                "loginOptionTypology_option7": "",
+                "loginOptionSelectTypology_title7": "",
+                                                                                                                            "profilesSwitcher_option8": "",
+                "passOptionTypology_option8": "",
+                "loginOptionTypology_option8": "",
+                "loginOptionSelectTypology_title8": "",
+                                                                                                                            "profilesSwitcher_option9": "",
+                "passOptionTypology_option9": "",
+                "loginOptionTypology_option9": "",
+                "loginOptionSelectTypology_title9": "",
+                                                                                                                            "profilesSwitcher_option10": "",
+                "passOptionTypology_option10": "",
+                "loginOptionTypology_option10": "",
+                "loginOptionSelectTypology_title10": "",
+            
+            "profilesSwitcher_string": "Profiles",
+            "loginOptionSelectTypology_label": "How would you like to log in?",
+            "loginButton_string": "Log in",
+            "form_password": "Password",
+            "forgottenPassword_string": "I&#039;ve forgotten my password",
+            "forgotPassword_url_link_href" : "i-forgot-my-password",
+            "clients_url_link_href": "customers",
+            "contact_selectOneOption": "Choose an option and we'll help you",
+            "selectOneOption_string": "Select an Option",
+            "contact_enquiryAbout": "Inquiry about {1}",
+
+
+            "contactTitle00": "I have a booking",             "contactTitle01": "Before booking",             "contactTitle02": "I’ve already booked",             "showLess_string": "Show less",             "help_string": "Help",
+            "contact_wantAnAgent": "I would like to contact customer service",             "titleContact2_footer": "Contact",             "contact_writeUs": "Write to us and we&#039;ll get back to you as soon as possible", 
+            "contact_bookingFound": "We have located your booking {1}",
+            "contact_makeInquiry": "Make an inquiry about the booking",
+            "contact_otherInquiry": "Other inquiry",
+
+
+
+
+
+            "activity_min_age_admision": "not admitted",
+            "activity_min_age": "under {1}",
+            "activity_min_age_full": "Under {1} years old not permitted",
+
+
+
+
+        },
+
+    };
+
+
+var Ls = i18n[window.locale];
+
+
+
+    </script>
+    <script defer type="text/javascript" src="https://cdn2.civitatis.com/js/civReact-cae220db6d7ee1deb23021d984df3033c33e4c25.min.js" crossorigin="anonymous"></script>
+        <script defer type="text/javascript" charset="UTF-8" src="https://cdn2.civitatis.com/js/errorHandler-cae220db6d7ee1deb23021d984df3033c33e4c25.min.js"></script>
+    <script defer type="text/javascript" charset="UTF-8" src="https://cdn2.civitatis.com/js/performanceHandler-cae220db6d7ee1deb23021d984df3033c33e4c25.min.js" crossorigin="anonymous"></script>
+    <script id="utils-helper-script" defer type="text/javascript" charset="UTF-8" src="https://cdn2.civitatis.com/js/ext/UtilsHelperGuides-cae220db6d7ee1deb23021d984df3033c33e4c25.min.js" crossorigin="anonymous"></script>
+    <script defer type="text/javascript" charset="UTF-8" src="https://cdn2.civitatis.com/js/ext/commonGuides-cae220db6d7ee1deb23021d984df3033c33e4c25.min.js" crossorigin="anonymous"></script>
+    <script defer type="text/javascript" src="https://cdn2.civitatis.com/js/guides-cae220db6d7ee1deb23021d984df3033c33e4c25.min.js" crossorigin="anonymous"></script>
+
+        
+            
+
+<style>
+    @font-face {
+        font-family: 'montserrat';
+        src: url('https://cdn2.civitatis.com/fonts/montserrat-light-webfont.woff2') format('woff2'),
+             url('https://cdn2.civitatis.com/fonts/montserrat-light-webfont.woff') format('woff');
+        font-weight: 200;
+        font-style: normal;
+    }
+    body {
+        font-family: montserrat, arial, sans-serif;
+        font-weight: 200;
+    }
+                    @font-face {
+        font-family: 'guias-texts';
+        src: url('https://cdn2.civitatis.com/fonts/guias-new-texts-webfont-v2.woff2') format('woff2'),
+        url('https://cdn2.civitatis.com/fonts/guias-new-texts-webfont-v2.woff') format('woff');
+        font-weight: 200;
+        font-style: normal;
+        citislug: london;
+    }
+    .a-header__logo__city:before, .a-header__logo__civitatis:before {
+        font-family: guias-texts;
+    }
+    </style>
+
+<!-- isHome:  -->
+<!-- canonicalCitySlug: londres -->
+
+
+    <link href="https://cdn2.civitatis.com/css/guidesVendor-cae220db6d7ee1deb23021d984df3033c33e4c25.min.css" rel="stylesheet">
+    <link href="https://cdn2.civitatis.com/css/guidesAbove-cae220db6d7ee1deb23021d984df3033c33e4c25.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn2.civitatis.com/css/civNew-cae220db6d7ee1deb23021d984df3033c33e4c25.min.css" media="all"/>
+
+            <link href="https://cdn2.civitatis.com/css/londres-cae220db6d7ee1deb23021d984df3033c33e4c25.min.css" rel="stylesheet">
+            
+
+
+
+<link rel="preload" href="https://cdn2.civitatis.com/fonts/montserrat-regular-webfont.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="https://cdn2.civitatis.com/fonts/montserrat-ultralight-webfont.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="https://cdn2.civitatis.com/fonts/montserrat-semibold-webfont.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="https://cdn2.civitatis.com/fonts/montserrat-bold-webfont.woff2" as="font" type="font/woff2" crossorigin />
+
+
+
+
+            
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@civitatis" />
+    <meta name="twitter:description" content="The official currency of the United Kingdom is the pound sterling. Find out where to exchange currencies and where to withdraw pounds." />
+    <meta name="twitter:title" content="Currency in London - Money used in London and in the UK">
+
+
+    <meta property="og:title" content="Currency in London - Money used in London and in the UK" />
+    <meta property="og:url" content="https://www.londoncitybreak.com/currency" />
+    <meta property="og:description" content="The official currency of the United Kingdom is the pound sterling. Find out where to exchange currencies and where to withdraw pounds." />
+    <meta property="og:type" content="article" />
+
+            <meta name="twitter:image" content="https://cdn2.civitatis.com/reino-unido/londres/guia/moneda.jpg" />
+        <meta property="og:image" content="https://cdn2.civitatis.com/reino-unido/londres/guia/moneda.jpg" />
+    
+        <script>
+        if (typeof dataLayer == 'undefined') {
+            dataLayer = [];
+        }
+        dataLayer.push({
+            'analytics' : 'UA-76680813-11',
+            'isGuide' : 'true',
+            'guideLang' : 'en',
+            'geoCode' : 'US'
+        });
+    </script>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PHKDSZ8');</script>
+    <script>
+    dataLayer.push({'currencyCode': 'USD'});
+</script>
+    
+    </head>
+<body class="--price-medium _price-USD is-guide --guide  --old-design">
+    <!-- GTMGuides -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PHKDSZ8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+            <header class="o-header" id="main-page-header">
+    <div class="o-header__main">
+        <div class="m-header__menu">
+            <button type="button" role="button" aria-label="navegación" class="lines-button minus" id="hamburger-mobile">
+                <span class="lines"></span>
+            </button>
+        </div>
+        <div class="m-header__logo">
+            <a href="/" class="m-header__logo__element" title="London by CIVITATIS">
+                <span class="a-header__logo__civitatis">Civitatis</span>
+            </a>
+                        <a href="/" class="m-header__logo__element" title="London by CIVITATIS">
+                <span class="a-header__logo__city">London</span>
+            </a>
+        </div>
+        <!--
+        <div class="m-header__buy">
+            <a href="#" class="m-header__buy__icon"></a>
+        </div>
+        -->
+        <div class="m-nav-container">
+            <nav class="o-page-nav-container">
+    <ul class="o-page-nav__first">
+            
+    <li class="o-page-nav__first__element  --has-children-first  --active ">
+                <a href="/" class="o-page-nav__first__element__link a-icon--guides " title="Londres travel guide">
+            Travel Guide
+        </a>
+                                    <div class="o-page-nav__second">
+    <ul class="row">
+                                                                        
+                                <li class="o-page-nav__second__element small-12 large-6 xlarge-4 xxlarge-3 columns">
+                                
+
+                                                                                                                                        <a href="/general-information" class="o-page-nav__second__element__link --link--has--children a-icon--info " title="General Information">
+                        <span class="o-page-nav__second__element__link__name">General Information</span>
+                        <span class="o-page-nav__second__element__link__short-name">Info</span>
+                    </a>
+                                            <a href="#" class="o-arrow-open"></a>
+                        <div class="o-full-body-content">
+                            <div class="o-close-container">
+                                <a class="a-close-icon" href="#">Close</a>
+                            </div>
+                                        <div class="o-full-body-content__title">
+                                            <a href="/general-information" class="o-page-nav__second__element__title">General Information</a>
+                                        </div>
+                                        <ul class="o-page-nav__third">
+                    <li class="o-page-nav__third__element --has-children">
+            <a href="/plan-your-trip" class="o-page-nav__third__element__link --link--has--children " title="Plan your trip">
+                Plan your trip
+            </a>
+                            <a href="#" class="o-arrow-open"></a>
+                <ul class="o-page-nav__sub">
+                    <li class="o-page-nav__sub__element --tablet-up">
+                        <a href="/plan-your-trip" class="o-page-nav__sub__element__link --go-back" title="Plan your trip">
+                            Plan your trip
+                        </a>
+                    </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/travel-advice" class="o-page-nav__sub__element__link " title="Travel Advice">
+                                Travel Advice
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/climate" class="o-page-nav__sub__element__link " title="Climate">
+                                Climate
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/health-insurance" class="o-page-nav__sub__element__link " title="Health Insurance">
+                                Health Insurance
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/currency" class="o-page-nav__sub__element__link --current-page" title="Currency">
+                                Currency
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/prices" class="o-page-nav__sub__element__link " title="Prices">
+                                Prices
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/public-holidays" class="o-page-nav__sub__element__link " title="Public Holidays">
+                                Public Holidays
+                            </a>
+                        </li>
+                                        <li class="o-page-nav__sub__element --see-all --tablet-up">
+                        <a href="/plan-your-trip" class="o-page-nav__sub__element__link" title="Ver todo">
+                            Show all
+                        </a>
+                    </li>
+                </ul>
+                    </li>
+                    <li class="o-page-nav__third__element ">
+            <a href="/history" class="o-page-nav__third__element__link  " title="History">
+                History
+            </a>
+                    </li>
+                    <li class="o-page-nav__third__element ">
+            <a href="/areas" class="o-page-nav__third__element__link  " title="Areas and neighbourhoods">
+                Areas and neighbourhoods
+            </a>
+                    </li>
+                    <li class="o-page-nav__third__element ">
+            <a href="/photos" class="o-page-nav__third__element__link  " title="Photos">
+                Photos
+            </a>
+                    </li>
+        <li class="o-page-nav__third__element --see-all --tablet-up">
+        <a href="/general-information" class="o-page-nav__third__element__link" title="Show all">
+            Show all
+        </a>
+    </li>
+</ul>
+                        </div>
+                                                    </li>
+                                                                
+                                <li class="o-page-nav__second__element small-12 large-6 xlarge-4 xxlarge-3 columns">
+                                
+
+                                                                                                                                        <a href="/top-attractions" class="o-page-nav__second__element__link --link--has--children a-icon--heart " title="Top Attractions">
+                        <span class="o-page-nav__second__element__link__name">Top Attractions</span>
+                        <span class="o-page-nav__second__element__link__short-name">Top Attractions</span>
+                    </a>
+                                            <a href="#" class="o-arrow-open"></a>
+                        <div class="o-full-body-content">
+                            <div class="o-close-container">
+                                <a class="a-close-icon" href="#">Close</a>
+                            </div>
+                                        <div class="o-full-body-content__title">
+                                            <a href="/top-attractions" class="o-page-nav__second__element__title">Top Attractions</a>
+                                        </div>
+                                        <ul class="o-page-nav__third">
+                    <li class="o-page-nav__third__element --has-children">
+            <a href="/top-10" class="o-page-nav__third__element__link --link--has--children " title="Top 10">
+                Top 10
+            </a>
+                            <a href="#" class="o-arrow-open"></a>
+                <ul class="o-page-nav__sub">
+                    <li class="o-page-nav__sub__element --tablet-up">
+                        <a href="/top-10" class="o-page-nav__sub__element__link --go-back" title="Top 10">
+                            Top 10
+                        </a>
+                    </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/westminster-palace" class="o-page-nav__sub__element__link " title="Westminster Palace">
+                                Westminster Palace
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/westminster-abbey" class="o-page-nav__sub__element__link " title="Westminster Abbey">
+                                Westminster Abbey
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/piccadilly-circus" class="o-page-nav__sub__element__link " title="Piccadilly Circus">
+                                Piccadilly Circus
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/tower-of-london" class="o-page-nav__sub__element__link " title="Tower of London">
+                                Tower of London
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/tower-bridge" class="o-page-nav__sub__element__link " title="Tower Bridge">
+                                Tower Bridge
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/saint-paul-cathedral" class="o-page-nav__sub__element__link " title="St Paul&#039;s Cathedral">
+                                St Paul&#039;s Cathedral
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/london-eye" class="o-page-nav__sub__element__link " title="London Eye">
+                                London Eye
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/british-museum" class="o-page-nav__sub__element__link " title="British Museum">
+                                British Museum
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/hyde-park" class="o-page-nav__sub__element__link " title="Hyde Park">
+                                Hyde Park
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/camden-town" class="o-page-nav__sub__element__link " title="Camden Town">
+                                Camden Town
+                            </a>
+                        </li>
+                                        <li class="o-page-nav__sub__element --see-all --tablet-up">
+                        <a href="/top-10" class="o-page-nav__sub__element__link" title="Ver todo">
+                            Show all
+                        </a>
+                    </li>
+                </ul>
+                    </li>
+                    <li class="o-page-nav__third__element --has-children">
+            <a href="/monuments-attractions" class="o-page-nav__third__element__link --link--has--children " title="Monuments and Tourist attractions">
+                Monuments and Tourist attractions
+            </a>
+                            <a href="#" class="o-arrow-open"></a>
+                <ul class="o-page-nav__sub">
+                    <li class="o-page-nav__sub__element --tablet-up">
+                        <a href="/monuments-attractions" class="o-page-nav__sub__element__link --go-back" title="Monuments and Tourist attractions">
+                            Monuments and Tourist attractions
+                        </a>
+                    </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/westminster-palace" class="o-page-nav__sub__element__link " title="Westminster Palace">
+                                Westminster Palace
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/westminster-abbey" class="o-page-nav__sub__element__link " title="Westminster Abbey">
+                                Westminster Abbey
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/piccadilly-circus" class="o-page-nav__sub__element__link " title="Piccadilly Circus">
+                                Piccadilly Circus
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/tower-of-london" class="o-page-nav__sub__element__link " title="Tower of London">
+                                Tower of London
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/tower-bridge" class="o-page-nav__sub__element__link " title="Tower Bridge">
+                                Tower Bridge
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/saint-paul-cathedral" class="o-page-nav__sub__element__link " title="St Paul&#039;s Cathedral">
+                                St Paul&#039;s Cathedral
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/london-eye" class="o-page-nav__sub__element__link " title="London Eye">
+                                London Eye
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/buckingham-palace" class="o-page-nav__sub__element__link " title="Buckingham Palace">
+                                Buckingham Palace
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/big-ben" class="o-page-nav__sub__element__link " title="Big Ben">
+                                Big Ben
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/kensington-palace" class="o-page-nav__sub__element__link " title="Kensington Palace">
+                                Kensington Palace
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/trafalgar-square" class="o-page-nav__sub__element__link " title="Trafalgar Square">
+                                Trafalgar Square
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/covent-garden" class="o-page-nav__sub__element__link " title="Covent Garden">
+                                Covent Garden
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/the-shard" class="o-page-nav__sub__element__link " title="The Shard">
+                                The Shard
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/chinatown" class="o-page-nav__sub__element__link " title="Chinatown">
+                                Chinatown
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/the-old-operating-theatre" class="o-page-nav__sub__element__link " title="The Old Operating Theatre">
+                                The Old Operating Theatre
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/the-monument" class="o-page-nav__sub__element__link " title="The Monument">
+                                The Monument
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/globe-theatre" class="o-page-nav__sub__element__link " title="Shakespeare’s Globe Theatre">
+                                Shakespeare’s Globe Theatre
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/changing-the-guard" class="o-page-nav__sub__element__link " title="Changing of the Guard">
+                                Changing of the Guard
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/apsley-house" class="o-page-nav__sub__element__link " title="Apsley House">
+                                Apsley House
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/london-city-hall" class="o-page-nav__sub__element__link " title="City Hall">
+                                City Hall
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/hms-belfast" class="o-page-nav__sub__element__link " title="HMS Belfast">
+                                HMS Belfast
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/sea-life" class="o-page-nav__sub__element__link " title="Sea Life">
+                                Sea Life
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/sky-garden" class="o-page-nav__sub__element__link " title="Sky Garden">
+                                Sky Garden
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/stamford-bridge" class="o-page-nav__sub__element__link " title="Stamford Bridge">
+                                Stamford Bridge
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/emirates-stadium" class="o-page-nav__sub__element__link " title="Emirates Stadium">
+                                Emirates Stadium
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/olympic-stadium" class="o-page-nav__sub__element__link " title="Olympic Stadium">
+                                Olympic Stadium
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/wembwly-stadium" class="o-page-nav__sub__element__link " title="Wembley Stadium">
+                                Wembley Stadium
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/greenwich-observatory" class="o-page-nav__sub__element__link " title="Greenwich Observatory">
+                                Greenwich Observatory
+                            </a>
+                        </li>
+                                        <li class="o-page-nav__sub__element --see-all --tablet-up">
+                        <a href="/monuments-attractions" class="o-page-nav__sub__element__link" title="Ver todo">
+                            Show all
+                        </a>
+                    </li>
+                </ul>
+                    </li>
+                    <li class="o-page-nav__third__element --has-children">
+            <a href="/museums-and-galleries" class="o-page-nav__third__element__link --link--has--children " title="Museums and Galleries">
+                Museums and Galleries
+            </a>
+                            <a href="#" class="o-arrow-open"></a>
+                <ul class="o-page-nav__sub">
+                    <li class="o-page-nav__sub__element --tablet-up">
+                        <a href="/museums-and-galleries" class="o-page-nav__sub__element__link --go-back" title="Museums and Galleries">
+                            Museums and Galleries
+                        </a>
+                    </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/british-museum" class="o-page-nav__sub__element__link " title="British Museum">
+                                British Museum
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/national-gallery" class="o-page-nav__sub__element__link " title="National Gallery">
+                                National Gallery
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/imperial-war-museum" class="o-page-nav__sub__element__link " title="Imperial War Museum">
+                                Imperial War Museum
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/wallace-collection" class="o-page-nav__sub__element__link " title="The Wallace Collection">
+                                The Wallace Collection
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/madame-tussauds" class="o-page-nav__sub__element__link " title="Madame Tussauds London">
+                                Madame Tussauds London
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/natural-history-museum" class="o-page-nav__sub__element__link " title="The Natural History Museum">
+                                The Natural History Museum
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/science-museum" class="o-page-nav__sub__element__link " title="Science Museum">
+                                Science Museum
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/victoria-and-albert-museum" class="o-page-nav__sub__element__link " title="Victoria and Albert Museum">
+                                Victoria and Albert Museum
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/tate-modern" class="o-page-nav__sub__element__link " title="Tate Modern">
+                                Tate Modern
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/tate-britain" class="o-page-nav__sub__element__link " title="Tate Britain">
+                                Tate Britain
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/museum-of-london" class="o-page-nav__sub__element__link " title="Museum of London">
+                                Museum of London
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/national-portrait-gallery" class="o-page-nav__sub__element__link " title="National Portrait Gallery">
+                                National Portrait Gallery
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/transport-museum" class="o-page-nav__sub__element__link " title="London Transport Museum">
+                                London Transport Museum
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/sherlock-holmes-museum" class="o-page-nav__sub__element__link " title="Sherlock Holmes Museum">
+                                Sherlock Holmes Museum
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/sir-john-soanes-museum" class="o-page-nav__sub__element__link " title="Sir John Soane’s Museum">
+                                Sir John Soane’s Museum
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/legoland" class="o-page-nav__sub__element__link " title="Legoland Windsor">
+                                Legoland Windsor
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/cutty-sark" class="o-page-nav__sub__element__link " title="Cutty Sark">
+                                Cutty Sark
+                            </a>
+                        </li>
+                                        <li class="o-page-nav__sub__element --see-all --tablet-up">
+                        <a href="/museums-and-galleries" class="o-page-nav__sub__element__link" title="Ver todo">
+                            Show all
+                        </a>
+                    </li>
+                </ul>
+                    </li>
+                    <li class="o-page-nav__third__element --has-children">
+            <a href="/parks-and-gardens" class="o-page-nav__third__element__link --link--has--children " title="Parks and Gardens">
+                Parks and Gardens
+            </a>
+                            <a href="#" class="o-arrow-open"></a>
+                <ul class="o-page-nav__sub">
+                    <li class="o-page-nav__sub__element --tablet-up">
+                        <a href="/parks-and-gardens" class="o-page-nav__sub__element__link --go-back" title="Parks and Gardens">
+                            Parks and Gardens
+                        </a>
+                    </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/hyde-park" class="o-page-nav__sub__element__link " title="Hyde Park">
+                                Hyde Park
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/st-james-park" class="o-page-nav__sub__element__link " title="St James’s Park">
+                                St James’s Park
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/kensington-gardens" class="o-page-nav__sub__element__link " title="Kensington Gardens">
+                                Kensington Gardens
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/regents-park" class="o-page-nav__sub__element__link " title="Regent&#039;s Park">
+                                Regent&#039;s Park
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/green-park" class="o-page-nav__sub__element__link " title="Green Park">
+                                Green Park
+                            </a>
+                        </li>
+                                        <li class="o-page-nav__sub__element --see-all --tablet-up">
+                        <a href="/parks-and-gardens" class="o-page-nav__sub__element__link" title="Ver todo">
+                            Show all
+                        </a>
+                    </li>
+                </ul>
+                    </li>
+                    <li class="o-page-nav__third__element ">
+            <a href="/nightlife" class="o-page-nav__third__element__link  " title="Nightlife">
+                Nightlife
+            </a>
+                    </li>
+        <li class="o-page-nav__third__element --see-all --tablet-up">
+        <a href="/top-attractions" class="o-page-nav__third__element__link" title="Show all">
+            Show all
+        </a>
+    </li>
+</ul>
+                        </div>
+                                                    </li>
+                                                                
+                                <li class="o-page-nav__second__element small-12 large-6 xlarge-4 xxlarge-3 columns">
+                                
+
+                                                                                                                                        <a href="/getting-to-london" class="o-page-nav__second__element__link --link--has--children a-icon--signal-double " title="Getting to London">
+                        <span class="o-page-nav__second__element__link__name">Getting to London</span>
+                        <span class="o-page-nav__second__element__link__short-name">Getting to London</span>
+                    </a>
+                                            <a href="#" class="o-arrow-open"></a>
+                        <div class="o-full-body-content">
+                            <div class="o-close-container">
+                                <a class="a-close-icon" href="#">Close</a>
+                            </div>
+                                        <div class="o-full-body-content__title">
+                                            <a href="/getting-to-london" class="o-page-nav__second__element__title">Getting to London</a>
+                                        </div>
+                                        <ul class="o-page-nav__third">
+                    <li class="o-page-nav__third__element ">
+            <a href="/heathrow-airport" class="o-page-nav__third__element__link  " title="Heathrow Airport">
+                Heathrow Airport
+            </a>
+                    </li>
+                    <li class="o-page-nav__third__element ">
+            <a href="/gatwick-airport" class="o-page-nav__third__element__link  " title="Gatwick Airport">
+                Gatwick Airport
+            </a>
+                    </li>
+                    <li class="o-page-nav__third__element ">
+            <a href="/luton-airport" class="o-page-nav__third__element__link  " title="Luton Airport">
+                Luton Airport
+            </a>
+                    </li>
+                    <li class="o-page-nav__third__element ">
+            <a href="/stansted-airport" class="o-page-nav__third__element__link  " title="Stansted Airport">
+                Stansted Airport
+            </a>
+                    </li>
+        <li class="o-page-nav__third__element --see-all --tablet-up">
+        <a href="/getting-to-london" class="o-page-nav__third__element__link" title="Show all">
+            Show all
+        </a>
+    </li>
+</ul>
+                        </div>
+                                                    </li>
+                                                                
+                                <li class="o-page-nav__second__element small-12 large-6 xlarge-4 xxlarge-3 columns">
+                                
+
+                                                                                                                                        <a href="/transport" class="o-page-nav__second__element__link --link--has--children a-icon--train " title="Transportation">
+                        <span class="o-page-nav__second__element__link__name">Transportation</span>
+                        <span class="o-page-nav__second__element__link__short-name">Transport</span>
+                    </a>
+                                            <a href="#" class="o-arrow-open"></a>
+                        <div class="o-full-body-content">
+                            <div class="o-close-container">
+                                <a class="a-close-icon" href="#">Close</a>
+                            </div>
+                                        <div class="o-full-body-content__title">
+                                            <a href="/transport" class="o-page-nav__second__element__title">Transportation</a>
+                                        </div>
+                                        <ul class="o-page-nav__third">
+                    <li class="o-page-nav__third__element ">
+            <a href="/tube" class="o-page-nav__third__element__link  " title="Underground - Tube">
+                Underground - Tube
+            </a>
+                    </li>
+                    <li class="o-page-nav__third__element ">
+            <a href="/bus" class="o-page-nav__third__element__link  " title="Bus">
+                Bus
+            </a>
+                    </li>
+                    <li class="o-page-nav__third__element ">
+            <a href="/taxi" class="o-page-nav__third__element__link  " title="Taxis">
+                Taxis
+            </a>
+                    </li>
+                    <li class="o-page-nav__third__element ">
+            <a href="/cycling-in-london" class="o-page-nav__third__element__link  " title="Cycling">
+                Cycling
+            </a>
+                    </li>
+                    <li class="o-page-nav__third__element --has-children">
+            <a href="/travel-cards" class="o-page-nav__third__element__link --link--has--children " title="Travel Cards and Tariffs">
+                Travel Cards and Tariffs
+            </a>
+                            <a href="#" class="o-arrow-open"></a>
+                <ul class="o-page-nav__sub">
+                    <li class="o-page-nav__sub__element --tablet-up">
+                        <a href="/travel-cards" class="o-page-nav__sub__element__link --go-back" title="Travel Cards and Tariffs">
+                            Travel Cards and Tariffs
+                        </a>
+                    </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/travelcard" class="o-page-nav__sub__element__link " title="Travelcard">
+                                Travelcard
+                            </a>
+                        </li>
+                                            <li class="o-page-nav__sub__element">
+                            <a href="/oyster-card" class="o-page-nav__sub__element__link " title="Oyster Card">
+                                Oyster Card
+                            </a>
+                        </li>
+                                        <li class="o-page-nav__sub__element --see-all --tablet-up">
+                        <a href="/travel-cards" class="o-page-nav__sub__element__link" title="Ver todo">
+                            Show all
+                        </a>
+                    </li>
+                </ul>
+                    </li>
+        <li class="o-page-nav__third__element --see-all --tablet-up">
+        <a href="/transport" class="o-page-nav__third__element__link" title="Show all">
+            Show all
+        </a>
+    </li>
+</ul>
+                        </div>
+                                                    </li>
+                                                                
+                                <li class="o-page-nav__second__element small-12 large-6 xlarge-4 xxlarge-3 columns">
+                                
+
+                                                                                                                                        <a href="/money-saving-tips" class="o-page-nav__second__element__link --link--has--children a-icon--wallet " title="Money-saving tips">
+                        <span class="o-page-nav__second__element__link__name">Money-saving tips</span>
+                        <span class="o-page-nav__second__element__link__short-name">Money-saving tips</span>
+                    </a>
+                                            <a href="#" class="o-arrow-open"></a>
+                        <div class="o-full-body-content">
+                            <div class="o-close-container">
+                                <a class="a-close-icon" href="#">Close</a>
+                            </div>
+                                        <div class="o-full-body-content__title">
+                                            <a href="/money-saving-tips" class="o-page-nav__second__element__title">Money-saving tips</a>
+                                        </div>
+                                        <ul class="o-page-nav__third">
+                    <li class="o-page-nav__third__element ">
+            <a href="/london-pass" class="o-page-nav__third__element__link  " title="London Pass">
+                London Pass
+            </a>
+                    </li>
+                    <li class="o-page-nav__third__element ">
+            <a href="/2for1-offers" class="o-page-nav__third__element__link  " title="2FOR1 Offers">
+                2FOR1 Offers
+            </a>
+                    </li>
+        <li class="o-page-nav__third__element --see-all --tablet-up">
+        <a href="/money-saving-tips" class="o-page-nav__third__element__link" title="Show all">
+            Show all
+        </a>
+    </li>
+</ul>
+                        </div>
+                                                    </li>
+                                                                
+                                <li class="o-page-nav__second__element small-12 large-6 xlarge-4 xxlarge-3 columns">
+                                
+
+                                                                                                                                        <a href="/where-to-stay" class="o-page-nav__second__element__link  a-icon--bed " title="Where to stay">
+                        <span class="o-page-nav__second__element__link__name">Where to stay</span>
+                        <span class="o-page-nav__second__element__link__short-name">Where to stay</span>
+                    </a>
+                                                    </li>
+                                                                
+                                <li class="o-page-nav__second__element small-12 large-6 xlarge-4 xxlarge-3 columns">
+                                
+
+                                                                                                                                        <a href="/where-to-eat" class="o-page-nav__second__element__link  a-icon--knife-fork " title="Where to Eat Out">
+                        <span class="o-page-nav__second__element__link__name">Where to Eat Out</span>
+                        <span class="o-page-nav__second__element__link__short-name">Where to Eat Out</span>
+                    </a>
+                                                    </li>
+                                                                
+                                <li class="o-page-nav__second__element small-12 large-6 xlarge-4 xxlarge-3 columns">
+                                
+
+                                                                                                                                        <a href="/shopping" class="o-page-nav__second__element__link --link--has--children a-icon--handbag " title="Shopping">
+                        <span class="o-page-nav__second__element__link__name">Shopping</span>
+                        <span class="o-page-nav__second__element__link__short-name">Shopping</span>
+                    </a>
+                                            <a href="#" class="o-arrow-open"></a>
+                        <div class="o-full-body-content">
+                            <div class="o-close-container">
+                                <a class="a-close-icon" href="#">Close</a>
+                            </div>
+                                        <div class="o-full-body-content__title">
+                                            <a href="/shopping" class="o-page-nav__second__element__title">Shopping</a>
+                                        </div>
+                                        <ul class="o-page-nav__third">
+                    <li class="o-page-nav__third__element ">
+            <a href="/camden-town" class="o-page-nav__third__element__link  " title="Camden Town">
+                Camden Town
+            </a>
+                    </li>
+                    <li class="o-page-nav__third__element ">
+            <a href="/harrods" class="o-page-nav__third__element__link  " title="Harrods">
+                Harrods
+            </a>
+                    </li>
+                    <li class="o-page-nav__third__element ">
+            <a href="/portobello-market" class="o-page-nav__third__element__link  " title="Portobello Road Market">
+                Portobello Road Market
+            </a>
+                    </li>
+        <li class="o-page-nav__third__element --see-all --tablet-up">
+        <a href="/shopping" class="o-page-nav__third__element__link" title="Show all">
+            Show all
+        </a>
+    </li>
+</ul>
+                        </div>
+                                                    </li>
+                                                                
+                                <li class="o-page-nav__second__element small-12 large-6 xlarge-4 xxlarge-3 columns">
+                                
+
+                                                                                                                                                                <a href="/london-in-three-days" class="o-page-nav__second__element__link  a-icon--londres " title="3-Day London Itinerary">
+                        <span class="o-page-nav__second__element__link__name">3-Day London Itinerary</span>
+                        <span class="o-page-nav__second__element__link__short-name">3-Day London Itinerary</span>
+                    </a>
+                                                                                    
+                                
+
+                                    <a href="/map" class="o-page-nav__second__element__link  a-icon--map " title="Map">
+                        <span class="o-page-nav__second__element__link__name">Map</span>
+                        <span class="o-page-nav__second__element__link__short-name">Map</span>
+                    </a>
+                                                                                <!-- Extra div para el grid del secundario -->
+        <li class="o-page-nav__second__element large-6 xlarge-4 xxlarge-3 columns show-for-xlarge-only">
+        </li>
+    </ul>
+</div>                        </li>
+    
+    <li class="o-page-nav__first__element   ">
+                <a href="/activities" class="o-page-nav__first__element__link a-icon--activities " title="Day trips and guided tours in Londres">
+            Day trips and guided tours
+        </a>
+            </li>
+    
+    <li class="o-page-nav__first__element   ">
+                <a href="/transfers" class="o-page-nav__first__element__link a-icon--transfers " title="Transfers in Londres">
+            Airport transfers
+        </a>
+            </li>
+    
+    <li class="o-page-nav__first__element  --has-children-first --dropdown  ">
+                <a href="/hotels" class="o-page-nav__first__element__link a-icon--hotel " title="Hotels in Londres">
+            Hotel deals
+        </a>
+                                    <div class="dropdown-elementlinks">
+                    <ul class="o-page-nav__sub">
+                                                    <li class="o-page-nav__sub__element">
+                                <a href="/hotels" class="o-page-nav__sub__element__link a-icon--hotel " title="Hotels in Londres"><span>Hotels</span></a>
+                            </li>
+                                                    <li class="o-page-nav__sub__element">
+                                <a href="/apartments" class="o-page-nav__sub__element__link a-icon--bed " title="Hotels in Londres"><span>Apartments</span></a>
+                            </li>
+                                            </ul>
+                </div>
+                        </li>
+    
+    <li class="o-page-nav__first__element   ">
+                <a href="/cars" class="o-page-nav__first__element__link a-icon--key-car " title="Car rental in Londres">
+            Car rentals
+        </a>
+            </li>
+    
+    <li class="o-page-nav__first__element   ">
+                <a href="/flights" class="o-page-nav__first__element__link a-icon--plane " title="Flights to Londres">
+            Flights
+        </a>
+            </li>
+
+
+
+        <li class="o-page-nav__first__element --has-children-first --dropdown --plus">
+            <a href="#" class="o-page-nav__first__element__link --plus-icon">+</a>
+            <ul class="dropdown-elementlinks">
+                <li class="show-for-sr">No tiene elementos</li>
+            </ul>
+        </li>
+    </ul>
+</nav>            <nav class="o-page-nav-secundary-container">
+    <ul class="o-page-nav-secundary">
+        <!-- app -->
+                <li class="o-page-nav__element --download --mobile">
+            <span>Download our App</span>
+            <div class="m-download-links">
+               <a href="#" target="_blank" id="civitatisApp"><img src="https://cdn.civitatis.com/images/civitatis-app.png" alt="Download the Civitatis app"></a>
+                <a href="#" target="_blank" id="guideApp"><img src="https://cdn.civitatis.com/images/app_icons/londres/ic_launcher96x96.png" alt="Download our App"></a>
+            </div>
+        </li>
+                            <li class="o-page-nav__dropdown --lang" id="page-nav__lang">
+                <div class="o-page-nav__dropdown__header">
+                                        <span class="--abbr">EN</span> <span class="--long">English</span>
+                </div>
+                <div class="o-page-nav__dropdown__body">
+                    <ul>
+                                                                                                                                                                        <li><a href="https://www.londres.es/moneda" data-value="ES">Spanish</a></li>
+                                                                                                                                                <li><a href="https://www.londres.fr/monnaie" data-value="FR">French</a></li>
+                                                                                                                                                <li><a href="https://www.scoprilondra.com/moneta" data-value="IT">Italian</a></li>
+                                                                                                                                                <li><a href="https://www.tudosobrelondres.com/moeda" data-value="PT">Portuguese</a></li>
+                                                                        </ul>
+                </div>
+            </li>
+                <!-- currency -->
+        <li class="o-page-nav__dropdown --currency" id="page-nav__currency">
+            <div class="o-page-nav__dropdown__header">
+                <span data-value="USD" id="currencySelectorButton">USD</span>
+            </div>
+            <div class="o-page-nav__dropdown__body">
+                <ul>
+                                            <li><span data-value="EUR" data-abbreviation="€" class="a-currency-icon--euro">Euro</span></li>
+                                            <li><span data-value="USD" data-abbreviation="US$">United States dollar</span></li>
+                                            <li><span data-value="GBP" data-abbreviation="£" class="a-currency-icon--pound">Pound sterling</span></li>
+                                            <li><span data-value="BRL" data-abbreviation="R$">Brazilian real</span></li>
+                                            <li><span data-value="MXN" data-abbreviation="MXN">Mexican peso</span></li>
+                                            <li><span data-value="COP" data-abbreviation="COP">Colombian peso</span></li>
+                                            <li><span data-value="CLP" data-abbreviation="CL$">Chilean peso</span></li>
+                                            <li><span data-value="PEN" data-abbreviation="S/">Peruvian sol</span></li>
+                                    </ul>
+            </div>
+        </li>
+        <!-- user -->
+        <li class="o-page-nav__dropdown duplicate-principal --user" id="page-nav__user" data-extra-icon="a-icon--person-boy">
+            <div class="o-page-nav__dropdown__header">
+                <a href="https://www.civitatis.com/en/customers"><span>My bookings</span></a>
+            </div>
+                    </li>
+        <!-- help -->
+        <li class="o-page-nav__dropdown --help --right" id="page-nav__help">
+            <a href="/contact">
+                <div class="o-page-nav__dropdown__header">
+                    <span>Help</span>
+                </div>
+            </a>
+                    </li>
+        
+        <!-- cart -->
+
+                
+
+<li class="o-page-nav__dropdown --cart   --useAjaxCall ">
+    <div class="o-page-nav__dropdown__header">
+        <span class="number-products js-hide"></span>
+        <span>Shopping basket</span>
+    </div>
+    <div class="o-page-nav__dropdown__body">
+        <div class="o-cart --short-resume">
+            <ul class="o-cart-items js-hide">
+                            </ul>
+            <div class="o-cart-bottom-position-elements js-hide">
+                <div class="o-cart-total">
+                    <span class="o-cart-total__count">
+                                                                    </span>
+                    <span class="o-cart-total__amount"><span><bdi>US$</bdi></span> 0 </span>
+                </div>
+                <div class="o-cart-buttons ">
+                                                                                                        <a href="/checkout?cart=&amp;p=" class="a-button-big a-button--inverse a-new-form-button">Checkout</a>
+                </div>
+            </div>
+            <div class="o-cart-message ">
+                <span class="o-cart-message__text">Your shopping basket is empty</span>
+            </div>
+        </div>
+    </div>
+</li>
+                <!-- menú móvil -->
+        <li class="o-page-nav__element --mobile">
+            <a href="https://www.civitatis.com/condiciones_generales_en">General Conditions</a>
+        </li>
+        <li class="o-page-nav__element --mobile">
+            <a href="https://www.civitatis.com/legal_en">Legal notice</a>
+        </li>
+        <li class="o-page-nav__element --mobile">
+            <a href="https://www.civitatis.com/privacidad_en">Privacy</a>
+        </li>
+    </ul>
+</nav>        </div>
+    </div>
+</header>
+
+
+
+
+    <main id="civ-main-element" class="l-guide-main">
+    <aside class="l-guide-main__menu">
+        <nav>
+            <span class="show-for-sr">Menú lateral</span>
+        </nav>
+    </aside>
+        <div class="l-guide-main__container">
+        <article class="l-guide-main__content">
+            <header class="o-guide-header ">
+    <div class="o-guide-header__main-content">
+                    
+        <div class="o-guide-header__img">
+                        <picture>
+                                    <source media="(max-width: 767px)" srcset="https://cdn2.civitatis.com/reino-unido/londres/guia/moneda-m.jpg">
+                    <img src="https://cdn2.civitatis.com/reino-unido/londres/guia/moneda.jpg" alt="Currency in London">
+                            </picture>
+                    </div>
+
+        <div class="o-guide-header__content l-guide-section__inner">
+            <ol class="m-breadcrumb" >
+                                                        <li >
+                        <a href="/general-information"><span >General Information</span></a>
+                        <meta itemprop="position" content="1"/>
+                    </li>
+                                                                            <li >
+                        <a href="/plan-your-trip"><span >Plan your trip</span></a>
+                        <meta itemprop="position" content="2"/>
+                    </li>
+                                                                                    </ol>
+            <h1>Currency in London</h1>
+
+        </div>
+    </div>
+    <div class="o-guide-header__content l-guide-section__inner">
+        <div class="o-guide-header__content__text">
+                            <p>The<strong> official currency of the United Kingdom is the pound sterling</strong>, known as the <strong>pound (£, GBP)</strong>. Each pound is divided into 100 pence (100p = £1).</p>
+
+                    </div>
+    </div>
+            <script type="application/ld+json">
+        {
+         "@context": "http://schema.org",
+         "@type": "BreadcrumbList",
+         "itemListElement":
+         [
+         {
+           "@type": "ListItem",
+           "position": 1,
+            "name": "https://www.londoncitybreak.com",
+           "item": "https://www.londoncitybreak.com"
+
+          },
+                   {
+           "@type": "ListItem",
+           "position": 2,
+            "name": "General Information",
+           "item": "https://www.londoncitybreak.com/general-information"
+
+          },                  {
+           "@type": "ListItem",
+           "position": 3,
+            "name": "Plan your trip",
+           "item": "https://www.londoncitybreak.com/plan-your-trip"
+
+          },                  {
+           "@type": "ListItem",
+           "position": 4,
+            "name": "Currency",
+           "item": "https://www.londoncitybreak.com/currency"
+
+          }        
+         ]
+        }
+        </script>
+    
+</header>
+            <!-- aside -->
+            <div class="l-guide-section o-content-aside__container js-hide">
+                <div class="l-guide-section__inner">
+                    <aside class="o-content-aside --buttons-right">
+                        
+                        <ul class="m-content-tools js-hide">
+                                                                                                            </ul>
+                    </aside>
+                </div>
+            </div>
+            
+
+
+            <!-- contenido -->
+
+                                    <section class="l-guide-section _text-collection">
+                    <div class="l-guide-section__inner">
+                        <div class="o-content">
+    <h2>Banknotes and coins</h2>
+
+<p>The most common banknotes are<strong> £5, £10, £20, £50 and £100</strong>. £1 notes also exist, but these are extremely rare, as only notes printed by The Bank of Scotland remain in circulation, and printing of new £1 notes ceased in 2001.</p>
+
+<p>The <strong>coins in circulation are 1p, 2p, 5p, 10p, 20p, 50p and £1 and £2</strong>. Sometimes, special editions of £5 coins are released, but their circulation is merely theoretical.</p>
+
+<p>Here are some examples of banknotes:</p>
+
+<p><img alt="Billetes de Londres" src="https://cdn.civitatis.com/reino-unido/londres/galeria/moneda-londres-billetes.jpg" /></p>
+
+<h2>How to pay?</h2>
+
+<p><strong>The best way to save on commission is to pay by credit card</strong>. When paying by card, the exchange rate is current and the maximum fee, depending on the issuer of the card; is usually 1%. </p>
+
+<h2>Where to exchange currency?</h2>
+
+<p>The easiest and usually cheapest option is to withdraw money once you get to your destination, but there are other options:</p>
+
+<h3>Withdraw money from the ATMs</h3>
+
+<p>The easiest option is to <strong>withdraw pounds directly from any ATM in London</strong>. This is also the cheapest option, since it has a lower exchange rate. However, it is important to keep in mind that cash machine transactions abroad have several fees and your bank <strong>might charge you up to $5 each time you use a foreign ATM</strong>, so it is always a good idea to take out a substantial amount instead of having to go several times to an ATM and being charged a fee every time you take cash out. </p>
+
+<h3>Exchange money before travelling</h3>
+
+<p>If you prefer to exchange money before travelling, you can either do so at a bank, where you will normally be charged up to 10% commission, or you can head to a bureau de change, for example, <strong>Ria Currency Exchange or Global Exchange</strong><strong>.</strong></p>
+
+<p>If you request the exchange at any of these bureaux de change, <strong>they will send you the money to your address without any surcharges</strong>. Currently, Civitatis has an agreement with Ria, so if you wish to exchange your money with them you can get a discount with the code “civitatis”.</p>
+
+<ul class="listado">
+	<li><a href="http://www.riacurrencyexchange.es?utm_source=CIVITATIS&amp;utm_medium=referral&amp;utm_campaign=afiliacion" rel="nofollow" title="Ria">Ria Currency Exchange</a> - <strong>"</strong><strong>civitatis</strong><strong>" discount</strong> code</li>
+</ul>
+
+<h3>Currency exchange in London</h3>
+
+<p>If you prefer to exchange money once you get to London, <strong>you can do so in any bank or any </strong>bureau de change. We recommend you compare the exchange rate and the commission since it can differ from one place to another or else simply ask how many pounds you will get.</p>
+
+</div>                    </div>
+                </section>
+                                
+                                            
+
+            <div class="navigation-guide-pages-wrapper show-for-large">
+                <section class="l-guide-section">
+                    <div class="l-guide-section__inner">
+                        <h2 class="a-title-main-section u-ta-center u-margin--b--30">You may also be interested in</h2>
+<ul class="navigation-guide-pages">
+    <li>
+        <a href="/health-insurance">
+    <div class="navigation-guide-pages__element">
+
+                    <span class="__badge "><i class="a-icon--best"></i></span>
+                <div class="navigation-guide-pages__element__text">
+            <h2>Health Insurance</h2>
+            <p></p>
+        </div>
+
+    </div>
+</a>    </li>
+    <li>
+        <a href="/prices">
+    <div class="navigation-guide-pages__element">
+
+                    <span class="__badge "><i class="a-icon--wallet"></i></span>
+                <div class="navigation-guide-pages__element__text">
+            <h2>Prices</h2>
+            <p>Despite excessive transportation and accommodation costs, London has significant advantages for tourists as most museums are free.
+</p>
+        </div>
+
+    </div>
+</a>    </li>
+</ul>                    </div>
+                </section>
+            </div>
+
+
+        </article>
+
+
+        <aside class="l-guide-main__aside">
+                <div class="o-weather-wrapper hide">
+
+    <div class="o-weather-day">
+        <span class="a-weather-day__title">Día</span>
+        <span class="a-weather-day__result"></span>
+    </div>
+
+    <div class="o-weather-hour">
+        <span class="a-weather-hour__title">Hora</span>
+        <span class="a-weather-hour__result"></span>
+    </div>
+
+    <div class="o-weather-icon">
+        <span class="a-weather-icon__title">Tiempo</span>
+        <span class="a-weather-icon__result"></span>
+    </div>
+
+    <div class="o-weather-temp">
+        <span class="a-weather-temp__title">Temperatura</span>
+        <span class="o-weather-temp__result"><span class="a-weather-temp__result_max"></span>/ <span class="a-weather-temp__result_min"></span></span>
+    </div>
+
+</div>
+            <div class="o-related">
+    <div class="__list owl-carousel js-module-slider" >
+                                                
+        <article class="o-guide-card">
+            <a href="/activities/thames-sunset-sightseeing-cruise" class="ga-trackEvent-element" data-eventcategory="Actividades relacionadas" data-eventaction="click" data-eventlabel="Thames Sunset Sightseeing Cruise" data-trackers=",lang,global">
+                <div class="o-guide-card__img b-lazy-container u-inner-shadow--rounded">
+                    <img
+                            src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                            class="b-lazy"
+                            data-src="https://cdn2.civitatis.com/reino-unido/londres/crucero-londres-atardecer-list.jpg" alt="Thames Sunset Sightseeing Cruise"/>
+                    <div class="o-guide-card__aux-button">book</div>
+                </div>
+                <div class="o-guide-card__content">
+                    <h3 class="o-guide-card__title" itemprop="name">Thames Sunset Sightseeing Cruise</h3>
+                    
+                                        <div class="m-rating" itemprop="aggregateRating" itemtype="http://schema.org/AggregateRating">
+                        <span class="m-rating-stars" title="valoración: 8.07"><span style="width: 80.697569767442%">8.07</span></span>
+                        <span class="a-text--rating-total">172 reviews </span>
+                        <meta itemprop="bestRating" content="10" />
+                        <meta itemprop="ratingValue" content="8.07" />
+                        <meta itemprop="reviewCount" content="172"/>
+                    </div>
+                                                                <div class="o-guide-card__price"><span><bdi>US$</bdi></span> 37.90</div>
+                                    </div>
+            </a>
+        </article>
+                                                
+        <article class="o-guide-card">
+            <a href="/activities/view-from-the-shard-tickets" class="ga-trackEvent-element" data-eventcategory="Actividades relacionadas" data-eventaction="click" data-eventlabel="The Shard Tickets" data-trackers=",lang,global">
+                <div class="o-guide-card__img b-lazy-container u-inner-shadow--rounded">
+                    <img
+                            src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                            class="b-lazy"
+                            data-src="https://cdn2.civitatis.com/reino-unido/londres/entradas-the-view-from-the-shard-list.jpg" alt="The Shard Tickets"/>
+                    <div class="o-guide-card__aux-button">book</div>
+                </div>
+                <div class="o-guide-card__content">
+                    <h3 class="o-guide-card__title" itemprop="name">The Shard Tickets</h3>
+                    
+                                        <div class="m-rating" itemprop="aggregateRating" itemtype="http://schema.org/AggregateRating">
+                        <span class="m-rating-stars" title="valoración: 8.47"><span style="width: 84.651539534512%">8.47</span></span>
+                        <span class="a-text--rating-total">215 reviews </span>
+                        <meta itemprop="bestRating" content="10" />
+                        <meta itemprop="ratingValue" content="8.47" />
+                        <meta itemprop="reviewCount" content="215"/>
+                    </div>
+                                                                <div class="o-guide-card__price"><span><bdi>US$</bdi></span> 36.60</div>
+                                    </div>
+            </a>
+        </article>
+                                                
+        <article class="o-guide-card">
+            <a href="/activities/harry-potter-studio-tour" class="ga-trackEvent-element" data-eventcategory="Actividades relacionadas" data-eventaction="click" data-eventlabel="Harry Potter Studio Tour" data-trackers=",lang,global">
+                <div class="o-guide-card__img b-lazy-container u-inner-shadow--rounded">
+                    <img
+                            src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                            class="b-lazy"
+                            data-src="https://cdn2.civitatis.com/reino-unido/londres/tour-harry-potter-warner-bros-list.jpg" alt="Harry Potter Studio Tour"/>
+                    <div class="o-guide-card__aux-button">book</div>
+                </div>
+                <div class="o-guide-card__content">
+                    <h3 class="o-guide-card__title" itemprop="name">Harry Potter Studio Tour</h3>
+                    
+                                        <div class="m-rating" itemprop="aggregateRating" itemtype="http://schema.org/AggregateRating">
+                        <span class="m-rating-stars" title="valoración: 9.06"><span style="width: 90.602006024096%">9.06</span></span>
+                        <span class="a-text--rating-total">996 reviews </span>
+                        <meta itemprop="bestRating" content="10" />
+                        <meta itemprop="ratingValue" content="9.06" />
+                        <meta itemprop="reviewCount" content="996"/>
+                    </div>
+                                                                <div class="o-guide-card__price"><span><bdi>US$</bdi></span> 52.20</div>
+                                    </div>
+            </a>
+        </article>
+            </div>
+    <div class="o-related__link">
+
+        <a href="/activities">show all the activities</a>
+    </div>
+</div>                <div class="l-mask-section country-transfer">
+    <div class="o-city-promo o-related clearfix">
+        <h2 class="__title"><a href="/transfers">Airport transfers</a></h2>
+        <div class="m-promo-list">
+            <table>
+                                    <tr tabindex=0>
+                        <td class="a-airport-transfer"><span>Heathrow Airport</span></td>
+                        <td class="a-arrow"></td>
+                        <td class="a-city-transfer"><span>City of London</span></td>
+                        <td class="a-text--price-transfer__wrapper"><span class="a-text--price-transfer"><span><bdi>US$</bdi></span> 112.40</span></td>
+                        <td class="a-button-reserve">
+                            <a href="/transfers/?origen=37&destino=38">
+                               Book
+                            </a>
+                        </td>
+                    </tr>
+                                    <tr tabindex=0>
+                        <td class="a-airport-transfer"><span>Gatwick Airport</span></td>
+                        <td class="a-arrow"></td>
+                        <td class="a-city-transfer"><span>City of London</span></td>
+                        <td class="a-text--price-transfer__wrapper"><span class="a-text--price-transfer"><span><bdi>US$</bdi></span> 94.10</span></td>
+                        <td class="a-button-reserve">
+                            <a href="/transfers/?origen=39&destino=38">
+                               Book
+                            </a>
+                        </td>
+                    </tr>
+                                    <tr tabindex=0>
+                        <td class="a-airport-transfer"><span>Stansted Airport</span></td>
+                        <td class="a-arrow"></td>
+                        <td class="a-city-transfer"><span>City of London</span></td>
+                        <td class="a-text--price-transfer__wrapper"><span class="a-text--price-transfer"><span><bdi>US$</bdi></span> 100.60</span></td>
+                        <td class="a-button-reserve">
+                            <a href="/transfers/?origen=40&destino=38">
+                               Book
+                            </a>
+                        </td>
+                    </tr>
+                                    <tr tabindex=0>
+                        <td class="a-airport-transfer"><span>Luton Airport</span></td>
+                        <td class="a-arrow"></td>
+                        <td class="a-city-transfer"><span>City of London</span></td>
+                        <td class="a-text--price-transfer__wrapper"><span class="a-text--price-transfer"><span><bdi>US$</bdi></span> 104.50</span></td>
+                        <td class="a-button-reserve">
+                            <a href="/transfers/?origen=41&destino=38">
+                               Book
+                            </a>
+                        </td>
+                    </tr>
+                                    <tr tabindex=0>
+                        <td class="a-airport-transfer"><span>London City Airport</span></td>
+                        <td class="a-arrow"></td>
+                        <td class="a-city-transfer"><span>City of London</span></td>
+                        <td class="a-text--price-transfer__wrapper"><span class="a-text--price-transfer"><span><bdi>US$</bdi></span> 69.20</span></td>
+                        <td class="a-button-reserve">
+                            <a href="/transfers/?origen=44&destino=38">
+                               Book
+                            </a>
+                        </td>
+                    </tr>
+                            </table>
+            <a href="/transfers" class="a-button-main a-button--inverse">Book</a>
+        </div>
+    </div>
+</div>                <div class="o-aside-app-promo o-related">
+    <h2 class="__title --bold-title">Take your guide everywhere with you</h2>
+    <div class="o-aside-app-promo__links">
+                                    <a href="https://itunes.apple.com/us/app/id976717995" target="_blank"><img src="https://cdn2.civitatis.com/images/app-store_en.png"
+                                             alt="Download the Civitatis app from the App Store"></a>
+                                                <a href="https://play.google.com/store/apps/details?id=com.civitatis.londres&amp;hl=en" target="_blank"><img src="https://cdn2.civitatis.com/images/google-play_en.png"
+                                             alt="Download the Civitatis app from Google Play"></a>
+                        </div>
+    <img
+            src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            data-src="https://cdn2.civitatis.com/reino-unido/londres/guia/londres-app_en.png" class="a-aside-app-promo__image b-lazy"\>
+</div>        <div class="o-hotels-aside-wrapper _no-padding"><!-- _no-padding debería sobrar, supongo; habría que quitar el padding en el contenido o así -->
+    <div class="o-hotels-aside o-related">
+        <h2 class="__title">Hotel deals</h2>
+        <div class="o-hotels-aside__content o-form">
+            <form action="https://www.hotelesbaratos.com/buscar/" method="get" target="_blank" id="hotelSearchFormAside" novalidate>
+                <fieldset class="js-repeat-block">
+                    <input type="hidden" name="destinoID" value="D_405_londres"> <input type="hidden" name="wl" id="wl" value="-2601889"/> <input type="hidden" name="idioma" value="en"> <input type="hidden" name="twl" id="twl" value="city"/>
+                    <!-- fecha y hora -->
+                    <div class="row">
+                        <div class="columns small-12 large-6 xxlarge-12">
+                            <div class="u-floating-label--s">
+                                <label for="roomStartDate">Arrival date</label> <input id="roomStartDate" name="roomStartDate" type="date" placeholder="Arrival date" required/>
+                            </div>
+                        </div>
+                        <div class="columns small-12 large-6 xxlarge-12">
+                            <div class="u-floating-label--s">
+                                <label for="roomEndDate">Departure date</label>
+                                <input id="roomEndDate" name="roomEndDate" type="date" placeholder="Departure date" data-referencedateinput="roomStartDate" required/>
+                            </div>
+                        </div>
+                    </div>
+                </fieldset>
+
+                <div class="row">
+                    <div class="columns small-12 o-form_buttons">
+                        <button class="a-button-main a-button--inverse" type="submit">Find deals</button>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="columns small-12">
+                        <div class="o-all-hotels u-ta-center">
+                            <a href="http://www.hotelesbaratos.com/london/" class="o-all-hotels__link" target="_blank">Show all the cheap hotels</a>
+                        </div>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>        </aside>
+    </div>
+
+    </main>
+
+
+    <link href="https://cdn2.civitatis.com/css/guides-cae220db6d7ee1deb23021d984df3033c33e4c25.min.css" rel="stylesheet">
+
+    <footer class="o-footer">
+
+
+    <div class="o-footer-1">
+        <div class="m-footer-email columns small-12">
+            <label for="civ-email-subscription" class="a-title--footer">Receive our latest deals</label>
+            <div class="o-form no-color">
+                <form id="news-footer" method="post" action="/newsletter/alta-express" class="js-form-redirect js-form-action">
+                    <div class="footer-mail">
+                        <input type="email" name='email' id="civ-email-subscription" placeholder="Write your email address here" class="input-insert-mail" required data-parsley-errors-container="#js-subscription-parsley-errors">
+                        <button class="button-send"></button>
+                    </div>
+                    <div id="js-subscription-parsley-errors"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="o-footer-2">
+        <div class="m-footer-block">
+            <div class="a-title--footer js-dropdown js-dropdown-mobile">London</div>
+            <ul class="m-footer-block__list">
+                                                                            <li><a href="/" title="Londres travel guide">Travel Guide</a></li>
+                                                                                <li><a href="/activities" title="Day trips and guided tours in Londres">Day trips and guided tours</a></li>
+                                                                                <li><a href="/transfers" title="Transfers in Londres">Airport transfers</a></li>
+                                                                                                            <li><a href="/hotels" title="Hotels in Londres">Hotels</a></li>
+                                                    <li><a href="/apartments" title="Hotels in Londres">Apartments</a></li>
+                                                                                                        <li><a href="/cars" title="Car rental in Londres">Car rentals</a></li>
+                                                                                <li><a href="/flights" title="Flights to Londres">Flights</a></li>
+                                                                </ul>
+        </div>
+
+        <div class="m-footer-block">
+            <div class="a-title--footer js-dropdown js-dropdown-mobile">Civitatis</div>
+            <ul class="m-footer-block__list">
+                <li><a href="https://www.civitatis.com/en/destinations" title="Civitatis destinations">Destinations</a></li>
+                <li><a href="https://www.civitatis.com/en/guides" title="Civitatis travel guides">Civitatis travel guides</a></li>
+                <li><a href="https://www.civitatis.com/en/about-us" title="Civitatis team">About us</a></li>
+                <li><a href="https://www.civitatis.com/blog/" title="Civitatis travel blog">Civitatis Magazine</a></li>
+                                            </ul>
+        </div>
+
+
+        <div class="m-footer-block">
+            <div class="a-title--footer js-dropdown js-dropdown-mobile">Customer service</div>
+            <ul class="m-footer-block__list">
+                <li><a href="/contact" title="Contact Civitatis">Contact</a></li>
+                                <li><a href="https://ayuda.civitatis.com/hc/en-us" target="_blank" title="FAQs">FAQs</a></li>
+                <li><a href="https://www.civitatis.com/en/general-conditions/" title="Civitatis&#039; General Conditions">General Conditions</a></li>
+                <li><a href="https://www.civitatis.com/en/legal/">Legal note</a></li>
+                <li><a href="https://www.civitatis.com/en/privacy/">Privacy policy</a></li>
+                <li><a href="https://www.civitatis.com/en/cookies/" title="Cookies">Cookies</a></li>
+            </ul>
+        </div>
+
+
+        <div class="m-footer-block">
+            <div class="a-title--footer js-dropdown js-dropdown-mobile">Work with us</div>
+            <ul class="m-footer-block__list">
+                <li><a href="https://www.civitatis.com/en/suppliers" title="Civitatis suppliers">Suppliers</a></li>
+                <li><a href="https://www.civitatis.com/en/affiliates" title="Civitatis&#039; affiliate program">Affiliates</a></li>
+                <li><a href="https://www.civitatis.com/en/agencies" title="Civitatis travel agencies">Travel agencies</a></li>
+                <li><a href="https://www.civitatis.com/en/work-with-us/" title="Careers">Careers</a></li>
+            </ul>
+
+        </div>
+    </div>
+    <!-- o-footer-2 -->
+
+        <div class="o-footer-3">
+
+            <div class="m-footer-block m-footer-block-1-small m-footer-block--small--centered m-footer-ekomi">
+                <div class="a-title-footer--big u-nomargin--b">Customer reviews</div>
+                <div class="m-footer-block__list">
+                    <!-- ekomi -->
+                    <div class="m-ekomi --bigger-small">
+                        <div class="m-ekomi-l"><a href="https://www.ekomi.es/testimonios-civitatiscom.html" title=""><img class="b-lazy" border="0" data-src="https://cdn2.civitatis.com/images/ekomi-190x190.png" alt="civitatis.com" title="" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a></div>
+                        <div class="m-ekomi-r">
+                            <div class="m-ekomi-rating-wrapper">
+                                <strong class="m-ekomi-rating-value"><span>9,4</span> / 10</strong>
+                                <div class="m-ekomi-rating">
+                                    <div class="m-ekomi-rating-empty">★★★★★</div>
+                                    <div class="m-ekomi-rating-selected" style="width: 92%">★★★★★</div>
+                                </div>
+                            </div> 
+                            <div class="m-ekomi-text">
+                                Over <span>620,000</span> <a href="https://www.civitatis.com/en/reviews/" title="Civitatis reviews"><strong>reviews on civitatis.com</strong></a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+                                                                                                                                                                                            
+            <div class="m-footer-block m-footer-block-top-border-small m-footer-block--small--centered m-footer-app">
+                <div class="a-title-footer--big">Download our APP</div>
+                <div class="m-footer-block__list">
+                    <div class="m-app-links">
+                                                                                                    <a href="https://itunes.apple.com/us/app/civitatis/id1209079115" target="_blank"><img src="https://cdn2.civitatis.com/images/app-store-2_en.png" alt="Download the Civitatis app from the App Store"></a>
+                        <a href="https://play.google.com/store/apps/details?id=com.civitatis.civitatis&hl=en" target="_blank"><img src="https://cdn2.civitatis.com/images/google-play-2_en.png" alt="Download the Civitatis app from Google Play"></a>
+                    </div>
+                </div>
+            </div>
+        </div><!-- o-footer-3 -->
+
+
+        <div class="o-footer-4">
+            <div class="m-footer__inner">
+                <div class="m-footer-block m-footer-secure-pay">
+                    <div class="row">
+                        <ul>
+                            <li class="secure">
+                                <span class="a-secure-pay --icon-before">Guaranteed secure <span class="u-show--mobile"> payment</span></span>
+                            </li>
+                            <li class="paypal"><img src="https://cdn2.civitatis.com/images/guides/paypal-2.png" alt="Paypal"></li>
+                            <li class="mastercard"><img src="https://cdn2.civitatis.com/images/guides/mastercard-2.png" alt="Mastercard"></li>
+                            <li class="visa"><img src="https://cdn2.civitatis.com/images/guides/visa-2.png" alt="Visa"></li>
+                        </ul>
+                    </div>
+
+                </div>
+                <div class="m-footer-block o-footer-copyright">
+                    <div class="v--inner">
+                        <a href="https://www.civitatis.com/en/" class="a-link--copy"><img class="o-footer-copyright__logo" src="https://cdn2.civitatis.com/images/logos/civitatis.png" alt="civitatis"></a>
+                        <span class="a-text--copy">This website is property of Civitatis Tours SL.<br> C.I.C.M.A 2998</span>
+                    </div>
+
+                </div>
+                <div class="m-footer-block o-footer-social__container">
+                    <div class="o-footer-social">
+                        <ul>
+                            <li><a href="https://www.facebook.com/civitatisen" title="Civitatis on Facebook"><span class="u-hide-text">Facebook</span><i class="a-icon--facebook"></i></a></li>
+                            <li><a href="https://twitter.com/civitatis_en?lang=en" title="Civitatis on Twitter"><span class="u-hide-text">Twitter</span><i class="a-icon--twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/company/civitatis" title="Civitatis on Linkedin"><span class="u-hide-text">Linkedin</span><i class="a-icon--linkedin"></i></a></li>
+                            <li><a href="https://www.instagram.com/civitatis_en/?hl=en" title="Civitatis on Instagram"><span class="u-hide-text">Instagram</span><i class="a-icon--instagram"></i></a></li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+</footer>
+
+                
+                    <script>
+            // var civLocale = 'es';
+            var currency = 'USD';
+                        var searchUrl = 'https://cdn2.civitatis.com/s/initialDestinations.js';
+                        var fns = [];
+            // Weather
+            window.coordinates = {
+                "latitude": 51.500161,
+                "longitude": -0.126257,
+                "timezone": 'Europe/London',
+                "lang": 'en'
+            }
+
+                                                                        
+                                                
+            
+            var appsUrls = {
+                guideAndroid: "https://play.google.com/store/apps/details?id=com.civitatis.londres&amp;hl=en" ,
+                guideIos: "https://itunes.apple.com/us/app/id976717995",
+                civitatisAndroid: "https://play.google.com/store/apps/details?id=com.civitatis.civitatis",
+                civitatisIos: "https://itunes.apple.com/us/app/civitatis/id1209079115"
+            }
+        </script>
+
+                    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881088637;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt=""
+             src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881088637/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+                        
+<script>
+        
+    window.currencyPorperties = {
+        "EUR": {
+            'symbol': '€',
+            'smallCurrency': false,
+            'translation': 'Euro',
+            'frontClass': 'a-currency-icon--euro'            
+        },
+        "USD": {
+            'symbol': 'US$',
+            'smallCurrency': true,
+            'translation': 'United States dollar',
+            'frontClass': ''            
+        },
+        "GBP": {
+            'symbol': '£',
+            'smallCurrency': false,
+            'translation': 'Pound sterling',
+            'frontClass': 'a-currency-icon--pound'            
+        },
+        "BRL": {
+            'symbol': 'R$',
+            'smallCurrency': true,
+            'translation': 'Brazilian real',
+            'frontClass': ''            
+        },
+        "MXN": {
+            'symbol': 'MXN',
+            'smallCurrency': true,
+            'translation': 'Mexican peso',
+            'frontClass': ''            
+        },
+        "COP": {
+            'symbol': 'COP',
+            'smallCurrency': true,
+            'translation': 'Colombian peso',
+            'frontClass': ''            
+        },
+        "CLP": {
+            'symbol': 'CL$',
+            'smallCurrency': true,
+            'translation': 'Chilean peso',
+            'frontClass': ''            
+        },
+        "PEN": {
+            'symbol': 'S/',
+            'smallCurrency': true,
+            'translation': 'Peruvian sol',
+            'frontClass': ''            
+        }
+        
+    }
+    
+</script>
+    
+        
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9bf0b81ab3","applicationID":"23981906,6909157","transactionName":"ZAAHY0FXXxADVRFaX11KJFRHX14NTQwWX0VUSg==","queueTime":0,"applicationTime":637,"atts":"SEcEFQlNTB4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

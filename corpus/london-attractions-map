@@ -1,0 +1,1984 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>London attractions tourist map - Things to Do - visitlondon.com</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="referrer" content="unsafe-URL" />
+    <link rel="preconnect" href="https://cdn.londonandpartners.com/" />
+    <link rel="preconnect" href="https://consent.cookiebot.com" />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+    <link rel="preconnect" href="https://www.googletagmanager.com/" />
+    <link rel="preconnect" href="https://www.googletagservices.com/" />
+    <link rel="dns-prefetch" href="https://cdn.londonandpartners.com/" />
+    <link rel="dns-prefetch" href="https://consent.cookiebot.com" />
+    <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com/" />
+    <link rel="dns-prefetch" href="https://www.googletagservices.com/" />
+    <link rel="stylesheet" href="https://cdn.londonandpartners.com/visit/css/style.202008271433.css" />
+    <link rel="stylesheet" href="https://cdn.londonandpartners.com/visit/icons/icons.data.svg.202008271433.css" />
+
+
+
+    <link rel="canonical" href="https://www.visitlondon.com/things-to-do/london-attractions-map" />
+    <meta property="og:url" content="https://www.visitlondon.com/things-to-do/london-attractions-map" />
+
+
+    <link rel="alternate" hreflang="de" href="https://www.visitlondon.com/de/sehen-und-erleben/interaktives-karten-tool" />
+    <link rel="alternate" hreflang="fr" href="https://www.visitlondon.com/fr/que-faire-a-londres/carte-des-attractions-de-londres" />
+
+    <meta name="description" content="Find your way around with a London sightseeing map. Find attractions, museums and top sights on our tourist map of London" />
+    <meta property="og:description" content="Find your way around with a London sightseeing map. Find attractions, museums and top sights on our tourist map of London" />
+
+    <link rel="image_src" href="https://cdn.londonandpartners.com/visit/general-london/discover/67820-640x360-interactive-map-640.jpg" />
+    <meta property="og:image" content="https://cdn.londonandpartners.com/visit/general-london/discover/67820-640x360-interactive-map-640.jpg" />
+
+    <meta name="apple-itunes-app" content="app-id=847534124, affiliate-data=ct=ct=VL_smartbanner&amp;pt=1214722&amp;mt=8" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta name="twitter:site" content="@visitlondon" />
+
+    <meta property="fb:pages" content="98963290676" />
+
+<meta property="og:type" content="website" />
+
+    <meta property="og:title" content="London attractions map" />
+
+
+    <meta property="og:site_name" content="visitlondon.com" />
+    <meta name="application-name" content="visitlondon.com" />
+
+
+    <meta name="msapplication-TileColor" content="#e0001b" />
+    <meta name="theme-color" content="#e0001b">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.londonandpartners.com/visit/favicons/apple-touch-icon.png" />
+    <link rel="mask-icon" href="https://cdn.londonandpartners.com/visit/favicons/safari-pinned-tab.svg" color="#e0001b" />
+    <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.londonandpartners.com/visit/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.londonandpartners.com/visit/favicons/favicon-16x16.png" />
+    <link rel="manifest" href="https://cdn.londonandpartners.com/visit/favicons/site.webmanifest" />
+    <meta name="msapplication-TileImage" content="https://cdn.londonandpartners.com/visit/favicons/mstile-144x144.png" />
+    <meta name="msapplication-config" content="https://cdn.londonandpartners.com/visit/favicons/browserconfig.xml" />
+
+
+
+
+
+
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js?cbid=432fd9cd-b46a-411f-91b2-872aca63bbe3" async></script>
+<script>
+
+function CookiebotCallback_OnAccept() {
+    if (!!window.google_tag_manager) {
+      CookiebotPushConsent(window.google_tag_manager);
+    } else {
+      window.addEventListener('gtm_loaded', function() {
+        CookiebotPushConsent(window.google_tag_manager);
+      });
+    }
+    
+}
+
+function CookiebotPushConsent() {
+    if (Cookiebot.consent.preferences)
+        dataLayer.push({'event':'cookieconsent_preferences'});
+    if (Cookiebot.consent.statistics)
+        dataLayer.push({'event':'cookieconsent_statistics'});
+    if (Cookiebot.consent.marketing)
+        dataLayer.push({'event':'cookieconsent_marketing'});
+}
+
+</script>
+<script>
+    (function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+
+    j.addEventListener('load', function () {
+        var _ge = new CustomEvent('gtm_loaded', { bubbles: true });
+        d.dispatchEvent(_ge);
+    });
+
+    f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-5QFXCMC');
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2758654-2', 'auto', {allowLinker: true});
+ga('set','contentGroup1','Things To Do');
+ga('set','contentGroup2','en_GB');
+ga('set','contentGroup3','Editorial - Landing Page');
+
+ga('send', 'pageview');
+</script>
+<script>var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var a=document.createElement("script");a.async=!0;a.src=("https:"==document.location.protocol?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script>    <script>
+    
+    Array.prototype.includes || Object.defineProperty(Array.prototype, "includes", { value: function (f, g) { if (null == this) throw new TypeError('"this" is null or not defined'); var e = Object(this), b = e.length >>> 0; if (0 === b) return !1; var a = g | 0; for (a = Math.max(0 <= a ? a : b - Math.abs(a), 0); a < b;) { var c = e[a], d = f; if (c === d || "number" === typeof c && "number" === typeof d && isNaN(c) && isNaN(d)) return !0; a++ } return !1 } });
+    googletag.cmd.push(function () {
+        var REFRESH_KEY = 'refresh', REFRESH_VALUE = 'true', refreshingSlots = [], refreshVisible = 50;
+    var mapping_ad_footer = googletag.sizeMapping(). addSize([0, 0], [300,250]).addSize([755, 100],[728, 90]).addSize([1020, 300], [[970,250], [728, 90]]).build();
+    var mapping_ad_lp_dmpu= googletag.sizeMapping().addSize([0, 0], [300,250]).addSize([755, 100], [728, 90]).addSize([1020, 100], [300,600]).build();
+    var mapping_ad_sidebar_dmpu= googletag.sizeMapping().addSize([0, 0], [300,250]).addSize([755, 100], [300,600]). build();
+    var mapping_ad_lp_mpu= googletag.sizeMapping().addSize([0, 0], [300,250]).addSize([755, 100], [728, 90]).addSize([1020, 100], [300,250]).build();
+    var mapping_ad_sidebar_mpu= googletag.sizeMapping().addSize([0, 0], [300,250]). build();
+    var mapping_ad_search_mpu1= googletag.sizeMapping().addSize([0, 0], []).addSize([755, 400], [300,250]). build();
+    var mapping_ad_search_mpu2= googletag.sizeMapping().addSize([0, 0], []).addSize([755, 400], [300,250]). build();
+    var mapping_ad_sky_left= googletag.sizeMapping().addSize([0, 0], []).addSize([1350, 400], [[160,600],[120,600]]). build();
+    var mapping_ad_sky_right= googletag.sizeMapping().addSize([0, 0], []).addSize([1350, 400], [[160,600],[120,600]]). build();
+    var mapping_ad_fireplace= googletag.sizeMapping().addSize([0, 0], [320,50]).addSize([755, 100], [728,90]).addSize([1020, 100], [1920,1080]).build();
+    var mapping_ad_footer_takeover = googletag.sizeMapping(). addSize([0, 0], [300,250]).addSize([755, 100],[728, 90]).build();
+        googletag.defineSlot('/70940382/VL-Microsite-Set-1/VL-Microsite-Set-1-DMPU', [[300,600],[728, 90],[300,250]], 'ad_lp_dmpu').defineSizeMapping(mapping_ad_lp_dmpu).setCollapseEmptyDiv(true).setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
+        googletag.defineSlot('/70940382/VL-Microsite-Set-1/VL-Microsite-Set-1-DMPU', [[300,600],[300,250]], 'ad_sidebar_dmpu').defineSizeMapping(mapping_ad_sidebar_dmpu).setCollapseEmptyDiv(true).setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
+
+    googletag.pubads().enableSingleRequest();
+    
+    googletag.pubads().addEventListener('slotVisibilityChanged', function (event) {
+        var slot = event.slot, slotId = slot.getSlotElementId(), slotTimer = "timer_" + slotId;
+        
+        if (event.inViewPercentage < refreshVisible && refreshingSlots.includes(slotId)) {
+            
+            var i = refreshingSlots.indexOf(slotId);
+            refreshingSlots.splice(i, 1);
+            clearInterval(window[slotTimer]);
+        } else if (event.inViewPercentage >= refreshVisible && !refreshingSlots.includes(slotId)) {
+            
+            refreshingSlots.push(slotId);
+            window[slotTimer] = setInterval(function () {
+                googletag.pubads().refresh([slot]);
+                var now = new Date();
+                
+            }, 1200000);
+        }
+    });
+    
+    googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+        var adSlot = document.getElementById(event.slot.getSlotElementId());
+        if (!adSlot) {return;}
+        if (!event.isEmpty) {
+            if (!adSlot.parentElement.querySelector('h4.advert-heading') && !adSlot.classList.contains('advert-noheading')) {
+                var adHeader = document.createElement('h4');
+                adHeader.className = 'advert-heading';
+                adHeader.innerText = 'Advertisement';
+                adSlot.parentElement.insertBefore(adHeader, adSlot);
+            }
+        } else if (adSlot.parentElement.classList.contains('advert-search-grid')) {
+            adSlot.parentElement.style.display = 'none';
+        }
+    });
+    googletag.enableServices();
+});</script>
+
+
+    
+<meta name="VIcurrentDateTime" content="637390338254549372" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+</head>
+<body>
+   
+
+
+
+    <header class="header" role="banner">
+        
+        
+<ul class="skip-links">
+    <li><a href="#content">Skip to content</a></li>
+    <li><a href="#menu">Skip to navigation</a></li>
+  </ul><div class="ww cf mobile-header" id="header">
+
+    
+
+
+        <button id="expand-nav" class="mobonly noprint header-mobile-trigger nav-trigger">
+            <b class="mobile-menu-icon"></b>
+            <span class="mobile-menu-label">Menu</span>
+        </button>
+
+
+    <a class="brand" href="/">
+    <span class="svg visitlondon-logo icon-visitlondon-logo-red">visitlondon.com</span>
+        <span class="c tagline">Official Visitor Guide</span>
+    </a>
+
+    <div id="lang-container" class="language noprint language-chooser">
+    <a id="lang-trigger" href="#langDialogueLabel" class="lang-trigger-a language-chooser-trigger">
+        <span>
+                <i class="svg flag-icon icon-flag-gb"></i>
+            <span class="mobonly">Language:</span>
+English        </span>
+        <i class="arrow right-arrow"></i>
+    </a>
+    <div class="lang-drop-down language-chooser-menu" role="dialog" aria-labelledby="langDialogueLabel">
+        <a class="close menu-back" href="#lang-trigger" title="Close">
+            <i class="symbol notranslate" aria-hidden="true">2</i>
+            <span class="mobonly">
+                <i class="arrow left-arrow"></i>
+                Back to menu
+            </span>
+        </a>
+
+        <h3 id="langDialogueLabel" class="no-link">Our international websites</h3>
+        <ul>
+                    <li>
+                        <a href="http://london.cn/visit" rel="external" hreflang="zh" lang="zh">
+                            <i class="svg flag-icon icon-cn"></i>
+                            Chinese
+                        </a>
+                    </li>
+                    <li>
+                        <a href="?lp_ls=de&amp;ref=header" hreflang="de" lang="de">
+                            <i class="svg flag-icon icon-flag-de"></i>
+                            German
+                        </a>
+                    </li>
+                    <li>
+                        <a href="?lp_ls=en&amp;ref=header" hreflang="en" lang="en">
+                            <i class="svg flag-icon icon-flag-gb"></i>
+                            English
+                        </a>
+                    </li>
+                    <li>
+                        <a href="?lp_ls=it&amp;ref=header" hreflang="it" lang="it">
+                            <i class="svg flag-icon icon-flag-it"></i>
+                            Italian
+                        </a>
+                    </li>
+                    <li>
+                        <a href="?lp_ls=fr&amp;ref=header" hreflang="fr" lang="fr">
+                            <i class="svg flag-icon icon-flag-fr"></i>
+                            French
+                        </a>
+                    </li>
+                    <li>
+                        <a href="?lp_ls=es&amp;ref=header" hreflang="es" lang="es">
+                            <i class="svg flag-icon icon-flag-es"></i>
+                            Spanish
+                        </a>
+                    </li>
+
+        </ul>
+    </div>
+</div>
+
+
+<button id="expand-search" class="mobonly noprint header-mobile-trigger search-trigger">
+    <b class="svg icon-search-red-outline">Search</b>
+</button>
+<form class="header-search cf" action="/search" role="search">
+    <label for="search-keywords" class="nonvis" id="search-label">Search</label>
+    <input type="search" id="search-keywords" name="keywords" class="header-search-field" aria-labelledby="search-label" placeholder="Search"/>
+    <button title="Search" class="header-search-submit" type="submit">
+        <i class="svg icon-search-red-outline">Search</i>
+    </button>
+</form>
+
+</div>
+
+
+<nav id="menu" class="main-nav">
+    <div class="ww cf megamenu-nav">
+        <ul class="main-navigation-links">
+                <li class="home-tab main-navigation-tab">
+
+                    <a href="/?ref=nav" class="tl-nav main-navigation-link">
+                        <i class="svg icon-home-22"><span>Home</span></i>
+                    </a>
+                </li>
+
+                <li class="offers-and-competitions-tab main-navigation-tab ">
+                    <a href="/tickets-and-offers?ref=nav" class="main-navigation-link" id="nav-offers-and-competitions">
+                        <span>Tickets &amp; offers</span>
+                        <i class="arrow right-arrow"></i>
+                    </a>
+                        <div class="megamenu sub cols4">
+                            <div class="ww cf">
+                                    <div class="column megamenu-sidebar sidebar first">
+                                        <ul>
+                                                <li>
+                                                    <a href="https://tickets.london/attraction-tickets?ref=nav">Attraction Tickets</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.booking.com/city/gb/london.en-gb.html?aid=1939996&amp;ref=nav">Hotels</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://tickets.london/news/top-10-london-sightseeing-tours/2558?ref=nav">Sightseeing tours</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://tickets.london/gt/tour/tower-of-london-tickets-with-beefeater-tour/58?ref=nav">Tower of London</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://tickets.london/news/warner-bros-studio-tour-london-the-making-of-harry-potter/2910?ref=nav">Warner Bros. Studio Tour</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://tickets.london/news/london-eye-ticket-options/2532?ref=nav">London Eye</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://tickets.london/news/madame-tussauds-ticket-options/3746?ref=nav">Madame Tussauds</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://tickets.london/gt/tour/windsor-castle-tickets/60?ref=nav">Windsor Castle</a>
+                                                </li>
+
+                                        </ul>
+                                    </div>
+                                                                    <div class="column highlight">
+
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/traveller-information/getting-around-london/oyster?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/general-london/transport/visitor-oyster-card/84694-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Oyster and travelcards</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="https://tickets.london/theatre-tickets?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/-/media/images/london/visit/whats-on/theatre/the-lion-king/lionking_logo_large.jpg?mw=310&amp;hash=FCF8A799F85713E23E5D75155EABCF466345D891" alt="The Lion King" height="174" width="310" />
+                                                    <span class="mosaic-title">Theatre Tickets</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="https://www.londonpass.com/visitlondon.php?aid=1&amp;ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/-/media/images/london/visit/london-organisations/london-pass/london-pass.jpg?mw=310&amp;hash=98365B4E1BBC69F443D78DF45A1A9FD229A91263" alt="A male and female couple show their London Pass to get into a tourist attraction" height="174" width="310" />
+                                                    <span class="mosaic-title">Sightseeing Pass</span>
+                                                </a>
+                                            </div>
+
+                                    </div>
+                            </div>
+                        </div>
+
+                </li>
+                <li class="things-to-do-tab main-navigation-tab current">
+                    <a href="/things-to-do?ref=nav" class="main-navigation-link" id="nav-things-to-do">
+                        <span>Things to do</span>
+                        <i class="arrow right-arrow"></i>
+                    </a>
+                        <div class="megamenu sub cols4">
+                            <div class="ww cf">
+                                    <div class="column megamenu-sidebar sidebar first">
+                                        <ul>
+                                                <li>
+                                                    <a href="/things-to-do/sightseeing/london-attraction?ref=nav">London attractions</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/london-areas?ref=nav">London areas</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/whats-on?ref=nav">What&#39;s on</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/whats-on/theatre?ref=nav">Theatre</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/budget-london?ref=nav">On a budget</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/virtually-london?ref=nav">Experience London at home</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/food-and-drink?ref=nav">Food and drink</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/family-activities?ref=nav">Family-friendly</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/sightseeing?ref=nav">Sightseeing</a>
+                                                </li>
+
+                                        </ul>
+                                    </div>
+                                                                    <div class="column highlight">
+
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/things-to-do?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/london-organisations/houses-of-parliament/63950-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Things to do</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/things-to-do/free-london?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/london-organisations/science-museum/96099-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Free London</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/things-to-do/whats-on/special-events/london-events-calendar?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/-/media/images/london/visit/whats-on/special-events/new-years-eve-fireworks/fireworks1920x1080.jpg?mw=310&amp;hash=329826F3A22B0B5B1041F5AB3AD549A56BCEB9D2" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Events calendar</span>
+                                                </a>
+                                            </div>
+
+                                    </div>
+                            </div>
+                        </div>
+
+                </li>
+                <li class="where-to-stay-tab main-navigation-tab ">
+                    <a href="/where-to-stay?ref=nav" class="main-navigation-link" id="nav-where-to-stay">
+                        <span>Accommodation</span>
+                        <i class="arrow right-arrow"></i>
+                    </a>
+                        <div class="megamenu sub cols4">
+                            <div class="ww cf">
+                                    <div class="column megamenu-sidebar sidebar first">
+                                        <ul>
+                                                <li>
+                                                    <a href="/where-to-stay/bed-and-breakfast?ref=nav">Bed and breakfast</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/where-to-stay/hotel/family-hotels-london?ref=nav">Family hotels</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/where-to-stay/self-catering?ref=nav">Self-catering</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/where-to-stay/accommodation-agency/homestay-agency?ref=nav">Homestay</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/where-to-stay/hostel?ref=nav">Hostels</a>
+                                                </li>
+
+                                        </ul>
+                                    </div>
+                                                                    <div class="column highlight">
+
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/where-to-stay?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/-/media/images/london/visit/where-to-stay/hotels/the-mandarin/accomodation-mandarin-oriental.jpg?mw=310&amp;hash=290A46CA954B851684065258F3EF30B62891FEA3" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Accommodation</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/where-to-stay/cheap-accommodation?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/london-organisations/generator-hostel-london/59604-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Cheap accommodation</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/where-to-stay/hotel?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/london-organisations/apex-temple-court/62037-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">London hotels</span>
+                                                </a>
+                                            </div>
+
+                                    </div>
+                            </div>
+                        </div>
+
+                </li>
+                <li class="traveller-information-tab main-navigation-tab ">
+                    <a href="/traveller-information?ref=nav" class="main-navigation-link" id="nav-traveller-information">
+                        <span>Traveller information </span>
+                        <i class="arrow right-arrow"></i>
+                    </a>
+                        <div class="megamenu sub cols4">
+                            <div class="ww cf">
+                                    <div class="column megamenu-sidebar sidebar first">
+                                        <ul>
+                                                <li>
+                                                    <a href="/traveller-information/travel-to-london/airport-transfers?ref=nav">Airport transfers</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/traveller-information/getting-around-london/london-bus?ref=nav">Buses</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/traveller-information/essential-information?ref=nav">Essential Information</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/traveller-information/getting-around-london?ref=nav">Getting around</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/traveller-information/travel-to-london/airport?ref=nav">London airports</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/traveller-information/essential-information/money?ref=nav">Money</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/tag/tourist-information-centre?ref=nav">Tourist information</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/traveller-information/getting-around-london/london-tube?ref=nav">Tube</a>
+                                                </li>
+
+                                        </ul>
+                                    </div>
+                                                                    <div class="column highlight">
+
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/traveller-information?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/london-organisations/gatwick-airport/65604-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Traveller information</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/traveller-information/getting-around-london/oyster?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/general-london/transport/visitor-oyster-card/84694-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Oyster and travelcards</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/traveller-information/getting-around-london/london-maps-and-guides?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/london-organisations/transport-system/63951-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">London maps and guides</span>
+                                                </a>
+                                            </div>
+
+                                    </div>
+                            </div>
+                        </div>
+
+                </li>
+        </ul>
+    </div>
+</nav>
+
+    </header>
+    <main role="main" class="main">
+        <div id="content">
+    
+    <div class="content content gw cf">
+        
+        
+
+<div class="gr cf">
+    <div class="gc gs18">
+        
+
+
+<div class="breadcrumb ">
+    <span class="invisible-mobile">
+        You are here:
+    </span>
+
+
+    <a href="/" rel="home"> Home</a>
+
+    <span>&gt;</span>
+
+    <a rel="home" href="/things-to-do">Things to do</a>
+    <span>&gt;</span>
+    <mark>Attractions map</mark>
+
+</div>
+
+
+    <header class="cf">
+        <h1 class="article-h1">London attractions map</h1>
+        
+    </header>
+
+        <div class="cf intro-block">
+            
+    <div class="map feature-map" data-latlng="51.515419,-0.141099" data-zoom="12" data-nobounds='true' ></div>
+    <div id="map-top10s" class="cf">
+            <label><input type="checkbox" value="points-london-top-attractions"/> Top attractions</label>
+            <label><input type="checkbox" value="points-londons-historic-houses"/> Historic houses</label>
+            <label><input type="checkbox" value="points-royal-london"/> Royal London</label>
+            <label><input type="checkbox" value="points-londons-best-afternoon-tea"/> Best afternoon tea</label>
+            <label><input type="checkbox" value="points-top-department-stores"/> Top department stores</label>
+            <label><input type="checkbox" value="points-londons-best-galleries"/> Best art galleries</label>
+            <label><input type="checkbox" value="points-londons-best-parks"/> Best parks</label>
+            <label><input type="checkbox" value="points-london-best-musicals"/> Top musicals</label>
+            <label><input type="checkbox" value="points-londons-best-museums"/> Best museums</label>
+    </div>
+    <div class="map-lists invisible">
+            <div class="map-venues" id="points-london-top-attractions">
+                    <div data-venueid="282783" data-lat="51.50354" data-lng="-0.1196">
+                        <a href="/things-to-do/place/282783-london-eye">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/29092f73799987ec75747f5e4a76a39e.jpg" height="82" width="145" alt="" />
+                            London Eye
+                        </a>
+                        <br />
+                        See the capital from above on the famous London Eye.
+                    </div>                    
+                    <div data-venueid="284875" data-lat="51.52297" data-lng="-0.15505">
+                        <a href="/things-to-do/place/284875-madame-tussauds">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/82635fc49a95c89a72f93ac972ee78e8.jpg" height="82" width="145" alt="" />
+                            Madame Tussauds
+                        </a>
+                        <br />
+                        Meet music superstars, Hollywood A-listers and the royal family at Madame Tussauds in London.
+                    </div>                    
+                    <div data-venueid="285709" data-lat="51.51897" data-lng="-0.1265">
+                        <a href="/things-to-do/place/285709-british-museum">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/bf4328c7d02437c6022b5229b29c003e.jpg" height="82" width="145" alt="" />
+                            British Museum
+                        </a>
+                        <br />
+                        Visiting the British Museum in London is free. It&#39;s one of the greatest museums in the world!
+                    </div>                    
+                    <div data-venueid="22249" data-lat="51.50911" data-lng="-0.07792">
+                        <a href="/things-to-do/place/22249-hm-tower-of-london">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/a87f39854eaef125dbf3c791387a38b8.jpg" height="82" width="145" alt="" />
+                            HM Tower of London
+                        </a>
+                        <br />
+                        Book your tickets to the The Tower of London and explore a royal palace and fortress.
+                    </div>                    
+                    <div data-venueid="427197" data-lat="51.5091" data-lng="-0.12768">
+                        <a href="/things-to-do/place/427197-national-gallery">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/96af6c5aaaa4ad3ed7ebe72c16ddd3f8.jpg" height="82" width="145" alt="" />
+                            National Gallery
+                        </a>
+                        <br />
+                        The National Gallery houses one of the greatest collections of paintings in the world. Enjoy free entrance 361 days a year. See works by artists including Van Gogh, Titian, Rembrandt and Turner.
+                    </div>                    
+                    <div data-venueid="450869" data-lat="51.48062" data-lng="-0.00466">
+                        <a href="/things-to-do/place/450869-national-maritime-museum-greenwich">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/110df0e208dcbb57e88d61b0cf5ba90a.jpg" height="82" width="145" alt="" />
+                            National Maritime Museum Greenwich
+                        </a>
+                        <br />
+                        Discover epic stories of exploration and endeavours that have shaped our world today at the National Maritime Museum, located at the heart of UNESCO Maritime Greenwich.
+                    </div>                    
+                    <div data-venueid="52747" data-lat="51.49729" data-lng="-0.1765">
+                        <a href="/things-to-do/place/52747-science-museum">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/a0b8a34870fec281a43a6ba20bf4504f.jpg" height="82" width="145" alt="" />
+                            Science Museum
+                        </a>
+                        <br />
+                        Interactive and thought-provoking, the Science Museum is a great place to see, touch and experience science first-hand. From space travel to IMAX, there&#39;s something for all the family. Free entry.
+                    </div>                    
+                    <div data-venueid="344410" data-lat="51.50747" data-lng="-0.10015">
+                        <a href="/things-to-do/place/344410-tate-modern">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/ba6340b48f16e289b24cb00ef7cc1426.jpg" height="82" width="145" alt="" />
+                            Tate Modern
+                        </a>
+                        <br />
+                        The Tate Modern is London&#39;s free national museum of modern and contemporary art. See work by Picasso, Rothko, Dali and Matisse for free and check out the latest big installation in the Turbine Hall.
+                    </div>                    
+                    <div data-venueid="427179" data-lat="51.49656" data-lng="-0.17689">
+                        <a href="/things-to-do/place/427179-natural-history-museum">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/e36731fdfb4d4b86760a8cdf5093cc85.jpg" height="82" width="145" alt="" />
+                            Natural History Museum
+                        </a>
+                        <br />
+                        The Natural History Museum is a world-leading visitor attraction and science research centre. It is the most visited natural history museum in Europe, welcoming more than five million visitors each year.
+                    </div>                    
+            </div>
+            <div class="map-venues" id="points-londons-historic-houses">
+                    <div data-venueid="427279" data-lat="51.40381" data-lng="-0.33767">
+                        <a href="/things-to-do/place/427279-hampton-court-palace">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/cc496d0ba53e775798e0acc37226e408.jpg" height="82" width="145" alt="" />
+                            Hampton Court Palace
+                        </a>
+                        <br />
+                        Explore Henry VIII&#39;s majestic palace, including his magnificent state apartments and vast Tudor kitchens. Don&#39;t miss the Haunted Gallery, the Baroque Palace, the formal gardens and the famous maze!
+                    </div>                    
+                    <div data-venueid="427311" data-lat="51.50206" data-lng="-0.14624">
+                        <a href="/things-to-do/place/427311-buckingham-palace">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/bc395b20054bcdd7ab96bfb953c04506.jpg" height="82" width="145" alt="" />
+                            Buckingham Palace
+                        </a>
+                        <br />
+                        Book your summer visit to Buckingham Palace, one of the few working royal palaces remaining in the world today. Until 29 September 2019, visitors can enjoy the 19 magnificent State Rooms.
+                    </div>                    
+                    <div data-venueid="433235" data-lat="51.51321" data-lng="-0.08948">
+                        <a href="/things-to-do/place/433235-mansion-house">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/196343b97178de017cd6658d887dfa06.jpg" height="82" width="145" alt="" />
+                            Mansion House
+                        </a>
+                        <br />
+                        The official residence of the Lord Mayor of London, built in  the 18thC in Palladian style. Superb reception rooms and  banqueting hall. Large gold and silver vaults. 'In-house'  guides only permitted...
+                    </div>                    
+                    <div data-venueid="124366" data-lat="51.49531" data-lng="-0.12015">
+                        <a href="/things-to-do/place/124366-lambeth-palace">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/6236d5a5568f04cf06970b37b17465d8.jpg" height="82" width="145" alt="" />
+                            Lambeth Palace
+                        </a>
+                        <br />
+                        One of the few medieval buildings left in London, Lambeth Palace is the London residence of the Archbishop of Canterbury. Visitors can take a guided  our of the Crypt, Guard Room, Chapel and the Libra...
+                    </div>                    
+                    <div data-venueid="175321" data-lat="51.55891" data-lng="-0.18016">
+                        <a href="/things-to-do/place/175321-national-trust-fenton-house">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/e5c53e2edd3a6a6ec5f280c1cb90627f.jpg" height="82" width="145" alt="" />
+                            National Trust: Fenton House
+                        </a>
+                        <br />
+                        Fenton House is a beautiful 17th-century merchant's house, home to an extensive range of porcelain as well as early keyboards and other instruments.
+
+Lady Katherine Binning bought the house in 1936 an...
+                    </div>                    
+                    <div data-venueid="283838" data-lat="51.48937" data-lng="-0.35222">
+                        <a href="/things-to-do/place/283838-national-trust-osterley-park-and-house">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/cae1fe102436937bc5ae3da1d203d952.jpg" height="82" width="145" alt="" />
+                            National Trust: Osterley Park and House
+                        </a>
+                        <br />
+                        Originally built in 1575 and  transformed by Robert Adam into an elegant 18thC neo-classical villa, the superb interiors contain some of  the country's best examples of Adam's work including. The hous...
+                    </div>                    
+                    <div data-venueid="658555" data-lat="51.54848" data-lng="-0.05043">
+                        <a href="/things-to-do/place/658555-national-trust-sutton-house-and-breakers-yard">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/b5f741a3e60f726e83f4c978740ac816.jpg" height="82" width="145" alt="" />
+                            National Trust: Sutton House &amp; Breaker&#39;s Yard
+                        </a>
+                        <br />
+                        A rare example of a Tudor red-brick house built for Sir  Ralph Sadleir, Principal Secretary of State for Henry VIII.  Features oak panelling, painted staircase, carved  fireplaces and Jacobean wall pa...
+                    </div>                    
+                    <div data-venueid="428001" data-lat="51.50489" data-lng="-0.18813">
+                        <a href="/things-to-do/place/428001-kensington-palace">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/e782c6cfde3f4e73850e1e991414008f.jpg" height="82" width="145" alt="" />
+                            Kensington Palace
+                        </a>
+                        <br />
+                        Explore the palace that once housed Queen Victoria and is now home to the Duke and Duchess of Cambridge.
+                    </div>                    
+                    <div data-venueid="9974" data-lat="51.50341" data-lng="-0.15186">
+                        <a href="/things-to-do/place/9974-apsley-house">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/0623642f90673ded289c2f2ff5c8d69a.jpg" height="82" width="145" alt="" />
+                            Apsley House
+                        </a>
+                        <br />
+                        In 2015, the 200th anniversary year of the Battle of Waterloo, Aplsey House - the home of the Duke of Wellington - is the perfect venue to find out about his glittering London life.
+                    </div>                    
+                    <div data-venueid="344334" data-lat="51.44821" data-lng="0.04949">
+                        <a href="/things-to-do/place/344334-english-heritage-eltham-palace">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/e6c0d77bc39af55aaeb3996549685691.jpg" height="82" width="145" alt="" />
+                            English Heritage: Eltham Palace
+                        </a>
+                        <br />
+                        A unique Art Deco mansion in a medieval setting. Transformed by millionaires, Eltham Palace fuses 1930s design with original medieval architecture and is set in 19 acres of award-winning gardens.
+                    </div>                    
+                    <div data-venueid="129581" data-lat="51.4838" data-lng="-0.29507">
+                        <a href="/things-to-do/place/129581-kew-palace-and-royal-kitchens">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/66af83fcff10a771710468a2ce7fad5b.jpg" height="82" width="145" alt="" />
+                            Kew Palace and Royal Kitchens
+                        </a>
+                        <br />
+                        Step into this tiny doll&#39;s house of a palace and sense the joys and sorrows of past royal lives in intimate detail, as George III and his family come to life in the very rooms in which they inhabited.
+                    </div>                    
+                    <div data-venueid="188550" data-lat="51.51516" data-lng="-0.10806">
+                        <a href="/things-to-do/place/188550-dr-johnsons-house">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/f17b18db9bdab91b222d0e0cf654e430.jpg" height="82" width="145" alt="" />
+                            Dr Johnson&#39;s House
+                        </a>
+                        <br />
+                        Take a tour of this early 18th-century house, housing a collection of portrait prints of Dr Johnson and his circle of friends. 
+
+The house contains its original Virginia pine panelling and staircase a...
+                    </div>                    
+                    <div data-venueid="170895" data-lat="51.66994" data-lng="-0.06888">
+                        <a href="/things-to-do/place/170895-forty-hall-museum-and-gardens">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/e13643ea9645200090062fb9fa5909af.jpg" height="82" width="145" alt="" />
+                            Forty Hall Museum and Gardens
+                        </a>
+                        <br />
+                        Forty Hall is a Grade 1 listed Jacobean Manor House, nestled in leafy Enfield and set amidst ancient royal parkland, majestic trees and watercourses.
+
+A range of guided tours are also on offer at the ...
+                    </div>                    
+                    <div data-venueid="155800" data-lat="51.44799" data-lng="0.16041">
+                        <a href="/things-to-do/place/155800-hall-place-and-gardens">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/b72d0763932e0117b7b928d5689363ec.jpg" height="82" width="145" alt="" />
+                            Hall Place and Gardens
+                        </a>
+                        <br />
+                        Hall Place is a Grade I listed Tudor country house, with 17th century additions, set in award winning formal gardens. Hall Place was restored in 2009 and is fully open to the public for the first time...
+                    </div>                    
+                    <div data-venueid="121581" data-lat="51.49843" data-lng="-0.20356">
+                        <a href="/things-to-do/place/121581-leighton-house-museum">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/8f9cfa69495b0662f88c1dfb38c7c215.jpg" height="82" width="145" alt="" />
+                            Leighton House Museum
+                        </a>
+                        <br />
+                        The former studio-house of the great Victorian artist  Frederic, Lord Leighton. Contains extraordinary period  interiors including the Arab Hall. Also houses a permanent  exhibition of Victorian paint...
+                    </div>                    
+                    <div data-venueid="155628" data-lat="51.44368" data-lng="-0.31647">
+                        <a href="/things-to-do/place/155628-national-trust-ham-house-and-gardens">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/cf1502fb3e460737e54b315943ae042d.jpg" height="82" width="145" alt="" />
+                            National Trust: Ham House &amp; Gardens
+                        </a>
+                        <br />
+                        Built in 1610 and extended in 1670 when it was at the heart of Restoration court life, Ham House is Europe's most complete surviving example of 17th century fashion and  power. The garden is one of th...
+                    </div>                    
+                    <div data-venueid="428060" data-lat="51.45556" data-lng="0.12954">
+                        <a href="/things-to-do/place/428060-national-trust-red-house">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/df4b0d7929be04dd02cc181ccbe96e25.jpg" height="82" width="145" alt="" />
+                            National Trust: Red House
+                        </a>
+                        <br />
+                        Commissioned by William Morris in 1859 and designed by  Philip Webb, Red House is of international significance in  the history of domestic architecture and garden design. The house retains many of th...
+                    </div>                    
+            </div>
+            <div class="map-venues" id="points-royal-london">
+                    <div data-venueid="427279" data-lat="51.40381" data-lng="-0.33767">
+                        <a href="/things-to-do/place/427279-hampton-court-palace">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/cc496d0ba53e775798e0acc37226e408.jpg" height="82" width="145" alt="" />
+                            Hampton Court Palace
+                        </a>
+                        <br />
+                        Explore Henry VIII&#39;s majestic palace, including his magnificent state apartments and vast Tudor kitchens. Don&#39;t miss the Haunted Gallery, the Baroque Palace, the formal gardens and the famous maze!
+                    </div>                    
+                    <div data-venueid="427311" data-lat="51.50206" data-lng="-0.14624">
+                        <a href="/things-to-do/place/427311-buckingham-palace">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/bc395b20054bcdd7ab96bfb953c04506.jpg" height="82" width="145" alt="" />
+                            Buckingham Palace
+                        </a>
+                        <br />
+                        Book your summer visit to Buckingham Palace, one of the few working royal palaces remaining in the world today. Until 29 September 2019, visitors can enjoy the 19 magnificent State Rooms.
+                    </div>                    
+                    <div data-venueid="22249" data-lat="51.50911" data-lng="-0.07792">
+                        <a href="/things-to-do/place/22249-hm-tower-of-london">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/a87f39854eaef125dbf3c791387a38b8.jpg" height="82" width="145" alt="" />
+                            HM Tower of London
+                        </a>
+                        <br />
+                        Book your tickets to the The Tower of London and explore a royal palace and fortress.
+                    </div>                    
+                    <div data-venueid="428001" data-lat="51.50489" data-lng="-0.18813">
+                        <a href="/things-to-do/place/428001-kensington-palace">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/e782c6cfde3f4e73850e1e991414008f.jpg" height="82" width="145" alt="" />
+                            Kensington Palace
+                        </a>
+                        <br />
+                        Explore the palace that once housed Queen Victoria and is now home to the Duke and Duchess of Cambridge.
+                    </div>                    
+                    <div data-venueid="478563" data-lat="51.49924" data-lng="-0.14613">
+                        <a href="/things-to-do/place/478563-royal-mews">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/4f59a8749600a3e2add03766e123d24d.jpg" height="82" width="145" alt="" />
+                            Royal Mews
+                        </a>
+                        <br />
+                        Visit the Royal Mews at Buckingham Palace, home to the royal collection of historic coaches and carriages.
+                    </div>                    
+                    <div data-venueid="448996" data-lat="51.50005" data-lng="-0.14215">
+                        <a href="/things-to-do/place/448996-the-queens-gallery">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/8a71b16bfc2e93aa4d28d2f7bee0ce62.jpg" height="82" width="145" alt="" />
+                            The Queen&#39;s Gallery
+                        </a>
+                        <br />
+                        See pieces from the Royal Collection at Buckingham Palace.
+                    </div>                    
+                    <div data-venueid="129581" data-lat="51.4838" data-lng="-0.29507">
+                        <a href="/things-to-do/place/129581-kew-palace-and-royal-kitchens">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/66af83fcff10a771710468a2ce7fad5b.jpg" height="82" width="145" alt="" />
+                            Kew Palace and Royal Kitchens
+                        </a>
+                        <br />
+                        Step into this tiny doll&#39;s house of a palace and sense the joys and sorrows of past royal lives in intimate detail, as George III and his family come to life in the very rooms in which they inhabited.
+                    </div>                    
+            </div>
+            <div class="map-venues" id="points-londons-best-afternoon-tea">
+                    <div data-venueid="244819" data-lat="51.50453" data-lng="-0.14746">
+                        <a href="/where-to-stay/place/244819-athenaeum-hotel-and-apartments">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/25c861578fdaac5a4242eac23148b603.jpg" height="82" width="145" alt="" />
+                            Athenaeum Hotel and Apartments
+                        </a>
+                        <br />
+                        Opposite Royal Parks and Buckingham Palace the five-star Athenaeum hotel, with its 18 apartments, is an intimate and sophisticated home-from-home in Mayfair, London.
+                    </div>                    
+                    <div data-venueid="446037" data-lat="51.51243" data-lng="-0.14764">
+                        <a href="/where-to-stay/place/446037-claridges">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/8a533d361faa5ddcb84dc5574342c998.jpg" height="82" width="145" alt="" />
+                            Claridge&#39;s
+                        </a>
+                        <br />
+                        In the heart of Mayfair, moments from Hyde Park, Claridge&#39;s embodies the essence of English style. Featuring the Fumoir, Claridge&#39;s Bar, afternoon tea and the elegant Health Club and Spa.
+                    </div>                    
+                    <div data-venueid="610635" data-lat="51.51781" data-lng="-0.14379">
+                        <a href="/where-to-stay/place/610635-the-langham-london">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/7188b90869210959484f834985ab919c.jpg" height="82" width="145" alt="" />
+                            The Langham, London
+                        </a>
+                        <br />
+                        Built in 1865, The Langham was London&#39;s first Grand Hotel and is today one of the capital&#39;s finest heritage hotels.
+                    </div>                    
+                    <div data-venueid="606948" data-lat="51.50836" data-lng="-0.10841">
+                        <a href="/things-to-do/place/606948-oxo-tower-restaurant-bar-and-brasserie">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/e84151280a97354c505886fcc6b4244e.jpg" height="82" width="145" alt="" />
+                            OXO Tower Restaurant, Bar and Brasserie
+                        </a>
+                        <br />
+                        OXO Tower Restaurant, Bar and Brasserie comprises of three venues on the eighth floor of the iconic OXO Tower. Floor-to-ceiling windows and a 250-foot terrace allow for unparalleled views of London.
+                    </div>                    
+                    <div data-venueid="25874630" data-lat="51.50731" data-lng="-0.14171">
+                        <a href="/things-to-do/place/25874630-diamond-jubilee-tea-salon-at-fortnum-and-mason">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/43bbf13198577067d0c7694f981aa0af.jpg" height="82" width="145" alt="" />
+                            The Diamond Jubilee Tea Salon at Fortnum &amp; Mason
+                        </a>
+                        <br />
+                        Treat yourself to a traditional afternoon tea at the Diamond Jubilee Tea Salon at Fortnum & Mason.
+                    </div>                    
+                    <div data-venueid="41671686" data-lat="51.50729" data-lng="-0.15234">
+                        <a href="/where-to-stay/place/41671686-dorchester">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/404b5b8c43937f7e81e0b8eec5e53787.jpg" height="82" width="145" alt="" />
+                            The Dorchester
+                        </a>
+                        <br />
+                        A five-star, traditional English country house style hotel, with all modern facilities including a spa and four restaurants.
+                    </div>                    
+                    <div data-venueid="38359061" data-lat="51.49775" data-lng="-0.14573">
+                        <a href="/things-to-do/place/38359061-afternoon-tea-at-the-goring">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/8c0d49febb1b147b068fa1c902604a8f.jpg" height="82" width="145" alt="" />
+                            Afternoon Tea at The Goring
+                        </a>
+                        <br />
+                        
+                    </div>                    
+                    <div data-venueid="40374604" data-lat="51.52155" data-lng="-0.16112">
+                        <a href="/things-to-do/place/40374604-afternoon-tea-at-the-landmark-hotel">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/2cb8f238f3520d522746fe1a80ce1110.jpg" height="82" width="145" alt="" />
+                            Afternoon Tea at The Landmark Hotel
+                        </a>
+                        <br />
+                        
+                    </div>                    
+                    <div data-venueid="23703298" data-lat="51.50922" data-lng="-0.12038">
+                        <a href="/things-to-do/place/23703298-afternoon-tea-at-the-savoy-hotel-in-the-thames-foyer">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/459b203e230681be7498c8e9758f995d.jpg" height="82" width="145" alt="" />
+                            Afternoon Tea at The Savoy Hotel in the Thames Foyer
+                        </a>
+                        <br />
+                        Indulge in a delicious afternoon tea at The Savoy hotel in London.
+                    </div>                    
+                    <div data-venueid="36538349" data-lat="51.50717" data-lng="-0.14141">
+                        <a href="/things-to-do/place/36538349-afternoon-tea-at-the-ritz">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/89cd8f5d0efa011058723d7e14285319.jpg" height="82" width="145" alt="" />
+                            Afternoon Tea at The Ritz
+                        </a>
+                        <br />
+                        Indulge in a British tradition at this famous London hotel.
+                    </div>                    
+            </div>
+            <div class="map-venues" id="points-top-department-stores">
+                    <div data-venueid="282605" data-lat="51.49929" data-lng="-0.16291">
+                        <a href="/things-to-do/place/282605-harrods-london">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/8bbda953848ca88e875f730a7d46e818.jpg" height="82" width="145" alt="" />
+                            Harrods London
+                        </a>
+                        <br />
+                        Visit one of the most famous department stores in London for luxurious fashion brands, souvenirs and its huge food hall.
+                    </div>                    
+                    <div data-venueid="224713" data-lat="51.50158" data-lng="-0.15981">
+                        <a href="/things-to-do/place/224713-harvey-nichols">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/d47c5193b09467393c34fbb8cbd65a74.jpg" height="82" width="145" alt="" />
+                            Harvey Nichols
+                        </a>
+                        <br />
+                        Indulge in some luxury shopping at the Harvey Nichols flagship store in Knightsbridge.
+                    </div>                    
+                    <div data-venueid="145695" data-lat="51.51524" data-lng="-0.14638">
+                        <a href="/things-to-do/place/145695-house-of-fraser-oxford-street">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/10ddeda277765a11cf7a9e76aef32d05.jpg" height="82" width="145" alt="" />
+                            House Of Fraser Oxford Street
+                        </a>
+                        <br />
+                        Find famous brands at House of Fraser Oxford Street.
+                    </div>                    
+                    <div data-venueid="120227" data-lat="51.51383" data-lng="-0.14011">
+                        <a href="/things-to-do/place/120227-liberty-london">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/056cee885c022ef4b878e061a37af6aa.jpg" height="82" width="145" alt="" />
+                            Liberty London
+                        </a>
+                        <br />
+                        One of London's most iconic department stores, Liberty London is filled with luxury British goods, designer fashion and haberdashery.
+                    </div>                    
+                    <div data-venueid="170955" data-lat="51.50786" data-lng="-0.13961">
+                        <a href="/things-to-do/place/170955-fortnum-mason">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/9a6313a9f201380770656b83c62a5740.jpg" height="82" width="145" alt="" />
+                            Fortnum &amp; Mason
+                        </a>
+                        <br />
+                        A unique and beautiful store, Fortnum &amp; Mason is renowned as purveyors of fine foods, hampers, teas and wine.
+                    </div>                    
+                    <div data-venueid="193451" data-lat="51.51498" data-lng="-0.14781">
+                        <a href="/things-to-do/place/193451-debenhams-oxford-street">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/d9feefa50ddb467853f6a409f9132208.jpg" height="82" width="145" alt="" />
+                            Debenhams: Oxford Street
+                        </a>
+                        <br />
+                        Find a range of leading high-street brands at this flagship store on Oxford Street.
+                    </div>                    
+                    <div data-venueid="175261" data-lat="51.51311" data-lng="-0.14471">
+                        <a href="/things-to-do/place/175261-fenwick-of-bond-street">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/d670f4af02fe72ad5c34e6523e50d012.jpg" height="82" width="145" alt="" />
+                            Fenwick of Bond Street
+                        </a>
+                        <br />
+                        Find fashion heaven in trendy Bond Street.
+                    </div>                    
+                    <div data-venueid="272920" data-lat="51.5154" data-lng="-0.14521">
+                        <a href="/things-to-do/place/272920-john-lewis-oxford-street">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/306e69b00773c1ac0efae9869aa7405f.jpg" height="82" width="145" alt="" />
+                            John Lewis Oxford Street
+                        </a>
+                        <br />
+                        Discover a treasure trove of tempting treats at this Oxford Street department store.
+                    </div>                    
+                    <div data-venueid="109365" data-lat="51.51444" data-lng="-0.15449">
+                        <a href="/things-to-do/place/109365-marks-and-spencer-oxford-street">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/bf37ee7314d1b9db6b458efd102afcc8.jpg" height="82" width="145" alt="" />
+                            Marks &amp; Spencer: Oxford Street
+                        </a>
+                        <br />
+                        Browse four floors of goodies in this well-known west London store.
+                    </div>                    
+                    <div data-venueid="401307" data-lat="51.51459" data-lng="-0.15284">
+                        <a href="/things-to-do/place/401307-selfridges-and-co">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/6112230ed50224366e813befe95c1a98.jpg" height="82" width="145" alt="" />
+                            Selfridges &amp; Co
+                        </a>
+                        <br />
+                        Enjoy luxury shopping in London’s West End.
+                    </div>                    
+            </div>
+            <div class="map-venues" id="points-londons-best-galleries">
+                    <div data-venueid="444966" data-lat="51.52032" data-lng="-0.09551">
+                        <a href="/things-to-do/place/444966-barbican-art-gallery">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/986f563f3cde47e7fc46691c0ebef7c1.jpg" height="82" width="145" alt="" />
+                            Barbican Art Gallery
+                        </a>
+                        <br />
+                        From acclaimed architects to Turner prize-winning artists, the Barbican Art Gallery presents major exhibitions by leading international figures.
+                    </div>                    
+                    <div data-venueid="58822" data-lat="51.50935" data-lng="-0.13991">
+                        <a href="/things-to-do/place/58822-royal-academy-of-arts">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/a8478cf975564078be73d5c1a4a7cbd6.jpg" height="82" width="145" alt="" />
+                            Royal Academy of Arts
+                        </a>
+                        <br />
+                        The Royal Academy of Arts hosts some of the finest arts exhibitions in London. The annual Summer Exhibition displays work from up and coming artists and academicians.
+                    </div>                    
+                    <div data-venueid="51034" data-lat="51.50479" data-lng="-0.17501">
+                        <a href="/things-to-do/place/51034-serpentine-galleries">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/4715a27c411e71915d0229f24c5e6dee.jpg" height="82" width="145" alt="" />
+                            Serpentine Galleries
+                        </a>
+                        <br />
+                        The Serpentine is two exhibition spaces situated on either side of The Serpentine lake in London’s Kensington Gardens: the Serpentine Gallery and the Serpentine Sackler Gallery, designed by Zaha Hadid...
+                    </div>                    
+                    <div data-venueid="610824" data-lat="51.51598" data-lng="-0.07048">
+                        <a href="/things-to-do/place/610824-whitechapel-art-gallery">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/90be64f4957b823bbf819d5f90e2dc5d.jpg" height="82" width="145" alt="" />
+                            Whitechapel Art Gallery
+                        </a>
+                        <br />
+                        For more than a century the Whitechapel Gallery has premiered world-class artists from modern masters such as Pablo Picasso, Jackson Pollock, Mark Rothko and Frida Kahlo to contemporaries such as Soph...
+                    </div>                    
+                    <div data-venueid="427197" data-lat="51.5091" data-lng="-0.12768">
+                        <a href="/things-to-do/place/427197-national-gallery">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/96af6c5aaaa4ad3ed7ebe72c16ddd3f8.jpg" height="82" width="145" alt="" />
+                            National Gallery
+                        </a>
+                        <br />
+                        The National Gallery houses one of the greatest collections of paintings in the world. Enjoy free entrance 361 days a year. See works by artists including Van Gogh, Titian, Rembrandt and Turner.
+                    </div>                    
+                    <div data-venueid="607378" data-lat="51.4906" data-lng="-0.15871">
+                        <a href="/things-to-do/place/607378-saatchi-gallery">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/e6acac9ce72b6ea2e1900e411b111e74.jpg" height="82" width="145" alt="" />
+                            The Saatchi Gallery
+                        </a>
+                        <br />
+                        Enjoy cutting-edge contemporary art at the Saatchi Gallery in Chelsea.
+                    </div>                    
+                    <div data-venueid="607431" data-lat="51.49087" data-lng="-0.12721">
+                        <a href="/things-to-do/place/607431-tate-britain">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/1199c0de98e98a58de5fd245cd8c6d82.jpg" height="82" width="145" alt="" />
+                            Tate Britain
+                        </a>
+                        <br />
+                        London&#39;s Tate Britain holds the largest collection of British art in the world from 1500 to the present day.
+                    </div>                    
+                    <div data-venueid="344410" data-lat="51.50747" data-lng="-0.10015">
+                        <a href="/things-to-do/place/344410-tate-modern">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/ba6340b48f16e289b24cb00ef7cc1426.jpg" height="82" width="145" alt="" />
+                            Tate Modern
+                        </a>
+                        <br />
+                        The Tate Modern is London&#39;s free national museum of modern and contemporary art. See work by Picasso, Rothko, Dali and Matisse for free and check out the latest big installation in the Turbine Hall.
+                    </div>                    
+                    <div data-venueid="187472" data-lat="51.44632" data-lng="-0.08643">
+                        <a href="/things-to-do/place/187472-dulwich-picture-gallery">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/9589a32b5651832963b720070ac2087e.jpg" height="82" width="145" alt="" />
+                            Dulwich Picture Gallery
+                        </a>
+                        <br />
+                        Explore Dulwich Picture Gallery, a hidden gem in south London.
+                    </div>                    
+                    <div data-venueid="282859" data-lat="51.51073" data-lng="-0.11694">
+                        <a href="/things-to-do/place/282859-somerset-house">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/8c3688e978f33d10c5deba324ff23df5.jpg" height="82" width="145" alt="" />
+                            Somerset House
+                        </a>
+                        <br />
+                        Built on historic foundations at the very heart of the capital, Somerset House is London’s working arts centre, home to the UK’s largest creative community and one of the city’s best loved public spaces.
+                    </div>                    
+            </div>
+            <div class="map-venues" id="points-londons-best-parks">
+                    <div data-venueid="610815" data-lat="51.67598" data-lng="-0.06427">
+                        <a href="/things-to-do/place/610815-lee-valley-regional-park-authority">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/1059b4d8fc672db06767f99dada4a2f2.jpg" height="82" width="145" alt="" />
+                            Lee Valley Regional Park Authority
+                        </a>
+                        <br />
+                        Lee Valley Regional Park offers hundreds of great days out. It stretches 26 miles through London, Essex and Hertfordshire. Discover sporting venues, open spaces, a visitor farm, campsites and much more!
+                    </div>                    
+                    <div data-venueid="469945" data-lat="51.53612" data-lng="-0.03911">
+                        <a href="/things-to-do/place/469945-victoria-park">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/bfd828b253eb19e46a5a113c69542d4a.jpg" height="82" width="145" alt="" />
+                            Victoria Park
+                        </a>
+                        <br />
+                        Victoria Park in London’s Tower Hamlets is a large park with canals, ponds, a pavilion, tennis courts and a sports ground.
+
+Open air pop and rock concerts are held in the park during the summer.
+                    </div>                    
+                    <div data-venueid="46285565" data-lat="51.58646" data-lng="-0.05247">
+                        <a href="/things-to-do/place/46285565-walthamstow-wetlands">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/59226510b51be94c4f7fcca03da75713.jpg" height="82" width="145" alt="" />
+                            Walthamstow Wetlands
+                        </a>
+                        <br />
+                        Explore a stunning nature reserve in north London.
+                    </div>                    
+                    <div data-venueid="58711" data-lat="51.47836" data-lng="-0.29252">
+                        <a href="/things-to-do/place/58711-royal-botanic-gardens-kew">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/e5e44435ffc922859d6ceaa422ea88f9.jpg" height="82" width="145" alt="" />
+                            Royal Botanic Gardens, Kew
+                        </a>
+                        <br />
+                        Explore more than 130 hectares of landscapes and gardens, stroll along a soaring treetop walkway and wander through tropical glasshouses at one of the world&#39;s most famous gardens.
+                    </div>                    
+                    <div data-venueid="607535" data-lat="51.57222" data-lng="-0.17255">
+                        <a href="/things-to-do/place/607535-hampstead-heath">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/a467b6e0c40c3abbc1a6a6a0d769968d.jpg" height="82" width="145" alt="" />
+                            Hampstead Heath
+                        </a>
+                        <br />
+                        Located just four miles from Trafalgar Square, Hampstead Heath is one of London&#39;s best loved green spaces. The heath has some of the best views and highest points in London for everyone to enjoy.
+                    </div>                    
+                    <div data-venueid="58165" data-lat="51.473" data-lng="0.00298">
+                        <a href="/things-to-do/place/58165-greenwich-park">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/485c2bbe2a7f50f1f026eb7955f93c2e.jpg" height="82" width="145" alt="" />
+                            Greenwich Park
+                        </a>
+                        <br />
+                        Greenwich is the oldest enclosed Royal Park, 74 hectares (183 acres) in area, and is home to a small herd of deer. On top of a hill, visitors enjoy sweeping views across the river Thames and Central London.
+                    </div>                    
+                    <div data-venueid="610718" data-lat="51.50905" data-lng="-0.16417">
+                        <a href="/things-to-do/place/610718-hyde-park">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/7d2bfa2e4461616c22ace7d76016ac9b.jpg" height="82" width="145" alt="" />
+                            Hyde Park
+                        </a>
+                        <br />
+                        Hyde Park is one of the greatest city parks in the world. Covering 142 hectares (350 acres) with over 4,000 trees, a large lake, a meadow and ornamental flower gardens.
+                    </div>                    
+                    <div data-venueid="62295" data-lat="51.45185" data-lng="-0.28242">
+                        <a href="/things-to-do/place/62295-richmond-park">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/e82e78073b0b7ac5497c8d64faeed06c.jpg" height="82" width="145" alt="" />
+                            Richmond Park
+                        </a>
+                        <br />
+                        The largest Royal Park in London (1,000 hectares/2,500 acres), it is home to 650 deer.
+                    </div>                    
+                    <div data-venueid="607161" data-lat="51.50307" data-lng="-0.13028">
+                        <a href="/things-to-do/place/607161-st-jamess-park">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/1af4dbf0c2c11aaf9d033109392911fa.jpg" height="82" width="145" alt="" />
+                            St James&#39;s Park
+                        </a>
+                        <br />
+                        With royal, political and literary associations, St James&#39;s Park is at the heart of London and covers 23 hectares (58 acres).
+                    </div>                    
+                    <div data-venueid="607119" data-lat="51.52964" data-lng="-0.14819">
+                        <a href="/things-to-do/place/607119-the-regents-park-with-primrose-hill">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/9cfd107764ffb08b6ca5aebba50e66fc.jpg" height="82" width="145" alt="" />
+                            The Regent&#39;s Park with Primrose Hill
+                        </a>
+                        <br />
+                        Regent&#39;s Park in Central London is home to a stunning rose garden, an open air theatre, ZSL London Zoo, caf&#233;s, wildlife, sports areas and plenty of green space for you to relax and enjoy.
+                    </div>                    
+                    <div data-venueid="9121604" data-lat="51.47899" data-lng="-0.16181">
+                        <a href="/things-to-do/place/9121604-battersea-park">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/34bb9049719d16576bec04f991b056f9.jpg" height="82" width="145" alt="" />
+                            Battersea Park
+                        </a>
+                        <br />
+                        An inner city park with attractive gardens and history close to central London.
+                    </div>                    
+                    <div data-venueid="279584" data-lat="51.45759" data-lng="-0.14506">
+                        <a href="/things-to-do/place/279584-clapham-common">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/88df3679ff51b1e5c6ea05106b2f7465.jpg" height="82" width="145" alt="" />
+                            Clapham Common
+                        </a>
+                        <br />
+                        Clapham Common is a urban park in South West London, boasting several sport facilities and a beautiful bandstand.
+                    </div>                    
+                    <div data-venueid="198408" data-lat="51.42092" data-lng="-0.06739">
+                        <a href="/things-to-do/place/198408-crystal-palace-park">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/122438627dfc8a9ab6c198ec9c413434.jpg" height="82" width="145" alt="" />
+                            Crystal Palace Park
+                        </a>
+                        <br />
+                        Crystal Palace Park is a large park in South London with full-size dinosaurs, an outdoor concert stage, a children's farm and playground, national sports centre and plenty of green space.
+                    </div>                    
+                    <div data-venueid="7280" data-lat="51.47721" data-lng="-0.23593">
+                        <a href="/things-to-do/place/7280-london-wetland-centre">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/e8cd29478425e4571133051685ae1221.jpg" height="82" width="145" alt="" />
+                            London Wetland Centre
+                        </a>
+                        <br />
+                        Discover an urban oasis in south-west London.
+                    </div>                    
+                    <div data-venueid="852884" data-lat="51.54151" data-lng="-0.00424">
+                        <a href="/things-to-do/place/852884-queen-elizabeth-olympic-park">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/1a8f5fba46ec8c21832f33d632f9a346.jpg" height="82" width="145" alt="" />
+                            Queen Elizabeth Olympic Park
+                        </a>
+                        <br />
+                        New green spaces and the ArcelorMittal Orbit at Queen Elizabeth Olympic Park are the latest attractions to reopen to the public for the first time since the London 2012 Olympic and Paralympic Games.
+
+...
+                    </div>                    
+                    <div data-venueid="20786" data-lat="51.65202" data-lng="-0.14992">
+                        <a href="/things-to-do/place/20786-trent-country-park">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/3e191d8236ec62b7ade78196a1cbf1af.jpg" height="82" width="145" alt="" />
+                            Trent Country Park
+                        </a>
+                        <br />
+                        A large park associated with the grounds of a former country estate, with woodland, grassland, lakes and ponds.
+                    </div>                    
+            </div>
+            <div class="map-venues" id="points-london-best-musicals">
+                    <div data-venueid="27016170" data-lat="51.51034" data-lng="-0.13213">
+                        <a href="/things-to-do/event/27016170-book-of-mormon-the-musical-at-the-prince-of-wales-theatre">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/4c0805f8e84de4d4a6c305919e8b5116.jpg" height="82" width="145" alt="" />
+                            The Book of Mormon: The Musical at the Prince of Wales Theatre
+                        </a>
+                        <br />
+                        Follow a pair of teenage Mormon missionaries as they attempt to convert a remote village in Uganda in this outrageous musical comedy.
+                    </div>                    
+                    <div data-venueid="6573327" data-lat="51.49577" data-lng="-0.14268">
+                        <a href="/things-to-do/event/6573327-wicked-the-musical-at-the-apollo-victoria">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/a4b90eafbbd4b69a43f3fb815426b8b8.jpg" height="82" width="145" alt="" />
+                            Wicked: The Musical at  the Apollo Victoria
+                        </a>
+                        <br />
+                        Defy gravity with uplifting London musical, Wicked.
+                    </div>                    
+                    <div data-venueid="7601507" data-lat="51.51179" data-lng="-0.13267">
+                        <a href="/things-to-do/event/7601507-les-mis&#233;rables-at-the-sondheim-theatre">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/4a77810cc4751a56e4e9ee69121e8cdc.jpg" height="82" width="145" alt="" />
+                            Les Mis&#233;rables at the Sondheim Theatre
+                        </a>
+                        <br />
+                        Witness the heart-wrenching tale of sacrifice and redemption at the West End's longest-running musical – Les Mis.
+                    </div>                    
+                    <div data-venueid="6987276" data-lat="51.51171" data-lng="-0.12">
+                        <a href="/things-to-do/event/6987276-lion-king-the-musical-at-the-lyceum-theatre">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/7012b676af6581a168027c7460567cc4.jpg" height="82" width="145" alt="" />
+                            The Lion King: The Musical at the Lyceum Theatre
+                        </a>
+                        <br />
+                        The Lion King musical transports you from London to the majestic Serengeti Plains.
+                    </div>                    
+                    <div data-venueid="430257" data-lat="51.50812" data-lng="-0.13203">
+                        <a href="/things-to-do/event/430257-phantom-of-the-opera-at-her-majestys-theatre">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/a45c1b6e41aa30235f7af569c4cc230d.jpg" height="82" width="145" alt="" />
+                            The Phantom of the Opera at Her Majesty&#39;s Theatre
+                        </a>
+                        <br />
+                        Experience one of the most famous and spectacular musicals of all time – The Phantom of the Opera.
+                    </div>                    
+            </div>
+            <div class="map-venues" id="points-londons-best-museums">
+                    <div data-venueid="285709" data-lat="51.51897" data-lng="-0.1265">
+                        <a href="/things-to-do/place/285709-british-museum">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/bf4328c7d02437c6022b5229b29c003e.jpg" height="82" width="145" alt="" />
+                            British Museum
+                        </a>
+                        <br />
+                        Visiting the British Museum in London is free. It&#39;s one of the greatest museums in the world!
+                    </div>                    
+                    <div data-venueid="116011" data-lat="51.51188" data-lng="-0.12165">
+                        <a href="/things-to-do/place/116011-london-transport-museum">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/a64bc101827277f161fb5ec22b2ee5a4.jpg" height="82" width="145" alt="" />
+                            London Transport Museum
+                        </a>
+                        <br />
+                        Discover lively exhibitions which explore the powerful link between transport and the growth of modern London and its unique cultural identity since 1800.
+                    </div>                    
+                    <div data-venueid="142062" data-lat="51.49601" data-lng="-0.10835">
+                        <a href="/things-to-do/place/142062-iwm-london-imperial-war-museum-london">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/ea832256d806e5ae553abcee80b4db42.jpg" height="82" width="145" alt="" />
+                            IWM London: Imperial War Museum London
+                        </a>
+                        <br />
+                        Founded during the First World War, IWM London gives compelling voice to the extraordinary stories of ordinary people caught up in over a century of conflict.
+                    </div>                    
+                    <div data-venueid="97363" data-lat="51.51778" data-lng="-0.09658">
+                        <a href="/things-to-do/place/97363-museum-of-london">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/6484407a11e9aefc8b5f61cf9cefc87c.jpg" height="82" width="145" alt="" />
+                            Museum of London
+                        </a>
+                        <br />
+                        The Museum of London tells the story of the world&#39;s greatest city and its people, from prehistoric times to the present day.
+                    </div>                    
+                    <div data-venueid="450869" data-lat="51.48062" data-lng="-0.00466">
+                        <a href="/things-to-do/place/450869-national-maritime-museum-greenwich">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/110df0e208dcbb57e88d61b0cf5ba90a.jpg" height="82" width="145" alt="" />
+                            National Maritime Museum Greenwich
+                        </a>
+                        <br />
+                        Discover epic stories of exploration and endeavours that have shaped our world today at the National Maritime Museum, located at the heart of UNESCO Maritime Greenwich.
+                    </div>                    
+                    <div data-venueid="52747" data-lat="51.49729" data-lng="-0.1765">
+                        <a href="/things-to-do/place/52747-science-museum">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/a0b8a34870fec281a43a6ba20bf4504f.jpg" height="82" width="145" alt="" />
+                            Science Museum
+                        </a>
+                        <br />
+                        Interactive and thought-provoking, the Science Museum is a great place to see, touch and experience science first-hand. From space travel to IMAX, there&#39;s something for all the family. Free entry.
+                    </div>                    
+                    <div data-venueid="209165" data-lat="51.49682" data-lng="-0.17253">
+                        <a href="/things-to-do/place/209165-victoria-and-albert-museum">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/59dea41259102a420b52b2e62ebf858b.jpg" height="82" width="145" alt="" />
+                            Victoria and Albert Museum
+                        </a>
+                        <br />
+                        See fashion, furniture, photographs, jewellery, metalwork, sculpture, paintings and more at the V&amp;A, the world&#39;s leading museum of art, design, and performance.
+                    </div>                    
+                    <div data-venueid="606805" data-lat="51.49954" data-lng="-0.19969">
+                        <a href="/things-to-do/place/606805-the-design-museum">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/686e83985fbf991c899ca6a833a3cf31.jpg" height="82" width="145" alt="" />
+                            The Design Museum
+                        </a>
+                        <br />
+                        The Design Museum offers inspiring insights into the world of design with exhibitions on fashion, architecture, graphics, product and digital design.
+                    </div>                    
+                    <div data-venueid="288217" data-lat="51.44113" data-lng="-0.06076">
+                        <a href="/things-to-do/place/288217-horniman-museum-and-gardens">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/0f277f410c7db274cbd7469bfe133383.jpg" height="82" width="145" alt="" />
+                            Horniman Museum and Gardens
+                        </a>
+                        <br />
+                        Discover an eclectic collection of anthropology, natural history and musical instruments at the Horniman Museum and Gardens.
+                    </div>                    
+                    <div data-venueid="427179" data-lat="51.49656" data-lng="-0.17689">
+                        <a href="/things-to-do/place/427179-natural-history-museum">
+
+
+
+                                <img src="https://cdn.londonandpartners.com/asset/e36731fdfb4d4b86760a8cdf5093cc85.jpg" height="82" width="145" alt="" />
+                            Natural History Museum
+                        </a>
+                        <br />
+                        The Natural History Museum is a world-leading visitor attraction and science research centre. It is the most visited natural history museum in Europe, welcoming more than five million visitors each year.
+                    </div>                    
+            </div>
+
+    </div>     
+
+            
+        </div>
+    </div>
+</div>
+<div class="landing-page cf">
+    <div class="gr cf">
+        <div class="gc gs18">
+            <div class="cf content-body">
+                    <div class="intro">
+        <br/>Use the London attractions map to find your way around the capital. Making an ideal tourist map, simply tick the boxes below to find attractions, parks, museums, historic houses and more, plotted on the map.
+    </div>
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+
+        <div class="gr cf row-of-2-container">
+            <div class="gc gs12">
+                
+
+<section class="panel panel-row-2 cf">
+    <h2>Enjoy more top London attractions</h2>
+    <div class="mosaic mosaic-width-2">
+    <div class="snippet lp-310-panel cf">
+            <a href="/things-to-do/sightseeing/london-attraction/top-ten-attractions">
+
+<img src="https://cdn.londonandpartners.com/-/media/images/london/visit/things-to-do/sightseeing/london-attractions/london-eye/lastminutelondoneye640x360.jpg?h=174&amp;la=en&amp;w=310&amp;hash=A272F6D2671D365A0EE06A614219D7C0E6F0B879" alt="Une cabine du London Eye surplombant le fleuve de la Tamise et Londres." width="310" height="174" />
+            <span class="mosaic-title">Top 10 attractions</span>
+
+            </a>
+    </div>
+
+    <div class="snippet lp-310-panel cf">
+            <a href="/london-app">
+
+            <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.londonandpartners.com/visit/general-london/apps/Visit%20London%20App/95616-640x360-app-640-with-mc.jpg" width="310" height="174" alt="" />
+
+            <span class="mosaic-title">Official City Guide App</span>
+
+            </a>
+    </div>
+
+    </div>
+
+
+
+</section>
+
+<section class="panel panel-row-2 cf">
+    <h2>Download a map</h2>
+    <div class="mosaic mosaic-width-2">
+    <div class="snippet lp-310-panel cf">
+            <a href="https://cdn.londonandpartners.com/-/media/files/london/visit/maps-and-guides/tube-maps/tube_map_december_2017.pdf?la=en">
+
+            <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.londonandpartners.com/visit/london-organisations/transport-system/63951-310x174.jpg" width="310" height="174" alt="" />
+
+            <span class="mosaic-title">Tube map</span>
+
+            </a>
+    </div>
+
+    <div class="snippet lp-310-panel cf">
+            <a href="https://tfl.gov.uk/maps/bus">
+
+            <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.londonandpartners.com/visit/london-organisations/transport-system/59591-310x174.jpg" width="310" height="174" alt="" />
+
+            <span class="mosaic-title">Bus maps</span>
+
+            </a>
+    </div>
+
+    </div>
+
+
+
+</section>
+            </div>
+            <aside role="complementary" class="gc gs6 tgs12 last sidebar">
+                <div class="gr cf">
+                    <div class="gc gs6 tgs12">
+                        
+            <div>
+                <div class="advert advert-mpu advert-mpu-mobile advert-lbd-tab advert-hpa" id="ad_lp_dmpu">
+                    <script>
+                        googletag.cmd.push(function () { googletag.display('ad_lp_dmpu'); });
+                    </script>
+                </div>
+                <span class="bt-uid-tg" data-uid="5beb310eaa-231" style="display: none !important"></span>
+            </div>
+
+                        
+                    </div>
+                    <div class="gc gs6 tgs12 last">
+                        
+
+                        
+                    </div>
+                </div>
+            </aside>
+        </div>
+
+
+    <div class="gr cf">
+        <div class="gc gs18">
+                <section class="panel panel-row-3 cf">
+        <h2>Tickets, hotels and offers</h2>
+        <div class="mosaic mosaic-width-3 cf shrink200">
+    <div class="snippet lp-310-panel cf">
+            <a href="https://tickets.london/theatre-tickets?ref=ecpromo ">
+
+            <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.londonandpartners.com/-/media/images/london/visit/ecommerce-and-advertising/ecommerce/matilda_theatre_exterior_640.jpg" width="310" height="174" alt="" />
+
+            <span class="mosaic-title">Theatre tickets</span>
+
+            </a>
+    </div>
+
+    <div class="snippet lp-310-panel cf">
+            <a href="https://tickets.london/news/london-attractions/2677?ref=ecpromo ">
+
+            <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.londonandpartners.com/assets/attractions/20248-310x174.jpg" width="310" height="174" alt="" />
+
+            <span class="mosaic-title">Attraction tickets</span>
+
+            </a>
+    </div>
+
+    <div class="snippet lp-310-panel cf">
+            <a href="https://www.londonpass.com/visitlondon.php?aid=1&ref=ecpromo ">
+
+            <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.londonandpartners.com/-/media/images/london/visit/london-organisations/london-pass/london_pass_tower_bridge_card_640.jpg?h=174&amp;la=en&amp;w=310&amp;hash=00A46524608A49732AEB14E8D89EB81AB66BC528" width="310" height="174" alt="" />
+
+            <span class="mosaic-title">Sightseeing pass</span>
+
+            </a>
+    </div>
+
+        </div>
+            <footer>
+                <a href="/tickets-and-offers" class="action">See More</a>
+            </footer>
+    </section>
+
+            
+        </div>
+    </div>
+    <div class="gr cf">
+        <div class="gc gs18">
+            
+        </div>
+    </div>
+    <div class="gr cf">
+        <div class="gc gs18">
+                <div class="cf content-body footer-copy">
+        <div id="content">
+<p>Find your way around with a London sightseeing map. Find&nbsp;<a href="/things-to-do/sightseeing/london-attraction">attractions</a><span>, museums and top sights on&nbsp;this tourist map of London. Whether you’re looking for Hyde Park or the Tower of London on a map, you’ll find it in our map of attractions. You can also download PDF maps to take with you.</span></p>
+<p>Many London attractions have reopened following the <a href="/coronavirus">coronavirus lockdown</a>, with safety measures such as pre-booking, one-way systems and reduced capacity. Check the opening times and restrictions of the venue in advance.</p>
+</div>
+<aside id="related-partners"></aside>
+    </div>
+
+
+
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+
+
+    <aside class="panel gw related-partners" id="related-partners">
+        <h2>Our favourites</h2>        
+        <ul class="category-cloud-links">
+                <li>
+                    <a href="/things-to-do/place/280244-wembley-stadium?ref=our-favourites" class="hero-link">
+                            <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.londonandpartners.com/visit/london-organisations/wembley-stadium/64928-145x109.jpg" height="109" width="145" alt=""/>
+                        <h3 class="hero-link-text">Take a tour of Wembley</h3>
+                        <span class="hero-link-icon"><i class="svg icon-arrow-right-white-outline"></i></span>
+                    </a>
+                </li>                
+                <li>
+                    <a href="/things-to-do/place/77552-piccadilly-circus?ref=our-favourites" class="hero-link">
+                            <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.londonandpartners.com/-/media/images/london/visit/partner-our-favourites/west_end.jpg?mw=145&amp;hash=9C262BAAEB77AAB40199637D28C56E243764BAB9" height="109" width="145" alt=""/>
+                        <h3 class="hero-link-text">The West End</h3>
+                        <span class="hero-link-icon"><i class="svg icon-arrow-right-white-outline"></i></span>
+                    </a>
+                </li>                
+                <li>
+                    <a href="/things-to-do/place/178413-excel-london?ref=our-favourites" class="hero-link">
+                            <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.londonandpartners.com/asset/d12a66debf36d6a69a00e13d6b620330.jpg" height="109" width="145" alt=""/>
+                        <h3 class="hero-link-text">ExCeL London</h3>
+                        <span class="hero-link-icon"><i class="svg icon-arrow-right-white-outline"></i></span>
+                    </a>
+                </li>                
+                <li>
+                    <a href="/things-to-do/place/30101523-city-of-london?ref=our-favourites" class="hero-link">
+                            <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.londonandpartners.com/visit/london-organisations/st-pauls-cathedral/74797-145x109.jpg" height="109" width="145" alt=""/>
+                        <h3 class="hero-link-text">The City of London</h3>
+                        <span class="hero-link-icon"><i class="svg icon-arrow-right-white-outline"></i></span>
+                    </a>
+                </li>                
+                <li>
+                    <a href="/things-to-do/place/41464948-shreks-adventure-london?ref=our-favourites" class="hero-link">
+                            <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.londonandpartners.com/visit/london-organisations/shreks-adventure/82968-145x109.jpg" height="109" width="145" alt=""/>
+                        <h3 class="hero-link-text">Shrek&#39;s Adventure! London</h3>
+                        <span class="hero-link-icon"><i class="svg icon-arrow-right-white-outline"></i></span>
+                    </a>
+                </li>                
+                <li>
+                    <a href="/tag/royal-parks?ref=our-favourites" class="hero-link">
+                            <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.londonandpartners.com/visit/general-london/areas/richmond/63576-145x109.jpg" height="109" width="145" alt=""/>
+                        <h3 class="hero-link-text">The Royal Parks</h3>
+                        <span class="hero-link-icon"><i class="svg icon-arrow-right-white-outline"></i></span>
+                    </a>
+                </li>                
+        </ul>
+    </aside>
+
+
+        
+        
+<div class="nudge-banner product-nudge slider">
+	<div class="gw">
+	  <span class="product-nudge-icon"><i class="svg icon-booking-nudge">Booking</i></span>
+	  <h3 class="product-nudge-intro">Save money on top attractions with The London Pass</h3>
+	  <a class="btn btn-slim" rel="external nofollow" data-ga-link="" href="https://www.londonpass.com/visitlondon.php?aid=1">
+	    <i class="svg icon-ticket product-nudge-button-icon">Ticket</i>
+	    <span class="product-nudge-button-text">Find out more</span></a>
+	  <i class="svg icon-close product-nudge-close slider-close">Close</i>
+	</div>
+</div>
+
+    </main>
+    
+        <div class="c cf ww">
+            <div class="advert advert-leaderboard advert-mpu-mobile" id="ad_footer">
+                <script>
+                    googletag.cmd.push(function () { googletag.display('ad_footer'); });
+                </script>
+            </div>
+            <span class="bt-uid-tg" data-uid="5beb2d0f02-231" style="display: none !important"></span> 
+        </div>
+
+
+
+    
+<footer class="footer">
+    <div class="ww" role="contentinfo">
+        <div class="cf">
+
+            <a href="https://www.londonandpartners.com" class="footer-logo svg icon-landp-grey">London &amp; Partners</a>
+            
+            <a href="https://www.london.gov.uk/" class="footer-logo svg icon-mayor-london-grey">Supported by Mayor of London</a>
+            
+            <div class="footer-social">
+    <span>Follow us on:</span>
+<ul>
+    <li><a data-ga-link="Social Network" rel="external me" href="https://www.facebook.com/visitlondon" class="footer-social-facebook svg icon-facebook-footer">Facebook</a></li>
+    <li><a data-ga-link="Social Network" rel="external me" href="https://twitter.com/visitlondon" class="footer-social-twitter svg icon-twitter-footer">Twitter</a></li>
+    <li><a data-ga-link="Social Network" rel="external me" href="https://instagram.com/visitlondon" class="footer-social-instagram svg icon-instagram-footer">Instagram</a></li>
+    <li><a data-ga-link="Social Network" rel="external me" href="https://www.youtube.com/visitlondonvideo" class="footer-social-youtube svg icon-youtube-footer">YouTube</a></li>
+    <li><a data-ga-link="Social Network" rel="external me" href="https://pinterest.com/visitlondon/" class="footer-social-pinterest svg icon-pinterest-footer">Pinterest</a></li>
+</ul>
+</div>
+
+        </div>
+        <div class="cf lap-footer">
+            <div class="info-links">
+    <ul>
+    <li><a href="/advertise-with-us?ref=footer">Advertise</a></li>
+    <li><a href="/about-us?ref=footer">About us</a></li>
+    <li><a href="/contact-us?ref=footer">Contact us</a></li>
+    <li><a href="/about-us/accessibility?ref=footer">Accessibility</a></li>
+    <li><a href="/about-us/terms-and-conditions?ref=footer">Terms &amp; Conditions</a></li>
+    <li><a href="/about-us/privacy?ref=footer">Privacy &amp; Cookies</a></li>
+</ul>
+<address class="vcard">
+<span class="fn org">London &amp; Partners</span> <span>is registered in England under no. 7493460.</span>
+Registered Office: <span class="adr">London &amp; Partners, <span class="street-address">2 More London Riverside</span>, <span class="locality">London</span>, <span class="postal-code">SE1 2RR</span></span>.
+<br />
+<span class="note nomob">London &amp; Partners is the official promotional agency for London. We promote London and attract businesses, events, congresses, students and visitors to the capital.</span>
+</address>
+</div>
+
+        </div>
+    </div>
+    <div class="sites cf nomob">
+    <ul class="ww">
+      <li><a href="https://www.studylondon.ac.uk/">Students</a></li>
+      <li><a href="https://conventionbureau.london/">Convention Bureau</a></li>
+      <li><a href="https://www.londonandpartners.com/events">Major Events</a></li>
+      <li><a href="https://www.londonandpartners.com/partners">Partners</a></li>
+      <li><a href="https://www.londonandpartners.com/media-centre">Media</a></li>
+      <li><a href="https://business.london/">Business</a></li>
+</ul>
+</div>
+
+</footer>
+
+
+
+
+
+        <script>
+            (function (d, e) { if (!d.getElementById(e)) return false; d.getElementById(e).onclick = function () { var h = d.getElementsByClassName("header"); h.length && (h[0].classList.remove("show-mobile-search"), h[0].classList.toggle("show-mobile-nav")); return false } })(document, "expand-nav");
+            var VL = VL || {};
+            VL.currentDate = VL.currentDate || new Date();
+            VL.currentDate.setFullYear(2020,9,23);
+            VL.CDN = 'https://cdn.londonandpartners.com';
+            VL.buildNumber = '202008271433';
+            VL.lang = 'en';
+            VL.country = 'US';
+            VL.sc = true;
+        </script>
+        <script src="https://cdn.londonandpartners.com/visit/js/concat.en.202008271433.js" async></script>
+</body>
+
+</html>

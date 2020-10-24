@@ -1,0 +1,1535 @@
+<!doctype html>
+
+<html data-ytrk-page="TOPIC PAGINATED SMALL" lang="en" class="ui-unknown0 ui-unknown">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="p:domain_verify" content="5247c07bac63b6b3250f68cfe355c9a2" />
+
+    <meta property="fb:pages" content="74442380906" />
+
+	<link rel="dns-prefetch" href="/resources">
+	<link rel="preconnect" href="/resources">
+
+    <meta name="description" content="Software, instructions that tell a computer what to do. Software comprises the entire set of programs, procedures, and routines associated with the operation of a computer system. The term was coined to differentiate these instructions from hardware—i.e., the physical components of a computer system." />
+
+    <meta name="keywords" content="Software, encyclopedia, encyclopeadia, britannica, article" />
+
+    <link rel="canonical" href="https://www.britannica.com/technology/software" />
+    <script type="text/javascript" data-type="Init Mendel">
+
+    window.$UI = {};
+
+    window.Constants = {"LICENSE_URL": "/bps/license","DEFAULT_TEST_VERSION": "A","DEFAULT_STATE": "XX","QUIZ_URL": "/quiz","SPOTLIGHT_BROWSE_URL": "/stories/spotlight","CONTENT_TYPE_TEXT": "text/plain;charset=UTF-8","TOPIC_MEDIA_PATH": "/images-videos","DEBUG_URL": "/debug","ERROR_404_URL": "/error404","TOPIC_QUOTES_PATH": "/quotes","INSTANT_ARTICLES_URL": "/instant-articles","TOPIC_PAGE_CONTENT_AJAX_URL": "/topic-content/page","INFINITE_SCROLL_PREFIX_URL": "/scroll","CC_USD": "USD","SURVEY_URL": "/survey","SIGNUP_CREATE_ACCOUNT_URL": "/auth/signup/new-account","CATEGORY_BROWSE_URL": "/browse","STORY_BROWSE_URL": "/stories","COUNTRY_US": "US","OPEN_MEDIA_OVERLAY_PARAMETER": "/media","FACTS_URL": "/facts","GAMES_BROWSE_WORDSEARCH_URL": "/games/Word-Search","NEWSLETTER_SUBSCRIPTION_URL": "/newsletter-subscription","INSIGHTS_LANDING_PAGE_URL_2": "/factsmatter","HOMEPAGE_VIDEO_ADMIN_URL": "/homepage-videos-admin","EB_PROTOCOL": "https://","INSIGHTS_LANDING_PAGE_URL_1": "/insights","RESOURCES_URL": "/resources","PROFILE_EB_EDITOR_URL": "/editor","AMP_URL": "/amp","TOPIC_ADDITIONAL_INFO_PATH": "/additional-info","CC_INR": "INR","ARTICLE_PRINT_URL": "/print/article","FIRST_EDITION_URL": "/subscriber/firstedition","WW1_PORTAL_URL": "/discover/World-War-I","PROFILE_USER_URL": "/user","MENDEL_COOKIE": "__mendel","DEMYSTIFIED_BROWSE_URL": "/stories/demystified","LIST_BROWSE_URL": "/list/browse","PROFILE_EXPERT_URL": "/contributor","USER_PROFILE_PICTURE_URL": "/image/profile","ASSEMBLY_IMAGE_URL": "/image/assembly","DAY_IN_HISTORY_URL": "/on-this-day","DEFAULT_CURRENCY": "USD","SUBSCRIPTION_MICROSITE": "/subscriptions","GAMES_HOMEPAGE_URL": "/games","CONTENT_TYPE_XML": "text/xml;charset=UTF-8","AJAX_PREFIX_URL": "/ajax","TOPIC_BROWSE_URL": "/topic-browse","MARKETING_CONTENT": "/marketing-content","FAILED_LOGIN_URL": "/failedlogin","ENV_RUNTIME": "runtime","USER_PROFILE_PARTNER_LOGO_URL": "/image/profile-partner","GALLERY_URL": "/gallery","CONTENT_TYPE_HTML": "text/html;charset=UTF-8","ENV_LOCAL": "override","MEDIA_OVERLAY_URL": "/media-overlay","ENV_DEV": "development","MEDIA_URL": "/media","SIGNUPBOX_URL": "/auth/signup","STAND_ALONE_VIDEO_URL": "/video","MORE_ON_THIS_DAY_URL": "/more-on-this-day","SEARCH_PAGE_URL": "/search","TOPIC_CONTENT_AJAX_URL": "/topic-content/topic","ERROR_URL": "/error","LOGIN_PAGE_URL": "/login","DEFAULT_S3_REGION": "US_EAST_1","TOPIC_COLLECTION_URL": "/summary","LOGINBOX_URL": "/auth/loginbox","DEFAULT_SOCIAL_PROFILE_PICTURE_URL": "/resources/images/social/default-member-210x210.jpg","QUIZ_BROWSE_URL": "/quiz/browse","BIO_BROWSE_URL": "/biographies","LIST_URL": "/list","ALPHA_BROWSE_URL": "/sitemap","GAME_URL": "/game","SOCIAL_LOGIN_SUCCESS_URL": "/auth/social-login","CONTENT_TYPE_JSON": "application/json","COBRAND_IMAGE_URL": "/image/cobrand","SUBMISSION_URL": "/submission","EB_LOG_OUT": "/auth2/logout","ENV_PRODUCTION": "production","EB_DOMAIN": "britannica.com","CONTENTFUL_ADMIN_PREFIX_URL": "/contentful-admin","TOPIC_AJAX_URL": "/ajax/topic","GAMES_BROWSE_CROSSWORD_URL": "/games/Crossword-Puzzle","WTFACT_BROWSE_URL": "/stories/wtfact","EB_LOGIN_OK": "/auth/eb-login/ok","SOCIAL_LOGIN_NEEDS_EMAIL_URL": "/auth/social-login-email","FEATURED_CONTENT_ADMIN_URL": "/fc-admin","VIDEO_CHANNEL_URL": "/videos","GALLERY_BROWSE_URL": "/gallery/browse","SOCIAL_LOGIN_NEEDS_PASSWORD_URL": "/auth/social-login-password","CACHE_URL": "/cache","SOCIAL_LOGIN_SUCCESS_REDIRECT_URL": "/auth/social-login-redirect","COMPANION_BROWSE_URL": "/stories/companion","MEDIA_FOLDER": "/eb-media","SHOW_ALL_CONTRIBUTORS": "#info-article-contributors","BRITANNICA_EDITORS_ID": "4419","EXPLORE_BROWSE": "/explore","ENV_CACHE_DISABLED": "mendelCache","STORY_URL": "/story","DEFAULT_COUNTRY": "US","NAVBAR_URL": "/ajax/navbar","EB_LOGIN_URL": "/auth/eb-login","NEW_ARTICLES_URL": "/new-articles",};
+    window.CDN = "https://cdn.britannica.com";
+
+    window.Mendel = {
+     	"config" : {
+			"page": "Topic",
+			"videoPlayerId": "RVHVXRYp",
+			"currentUrl": "https://www.britannica.com/technology/software",
+			"sharedUrl": "https://www.britannica.com/technology/software",
+			"userInfo": { "type": "ANONYMOUS"
+			             ,"userId": ""
+			             ,"currency": "USD"
+			             ,"country": "US"
+					     ,"state": "NY"
+			             ,"bcomId": "1471529291383336369"
+				         ,"hasAds": true
+					     ,"testVersion": "C"
+				         ,"privacyInfo": {"consentLocation":false,"gdpr":false,"ccpa":false,"needConsent":false}
+			},
+			"isLoggedInAsUser": false,
+			"analytics": {  "gaId": "UA-6636134-11" },
+			"isPhone": false,
+			"isDesktop": true,
+			"logoutUrl": "/auth2/logout",
+			"selfServiceUrl": "https://myaccount.britannica.com",
+
+			
+			"mendelCookieName": "__mendel",
+			"mendelCookie": {"pagesViewed":10,"surveyShown":false},
+			
+
+			"autocompleteToSearchPage": false,"topicUrl": "/technology/software"
+        ,"freeTopicReason": "PERMANENT_FREE_TOPIC"
+        ,"topicId": 552496
+	    ,"template": "DESKTOP"
+	    ,"type": "CORE"
+	    ,"hasEditMode": false        
+		,"hasToc": false,"infiniteScrollList": [{"p":1,"t":552496},{"p":1,"t":1387022},{"p":1,"t":130654},{"p":1,"t":381519},{"p":1,"t":1472949},{"p":1,"t":130605},{"p":1,"t":1366582},{"p":1,"t":384015},{"p":1,"t":1474008},{"p":1,"t":288883}]
+        ,"sequence": 1
+        ,"topics": {}
+		}
+    };
+
+	</script>
+
+
+
+
+
+
+
+
+
+<script   class="marketing-page-info" type="application/json">
+{"pageType":"Topic","templateName":"DESKTOP","pageNumber":1,"pagesTotal":1,"pageId":552496,"pageLength":246,"initialLoad":true}
+</script>
+
+
+
+
+
+
+
+
+
+<script   class="marketing-content-info" type="application/json">
+[{"id":136,"name":"SUBSCRIPTION_LINK_DESKTOP\n","selector":"#fake"},{"id":123,"name":"HEADER_SUBSCRIPTION_DESKTOP2","selector":"#fake"},{"id":224,"name":"SEARCHBOX_BOTTOM","selector":"#fake"},{"id":134,"name":"SUBSCRIPTION_LINK_DESKTOP","selector":"#fake"}]
+</script>
+
+<meta property="fb:app_id" content="1887621861548296"/>
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@britannica" />
+	<meta name="twitter:image" content="https://cdn.britannica.com/mendel/resources/eb-thistle-social-image.jpg" />
+	<meta name="twitter:description" content="Software, instructions that tell a computer what to do. Software comprises the entire set of programs, procedures, and routines associated with the operation of a computer system. The term was coined to differentiate these instructions from hardware—i.e., the physical components of a computer system."/>
+
+	<meta property="og:type"  content="ARTICLE"/>
+	<meta property="og:title" content="software | Definition, Types, & Facts"/>
+	<meta property="og:description" content="Software, instructions that tell a computer what to do. Software comprises the entire set of programs, procedures, and routines associated with the operation of a computer system. The term was coined to differentiate these instructions from hardware—i.e., the physical components of a computer system."/>
+	<meta property="og:site_name" content="Encyclopedia Britannica" />
+	<meta property="og:url" content="https://www.britannica.com/technology/software"/>
+	<meta property="og:image" content="https://cdn.britannica.com/mendel/resources/eb-thistle-social-image.jpg" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<script type="text/javascript" data-type="init opengraph">
+	Mendel.openGraph = {"type":"ARTICLE","title":"software | Definition, Types, & Facts","description":"Software, instructions that tell a computer what to do. Software comprises the entire set of programs, procedures, and routines associated with the operation of a computer system. The term was coined to differentiate these instructions from hardware—i.e., the physical components of a computer system.","imageUrl":"https://cdn.britannica.com/mendel/resources/eb-thistle-social-image.jpg","imageType":"image/jpeg","pageUrl":"https://www.britannica.com/technology/software"}</script>
+
+<title>software | Definition, Types, & Facts | Britannica</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/" >
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link href="/resources/dist/britannica.css?v=3.39.57" rel="stylesheet" />
+    <link href="/resources/dist/mendel-css.css?v=3.39.57" rel="stylesheet" />
+    <link href="/resources/dist/topic-page.css?v=3.39.57" rel="stylesheet" />
+    <link href="/resources/css/fontello/css/mendel-icons.css" rel="stylesheet"/>
+
+    <script type="text/javascript">
+        if ('scrollRestoration' in history) { history.scrollRestoration = 'manual'; }
+    </script>
+
+	<script src="/resources/js/iab.js" type="text/javascript" charset="UTF-8"></script>
+	<script type="text/javascript">
+googletag = {
+  cmd: []
+};
+</script>
+
+<script src="//js-sec.indexww.com/ht/htw-britannica.js" type="text/javascript"></script>
+<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script src="//c.amazon-adsystem.com/aax2/apstag.js" type="text/javascript"></script>
+	<script type="text/javascript" data-type="Amazon a9">
+	!function(a9,a){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};}("apstag",window);
+	</script>
+
+<script class="ads-script" type="application/json">
+{"DFP":[{"id":25,"type":"DFP","selector":".rr-module-1","injector":"after","adParameters":{"targeting":{"TEMPLATE":"3","ARTICLE":"552496"},"size":[[300,250]],"wrappingStyle":"max-height:250px","pos":"TOP","wrappingCssClass":"d","id":"DESKTOP"},"displayType":"REGULAR"},{"id":31,"type":"DFP","selector":".after-article","injector":"before","adParameters":{"targeting":{"TEMPLATE":"3","ARTICLE":"552496"},"size":[[728,90]],"wrappingStyle":"position:relative;top:10px","pos":"BOT","wrappingCssClass":"d","id":"DESKTOP"},"displayType":"REGULAR"},{"id":33,"type":"DFP","selector":".AM5","injector":"after","adParameters":{"targeting":{"TEMPLATE":"3","ARTICLE":"552496"},"size":[[300,250]],"pos":"MID3","wrappingCssClass":"inline-ad","id":"DESKTOP"},"displayType":"REGULAR"},{"id":66,"type":"DFP","selector":".AM1","injector":"after","adParameters":{"targeting":{"TEMPLATE":"3","ARTICLE":"552496"},"size":[[300,250]],"pos":"MID","wrappingCssClass":"inline-ad","id":"DESKTOP"},"displayType":"REGULAR"},{"id":68,"type":"DFP","injector":"after","adParameters":{"targeting":{"TEMPLATE":"3","ARTICLE":"552496"},"size":[[728,90]],"pos":"CATFISH","id":"INDEX"},"displayType":"CATFISH"},{"id":106,"type":"DFP","selector":".pl728","injector":"prepend","adParameters":{"targeting":{"TEMPLATE":"3","ARTICLE":"552496"},"size":[[728,90],[970,250]],"pos":"TOP","id":"DESKTOP"},"displayType":"REGULAR"}],"PRIMIS":[{"id":114,"type":"PRIMIS","selector":".AM3","injector":"after","displayType":"REGULAR"}]}</script>
+
+<script type="text/javascript">
+	Mendel.AD = {
+	    providers : {},
+		managers  : {},
+	    cmd       : [],
+		info      : {
+					"catfishTimeout"     : 60,
+					"googleGPTId"        : "15510053",
+					"googleAdsId"        : "0081271244777268",
+					"dfpLazyLoad"        : false,
+					"dfpLazyLoadParams"  : {fetchMarginPercent:300,renderMarginPercent:200,mobileScaling:2.0},
+					"dfpEnvPrefix"       : "",
+					"catfishShown"       : false
+				    ,"refreshInfo"       : {ads:'all',max:12,timer:60,newAdUnit:true}
+					,"a9Id"              : "3022"
+					
+					}
+	};
+
+
+</script>
+
+<script type="text/javascript" src="/resources/dist/mam.js?v=3.39.57" ></script>
+
+<script id="ns_script_dc" data-key="12ca4747-8e80-4a36-b550-dc239c18b954" data-e="5" src="//includemodal.global.ssl.fastly.net/sp.js" type="text/javascript" async></script>
+<script type="text/javascript">
+		!(function(o,n,t){t=o.createElement(n),o=o.getElementsByTagName(n)[0],t.async=1,t.src="https://superficialsquare.com/v2efnImPApSzhnLlHe1yjXrMv18oN6sVdzmho_QRB6Zxhy_rgT68LFVeCAMempYpY",o.parentNode.insertBefore(t,o)})(document,"script"),(function(o,n){o[n]=o[n]||function(){(o[n].q=o[n].q||[]).push(arguments)}})(window,"admiral");!(function(c,e,o,t,n){function r(o,t){(function n(){try{return 0<(localStorage.getItem("v4ac1eiZr0")||"").split(",")[4]}catch(o){}return!1})()&&(t=c[e].pubads())&&t.setTargeting("admiral-engaged","true")}(n=c[e]=c[e]||{}).cmd=n.cmd||[],typeof n.pubads===o?r():typeof n.cmd.unshift===o?n.cmd.unshift(r):n.cmd.push(r)})(window,"googletag","function");
+	</script>
+<script>
+	            dataLayer = [];
+            </script>
+		   <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		       j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		       '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		   })(window,document,'script','dataLayer','GTM-5W6NC8');
+		   </script>
+		</head>
+
+<body data-leg="C" class="new-topic topic-desktop first-page-true user-ANONYMOUS  md-desktop    leg-c">
+
+	
+
+
+
+
+
+
+
+<script  id="json-navbar-info"  type="application/json">
+{"extraLinks":[{"title":"Quizzes","url":"/quiz/browse"},{"title":"Games","url":"/games"},{"title":"On This Day","url":"/on-this-day"}],"featureLinks":[{"title":"Quizzes","url":"/quiz/browse","description":"Can you get to the top of the leaderboard?"},{"title":"Games","url":"/games","description":"Cryptic crosswords and more. Happy puzzling!"},{"title":"On This Day","url":"/on-this-day","description":"What happened on your birthday?"},{"title":"Biographies","url":"/biographies","description":"Explore extraordinary lives."},{"title":"Topic Summaries","url":"/summary","description":"Summaries, quick-facts, and timelines on key topics"},{"title":"Demystified","url":"/stories/demystified","description":"Insight into some of life's big mysteries."},{"title":"Lists","url":"/list/browse","description":"Find out what tops our Editors’ lists. "},{"title":"#WTFact","url":"/stories/wtfact","description":"Stories so weird you’ll exclaim: “What the Fact!”"},{"title":"Companions","url":"/stories/companion","description":"A more concise complement to our top articles."},{"title":"Image Galleries","url":"/gallery/browse","description":"Browse editorially curated collections."},{"title":"Spotlight","url":"/stories/spotlight","description":"Get more context behind trending news and events."}],"featuredFeature":{"title":"What Is the “Ides” of March?","url":"/story/what-is-the-ides-of-march","description":"Demystified / Lifestyles & Social Issues","image":{"id":0,"url":"/10/189610-131-C06C6A6B/Calendar-march-15th-march-15th.jpg","altText":"Calendar marking march 15th","credit":"© xtock/Shutterstock.com","fullUrl":"https://cdn.britannica.com/10/189610-131-C06C6A6B/Calendar-march-15th-march-15th.jpg"}},"categoryLinks":[{"id":10000,"title":"Entertainment & Pop Culture","urlTitle":"Entertainment-Pop-Culture","description":"Entertainment and leisure activities have been a part of all cultures in one form or another since the ancient times, whether the activity in question involved participating in a dance performance, attending a Broadway show, going to a music festival, or watching a movie.","image":{"id":0,"url":"/04/167104-050-A0D0F726.jpg","altText":"Entertainment & Pop Culture","fullUrl":"https://cdn.britannica.com/04/167104-050-A0D0F726.jpg"}},{"id":5000,"title":"Geography & Travel","urlTitle":"Geography-Travel","description":"Planet Earth contains some extraordinarily diverse environments, some of which are easily habitable and some not so much. In different areas of Earth, one might find sweltering deserts, dense tropical rainforests, or bone-chilling tundras. Each biome and habitat comes with its own selection of flora and fauna, and it may include physical features such as canyons, volcanoes, rivers, or caves. Human beings have built homes in many different environments, settling the area and organizing it into units such as cities, states, regions, and countries, each with its own points of interest. Shifting trends in human migration have resulted in a human geography that is profoundly different from that of centuries ago.","image":{"id":0,"url":"/17/2317-050-758D0E55/World-map-descriptions-Herodotus-Black-Sea.jpg","altText":"Geography & Travel","fullUrl":"https://cdn.britannica.com/17/2317-050-758D0E55/World-map-descriptions-Herodotus-Black-Sea.jpg"}},{"id":3000,"title":"Health & Medicine","urlTitle":"Health-Medicine","description":"The study of the human mind and body, how these function, and how they interact—not only with each other but also with their environment—has been of utmost importance in ensuring human well-being. Research on potential treatments and preventive medicine has expanded greatly with the development of modern medicine, and a network of disciplines, including such fields as genetics, psychology, and nutrition, aims to facilitate the betterment of our health.","image":{"id":0,"url":"/07/192107-050-CE043374/anatomy-charts-human-body-muscle-systems-skeletal.jpg","altText":"Health & Medicine","fullUrl":"https://cdn.britannica.com/07/192107-050-CE043374/anatomy-charts-human-body-muscle-systems-skeletal.jpg"}},{"id":8000,"title":"Lifestyles & Social Issues","urlTitle":"Lifestyles-Social-Issues","description":"It's easy enough to agree that human beings all around the world have certain basic requirements that must be fulfilled in order to ensure their individual and collective well-being. History has shown us, however, that it's not so easy to form societies or communities that fulfill these requirements for all members. The fight over human and civil rights has persisted for hundreds of years and remains alive today, both within the borders of nations and on an international scale. It has led to large-scale social movements and reforms concerning issues such as suffrage, slavery, women's rights, racial discrimination, environmentalism, gay rights, and more.","image":{"id":0,"url":"/11/195611-131-4DFC1336/Belgian-pride-parade-People-streets-flags-Brussels-2017.jpg","altText":"Lifestyles & Social Issues","fullUrl":"https://cdn.britannica.com/11/195611-131-4DFC1336/Belgian-pride-parade-People-streets-flags-Brussels-2017.jpg"}},{"id":12000,"title":"Literature","urlTitle":"Literature","description":"With the development of language, the human imagination has found a way to create and communicate through the written word. A literary work can transport us into a fictional, fantastic new world, describe a fleeting feeling, or simply give us a picture of the past through novels, poems, tragedies, epic works, and other genres. Through literature, communication becomes an art, and it can bridge and bond people and cultures of different languages and backgrounds.","image":{"id":0,"url":"/44/172844-131-9695C31F/word-communication-stress-accent-letters-syllable.jpg","altText":"Literature","fullUrl":"https://cdn.britannica.com/44/172844-131-9695C31F/word-communication-stress-accent-letters-syllable.jpg"}},{"id":7000,"title":"Philosophy & Religion","urlTitle":"Philosophy-Religion","description":"Humans have long pondered not only how we came to be but also why we came to be. The earliest Greek philosophers focused their attention upon the origin and nature of the physical world; later philosophers have theorized about the nature of knowledge, truth, good and evil, love, friendship, and much more. Thus, philosophy involves a methodical assessment of any and all aspects of human existence and experience. The realms of philosophy and religion have sometimes intersected in conducting inquiries such as these. As with philosophy, the study of religion underscores how humankind has long speculated about its origins. The possibility of a higher being (or beings) to which livings things owe their existence has long captived human thought. Many religions also offer their own views on the nature of good and evil, and they may prescribe guidelines and judgment on different kinds of human behavior.","image":{"id":0,"url":"/95/180595-050-EDF2CA3A.jpg","altText":"Philosophy & Religion","fullUrl":"https://cdn.britannica.com/95/180595-050-EDF2CA3A.jpg"}},{"id":9000,"title":"Politics, Law & Government","urlTitle":"Politics-Law-Government","description":"The world today is divided territorially into more than 190 countries, each of which possesses a national government that claims to exercise sovereignty and seeks to compel obedience to its will by its citizens. Governments can be classified in any number of ways. For example, they might be classified by the number of rulers, thus distinguishing government by one (as in a monarchy or a tyranny) from government by the few (in an aristocracy or oligarchy) and from government by the many (as in a democracy). Governments can also be classified by mode of succession; for example, ascension to governmental leadership may follow the rules of hereditary succession, or it may be determined through elections or by force. Governments also vary in terms of the laws and rules of conduct that each political entity follows.","image":{"id":0,"url":"/22/99622-050-E70BCD0A/Parthenon-Athens.jpg","altText":"Politics, Law & Government","fullUrl":"https://cdn.britannica.com/22/99622-050-E70BCD0A/Parthenon-Athens.jpg"}},{"id":1000,"title":"Science","urlTitle":"Science","description":"How can the sky be blue one day and stormy the next? Why do heavy objects tend to fall downwards when dropped? How are birds able to fly (and why can’t I do the same?)? Human beings have long been curious about the world in which we live, striving to identify connections among the phenomenons we witness and to understand how it all works. The field of science has developed over many centuries as a way of studying and understanding the world, beginning with the primitive stage of simply noting important regularities in nature and continuing through the rise of modern science. The modern-day sciences cover a vast range of fields, including biology, chemistry, meteorology, astronomy, physics, and much more.","image":{"id":0,"url":"/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg","altText":"Science","fullUrl":"https://cdn.britannica.com/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg"}},{"id":4000,"title":"Sports & Recreation","urlTitle":"Sports-Recreation","description":"Physical contests and recreational games have long played a part in human society. In both team and solo sports, the human body has been pushed to its limits in the name of improving athletic performance and to break record upon record. The ancient Olympic Games are an early example of the contests in which humans have engaged to showcase physical prowess. In modern times, sports and games have evolved into a lucrative and competitive industry, while other leisure activities, such as card and video games, can be competitive or can just be a way to unwind or socialize.","image":{"id":0,"url":"/13/170713-131-8D6B0AF7.jpg","altText":"Sports & Recreation","fullUrl":"https://cdn.britannica.com/13/170713-131-8D6B0AF7.jpg"}},{"id":2000,"title":"Technology","urlTitle":"Technology","description":"Humankind has long striven to improve its living conditions through the development of tools, instruments, and transportation and communications systems, all with the goal of making our lives easier, more productive and—why not—more fun, too! Thanks to human curiosity and technological research, many significant inventions have been made throughout history that in turn made a difference in our daily lives.","image":{"id":0,"url":"/84/203584-131-357FBE7D/speed-internet-technology-background.jpg","altText":"Technology","fullUrl":"https://cdn.britannica.com/84/203584-131-357FBE7D/speed-internet-technology-background.jpg"}},{"id":11000,"title":"Visual Arts","urlTitle":"Visual-Arts","description":"These are the arts that meet the eye and evoke an emotion through an expression of skill and imagination. They include the most ancient forms, such as painting and drawing, and the arts that were born thanks to the development of technology, like sculpture, printmaking, photography, and installation art, the latter a combination of multiple creative expressions. Though beauty is in the eye of the beholder, different eras in art history have had their own principles to define beauty, from the richly ornamented taste of the Baroque to the simple, utilitarian style of the Prairie School.","image":{"id":0,"url":"/45/24345-050-78FAA104.jpg","altText":"Visual Arts","fullUrl":"https://cdn.britannica.com/45/24345-050-78FAA104.jpg"}},{"id":6000,"title":"World History","urlTitle":"World-History","description":"Does history really repeat itself, or can we learn from the mistakes of those who came before us? History provides a chronological, statistical, and cultural record of the events, people, and movements that have made an impact on humankind and the world at large throughout the ages. Investigating the causes and results of past events is critically important in gaining a full understanding and perspective of present-day issues.","image":{"id":0,"url":"/05/84505-050-8BB58BE6/cave-art-Ennedi-Plateau-Chad.jpg","altText":"World History","fullUrl":"https://cdn.britannica.com/05/84505-050-8BB58BE6/cave-art-Ennedi-Plateau-Chad.jpg"}}],"featuredTopic":{"title":"Speech disorder","url":"/science/speech-disorder","description":"Article / Geography &amp; Travel","image":{"id":100577,"url":"/32/99532-050-04FBC6F0/areas-human-brain.jpg","altText":"functional areas of the human brain","credit":"Encyclopædia Britannica, Inc.","width":1600,"height":960,"fullUrl":"https://cdn.britannica.com/32/99532-050-04FBC6F0/areas-human-brain.jpg"}},"videoChannelsLinks":[{"title":"Britannica Classics","url":"/videos/britannica-classics","description":"Check out these retro videos from Encyclopedia Britannica’s archives."},{"title":"This Week in History","url":"/videos/this-week-in-history","description":"In these videos, find out what happened this week (or any week!) in history."},{"title":"Britannica Explains","url":"/videos/explains","description":"In these videos, Britannica explains a variety of topics and answers frequently asked questions."},{"title":"Demystified Videos","url":"/videos/demystified","description":"In Demystified, Britannica has all the answers to your burning questions."},{"title":"#WTFact Videos","url":"/videos/wtfact","description":"In #WTFact Britannica shares some of the most bizarre facts we can find."}],"newLinks":[{"title":"Student Portal","url":"/study/","description":"Britannica is the ultimate student resource for key school subjects like history, government, literature, and more.","newTab":true},{"title":"COVID-19 Portal","url":"/explore/savingearth/covid-19/","description":"While this global health crisis continues to evolve, it can be useful to look to past pandemics to better understand how to respond today.","newTab":true},{"title":"100 Women","url":"/explore/100women/","description":"Britannica celebrates the centennial of the Nineteenth Amendment, highlighting suffragists and history-making politicians.","newTab":true},{"title":"Britannica Beyond","url":"https://beyond.britannica.com","description":"We’ve created a new place where questions are at the center of learning. Go ahead. Ask. We won’t mind.","newTab":true},{"title":"Saving Earth","url":"/explore/savingearth/","description":"Britannica Presents Earth’s To-Do List for the 21st Century. Learn about the major environmental problems facing our planet and what can be done about them!","newTab":true},{"title":"SpaceNext50","url":"/explore/space/","description":"Britannica presents SpaceNext50,  From the race to the Moon to space stewardship, we explore a wide range of subjects that feed our curiosity about space!","newTab":true},{"title":"Britannica for Parents","url":"https://parents.britannica.com/","description":"Join us at Britannica for Parents to start finding answers to some of your biggest questions about raising a curious learner.","newTab":true}]}
+</script>
+
+<header id="header" class="bg-navy shadow-lg">
+    <div class="grid gx-0 align-items-center">
+        <div class="col-auto order-1 order-sm-0">
+            <a href="/" class="mx-20 d-block">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img loading="lazy" src="https://cdn.britannica.com/mendel/eb-logo/b-50-pb5.png" alt="Encyclopedia Britannica logo"  height="30" width="123"/>
+</a>
+        </div>
+        <div class="col-auto order-0 order-sm-1">
+            <button class="js-toggle js-toggle-hamburger btn btn-link link-white btn-sm rounded-0 px-15">
+                <em class="material-icons inactive-icon" data-icon="menu"></em>
+	<em class="material-icons active-icon" data-icon="close"></em>
+	<span class="d-none d-sm-inline-block ml-5">Browse</span>
+            </button>
+            <button class="js-toggle js-toggle-search-flyout btn btn-link link-white btn-sm rounded-0 px-15">
+                <em class="material-icons inactive-icon" data-icon="search"></em>
+	<em class="material-icons active-icon" data-icon="close"></em>
+	<span class="d-none d-sm-inline-block ml-5">Search</span>
+            </button>
+        </div>
+        <div class="col d-none d-sm-flex align-items-center justify-content-md-start justify-content-end order-2">
+            <a class="link-white font-14 ml-20 " href="/quiz/browse">
+                    Quizzes</a>
+            <a class="link-white font-14 ml-20 ml-md-35" href="/games">
+                    Games</a>
+            <a class="link-white font-14 ml-20 ml-md-35" href="/on-this-day">
+                    On This Day</a>
+            </div>
+        <div class="col col-sm-auto text-right order-3">
+            <button class="btn btn-sm btn-link link-white login-link">
+                        Login
+                    </button>
+                    <SPAN class="marketing-HEADER_SUBSCRIPTION_DESKTOP2 marketing-content" data-marketing-id="HEADER_SUBSCRIPTION_DESKTOP2"><a href="https://subscription.britannica.com/subscribe?partnerCode=BP_GN_Articles_USD_C" class="subscribe-link btn btn-sm btn-outline-white-orange py-5 mr-10" target="_blank" rel="noopener">
+   Subscribe <span class="d-none d-md-inline">&nbsp;Now</span>
+</a></SPAN></div>
+    </div>
+    <div id="global-nav-react">
+        <ul class="d-none">
+            <li><a href="/browse/Entertainment-Pop-Culture">Entertainment & Pop Culture</a></li>
+            <li><a href="/browse/Geography-Travel">Geography & Travel</a></li>
+            <li><a href="/browse/Health-Medicine">Health & Medicine</a></li>
+            <li><a href="/browse/Lifestyles-Social-Issues">Lifestyles & Social Issues</a></li>
+            <li><a href="/browse/Literature">Literature</a></li>
+            <li><a href="/browse/Philosophy-Religion">Philosophy & Religion</a></li>
+            <li><a href="/browse/Politics-Law-Government">Politics, Law & Government</a></li>
+            <li><a href="/browse/Science">Science</a></li>
+            <li><a href="/browse/Sports-Recreation">Sports & Recreation</a></li>
+            <li><a href="/browse/Technology">Technology</a></li>
+            <li><a href="/browse/Visual-Arts">Visual Arts</a></li>
+            <li><a href="/browse/World-History">World History</a></li>
+            </ul>
+        <ul class="d-none">
+            <li><a href="/quiz/browse">Quizzes</a></li>
+            <li><a href="/games">Games</a></li>
+            <li><a href="/on-this-day">On This Day</a></li>
+            <li><a href="/biographies">Biographies</a></li>
+            <li><a href="/summary">Topic Summaries</a></li>
+            <li><a href="/stories/demystified">Demystified</a></li>
+            <li><a href="/list/browse">Lists</a></li>
+            <li><a href="/stories/wtfact">#WTFact</a></li>
+            <li><a href="/stories/companion">Companions</a></li>
+            <li><a href="/gallery/browse">Image Galleries</a></li>
+            <li><a href="/stories/spotlight">Spotlight</a></li>
+            </ul>
+        <ul class="d-none">
+            <li><a href="/videos/Entertainment-Pop-Culture">Entertainment & Pop Culture</a></li>
+            <li><a href="/videos/Geography-Travel">Geography & Travel</a></li>
+            <li><a href="/videos/Health-Medicine">Health & Medicine</a></li>
+            <li><a href="/videos/Lifestyles-Social-Issues">Lifestyles & Social Issues</a></li>
+            <li><a href="/videos/Literature">Literature</a></li>
+            <li><a href="/videos/Philosophy-Religion">Philosophy & Religion</a></li>
+            <li><a href="/videos/Politics-Law-Government">Politics, Law & Government</a></li>
+            <li><a href="/videos/Science">Science</a></li>
+            <li><a href="/videos/Sports-Recreation">Sports & Recreation</a></li>
+            <li><a href="/videos/Technology">Technology</a></li>
+            <li><a href="/videos/Visual-Arts">Visual Arts</a></li>
+            <li><a href="/videos/World-History">World History</a></li>
+            </ul>
+        <ul class="d-none">
+            <li><a href="/videos/britannica-classics">Britannica Classics<br/>Check out these retro videos from Encyclopedia Britannica’s archives.</a></li>
+            <li><a href="/videos/this-week-in-history">This Week in History<br/>In these videos, find out what happened this week (or any week!) in history.</a></li>
+            <li><a href="/videos/explains">Britannica Explains<br/>In these videos, Britannica explains a variety of topics and answers frequently asked questions.</a></li>
+            <li><a href="/videos/demystified">Demystified Videos<br/>In Demystified, Britannica has all the answers to your burning questions.</a></li>
+            <li><a href="/videos/wtfact">#WTFact Videos<br/>In #WTFact Britannica shares some of the most bizarre facts we can find.</a></li>
+            </ul>
+    </div>
+</header>
+
+<main>
+
+	    <div class="md-page-wrapper">
+
+	        <div id="content" class="md-content">
+	            <div class="md-article-container template-desktop">
+			<article class="article-content content " data-topic-id="552496">
+
+            <div class="pl728 toolbar-ad"></div>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="family-bar topic-toolbar sticky-toolbar border-bottom d-flex align-items-center font-14 bg-white shadow">
+	<a href="/technology/software" class="title d-none d-lg-block label px-20 text-truncate text-black link-blue lh-lg">Software</a>
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="slider js-slider position-relative d-inline-flex align-items-center mw-100 tabs">
+    <div class="slider-container js-slider-container text-nowrap overflow-hidden d-flex ">
+        
+			
+				
+					
+					<span class="tab active">Article</span>
+					
+				
+			
+				
+					
+					
+					<a class="tab" href="/technology/software/additional-info">Additional Info</a>
+				
+			
+		
+    </div>
+
+    
+
+    
+
+    
+
+    <button disabled class="prev-button js-prev-button position-absolute btn btn-circle shadow btn-sm btn-unstyled mx-10 shadow bg-white text-blue">
+        <span class="material-icons md-24" data-icon="keyboard_arrow_left"></span>
+    </button>
+    <button disabled class="next-button js-next-button position-absolute btn btn-circle shadow btn-sm btn-unstyled mx-10 shadow bg-white text-blue">
+        <span class="material-icons md-24" data-icon="keyboard_arrow_right"></span>
+    </button>
+</div>
+
+		<div class="tabs swipe-x">
+
+		</div>
+	
+</div>
+<div class="grid gx-0">
+
+	            <div class="col-auto">
+                    </div>
+
+                <div class="col">
+
+                    <div class="infinite-pagination-container container pt-40 p-sm-40">
+
+	                    <div class="grid">
+	<div class="topic-content col-sm pr-lg-60">
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+		<script type="application/ld+json">
+		{
+			"@context" : "https://schema.org",
+			"@type" : "BreadcrumbList",
+			"itemListElement" :
+			[
+				
+			
+			{
+			"@type" : "ListItem",
+			"position" : 1,
+			"item" :
+			{
+			"@id" : "https://www.britannica.com/browse/Technology",
+			"name": "Technology"
+			}
+			}
+		
+			,
+			{
+			"@type" : "ListItem",
+			"position" : 2,
+			"item" :
+			{
+			"@id" : "https://www.britannica.com/browse/Computers",
+			"name": "Computers"
+			}
+			}
+		
+			]
+		}
+		</script>
+
+	
+
+	<nav class="breadcrumb ">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="slider js-slider position-relative d-inline-flex align-items-center mw-100 breadcrumb-slider">
+    <div class="slider-container js-slider-container text-nowrap overflow-hidden d-flex overflow-hidden">
+        
+			<a class="breadcrumb-item  " href="/">Home</a>
+			
+				
+					
+					
+						<a class="breadcrumb-item  " href="/browse/Technology">Technology</a>
+					
+				
+			
+				
+					
+					
+						<a class="breadcrumb-item  " href="/browse/Computers">Computers</a>
+					
+				
+			
+		
+    </div>
+
+    
+
+    
+
+    
+
+    <button disabled class="prev-button js-prev-button position-absolute btn btn-circle shadow btn-xs btn-outline-blue bg-white ">
+        <span class="material-icons md-18" data-icon="keyboard_arrow_left"></span>
+    </button>
+    <button disabled class="next-button js-next-button position-absolute btn btn-circle shadow btn-xs btn-outline-blue bg-white ">
+        <span class="material-icons md-18" data-icon="keyboard_arrow_right"></span>
+    </button>
+</div>
+
+	</nav>
+
+
+<h1>Software</h1>
+
+		<div class="topic-identifier">computing</div>
+			<div class="md-topic-tools mt-15 mb-20" data-topic-id="552496">
+			<a class="btn btn-sm btn-outline-blue border-gray-100 shadow-sm mr-5 pr-10" href="/print/article/552496" target="_blank">
+							<em class="material-icons mr-5 ml-n10 my-n5" data-icon="print"></em>
+	
+							Print
+						</a>
+					<button class="js-modal btn btn-sm btn-outline-blue border-gray-100 shadow-sm mr-5 pr-10" data-modal="[data-topic-id=552496] .md-cite-modal">
+					<em class="material-icons mr-5 ml-n10 my-n5" data-icon="verified"></em>
+	
+					Cite
+				</button>
+
+				<div class="md-cite-modal size-lg d-none" data-load="/ajax/topic/552496/cite"></div>
+			<button class="js-share-modal-button js-modal btn btn-sm btn-outline-blue border-gray-100 shadow-sm mr-5 pr-10" data-modal="[data-topic-id=552496] .md-share-modal">
+					<em class="material-icons mr-5 ml-n10 my-n5" data-icon="share"></em>
+	
+					Share
+				</button>
+
+				<div class="md-share-modal size-lg d-none">
+					<div class="md-modal-body">
+						<div class="h2 font-serif d-flex align-items-center pb-15 border-bottom">
+							<em class="material-icons text-blue mr-10" data-icon="share"></em>
+	
+							Share
+						</div>
+						<div class="label my-20">Share to social media</div>
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+    
+        
+    
+    
+    
+
+
+
+
+
+
+<div class="md-social-toolbar-circle d-flex align-items-start inverted"
+     data-value="share"
+     
+     
+>
+    
+    
+        <a class="ui-icon-facebook justify-content-center d-flex align-items-center align-self-center" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank" rel="noopener" title="Facebook"><span>Facebook</span></a>
+    
+    
+        <a class="ui-icon-twitter justify-content-center d-flex align-items-center align-self-center" data-provider="twitter" href="https://twitter.com/britannica" target="_blank" rel="noopener" title="Twitter"><span>Twitter</span></a>
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+
+<div class="label pt-20 mt-20 mb-5 border-top">URL</div>
+						<a class="font-serif text-truncate d-inline-block" href="/technology/software">https://www.britannica.com/technology/software</a>
+					</div>
+				</div>
+			<button class="js-tooltip btn btn-sm btn-outline-blue border-gray-100 shadow-sm mr-5 pr-10">
+					<em class="material-icons mr-5 ml-n10 my-n5" data-icon="more_vert"></em>
+	
+					More
+				</button>
+				<div class="md-more-popover popover popover-sm py-5 px-0 font-14 z-1">
+					<button class="js-feedback-modal-button js-modal btn btn-sm btn-link" data-modal=".md-feedback-modal">Give Feedback</button>
+					<button class="js-modal btn btn-sm btn-link" data-modal="[data-topic-id=552496] .md-websites-modal">External Websites</button>
+					</div>
+
+				<div class="md-feedback-modal size-lg d-none">
+	<div class="md-modal-body">
+		<div class="h2 font-serif pb-15 border-bottom">
+			Feedback
+		</div>
+
+		<form method="post" action="/submission/feedback/552496">
+
+			<div class="my-20">
+				Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+			</div>
+
+			<div class="type-menu">
+				<label for="feedback-type" class="label mb-10">Feedback Type</label>
+				<select id="feedback-type" class="form-select mb-30" name="feedbackTypeId" required>
+					<option value="" selected="selected">Select a type (Required)</option>
+					<option value="1">Factual Correction</option>
+					<option value="2">Spelling/Grammar Correction</option>
+					<option value="3">Link Correction</option>
+					<option value="4">Additional Information</option>
+					<option value="5">Other</option>
+				</select>
+			</div>
+
+			<label for="feedback" class="label mb-10">Your Feedback</label>
+			<textarea id="feedback" class="form-control mb-30" name="feedback" maxlength="3000" rows="7" required></textarea>
+
+			<button class="btn btn-blue" type="submit">Submit Feedback</button>
+		</form>
+
+		<div class="success-messaging d-none mt-30">
+			<div class="title">Thank you for your feedback</div>
+			<p>Our editors will review what you’ve submitted and determine whether to revise the article.</p>
+			<a class="promo" href="http://corporate.britannica.com/publishing-partner-program/" target="_blank" rel="noopener">
+				Join <strong>Britannica's Publishing Partner Program</strong> and our community of experts to gain a global audience for your work!
+			</a>
+		</div>
+	</div>
+</div>
+<div class="md-websites-modal size-lg d-none">
+					<div class="md-modal-body">
+						<div class="h2 font-serif pb-15 border-bottom">
+							External Websites
+						</div>
+						<div class="pb-20">
+            <ul class="list-unstyled mt-20 lh-lg">
+            <li><a class="external" href="https://www.computerhistory.org/timeline/software-languages/" target="_blank" rel="noopener ">Computer History Museum - Timeline of Computer History - Software and Languages</a></li>
+            <li><a class="external" href="https://h2g2.com/entry/A107056" target="_blank" rel="noopener ">h2g2 - Computer Hardware and Software</a></li>
+            </ul>
+        </div>
+
+    </div>
+				</div>
+			</div>
+
+    	<div class="eb-remixd-player"></div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="md-byline my-15 py-10">
+	<div class="written-by mb-5">WRITTEN BY</div>
+
+		<div class="source">
+			<a href="/editor/The-Editors-of-Encyclopaedia-Britannica/4419">The Editors of Encyclopaedia Britannica</a>
+			
+			<div class="font-serif">Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree....</div>
+		</div>
+
+	
+
+	
+
+		<div class="last-updated mt-5 text-gray-600 font-sans-serif">
+			
+			
+				<a href="/technology/software/additional-info#history" rel="nofollow">See Article History</a>
+			
+		</div>
+</div>
+
+
+
+</div>
+
+	<div class="col-da-300"></div>
+	</div>
+<div class="grid">
+
+	
+
+
+
+
+
+
+
+<script   class="topic-json" type="application/json">
+{
+       "552496": {
+            "url": "/technology/software",
+            "shareUrl": "https://www.britannica.com/technology/software",
+            "title": "software | Definition, Types, & Facts",
+            "documentGroup": "TOPIC PAGINATED SMALL"
+       }
+   }
+</script>
+
+<div class="topic-content col-sm pr-lg-60">
+
+	    <!--[BEFORE-ARTICLE]--><!DOCTYPE HTML><span class="marker before-article"></span><section id="ref1" data-level="1"><p><strong><span id="ref189737"></span>Software</strong>,  instructions that tell a computer what to do. Software <a href="https://www.merriam-webster.com/dictionary/comprises" class="md-dictionary-link md-dictionary-tt-off" data-term="comprises">comprises</a> the entire set of programs, procedures, and routines associated with the operation of a <a href="https://www.britannica.com/technology/computer" class="md-crosslink autoxref">computer system</a>. The term was coined to <a href="https://www.merriam-webster.com/dictionary/differentiate" class="md-dictionary-link md-dictionary-tt-off" data-term="differentiate">differentiate</a> these instructions from <span id="ref189738"></span><a href="https://www.britannica.com/technology/hardware-computing" class="md-crosslink">hardware</a>—<em>i.e.,</em> the physical components of a computer system. A set of instructions that directs a computer’s hardware to perform a task is called a program, or software program.</p><!--[P1]--><span class="marker p1"></span><!--[AM1]--><span class="marker AM1 am-inline"></span><a href="/quiz/computers-and-technology" class="info-module quiz-module p-5 d-block border m-sm-50 mb-30">
+    <div class="wrapper p-30">
+        <div class="grid">
+            <div class="col-md-auto col-100 mb-15 mb-sm-0">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/63/166063-131-0E023062/computer-chip-processing-unit-history-society-science.jpg" alt="computer chip. computer. Hand holding computer chip. Central processing unit (CPU). history and society, science and technology, microchip, microprocessor motherboard computer Circuit Board"    />
+    
+
+</div>
+            <div class="col-md col-100">
+                <div class="label text-black font-13 font-weight-bold text-uppercase">Britannica Quiz</div>
+                <div class="title font-18 font-weight-bold lh-base mb-5" href="/quiz/computers-and-technology">Computers and Technology Quiz</div>
+                <div class="question font-14 text-muted lh-base">What coding issue was projected to create havoc in computer networks around the world in 2000?</div>
+            </div>
+        </div>
+    </div>
+</a><span class="marker MOD1 mod-inline"></span><p>The two main types of software are <span id="ref189739"></span><a href="https://www.britannica.com/technology/system-software" class="md-crosslink">system software</a> and application software. System software controls a computer’s internal functioning, chiefly through an <a href="https://www.britannica.com/technology/operating-system" class="md-crosslink">operating system,</a> and also controls such <a href="https://www.merriam-webster.com/dictionary/peripherals" class="md-dictionary-link md-dictionary-tt-off" data-term="peripherals">peripherals</a> as monitors, printers, and storage devices. <span id="ref189740"></span><a href="https://www.britannica.com/technology/application-program" class="md-crosslink">Application software</a>, by contrast, directs the computer to execute commands given by the user and may be said to include any program that processes data for a user. Application software thus includes word processors, spreadsheets, database management, inventory and payroll programs, and many other “applications.” A third software category is that of <span id="ref189741"></span>network software, which coordinates communication between the computers linked in a network.</p><!--[P2]--><span class="marker p2"></span><!--[AM2]--><span class="marker AM2 am-inline"></span><!--[MOD2]--><span class="marker MOD2 mod-inline"></span><p>Software is typically stored on an external long-term memory device, such as a hard drive or magnetic diskette. When the program is in use, the computer reads it from the storage device and temporarily places the instructions in random access memory (RAM). The process of storing and then performing the instructions is called “running,” or “executing,” a program. By contrast, software programs and procedures that are permanently stored in a <a href="https://www.britannica.com/technology/computer-memory" class="md-crosslink autoxref">computer’s memory</a> using a read-only (ROM) <a href="https://www.britannica.com/technology/technology" class="md-crosslink autoxref">technology</a> are called <span id="ref189742"></span>firmware, or “hard software.”</p><!--[P3]--><span class="marker p3"></span><!--[AM3]--><span class="marker AM3 am-inline"></span><!--[MOD3]--><span class="marker MOD3 mod-inline"></span></section>          <span class="md-signature"><a href="/editor/The-Editors-of-Encyclopaedia-Britannica/4419">The Editors of Encyclopaedia Britannica</a></span>  <span class="md-signature">This article was most recently revised and updated by <a href="/editor/Adam-Augustyn/6394">Adam Augustyn</a>, Managing Editor, Reference Content.</span><!--[END-OF-CONTENT]--><span class="marker end-of-content"></span><div class="md-learn-more extra-content" data-module="learn-more" data-value="learn-more">
+
+        <h2 class="h4">Learn More <span>in these related Britannica articles:</span></h2>
+        <ul class="list-unstyled">
+
+            <li class="entry">
+                    <a href="/technology/computer/Networking#ref829581">
+                        <div class="image-wrapper text-center">
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/s:180x120,c:crop/77/170477-050-1C747EE3/Laptop-computer.jpg" alt="computer"    />
+    
+
+</div>
+                        <div class="title line-clamp"><strong>computer: Computer software</strong></div>
+                        <div class="description line-clamp"><e><strong>Software</strong></e> denotes programs that run on computers. John Tukey, a statistician at Princeton University and Bell Laboratories, is generally credited with introducing the term in 1958 (as well as coining the word <e>bit</e> for binary digit). Initially software referred primarily to what is now…</div>
+                    </a>
+                </li>
+
+            <li class="entry">
+                    <a href="/technology/computer/The-hobby-market-expands#ref724536">
+                        <div class="image-wrapper text-center">
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/s:180x120,c:crop/77/170477-050-1C747EE3/Laptop-computer.jpg" alt="computer"    />
+    
+
+</div>
+                        <div class="title line-clamp"><strong>computer: Early microcomputer software</strong></div>
+                        <div class="description line-clamp">The first programs developed for the hobbyists’ microcomputers were games. With the early machines limited in graphic capabilities, most of these were text-based adventure or role-playing games. However, there were a few graphical games, such as <e>Star Trek</e>, which…</div>
+                    </a>
+                </li>
+
+            <li class="entry">
+                    <a href="/technology/computer/The-Turing-machine#ref723658">
+                        <div class="image-wrapper text-center">
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/s:180x120,c:crop/77/170477-050-1C747EE3/Laptop-computer.jpg" alt="computer"    />
+    
+
+</div>
+                        <div class="title line-clamp"><strong>computer: The Z4</strong></div>
+                        <div class="description line-clamp">…a number of advances in software design.…</div>
+                    </a>
+                </li>
+
+            </ul>
+
+    </div><DIV class="marketing-TOPIC_NEWSLETTER_MODULE marketing-content" data-marketing-id="TOPIC_NEWSLETTER_MODULE"><div class="newsletter-c odt-newsletter-form ">
+    <div class="md-demystified-promo-slim md-alternate">
+        <div class="md-flag">
+	    <img loading="lazy" src="https://cdn.britannica.com/marketing/newsletter-icon-white-SM.png" alt="newsletter icon"   />
+        </div>
+	<div class="gutter-right">
+	    <div class="md-flag-offset pt-10">
+	         <div class="md-heading-2  text-uppercase text-primary">
+		    History at your fingertips			
+                </div>
+	    </div>
+     	    <div class="form-container">
+                <div class="newsletter-form-container col-100">
+
+    <div class="my-10">Sign up here to see what happened <span class="text-600 text-purple">On This Day</span>, every day in your inbox!</div>
+    <form class="newsletter-form grid g-15" method="post" action="/newsletter-subscription/EB_ON_THIS_DAY">
+
+        <div class="newsletter-form-email-wrap col-100 col-sm">
+            <label class="sr-only" for="sign-up-email-input">Email address</label>
+            <input id="sign-up-email-input" title="Email address" type="email" name="email" class="form-control" placeholder="Email address" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+        </div>
+
+        <div class="newsletter-form-submit-wrap col-100 col-sm-auto">
+            <input type="submit" class="btn btn-blue" value="Sign Up" />
+        </div>
+
+        <input type="hidden" name="source" value="Bio" /><input type="hidden" name="campaign" value="Mendel" /><input type="hidden" name="medium" value="box" /><div class="col-100 mt-15 font-12">By signing up, you agree to our <a href="https://corporate.britannica.com/privacy-policy" target="_blank" rel="noopener">Privacy Notice</a>.</div>
+    </form>
+
+    <div class="md-subscribed hidden">
+       <div class="my-10">Thank you for subscribing!</div>
+       <div>Be on the lookout for your Britannica newsletter to get trusted stories delivered right to your inbox.</div>
+    </div>
+
+</div>	
+            </div>
+        </div>
+    </div>
+</div>
+</DIV><!--[AFTER-ARTICLE]--><span class="marker after-article"></span></div>
+
+    <aside class="col-da-300" data-page="1">
+
+        <div class="rr-module rr-module-1">
+            <DIV class="marketing-RIGHT_RAIL_MODULE marketing-content" data-marketing-id="RIGHT_RAIL_MODULE"><a href="https://subscribe.britannica.com/expedition-learn/?utm_source=article&utm_medium=mendel&utm_campaign=bts
+         
+" target="_blank" rel="noopener">
+     <img src="https://cdn.britannica.com/safeimages/EL_ROS_Right-Rail.png" alt="Learn More!"  class="mb-30" />
+</a></DIV></div>
+
+            <div class="rr-module rr-module-2">
+            <!--[AD1]-->
+
+<div class="md-events-box md-content-module-right imars-xml-OTHER_INFO">
+    <div class="fact-box">
+        <div class="title">Software</div>
+<div class="subtitle">Quick Facts</div>
+<div class="fact-box-details md-striped">
+			<!DOCTYPE HTML><dl data-label="key people"><dt class="fact-list">key people</dt><dd><ul class="list-unstyled"><li><a href="https://www.britannica.com/biography/Steve-Jobs">Steve Jobs</a></li> <li><a href="https://www.britannica.com/biography/Bill-Gates">Bill Gates</a></li> <li><a href="https://www.britannica.com/biography/Larry-Ellison">Larry Ellison</a></li> <li><a href="https://www.britannica.com/biography/Raymond-Kurzweil">Ray Kurzweil</a></li> <li><a href="https://www.britannica.com/biography/Azim-Premji">Azim Premji</a></li> <li><a href="https://www.britannica.com/biography/Tim-Berners-Lee">Tim Berners-Lee</a></li> <li><a href="https://www.britannica.com/biography/Marissa-Mayer">Marissa Mayer</a></li> <li><a href="https://www.britannica.com/biography/Narayana-Murthy">Narayana Murthy</a></li> <li><a href="https://www.britannica.com/biography/Reed-Hastings">Reed Hastings</a></li> <li><a href="https://www.britannica.com/biography/Steven-Ballmer">Steven Ballmer</a></li></ul></dd></dl> <dl data-label="related topics"><dt class="fact-list">related topics</dt><dd><ul class="list-unstyled"><li><a href="https://www.britannica.com/technology/computer">Computer</a></li> <li><a href="https://www.britannica.com/topic/open-source">Open source</a></li> <li><a href="https://www.britannica.com/technology/Stuxnet">Stuxnet</a></li> <li><a href="https://www.britannica.com/technology/computer-program">Computer program</a></li> <li><a href="https://www.britannica.com/technology/malware">Malware</a></li> <li><a href="https://www.britannica.com/technology/computer-worm">Computer worm</a></li> <li><a href="https://www.britannica.com/technology/trojan-computing">Trojan</a></li> <li><a href="https://www.britannica.com/technology/ICQ">ICQ</a></li> <li><a href="https://www.britannica.com/technology/plug-in">Plug-in</a></li> <li><a href="https://www.britannica.com/technology/API">API</a></li></ul></dd></dl></div>
+
+        </div>
+
+
+    </div>
+
+</div>
+
+            </aside>
+
+</div>
+</div>
+
+
+                    </div>
+
+            </div>
+
+        </article></div>
+
+		<div class="infinite-end p-5 text-center bg-green text-white d-none">
+				<em class="material-icons" data-icon="check"></em>
+			</div></div>
+
+	    </div>
+
+	</main>
+
+    <footer id="md-footer" class="footer-wrapper hide-on-edit">
+
+    <div class="footer-bck">
+        <DIV class="marketing-FOOTER_NEWSLETTER marketing-content" data-marketing-id="FOOTER_NEWSLETTER"><div class="md-footer-newsletter-form pt-10 mb-30 mx-15 mx-sm-120">
+   <div class="font-18">
+      <strong>Inspire your inbox &ndash;</strong>
+      Sign up for daily fun facts about this day in history, updates, and special offers.
+   </div>
+   <div class="p-30">
+      <div class="newsletter-form-container">
+
+    <form class="newsletter-form" method="post" action="/newsletter-subscription/EB_ON_THIS_DAY">
+
+        <div class="form-group grid d-flex justify-content-center">
+            <div class="col-sm-50 col-100">
+                <label class="sr-only" for="enter-your-email">Enter your email</label>
+                <input id="enter-your-email" type="email" name="email" class="form-control font-18 p-10" placeholder="Enter your email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+            </div>
+            <div class="col-sm-auto col-100 mt-5 mt-sm-0">
+                <button type="submit" class="btn btn-outline-white" style="width: 100%; height:100%;">Subscribe</button>
+            </div>
+        </div>
+        <div class="text-white pt-30 text-opacity">
+            By signing up for this email, you are agreeing to news, offers, and information from Encyclopaedia Britannica.<br>
+            Click here to view our <a class="link-white text-decoration-underline" href="https://corporate.britannica.com/privacy-policy" target="_blank" rel="noopener nofollow">Privacy Notice</a>. Easy unsubscribe links are provided in every email.
+        </div>
+
+        <input type="hidden" name="source" value="Footer" /><input type="hidden" name="campaign" value="Mendel" /><input type="hidden" name="medium" value="Box" /></form>
+
+    <div class="md-subscribed hidden text-white">
+       <div class="my-10">Thank you for subscribing!</div>
+       <div>Be on the lookout for your Britannica newsletter to get trusted stories delivered right to your inbox.</div>
+    </div>
+
+</div>
+   </div>
+</div></DIV>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+    
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+
+
+<div class="md-social-toolbar-circle d-flex justify-content-center colored"
+     data-value="connect"
+     
+     
+>
+    
+        <div class="share-label hidden-xs">Stay Connected</div>
+    
+    
+        <a class="ui-icon-facebook justify-content-center d-flex align-items-center align-self-center" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank" rel="noopener" title="Facebook"><span>Facebook</span></a>
+    
+    
+        <a class="ui-icon-twitter justify-content-center d-flex align-items-center align-self-center" data-provider="twitter" href="https://twitter.com/britannica" target="_blank" rel="noopener" title="Twitter"><span>Twitter</span></a>
+    
+    
+        <a class="ui-icon-youtube-play justify-content-center d-flex align-items-center align-self-center" data-provider="youtube" href="https://www.youtube.com/c/encyclopaediabritannica" target="_blank" rel="noopener" title="YouTube"><span>YouTube</span></a>
+    
+    
+        <a class="ui-icon-instagram justify-content-center d-flex align-items-center align-self-center" data-provider="instagram" href="https://www.instagram.com/britannica/" target="_blank" rel="noopener" title="Instagram"><span>Instagram</span></a>
+    
+    
+    
+        <a class="ui-icon-pinterest justify-content-center d-flex align-items-center align-self-center" data-provider="pinterest" href="https://www.pinterest.com/britannica/" target="_blank" rel="noopener" title="Pinterest"><span>Pinterest</span></a>
+    
+    
+        <a class="ui-icon justify-content-center d-flex align-items-center align-self-center" href="https://cloud.email.britannica.com/PreferenceCenter" title="Newsletters" target="_blank" rel="noopener" aria-label="Newsletters">
+            <em class="material-icons" data-icon="drafts"><span>Newsletters</span></em>
+        </a>
+    
+    
+</div>
+
+
+<br/>
+            <div class="container">
+            <ul class="list-unstyled legal-links">
+                <li><a href="https://corporate.britannica.com" rel="noopener" target="_blank">About Us & Legal Info</a></li>
+                <li><a href="https://corporate.britannica.com/publishing-partner-program/" target="_blank" rel="noopener nofollow">Partner Program</a></li>
+                <li><a href="https://corporate.britannica.com/contact/" target="_blank" rel="noopener nofollow">Contact Us</a></li>
+                <li><a href="https://corporate.britannica.com/privacy-policy" target="_blank" rel="noopener nofollow">Privacy Notice</a></li>
+                <li><a href="https://corporate.britannica.com/termsofuse.html" target="_blank" rel="noopener nofollow">Terms of Use</a></li>
+                </ul>
+
+            <div class="mt-20">&copy;2020 Encyclop&aelig;dia Britannica, Inc.</div>
+        </div>
+
+    </div>
+
+</footer>
+
+<iframe name="__uspapiLocator" style="display:none;height:0;opacity:0;visibility:hidden;border:0;width:0;"></iframe>
+	<script type="text/javascript">
+	__$.setDebug( false );
+	__AD.contentLoadInit();
+	</script>
+	<div id="loginbox-dialog" class="ui-hidden">
+	<div class="mobile-loginbox-dialog-close">
+        <em class="material-icons p-10" data-icon="close"></em>
+    </div>
+    <div id="loginbox-dialog-iframe-container"></div>
+</div><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5W6NC8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script type="text/javascript" id="_informizely_script_tag">
+var IzWidget = IzWidget || {};
+(function (d)
+{ var scriptElement = d.createElement('script'); scriptElement.type = 'text/javascript'; scriptElement.async = true; scriptElement.src = "https://insitez.blob.core.windows.net/site/f780f33e-a610-4ac2-af81-3eb184037547.js"; var node = d.getElementById('_informizely_script_tag'); node.parentNode.insertBefore(scriptElement, node); }
+)(document);
+</script>
+
+<DIV class="marketing-SLIDER marketing-slider" data-marketing-id="SLIDER" data-duration="14" data-name="SLIDER"><button class="close-btn material-icons p-10">close</button><style>
+.marketing-slider .close-btn {
+  color: white;
+}
+
+.marketing-slider .preview {
+    background-color: #1a2f6e ;
+    color: #ffffff;
+    padding-left:60px;
+
+}
+
+.marketing-slider .preview .orange-circle {
+    height: 250px;
+    position: absolute;
+    width: 70px;
+    background-image: url('https://cdn.britannica.com/marketing/marketing/thistle-white.svg');
+    background-position: -85px 0px;
+    background-size: 150px;
+    background-repeat: no-repeat;
+    left: 0;
+    top: 8px;
+    opacity: 0.5;
+}
+
+.marketing-slider .offer .md-button-gradient {
+   font-size: 12px;
+   background:#F87307; 
+}
+
+</style>
+
+<div class="preview">
+
+<div class="p-15 pl-70">
+    Special podcast episode for parents!
+   <div class="orange-circle end-xs middle-xs"></div>
+</div>
+
+</div><div class="offer">
+
+<div>
+<a href="https://parents.britannica.com/raising-curious-learners-podcast/?utm_source=mendel&utm_medium=house&utm_campaign=raisingcuriouslearners" target="_blank" rel="noopener">
+   <img src="https://cdn.britannica.com/safeimages/areyoumadatmeads_v23.png" alt="Raising Curious Learners" />
+</a>
+</div>
+
+</div></DIV><script src="/resources/js/libs/jquery-3.5.0.min.js"></script>
+<script type="text/javascript" src="https://a.optmnstr.com/app/js/api.min.js" data-account="62791" data-user="55795" async defer></script>
+<script type="text/javascript" src="/resources/js/libs/prebid3.15.0.js" async="async"></script>
+	<script type="text/javascript">
+	window.pbjs = window.pbjs || {};
+    pbjs.que = pbjs.que || [];
+	</script>
+<script src="//content.jwplatform.com/libraries/RVHVXRYp.js"></script><script type="text/javascript" data-type="Init Mendel Code Splitting">
+              (function() {
+                $.ajax({
+                  dataType: 'script',
+                  cache: true,
+                  url: '/resources/dist/topic-page.js?v=3.39.57'
+                });
+              })();
+            </script>
+		<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=UA-6636134-11" async="async"></script>
+    <script type="text/javascript">
+        function gaPageLoad(pathname, documentLocation) {
+            pathname = pathname || location.pathname;
+            documentLocation = documentLocation || document.querySelector('html').getAttribute('data-ytrk-page');
+
+            if (documentLocation) {
+                documentLocation = documentLocation.replace(/ /g, '/');
+                window.dataLayer = window.dataLayer || [];
+
+                function gtag() {
+                    dataLayer.push(arguments);
+                }
+
+                gtag('js', new Date());
+
+                gtag('set', {
+                    'dimension1': 'ANONYMOUS',
+                    'dimension2': 'C',
+                });
+
+                gtag('config', 'UA-6636134-11', {
+                    'page_path': documentLocation + pathname + decodeURI(location.search),
+                    'link_attribution': true,
+                });
+            }
+        }
+
+        gaPageLoad();
+    </script>
+<script type="text/javascript">
+    EBStat={accountId:-1,hostnameOverride:'webstats.eb.com',domain:'www.britannica.com', json:''};
+    </script>
+
+    <script type="text/javascript">
+            ( function() {
+                $.ajax( { dataType: 'script', cache: true, url: '//www.britannica.com/webstats/mendelstats.js?v=1' } )
+                 .done( function() {
+                     try {writeStat(null,EBStat);}
+                     catch(err){}
+                 } );
+            })();
+            </script>
+        </body>
+</html>

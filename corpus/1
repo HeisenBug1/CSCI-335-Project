@@ -1,0 +1,1726 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>London attraction - Sightseeing - visitlondon.com</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="referrer" content="unsafe-URL" />
+    <link rel="preconnect" href="https://cdn.londonandpartners.com/" />
+    <link rel="preconnect" href="https://consent.cookiebot.com" />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+    <link rel="preconnect" href="https://www.googletagmanager.com/" />
+    <link rel="preconnect" href="https://www.googletagservices.com/" />
+    <link rel="dns-prefetch" href="https://cdn.londonandpartners.com/" />
+    <link rel="dns-prefetch" href="https://consent.cookiebot.com" />
+    <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com/" />
+    <link rel="dns-prefetch" href="https://www.googletagservices.com/" />
+    <link rel="stylesheet" href="https://cdn.londonandpartners.com/visit/css/style.202008271433.css" />
+    <link rel="stylesheet" href="https://cdn.londonandpartners.com/visit/icons/icons.data.svg.202008271433.css" />
+
+
+
+    <link rel="canonical" href="https://www.visitlondon.com/things-to-do/sightseeing/london-attraction" />
+    <meta property="og:url" content="https://www.visitlondon.com/things-to-do/sightseeing/london-attraction" />
+
+
+    <link rel="alternate" hreflang="de" href="https://www.visitlondon.com/de/sehen-und-erleben/sehenswurdigkeiten/touristenattraktion" />
+    <link rel="alternate" hreflang="it" href="https://www.visitlondon.com/it/cosa-fare/turismo/attrazione-turistica" />
+    <link rel="alternate" hreflang="fr" href="https://www.visitlondon.com/fr/que-faire-a-londres/visites-touristiques/attractions-touristiques" />
+    <link rel="alternate" hreflang="es" href="https://www.visitlondon.com/es/cosas-que-hacer/turismo/atraccion-turistica" />
+
+    <meta name="description" content="Find the best London attractions, including museums, palaces and London landmarks. Pick things to see in London, tourist attractions or take a sightseeing tour." />
+    <meta property="og:description" content="Find the best London attractions, including museums, palaces and London landmarks. Pick things to see in London, tourist attractions or take a sightseeing tour." />
+
+    <link rel="image_src" href="https://cdn.londonandpartners.com/visit/general-london/areas/river/76709-640x360-houses-of-parliament-and-london-eye-on-thames-from-above-640.jpg" />
+    <meta property="og:image" content="https://cdn.londonandpartners.com/visit/general-london/areas/river/76709-640x360-houses-of-parliament-and-london-eye-on-thames-from-above-640.jpg" />
+
+    <meta name="apple-itunes-app" content="app-id=847534124, affiliate-data=ct=ct=VL_smartbanner&amp;pt=1214722&amp;mt=8" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta name="twitter:site" content="@visitlondon" />
+
+    <meta property="fb:pages" content="98963290676" />
+
+<meta property="og:type" content="website" />
+
+    <meta property="og:title" content="London attractions" />
+
+
+    <meta property="og:site_name" content="visitlondon.com" />
+    <meta name="application-name" content="visitlondon.com" />
+
+
+    <meta name="msapplication-TileColor" content="#e0001b" />
+    <meta name="theme-color" content="#e0001b">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.londonandpartners.com/visit/favicons/apple-touch-icon.png" />
+    <link rel="mask-icon" href="https://cdn.londonandpartners.com/visit/favicons/safari-pinned-tab.svg" color="#e0001b" />
+    <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.londonandpartners.com/visit/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.londonandpartners.com/visit/favicons/favicon-16x16.png" />
+    <link rel="manifest" href="https://cdn.londonandpartners.com/visit/favicons/site.webmanifest" />
+    <meta name="msapplication-TileImage" content="https://cdn.londonandpartners.com/visit/favicons/mstile-144x144.png" />
+    <meta name="msapplication-config" content="https://cdn.londonandpartners.com/visit/favicons/browserconfig.xml" />
+
+
+
+
+
+
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js?cbid=432fd9cd-b46a-411f-91b2-872aca63bbe3" async></script>
+<script>
+
+function CookiebotCallback_OnAccept() {
+    if (!!window.google_tag_manager) {
+      CookiebotPushConsent(window.google_tag_manager);
+    } else {
+      window.addEventListener('gtm_loaded', function() {
+        CookiebotPushConsent(window.google_tag_manager);
+      });
+    }
+    
+}
+
+function CookiebotPushConsent() {
+    if (Cookiebot.consent.preferences)
+        dataLayer.push({'event':'cookieconsent_preferences'});
+    if (Cookiebot.consent.statistics)
+        dataLayer.push({'event':'cookieconsent_statistics'});
+    if (Cookiebot.consent.marketing)
+        dataLayer.push({'event':'cookieconsent_marketing'});
+}
+
+</script>
+<script>
+    (function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+
+    j.addEventListener('load', function () {
+        var _ge = new CustomEvent('gtm_loaded', { bubbles: true });
+        d.dispatchEvent(_ge);
+    });
+
+    f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-5QFXCMC');
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2758654-2', 'auto', {allowLinker: true});
+ga('set','contentGroup1','Things To Do');
+ga('set','contentGroup2','en_GB');
+
+ga('send', 'pageview');
+</script>
+<script>var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var a=document.createElement("script");a.async=!0;a.src=("https:"==document.location.protocol?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script>    <script>
+    
+    Array.prototype.includes || Object.defineProperty(Array.prototype, "includes", { value: function (f, g) { if (null == this) throw new TypeError('"this" is null or not defined'); var e = Object(this), b = e.length >>> 0; if (0 === b) return !1; var a = g | 0; for (a = Math.max(0 <= a ? a : b - Math.abs(a), 0); a < b;) { var c = e[a], d = f; if (c === d || "number" === typeof c && "number" === typeof d && isNaN(c) && isNaN(d)) return !0; a++ } return !1 } });
+    googletag.cmd.push(function () {
+        var REFRESH_KEY = 'refresh', REFRESH_VALUE = 'true', refreshingSlots = [], refreshVisible = 50;
+    var mapping_ad_footer = googletag.sizeMapping(). addSize([0, 0], [300,250]).addSize([755, 100],[728, 90]).addSize([1020, 300], [[970,250], [728, 90]]).build();
+    var mapping_ad_lp_dmpu= googletag.sizeMapping().addSize([0, 0], [300,250]).addSize([755, 100], [728, 90]).addSize([1020, 100], [300,600]).build();
+    var mapping_ad_sidebar_dmpu= googletag.sizeMapping().addSize([0, 0], [300,250]).addSize([755, 100], [300,600]). build();
+    var mapping_ad_lp_mpu= googletag.sizeMapping().addSize([0, 0], [300,250]).addSize([755, 100], [728, 90]).addSize([1020, 100], [300,250]).build();
+    var mapping_ad_sidebar_mpu= googletag.sizeMapping().addSize([0, 0], [300,250]). build();
+    var mapping_ad_search_mpu1= googletag.sizeMapping().addSize([0, 0], []).addSize([755, 400], [300,250]). build();
+    var mapping_ad_search_mpu2= googletag.sizeMapping().addSize([0, 0], []).addSize([755, 400], [300,250]). build();
+    var mapping_ad_sky_left= googletag.sizeMapping().addSize([0, 0], []).addSize([1350, 400], [[160,600],[120,600]]). build();
+    var mapping_ad_sky_right= googletag.sizeMapping().addSize([0, 0], []).addSize([1350, 400], [[160,600],[120,600]]). build();
+    var mapping_ad_fireplace= googletag.sizeMapping().addSize([0, 0], [320,50]).addSize([755, 100], [728,90]).addSize([1020, 100], [1920,1080]).build();
+    var mapping_ad_footer_takeover = googletag.sizeMapping(). addSize([0, 0], [300,250]).addSize([755, 100],[728, 90]).build();
+        googletag.defineSlot('/70940382/VL-Microsite-Set-1/VL-Microsite-Set-1-DMPU', [[300,600],[728, 90],[300,250]], 'ad_lp_dmpu').defineSizeMapping(mapping_ad_lp_dmpu).setCollapseEmptyDiv(true).setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
+        googletag.defineSlot('/70940382/VL-Microsite-Set-1/VL-Microsite-Set-1-DMPU', [[300,600],[300,250]], 'ad_sidebar_dmpu').defineSizeMapping(mapping_ad_sidebar_dmpu).setCollapseEmptyDiv(true).setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
+
+    googletag.pubads().enableSingleRequest();
+    
+    googletag.pubads().addEventListener('slotVisibilityChanged', function (event) {
+        var slot = event.slot, slotId = slot.getSlotElementId(), slotTimer = "timer_" + slotId;
+        
+        if (event.inViewPercentage < refreshVisible && refreshingSlots.includes(slotId)) {
+            
+            var i = refreshingSlots.indexOf(slotId);
+            refreshingSlots.splice(i, 1);
+            clearInterval(window[slotTimer]);
+        } else if (event.inViewPercentage >= refreshVisible && !refreshingSlots.includes(slotId)) {
+            
+            refreshingSlots.push(slotId);
+            window[slotTimer] = setInterval(function () {
+                googletag.pubads().refresh([slot]);
+                var now = new Date();
+                
+            }, 1200000);
+        }
+    });
+    
+    googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+        var adSlot = document.getElementById(event.slot.getSlotElementId());
+        if (!adSlot) {return;}
+        if (!event.isEmpty) {
+            if (!adSlot.parentElement.querySelector('h4.advert-heading') && !adSlot.classList.contains('advert-noheading')) {
+                var adHeader = document.createElement('h4');
+                adHeader.className = 'advert-heading';
+                adHeader.innerText = 'Advertisement';
+                adSlot.parentElement.insertBefore(adHeader, adSlot);
+            }
+        } else if (adSlot.parentElement.classList.contains('advert-search-grid')) {
+            adSlot.parentElement.style.display = 'none';
+        }
+    });
+    googletag.enableServices();
+});</script>
+
+
+    
+<meta name="VIcurrentDateTime" content="637390338269392971" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+</head>
+<body>
+   
+
+
+
+    <header class="header" role="banner">
+        
+        
+<ul class="skip-links">
+    <li><a href="#content">Skip to content</a></li>
+    <li><a href="#menu">Skip to navigation</a></li>
+  </ul><div class="ww cf mobile-header" id="header">
+
+    
+
+
+        <button id="expand-nav" class="mobonly noprint header-mobile-trigger nav-trigger">
+            <b class="mobile-menu-icon"></b>
+            <span class="mobile-menu-label">Menu</span>
+        </button>
+
+
+    <a class="brand" href="/">
+    <span class="svg visitlondon-logo icon-visitlondon-logo-red">visitlondon.com</span>
+        <span class="c tagline">Official Visitor Guide</span>
+    </a>
+
+    <div id="lang-container" class="language noprint language-chooser">
+    <a id="lang-trigger" href="#langDialogueLabel" class="lang-trigger-a language-chooser-trigger">
+        <span>
+                <i class="svg flag-icon icon-flag-gb"></i>
+            <span class="mobonly">Language:</span>
+English        </span>
+        <i class="arrow right-arrow"></i>
+    </a>
+    <div class="lang-drop-down language-chooser-menu" role="dialog" aria-labelledby="langDialogueLabel">
+        <a class="close menu-back" href="#lang-trigger" title="Close">
+            <i class="symbol notranslate" aria-hidden="true">2</i>
+            <span class="mobonly">
+                <i class="arrow left-arrow"></i>
+                Back to menu
+            </span>
+        </a>
+
+        <h3 id="langDialogueLabel" class="no-link">Our international websites</h3>
+        <ul>
+                    <li>
+                        <a href="http://london.cn/visit" rel="external" hreflang="zh" lang="zh">
+                            <i class="svg flag-icon icon-cn"></i>
+                            Chinese
+                        </a>
+                    </li>
+                    <li>
+                        <a href="?lp_ls=de&amp;ref=header" hreflang="de" lang="de">
+                            <i class="svg flag-icon icon-flag-de"></i>
+                            German
+                        </a>
+                    </li>
+                    <li>
+                        <a href="?lp_ls=en&amp;ref=header" hreflang="en" lang="en">
+                            <i class="svg flag-icon icon-flag-gb"></i>
+                            English
+                        </a>
+                    </li>
+                    <li>
+                        <a href="?lp_ls=it&amp;ref=header" hreflang="it" lang="it">
+                            <i class="svg flag-icon icon-flag-it"></i>
+                            Italian
+                        </a>
+                    </li>
+                    <li>
+                        <a href="?lp_ls=fr&amp;ref=header" hreflang="fr" lang="fr">
+                            <i class="svg flag-icon icon-flag-fr"></i>
+                            French
+                        </a>
+                    </li>
+                    <li>
+                        <a href="?lp_ls=es&amp;ref=header" hreflang="es" lang="es">
+                            <i class="svg flag-icon icon-flag-es"></i>
+                            Spanish
+                        </a>
+                    </li>
+
+        </ul>
+    </div>
+</div>
+
+
+<button id="expand-search" class="mobonly noprint header-mobile-trigger search-trigger">
+    <b class="svg icon-search-red-outline">Search</b>
+</button>
+<form class="header-search cf" action="/search" role="search">
+    <label for="search-keywords" class="nonvis" id="search-label">Search</label>
+    <input type="search" id="search-keywords" name="keywords" class="header-search-field" aria-labelledby="search-label" placeholder="Search"/>
+    <button title="Search" class="header-search-submit" type="submit">
+        <i class="svg icon-search-red-outline">Search</i>
+    </button>
+</form>
+
+</div>
+
+
+<nav id="menu" class="main-nav">
+    <div class="ww cf megamenu-nav">
+        <ul class="main-navigation-links">
+                <li class="home-tab main-navigation-tab">
+
+                    <a href="/?ref=nav" class="tl-nav main-navigation-link">
+                        <i class="svg icon-home-22"><span>Home</span></i>
+                    </a>
+                </li>
+
+                <li class="offers-and-competitions-tab main-navigation-tab ">
+                    <a href="/tickets-and-offers?ref=nav" class="main-navigation-link" id="nav-offers-and-competitions">
+                        <span>Tickets &amp; offers</span>
+                        <i class="arrow right-arrow"></i>
+                    </a>
+                        <div class="megamenu sub cols4">
+                            <div class="ww cf">
+                                    <div class="column megamenu-sidebar sidebar first">
+                                        <ul>
+                                                <li>
+                                                    <a href="https://tickets.london/attraction-tickets?ref=nav">Attraction Tickets</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.booking.com/city/gb/london.en-gb.html?aid=1939996&amp;ref=nav">Hotels</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://tickets.london/news/top-10-london-sightseeing-tours/2558?ref=nav">Sightseeing tours</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://tickets.london/gt/tour/tower-of-london-tickets-with-beefeater-tour/58?ref=nav">Tower of London</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://tickets.london/news/warner-bros-studio-tour-london-the-making-of-harry-potter/2910?ref=nav">Warner Bros. Studio Tour</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://tickets.london/news/london-eye-ticket-options/2532?ref=nav">London Eye</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://tickets.london/news/madame-tussauds-ticket-options/3746?ref=nav">Madame Tussauds</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://tickets.london/gt/tour/windsor-castle-tickets/60?ref=nav">Windsor Castle</a>
+                                                </li>
+
+                                        </ul>
+                                    </div>
+                                                                    <div class="column highlight">
+
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/traveller-information/getting-around-london/oyster?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/general-london/transport/visitor-oyster-card/84694-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Oyster and travelcards</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="https://tickets.london/theatre-tickets?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/-/media/images/london/visit/whats-on/theatre/the-lion-king/lionking_logo_large.jpg?mw=310&amp;hash=FCF8A799F85713E23E5D75155EABCF466345D891" alt="The Lion King" height="174" width="310" />
+                                                    <span class="mosaic-title">Theatre Tickets</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="https://www.londonpass.com/visitlondon.php?aid=1&amp;ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/-/media/images/london/visit/london-organisations/london-pass/london-pass.jpg?mw=310&amp;hash=98365B4E1BBC69F443D78DF45A1A9FD229A91263" alt="A male and female couple show their London Pass to get into a tourist attraction" height="174" width="310" />
+                                                    <span class="mosaic-title">Sightseeing Pass</span>
+                                                </a>
+                                            </div>
+
+                                    </div>
+                            </div>
+                        </div>
+
+                </li>
+                <li class="things-to-do-tab main-navigation-tab ">
+                    <a href="/things-to-do?ref=nav" class="main-navigation-link" id="nav-things-to-do">
+                        <span>Things to do</span>
+                        <i class="arrow right-arrow"></i>
+                    </a>
+                        <div class="megamenu sub cols4">
+                            <div class="ww cf">
+                                    <div class="column megamenu-sidebar sidebar first">
+                                        <ul>
+                                                <li>
+                                                    <a href="/things-to-do/sightseeing/london-attraction?ref=nav">London attractions</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/london-areas?ref=nav">London areas</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/whats-on?ref=nav">What&#39;s on</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/whats-on/theatre?ref=nav">Theatre</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/budget-london?ref=nav">On a budget</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/virtually-london?ref=nav">Experience London at home</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/food-and-drink?ref=nav">Food and drink</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/family-activities?ref=nav">Family-friendly</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/things-to-do/sightseeing?ref=nav">Sightseeing</a>
+                                                </li>
+
+                                        </ul>
+                                    </div>
+                                                                    <div class="column highlight">
+
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/things-to-do?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/london-organisations/houses-of-parliament/63950-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Things to do</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/things-to-do/free-london?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/london-organisations/science-museum/96099-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Free London</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/things-to-do/whats-on/special-events/london-events-calendar?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/-/media/images/london/visit/whats-on/special-events/new-years-eve-fireworks/fireworks1920x1080.jpg?mw=310&amp;hash=329826F3A22B0B5B1041F5AB3AD549A56BCEB9D2" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Events calendar</span>
+                                                </a>
+                                            </div>
+
+                                    </div>
+                            </div>
+                        </div>
+
+                </li>
+                <li class="where-to-stay-tab main-navigation-tab ">
+                    <a href="/where-to-stay?ref=nav" class="main-navigation-link" id="nav-where-to-stay">
+                        <span>Accommodation</span>
+                        <i class="arrow right-arrow"></i>
+                    </a>
+                        <div class="megamenu sub cols4">
+                            <div class="ww cf">
+                                    <div class="column megamenu-sidebar sidebar first">
+                                        <ul>
+                                                <li>
+                                                    <a href="/where-to-stay/bed-and-breakfast?ref=nav">Bed and breakfast</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/where-to-stay/hotel/family-hotels-london?ref=nav">Family hotels</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/where-to-stay/self-catering?ref=nav">Self-catering</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/where-to-stay/accommodation-agency/homestay-agency?ref=nav">Homestay</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/where-to-stay/hostel?ref=nav">Hostels</a>
+                                                </li>
+
+                                        </ul>
+                                    </div>
+                                                                    <div class="column highlight">
+
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/where-to-stay?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/-/media/images/london/visit/where-to-stay/hotels/the-mandarin/accomodation-mandarin-oriental.jpg?mw=310&amp;hash=290A46CA954B851684065258F3EF30B62891FEA3" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Accommodation</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/where-to-stay/cheap-accommodation?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/london-organisations/generator-hostel-london/59604-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Cheap accommodation</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/where-to-stay/hotel?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/london-organisations/apex-temple-court/62037-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">London hotels</span>
+                                                </a>
+                                            </div>
+
+                                    </div>
+                            </div>
+                        </div>
+
+                </li>
+                <li class="traveller-information-tab main-navigation-tab ">
+                    <a href="/traveller-information?ref=nav" class="main-navigation-link" id="nav-traveller-information">
+                        <span>Traveller information </span>
+                        <i class="arrow right-arrow"></i>
+                    </a>
+                        <div class="megamenu sub cols4">
+                            <div class="ww cf">
+                                    <div class="column megamenu-sidebar sidebar first">
+                                        <ul>
+                                                <li>
+                                                    <a href="/traveller-information/travel-to-london/airport-transfers?ref=nav">Airport transfers</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/traveller-information/getting-around-london/london-bus?ref=nav">Buses</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/traveller-information/essential-information?ref=nav">Essential Information</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/traveller-information/getting-around-london?ref=nav">Getting around</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/traveller-information/travel-to-london/airport?ref=nav">London airports</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/traveller-information/essential-information/money?ref=nav">Money</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/tag/tourist-information-centre?ref=nav">Tourist information</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/traveller-information/getting-around-london/london-tube?ref=nav">Tube</a>
+                                                </li>
+
+                                        </ul>
+                                    </div>
+                                                                    <div class="column highlight">
+
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/traveller-information?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/london-organisations/gatwick-airport/65604-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Traveller information</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/traveller-information/getting-around-london/oyster?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/general-london/transport/visitor-oyster-card/84694-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">Oyster and travelcards</span>
+                                                </a>
+                                            </div>
+                                            <div class="snippet vlSnTitle310">
+
+                                                <a href="/traveller-information/getting-around-london/london-maps-and-guides?ref=nav">
+                                                    <img src="https://cdn.londonandpartners.com/visit/london-organisations/transport-system/63951-310x174.jpg" alt="" height="174" width="310" />
+                                                    <span class="mosaic-title">London maps and guides</span>
+                                                </a>
+                                            </div>
+
+                                    </div>
+                            </div>
+                        </div>
+
+                </li>
+        </ul>
+    </div>
+</nav>
+
+    </header>
+    <main role="main" class="main">
+        <div id="content" class="gw cf content search-results">
+    
+    <div class="search-intro gr cf">
+            <div class="breadcrumb">
+        <span class="invisible-mobile">You are here:</span>
+        
+
+        <a href="/" rel="home"> Home</a>
+
+        <span>&gt;</span>
+        
+                <a class="invisible-mobile" href="/things-to-do">Things to do</a>
+                    <span class="invisible-mobile">&gt;</span>
+                <a class="invisible-mobile" href="/things-to-do/sightseeing">Sightseeing</a>
+                    <span class="invisible-mobile">&gt;</span>
+                <mark>Attractions</mark>
+
+    </div>
+
+        <h1>London attractions</h1>
+
+<div class="gr cf">
+    <aside class="gc gs6 search-refine-wrapper TT-refine-search-wrapper">
+        
+<button id="close-search-refine" class="nodt sr-close icon-close-27 svg">×</button>
+
+    <form method="get" action="/search" id="searchRefine">
+
+        
+
+        <input type="hidden" name="category" value="/things-to-do/sightseeing/london-attraction">         <div class="search-refine-set TT-refine-search-set">
+            <h3>Category:</h3>
+            <ul class="search-refine-categories TT-refine-search-categories">
+
+                    <li class="parent-cat"><a href="/things-to-do/sightseeing/1">Sightseeing</a></li>
+                <li class="current-cat">London Attraction</li>
+                    <li>
+                        <a href="/things-to-do/sightseeing/london-attraction/architecture/1">Architecture</a> (17)
+                    </li>
+                    <li>
+                        <a href="/things-to-do/sightseeing/london-attraction/boat/1">Boat</a> (9)
+                    </li>
+                    <li>
+                        <a href="/things-to-do/sightseeing/london-attraction/brewery/1">Brewery / Distillery</a> (21)
+                    </li>
+                    <li>
+                        <a href="/things-to-do/sightseeing/london-attraction/bridge/1">Bridge</a> (25)
+                    </li>
+            </ul>
+                <a href="#more" class="search-cat-more">More</a>
+                <ul class="search-refine-categories more-categories TT-refine-search-categories">
+                        <li>
+                            <a href="/things-to-do/sightseeing/london-attraction/gallery/1">Gallery</a> (254)
+                        </li>
+                        <li>
+                            <a href="/things-to-do/sightseeing/london-attraction/historic/1">Historic Site & House</a> (216)
+                        </li>
+                        <li>
+                            <a href="/things-to-do/sightseeing/london-attraction/institute/1">Institute</a> (14)
+                        </li>
+                        <li>
+                            <a href="/things-to-do/sightseeing/london-attraction/library/1">Library</a> (1)
+                        </li>
+                        <li>
+                            <a href="/things-to-do/sightseeing/london-attraction/monument/1">Statue &amp; Monument</a> (21)
+                        </li>
+                        <li>
+                            <a href="/things-to-do/sightseeing/london-attraction/museum/1">Museum</a> (167)
+                        </li>
+                        <li>
+                            <a href="/things-to-do/sightseeing/london-attraction/public-square/1">Public Square</a> (24)
+                        </li>
+                        <li>
+                            <a href="/things-to-do/sightseeing/london-attraction/theme-park/1">Theme Park</a> (10)
+                        </li>
+                        <li>
+                            <a href="/things-to-do/sightseeing/london-attraction/zoo/1">Zoo, Farm &amp; Wildlife</a> (25)
+                        </li>
+                </ul>
+        </div>
+
+        <div class="search-refine-set TT-refine-search-set">
+            <a class="clear-refine-set TT-clear-refine-search-set">clear</a>
+
+            <input type="hidden" name="from" value="23-10-2020" />
+            <input type="hidden" name="to" value="" />
+
+            <label class="date-wrap date-1">
+                <strong>Date From</strong>
+                <span class="datebox-wrap tsp-date">
+                    <span class="svg icon-calendar-grey"></span>
+                    <input name="from.date" type="text" class="datebox datebox-mob" value="23/10/2020" data-maxdate="+1Y +1M" data-dateformat="dd/mm/yy" data-altfield="input[name='from']" data-altformat="dd-mm-yy" />
+                </span>
+            </label>
+            <label class="date-wrap date-2">
+                <strong>Date To</strong>
+                <span class="datebox-wrap tsp-date">
+                    <span class="svg icon-calendar-grey"></span>
+                    <input name="to.date" type="text" class="datebox datebox-mob" value="" data-maxdate="+1Y +1M" data-dateformat="dd/mm/yy" data-altfield="input[name='to']" data-altformat="dd-mm-yy" />
+                </span>
+            </label>
+        </div>
+    
+        <div class="search-refine-set TT-refine-search-set">
+            <h3>Prices</h3>
+            <a class="clear-refine-set TT-clear-refine-search-set">clear</a>
+
+            <ol class="sr-ol sr-ol-4 TT-refine-search-ol TT-refine-search-ol-4">
+
+                    <li>
+                        <label class="sr-price TT-refine-search-radio-price">
+                            <input type="radio" name="free" value="true" />
+                            <i class="search-icon-inner TT-refine-search-radio-icon icon-search-tick"></i>
+                            <span>Free</span>
+                        </label>
+                    </li>
+
+                <li>
+                    <label class="sr-price TT-refine-search-radio-price">
+                        <input type="radio" name="price-band" value="1">
+                        <i class="search-icon-inner TT-refine-search-radio-icon icon-search-tick"></i>
+                        <span>£</span>
+                    </label>
+                </li>
+                <li>
+                    <label class="sr-price TT-refine-search-radio-price">
+                        <input type="radio" name="price-band" value="2">
+                        <i class="search-icon-inner TT-refine-search-radio-icon icon-search-tick"></i>
+                        <span>££</span>
+                    </label>
+                </li>
+                <li>
+                    <label class="sr-price TT-refine-search-radio-price">
+                        <input type="radio" name="price-band" value="3">
+                        <i class="search-icon-inner TT-refine-search-radio-icon icon-search-tick"></i>
+                        <span>£££</span>
+                    </label>
+                </li>
+            </ol>
+        </div>
+    
+        <div class="search-refine-set TT-refine-search-set">
+            <h3>User Ratings</h3>
+            <a class="clear-refine-set TT-clear-refine-search-set">clear</a>
+
+            <div id="sr-user-rating-selected">
+                <ol class="sr-ol sr-ol-5 TT-refine-search-ol TT-refine-search-ol-5">
+                    <li>
+                        <label class="sr-user-rating TT-refine-search-user-rating">
+                            <input type="radio" name="rating-from" value="1">
+                            <i class="search-user-icon TT-refine-search-user-icon icon-search-user-1"></i>
+                        </label>
+                    </li>
+                    <li>
+                        <label class="sr-user-rating TT-refine-search-user-rating">
+                            <input type="radio" name="rating-from" value="2">
+                            <i class="search-user-icon TT-refine-search-user-icon icon-search-user-2"></i>
+                        </label>
+                    </li>
+                    <li>
+                        <label class="sr-user-rating TT-refine-search-user-rating">
+                            <input type="radio" name="rating-from" value="3">
+                            <i class="search-user-icon TT-refine-search-user-icon icon-search-user-3"></i>
+                        </label>
+                    </li>
+                    <li>
+                        <label class="sr-user-rating TT-refine-search-user-rating">
+                            <input type="radio" name="rating-from" value="4">
+                            <i class="search-user-icon TT-refine-search-user-icon icon-search-user-4"></i>
+                        </label>
+                    </li>
+                    <li>
+                        <label class="sr-user-rating TT-refine-search-user-rating">
+                            <input type="radio" name="rating-from" value="5">
+                            <i class="search-user-icon TT-refine-search-user-icon icon-search-user-5"></i>
+                        </label>
+                    </li>
+                </ol>
+            </div>
+        </div>
+
+    <div class="search-refine-set TT-refine-search-set">
+        <h3><label for="search-refine-keywords">Keywords:</label></h3>
+        <input name="keywords" type="search" id="search-refine-keywords">
+    </div>
+    <input type="submit" value="Search" class="btn btn-search">
+
+</form>
+
+
+    </aside>
+    <div class="gs12 r search-grid search-grid-gs12">
+        
+<div class="cf search-options-bar">
+
+        <button id="open-search-refine" class="sr-open"><span>Filter</span><i class="icon-spanner-23 svg"></i></button>
+
+            <div class="order-tabs-wrap">
+                <form class="search-order" action="/search" id="searchreorder">
+
+                    <label class="drop-down">
+                        <select name="sort" id="searchreorderselect">
+                                            <option value="" selected="">Sort by</option>
+                                            <option value="price">Price</option>
+                                            <option value="user_rating">User Ratings</option>
+                                            <option value="popularity">Most Viewed</option>
+                                            <option value="name">Name</option>
+                        </select>
+
+                    </label>
+                        <input type="hidden" name="category" value="/things-to-do/sightseeing/london-attraction">
+                </form>
+
+                <nav class="tabs sr-tabs" role="tablist">
+                    <ul>
+                        <li class="current track" data-tabclass="Results List"><a href="#list"><span>List</span> <i class="icon-list-18"></i></a></li>
+                        <li class="track" data-tabclass="Results Map"><a href="#map"><span>Map</span> <i class="icon-map-16"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+    </div>        
+            <section id="list" class="tab-content search-grid-tab-content">
+        <ul class="search-grid-results">
+
+
+
+
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.69325,-0.42024" data-cat="">
+
+    <a href="/things-to-do/place/23035130-warner-bros-studio-tour-london-the-making-of-harry-potter" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/91164ae820839a3ef7c9262c86cc4ca7.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Warner Bros. Studio Tour London - The Making of Harry Potter
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">London Attraction</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/23035130-warner-bros-studio-tour-london-the-making-of-harry-potter?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/5.0-11109-1.svg" alt="5.0" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 43909 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.50282,-0.11924" data-cat="">
+
+    <a href="/things-to-do/place/427295-london-dungeon" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/d93cbb1d1f8d59d47dacef0ea5989a4b.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            The London Dungeon
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Theme Park</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/427295-london-dungeon?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/4.0-11109-1.svg" alt="4.0" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 10731 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+        <li class="advert-search-grid">
+            <div class="advert advert-mpu" id="ad_search_mpu1">
+                <script>
+                    googletag.cmd.push(function () { googletag.display('ad_search_mpu1'); });
+                </script>
+            </div>
+        </li>
+
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.50557,-0.07546" data-cat="">
+
+    <a href="/things-to-do/place/3901803-tower-bridge" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/7ea9fb9b9180ca2dce133a90bf3ee764.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Tower Bridge
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Historic Site & House</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/3901803-tower-bridge?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/4.5-11109-1.svg" alt="4.5" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 39012 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.51315,-0.13882" data-cat="">
+
+    <a href="/things-to-do/place/46455-carnaby-street" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/7f254bd5e46b51bb7894e79da922abcf.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Carnaby Street
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Shopping Area</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/46455-carnaby-street?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/4.0-11109-1.svg" alt="4.0" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 1594 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.51378,-0.12698" data-cat="">
+
+    <a href="/things-to-do/place/44576509-seven-dials-retail" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/0262e9cc1a42b47c440a7ff90ac58d6f.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Seven Dials- Retail
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Shopping Area</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/44576509-seven-dials-retail?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/4.5-11109-1.svg" alt="4.5" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 223 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.51969,-0.07752" data-cat="">
+
+    <a href="/things-to-do/place/449058-old-spitalfields-market" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/d2bd9490aa57620fd11ac9771c301276.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Old Spitalfields Market
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Shopping Area</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/449058-old-spitalfields-market?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/4.5-11109-1.svg" alt="4.5" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 2048 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.40381,-0.33767" data-cat="">
+
+    <a href="/things-to-do/place/427279-hampton-court-palace" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/cc496d0ba53e775798e0acc37226e408.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Hampton Court Palace
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Historic Site & House</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/427279-hampton-court-palace?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/4.5-11109-1.svg" alt="4.5" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 7372 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.51373,-0.09983" data-cat="">
+
+    <a href="/things-to-do/place/284990-st-pauls-cathedral" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/fabe30bbc9f80d70a3743d92751fd46d.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            St Paul&#39;s Cathedral
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Historic Site & House</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/284990-st-pauls-cathedral?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/4.5-11109-1.svg" alt="4.5" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 17020 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.50133,0.00344" data-cat="">
+
+    <a href="/things-to-do/place/25602127-up-at-the-o2" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/812f9c54f8499fcdf466f6371e90f150.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Up at The O2
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">London Attraction</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/25602127-up-at-the-o2?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/4.5-11109-1.svg" alt="4.5" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 6393 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.50206,-0.14624" data-cat="">
+
+    <a href="/things-to-do/place/427311-buckingham-palace" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/bc395b20054bcdd7ab96bfb953c04506.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Buckingham Palace
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Historic Site & House</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/427311-buckingham-palace?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/4.5-11109-1.svg" alt="4.5" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 29137 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.4831,-0.00985" data-cat="">
+
+    <a href="/things-to-do/place/197352-cutty-sark-greenwich" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/8ccef425039ff434e1ef2e7ffa562779.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Cutty Sark Greenwich
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Historic Site & House</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/197352-cutty-sark-greenwich?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/4.5-11109-1.svg" alt="4.5" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 3189 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.50913,-0.09978" data-cat="">
+
+    <a href="/things-to-do/place/279599-shakespeares-globe-theatre" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/949c8664cde5e76a4da9d505c4721887.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Shakespeare&#39;s Globe Theatre
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Theatre</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/279599-shakespeares-globe-theatre?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/4.5-11109-1.svg" alt="4.5" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 8565 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+        <li class="advert-search-grid">
+            <div class="advert advert-mpu" id="ad_search_mpu2">
+                <script>
+                    googletag.cmd.push(function () { googletag.display('ad_search_mpu2'); });
+                </script>
+            </div>
+        </li>
+
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.50992,-0.12828" data-cat="">
+
+    <a href="/things-to-do/place/593062-the-london-pass" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/d6adff7473f2e9d693eda0d16a3f52d3.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            The London Pass
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Tour</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/593062-the-london-pass?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/3.5-11109-1.svg" alt="3.5" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 863 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.69325,-0.42024" data-cat="">
+
+    <a href="/things-to-do/event/48556865-a-celebration-of-slytherin-at-warner-bros-studio-tour-london-the-making-of-harry-potter" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/6e18477059883849703a7fa97b96e16c.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            A Celebration of Slytherin at Warner Bros. Studio Tour London – The Making of Harry Potter
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Special Event</p>
+
+
+
+
+            <span class="date search-tile-date"><time datetime="2020-11-12" class="dtend">Until 12 November 2020</time></span>
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.69325,-0.42024" data-cat="">
+
+    <a href="/things-to-do/event/48439778-dark-arts-at-warner-bros-studio-tour" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/61233c127f3edfaea476d8e559551e88.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Dark Arts at Warner Bros. Studio Tour
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Special Event</p>
+
+
+
+
+            <span class="date search-tile-date"><time datetime="2020-11-08" class="dtend">Until 08 November 2020</time></span>
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.4996,-0.12505" data-cat="">
+
+    <a href="/things-to-do/place/401836-houses-of-parliament" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/cec66b9ee7b0e7062a34ac5efc0de90b.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Houses of Parliament
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Historic Site & House</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/401836-houses-of-parliament?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/4.5-11109-1.svg" alt="4.5" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 16495 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.52426,-0.11391" data-cat="">
+
+    <a href="/things-to-do/place/74189-the-postal-museum-and-mail-rail" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/b177a9a38ebc7f709e3d16a14027f531.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            The Postal Museum and Mail Rail
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">Museum</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+                    <div class="cf search-tile-rating-tripadvisor search-tile-rating">
+                        <a href="/things-to-do/place/74189-the-postal-museum-and-mail-rail?tab=ratings">
+                            <img src="https://c1.tacdn.com/img/cdsi/img2/ratings/traveler/4.5-11109-1.svg" alt="4.5" width="118" height="20" />
+                            <span class="search-tile-rating-tripadvisor-info">
+                                TripAdvisor - 1098 ratings
+                            </span>
+                        </a>
+                    </div>
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.51048,-0.13333" data-cat="">
+
+    <a href="/things-to-do/place/48258415-crystal-maze-live-experience-london" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/da12730be4d3334b0f1c86e84d592215.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            The Crystal Maze LIVE Experience London
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">London Attraction</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.50106,0.0077" data-cat="">
+
+    <a href="/things-to-do/place/25549367-emirates-air-line-cable-car" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/1a400a60ded4dca14fed35e0d963ada9.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Emirates Air Line cable car
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">London Attraction</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+
+
+        </div>
+
+    </div>
+</li>
+
+
+<li class="search-tile search-tile-gs3 hcard" data-ll="51.52297,-0.15504" data-cat="">
+
+    <a href="/things-to-do/place/43835768-merlin-london-attractions-pass" class="search-tile-image">
+            <img src="https://cdn.londonandpartners.com/asset/98b8a5c963efb01fa0fbfd9e15c03781.jpg" height="82" width="145" alt="" />
+
+        <span class="search-tile-title">
+            Merlin London Attractions Pass
+        </span>
+
+    </a>
+
+    <div class="search-tile-details">
+
+        <div class="search-tile-details-start">
+            
+                <p class="search-tile-category">London Attraction</p>
+
+
+
+
+
+
+        </div>
+
+        <div class="search-tile-details-end">
+
+
+
+        </div>
+
+    </div>
+</li>
+        </ul>
+    </section>
+
+<section id="map" class="tab-content TT-search-grid-tab-content">
+    <div id="gmap-results" class="area-results-map gs12 cf"></div>
+</section>
+
+
+    <div class="cf pagination pagination-bottom">
+        <div class="pager">
+            <ul>
+                    <li><span class="prev selected"><span>Previous</span></span></li>
+
+                        <li class="nomob"><span class="selected">1</span></li>
+                            <li class="nomob"><a class="hb" href="/things-to-do/sightseeing/london-attraction/2">2</a></li>
+                            <li class="nomob"><a class="hb" href="/things-to-do/sightseeing/london-attraction/3">3</a></li>
+                            <li class="nomob"><a class="hb" href="/things-to-do/sightseeing/london-attraction/4">4</a></li>
+                            <li class="nomob"><a class="hb" href="/things-to-do/sightseeing/london-attraction/5">5</a></li>
+
+                    <li><a href="/things-to-do/sightseeing/london-attraction/2" class="next hb" rel="next">Next</a></li>
+            </ul>
+        </div>
+    </div>
+
+
+
+    </div>
+</div>
+    </div>
+</div>
+
+
+        
+        
+<div class="nudge-banner product-nudge slider">
+	<div class="gw">
+	  <span class="product-nudge-icon"><i class="svg icon-booking-nudge">Booking</i></span>
+	  <h3 class="product-nudge-intro">Save money on top attractions with The London Pass</h3>
+	  <a class="btn btn-slim" rel="external nofollow" data-ga-link="" href="https://www.londonpass.com/visitlondon.php?aid=1">
+	    <i class="svg icon-ticket product-nudge-button-icon">Ticket</i>
+	    <span class="product-nudge-button-text">Find out more</span></a>
+	  <i class="svg icon-close product-nudge-close slider-close">Close</i>
+	</div>
+</div>
+
+    </main>
+    
+        <div class="c cf ww">
+            <div class="advert advert-leaderboard advert-mpu-mobile" id="ad_footer">
+                <script>
+                    googletag.cmd.push(function () { googletag.display('ad_footer'); });
+                </script>
+            </div>
+            <span class="bt-uid-tg" data-uid="5beb2d0f02-231" style="display: none !important"></span> 
+        </div>
+
+
+
+    
+<footer class="footer">
+    <div class="ww" role="contentinfo">
+        <div class="cf">
+
+            <a href="https://www.londonandpartners.com" class="footer-logo svg icon-landp-grey">London &amp; Partners</a>
+            
+            <a href="https://www.london.gov.uk/" class="footer-logo svg icon-mayor-london-grey">Supported by Mayor of London</a>
+            
+            <div class="footer-social">
+    <span>Follow us on:</span>
+<ul>
+    <li><a data-ga-link="Social Network" rel="external me" href="https://www.facebook.com/visitlondon" class="footer-social-facebook svg icon-facebook-footer">Facebook</a></li>
+    <li><a data-ga-link="Social Network" rel="external me" href="https://twitter.com/visitlondon" class="footer-social-twitter svg icon-twitter-footer">Twitter</a></li>
+    <li><a data-ga-link="Social Network" rel="external me" href="https://instagram.com/visitlondon" class="footer-social-instagram svg icon-instagram-footer">Instagram</a></li>
+    <li><a data-ga-link="Social Network" rel="external me" href="https://www.youtube.com/visitlondonvideo" class="footer-social-youtube svg icon-youtube-footer">YouTube</a></li>
+    <li><a data-ga-link="Social Network" rel="external me" href="https://pinterest.com/visitlondon/" class="footer-social-pinterest svg icon-pinterest-footer">Pinterest</a></li>
+</ul>
+</div>
+
+        </div>
+        <div class="cf lap-footer">
+            <div class="info-links">
+    <ul>
+    <li><a href="/advertise-with-us?ref=footer">Advertise</a></li>
+    <li><a href="/about-us?ref=footer">About us</a></li>
+    <li><a href="/contact-us?ref=footer">Contact us</a></li>
+    <li><a href="/about-us/accessibility?ref=footer">Accessibility</a></li>
+    <li><a href="/about-us/terms-and-conditions?ref=footer">Terms &amp; Conditions</a></li>
+    <li><a href="/about-us/privacy?ref=footer">Privacy &amp; Cookies</a></li>
+</ul>
+<address class="vcard">
+<span class="fn org">London &amp; Partners</span> <span>is registered in England under no. 7493460.</span>
+Registered Office: <span class="adr">London &amp; Partners, <span class="street-address">2 More London Riverside</span>, <span class="locality">London</span>, <span class="postal-code">SE1 2RR</span></span>.
+<br />
+<span class="note nomob">London &amp; Partners is the official promotional agency for London. We promote London and attract businesses, events, congresses, students and visitors to the capital.</span>
+</address>
+</div>
+
+        </div>
+    </div>
+    <div class="sites cf nomob">
+    <ul class="ww">
+      <li><a href="https://www.studylondon.ac.uk/">Students</a></li>
+      <li><a href="https://conventionbureau.london/">Convention Bureau</a></li>
+      <li><a href="https://www.londonandpartners.com/events">Major Events</a></li>
+      <li><a href="https://www.londonandpartners.com/partners">Partners</a></li>
+      <li><a href="https://www.londonandpartners.com/media-centre">Media</a></li>
+      <li><a href="https://business.london/">Business</a></li>
+</ul>
+</div>
+
+</footer>
+
+
+
+
+
+        <script>
+            (function (d, e) { if (!d.getElementById(e)) return false; d.getElementById(e).onclick = function () { var h = d.getElementsByClassName("header"); h.length && (h[0].classList.remove("show-mobile-search"), h[0].classList.toggle("show-mobile-nav")); return false } })(document, "expand-nav");
+            var VL = VL || {};
+            VL.currentDate = VL.currentDate || new Date();
+            VL.currentDate.setFullYear(2020,9,23);
+            VL.CDN = 'https://cdn.londonandpartners.com';
+            VL.buildNumber = '202008271433';
+            VL.lang = 'en';
+            VL.country = 'US';
+            VL.sc = true;
+        </script>
+        <script src="https://cdn.londonandpartners.com/visit/js/concat.en.202008271433.js" async></script>
+</body>
+
+</html>

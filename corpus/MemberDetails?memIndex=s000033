@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    
+    
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-9875785-27"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-9875785-27');
+        </script>
+    
+
+    <link rel="icon" type="image/x-icon" href="/Static_Files/favicon.ico">
+    <title>Biographical Directory of the U.S. Congress - Retro Member details</title>
+
+    <link rel="stylesheet" href="/Static_Files/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="/Static_Files/css/site.css" />
+    <link rel="stylesheet" href="/Static_Files/css/PagedList.css" />
+</head>
+
+<body>
+
+    <div class="row">
+        <div class="col-sm-12 headerrow">
+            <a href="/"><img src="/Static_Files/images/index.jpg" /></a>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="panel panel-primary">
+                <div class="container-fluid">
+                    <div class="row bodyrow">
+                        <div class="col-md-12">
+                            <a class="headerLinkWhiteNone" href="/">New Search</a>
+                            <a class="headerLinkWhite" href="https://history.house.gov/">House History</a>
+                            <a class="headerLinkWhite" href="https://www.senate.gov/art/art_hist_home.htm">Senate History</a>
+                            <a class="headerLinkWhite" href="/Home/Copyright">Copyright Information</a>
+                            <a class="headerLinkWhite" href="/Home/Privacy">Privacy</a>
+                        </div>
+                    </div>
+                    
+<div class="panel panel-primary">
+    <div class="container-fluid">
+        <div class="row margintop15">
+            <div class="col-md-2 textAlignRight">
+                <img src="/Static_Files/data/photo/S/S000033.jpg" class="img-fluid" />
+                <div class="font8pt font-italic"><photo-credit>
+  <br /><a href="http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm">Courtesy U.S. Senate Historical Office</a>
+</photo-credit></div>
+            </div>
+            <div class="col-md-9">
+                <div class="panel panel-primary">
+                    <div class="panel-body">
+                        <div class="h3 memberTopBorder">
+                            <div class="row">
+                                <div class="col-sm-10">SANDERS, Bernard <span class="fontMedium">(1941-)</span></div>
+                                <div class="col-sm-2 fontMedium"><a href="/Static_Files/data/S/S000033.xml" target="_blank" class="btn btn-link">Member XML</a></div>
+                            </div>
+                        </div>
+                        <div class="accordion" id="memberInfo">
+                                <div class="card">
+                                    <div class="card-header" id="headingBiography">
+                                        <h2 class="mb-0">
+                                            <button class="btn btn-link text-dark" type="button" data-toggle="collapse" data-target="#collapseBiography" aria-expanded="true" aria-controls="collapseBiography">
+                                                <h4>Biography</h4>
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseBiography" class="collapse show" aria-labelledby="headingBiography" data-parent="#memberInfo">
+                                        <div class="card-body">
+                                            SANDERS, BERNARD, <biography>a Senator and a Representative from Vermont; born in Brooklyn, Kings County, N.Y., September 8, 1941; graduated from Madison High School, Brooklyn, N.Y.; B.S., University of Chicago, Chicago, Ill., 1964; faculty, Harvard University, Cambridge, Mass., 1989; faculty, Hamilton College, Clinton, N.Y., 1990; carpenter; journalist; unsuccessful independent candidate for election to the United States Senate in 1972 and 1974; unsuccessful independent candidate for election for governor of Vermont in 1972, 1976 and 1986; mayor of Burlington, Vt., 1981-1989; unsuccessful independent candidate to the One Hundred First Congress in 1988; elected as an independent to the One Hundred Second and to the seven succeeding Congresses (January 3, 1991-January 3, 2007); was not a candidate for reelection to the House of Representatives but was elected as an Independent to the United States Senate in 2006 for the term commencing January 3, 2007; reelected in 2012, and again in 2018 for the term ending January 3, 2025; chair, Committee on Veterans Affairs (One Hundred Thirteenth Congress); was an unsuccessful candidate for the Democratic presidential nomination in 2016. </biography>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <div class="card-header" id="headingResearchCollections">
+                                        <h2 class="mb-0">
+                                            <button class="btn btn-link text-dark collapsed" type="button" data-toggle="collapse" data-target="#collapseResearchCollections" aria-expanded="false" aria-controls="collapseResearchCollections">
+                                                <h4>Research Collections</h4>
+                                            </button>
+                                        </h2>
+                                    </div>
+                                    <div id="collapseResearchCollections" class="collapse" aria-labelledby="headingResearchCollections" data-parent="#memberInfo">
+                                        <div class="card-body">
+                                                    <b><institution-name>University of Vermont</institution-name></b><br />
+<institution-subname>Bailey/Howe Library</institution-subname><br />
+<institution-citystate>Burlington, VT</institution-citystate><br />
+                                                        <i><papers-type>Papers:</papers-type></i> <papers-description>Dates and amount unknown.</papers-description>                                                            <div class="marginLeft25"><papers-details /></div>
+                                                        <br />
+                                                    <hr />
+                                                    <b><institution-name>University of Oklahoma</institution-name></b><br />
+<institution-subname>Political Commercial Archive</institution-subname><br />
+<institution-citystate>Norman, OK</institution-citystate><br />
+                                                        <i><papers-type>Videocassettes:</papers-type></i> <papers-description>1988-1994, 40 commercials on 3 videocassettes.</papers-description>                                                            <div class="marginLeft25"><papers-details>The commercials were used during Bernie Sanders's 1988, 1990, and 1994 campaigns for U.S. Congress in Vermont, Independent Party.</papers-details></div>
+                                                        <br />
+                                                    <hr />
+                                                    <b><institution-name>Vermont Historical Society</institution-name></b><br />
+<institution-citystate>Montpelier, VT</institution-citystate><br />
+                                                        <i><papers-type>Papers:</papers-type></i> <papers-description>In the Rainbow Coalition of Vermont Records, 1984-1991, 1.5 linear feet.</papers-description>                                                            <div class="marginLeft25"><papers-details>Subjects include Bernard Sanders. A finding aid is available in the repository.</papers-details></div>
+                                                        <br />
+                                                        <i><papers-type>Papers:</papers-type></i> <papers-description>In the George Edward Little Senate Papers, 1982-1992, 4 linear feet.</papers-description>                                                            <div class="marginLeft25"><papers-details>Other authors include Bernard Sanders.</papers-details></div>
+                                                        <br />
+                                                        <i><papers-type>Papers:</papers-type></i> <papers-description>In the Vermont Coalition for the Equal Rights Amendment Records, 1985-1986, 1 linear feet.</papers-description>                                                            <div class="marginLeft25"><papers-details>Persons represented include Bernard Sanders. A finding aid is available in the repository.</papers-details></div>
+                                                        <br />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <div class="card-header" id="headingBibliography">
+                                        <h2 class="mb-0">
+                                            <button class="btn btn-link text-dark collapsed" type="button" data-toggle="collapse" data-target="#collapseBibliography" aria-expanded="false" aria-controls="collapseBibliography">
+                                                <h4>Extended Bibliography</h4>
+                                            </button>
+                                        </h2>
+                                    </div>
+                                    <div id="collapseBibliography" class="collapse" aria-labelledby="headingBibliography" data-parent="#memberInfo">
+                                        <div class="card-body">
+                                            <ul>
+                                                    <li>Sanders, Bernie. 
+<i>Bernie Sanders Guide to Political Revolution</i>. New York: Godwin Books, Henry Holt and Company, 2017.</li>
+                                                    <li>___. 
+<i>Our Revolution: A Future to Believe in. </i>New York: Thomas Dunne Books, St. Martin's Press, 2016.</li>
+                                                    <li>___. 
+<i>The Speech: A Historic Filibuster on Corporate Greed and the Decline of Our Middle Class</i>. New York: Nation Books, 2011.</li>
+                                                    <li>___. 
+<i>Where We Go from Here: Two Years in the Resistance</i>. New York: Thomas Dunne Books, 2018.</li>
+                                                    <li>Sanders, Bernie, with Huck Gutman. 
+<i>Outsider in the House.</i> London and New York: Verso, 1997. </li>
+                                                    <li>___. 
+<i>Outsider in the White House</i>. Updated Edition. New York: Verso, 2015.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                        <br />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-md-4">
+                    <span class="fontsmall">
+                        Office of the House Historian: <a href="mailto:history@mail.house.gov">history@mail.house.gov</a><br />
+                        Office of the Senate Historian: <a href="mailto:historian@sec.senate.gov">historian@sec.senate.gov</a><br />
+                        Office of Art & Archives, Office of the Clerk: <a href="mailto:art@mail.house.gov">art@mail.house.gov</a>, <a href="mailto:archives@mail.house.gov">archives@mail.house.gov</a>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/Static_Files/lib/jquery/dist/jquery.js"></script>
+    <script src="/Static_Files/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    <script src="/Static_Files/js/site.js"></script>
+
+    
+
+    <div class="modal fade right backgroundGrey" id="modalNewSite" tabindex="-1" role="dialog"
+         aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="false">
+        <div class="modal-dialog modal-xl modal-side modal-bottom-right modal-notify modal-info" role="document">
+            <div class="modal-content">
+                <div class="modal-header backgroundDarkGrey">
+                    <p class="heading"><h2 class="whiteText">Coming Soon... New Biographical Directory of the U.S. Congress Website</h2></p>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true" class="white-text">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body backgroundLightGrey">
+                    <div class="row">
+                        <div class="col-7">
+                            <img src="/Static_Files/images/modal.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="col-5 h-100">
+                            <p>With a modern and mobile-friendly design, the new Biographical Directory of the U.S. Congress website features an updated view of Member information and search functionality.</p>
+                            <p>Over the next couple of months we will deploy the site as a beta release before it eventually becomes the primary search site.</p>
+                            <p><button type="button" class="btn buttonRed" data-dismiss="modal">Close</button></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
