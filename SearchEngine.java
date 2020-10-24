@@ -49,13 +49,13 @@ public class SearchEngine {
 		compileCorpus();	// compile all corpus (inverted Word & Docs)
 		// readQueryFile();
 
-		try {
-			FileWriter writer = new FileWriter("/Users/rez/Documents/GitHub/CSCI-335-Project/InvertDocumentIndex.txt");
-			writer.write(invDocIndex.toString());
-			writer.close();
-		}catch (IOException e) {
-			e.printStackTrace();
-		}
+		// try {
+		// 	FileWriter writer = new FileWriter("/Users/rez/Documents/GitHub/CSCI-335-Project/InvertDocumentIndex.txt");
+		// 	writer.write(invDocIndex.toString());
+		// 	writer.close();
+		// }catch (IOException e) {
+		// 	e.printStackTrace();
+		// }
 		
 
 	}
