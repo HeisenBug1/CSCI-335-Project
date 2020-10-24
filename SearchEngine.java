@@ -44,13 +44,22 @@ public class SearchEngine {
 		}
 
 		readArgs(args);	// read arguments
-		// verifyRequired();	// verify all required files are ready
+		verifyRequired();	// verify all required files are ready
 		compileStopList();	// read stop words
 		compileCorpus();	// compile all corpus (inverted Word & Docs)
-		// readQueryFile();
-
+		readQueryFile();	// reads query file and output result
+	
+		// Uncomment bottom two TRY/CATCH blocks to create inverted index files
 		// try {
-		// 	FileWriter writer = new FileWriter("/Users/rez/Documents/GitHub/CSCI-335-Project/InvertDocumentIndex.txt");
+		// 	FileWriter writer = new FileWriter("InvertDocumentIndex.txt");
+		// 	writer.write(invDocIndex.toString());
+		// 	writer.close();
+		// }catch (IOException e) {
+		// 	e.printStackTrace();
+		// }
+		
+		// try {
+		// 	FileWriter writer = new FileWriter("InvertWordIndex.txt");
 		// 	writer.write(invDocIndex.toString());
 		// 	writer.close();
 		// }catch (IOException e) {
