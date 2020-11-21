@@ -9,6 +9,50 @@ import java.io.FileWriter;
 
 public class SearchEngine {
 
+	// ---- the main ----
+	public static void main(String[] args) throws InterruptedException {
+
+		// check it arguments are even numbere
+		if(args.length % 2 != 0) {
+			System.out.println("# of arguments passed: " +args.length);
+			System.out.println("There needs to be an even number of arguments");
+			System.exit(1);
+		}
+
+		readArgs(args);	// read arguments
+		// if(verifyRequired()){	// verify all required files are ready
+		// 	compileStopList();	// read stop words
+		// 	compileCorpus();	// compile all corpus (inverted Word & Docs)
+		// 	readQueryFile();	// reads query file and output result
+		// }
+		// else {
+		// 	System.out.println("All required arguments not present");
+		// 	System.exit(5);
+		// }
+
+		compileStopList();
+		compileCorpus();
+		readQueryFile();
+	
+		// Uncomment bottom two TRY/CATCH blocks to create inverted index files
+		// try {
+		// 	FileWriter writer = new FileWriter("InvertDocumentIndex.txt");
+		// 	writer.write(invDocIndex.toString());
+		// 	writer.close();
+		// }catch (IOException e) {
+		// 	e.printStackTrace();
+		// }
+		
+		// try {
+		// 	FileWriter writer = new FileWriter("InvertWordIndexP.txt");
+		// 	writer.write(invDocIndexP.get("Alan_Turing").get("Turing").toString());
+		// 	writer.close();
+		// }catch (IOException e) {
+		// 	e.printStackTrace();
+		// }
+	}
+	// ---- end of main ----
+
 	// variables to check if arguments are present in
 	// CMD/Terminal argument and their respected paths
 	static boolean corpusDirArg = false;
@@ -29,47 +73,14 @@ public class SearchEngine {
 
 	// data structures to keep record of corpus etc
 	static Hashtable<String, String> stopWords = new Hashtable<>();
-	static Hashtable<String, Hashtable<String, Integer>> invIndex = new Hashtable<>();
-	static Hashtable<String, Hashtable<String, ArrayList<Integer>>>invDocIndex = new Hashtable<>();
 
+	// 				 Word 			  FileName	 Count
+	static Hashtable<String, Hashtable<String, Integer>> invWordIndex = new Hashtable<>();	// for words in a file
+	static Hashtable<String, Hashtable<String, Integer>> invWordIndexP = new Hashtable<>();// for stemmed words in a file
 
-	// ---- the main ----
-	public static void main(String[] args) throws InterruptedException {
-
-		// check it arguments are even numbere
-		if(args.length % 2 != 0) {
-			System.out.println("# of arguments passed: " +args.length);
-			System.out.println("There needs to be an even number of arguments");
-			System.exit(1);
-		}
-
-		readArgs(args);	// read arguments
-		verifyRequired();	// verify all required files are ready
-		compileStopList();	// read stop words
-		compileCorpus();	// compile all corpus (inverted Word & Docs)
-		readQueryFile();	// reads query file and output result
-	
-		// Uncomment bottom two TRY/CATCH blocks to create inverted index files
-		// try {
-		// 	FileWriter writer = new FileWriter("InvertDocumentIndex.txt");
-		// 	writer.write(invDocIndex.toString());
-		// 	writer.close();
-		// }catch (IOException e) {
-		// 	e.printStackTrace();
-		// }
-		
-		// try {
-		// 	FileWriter writer = new FileWriter("InvertWordIndex.txt");
-		// 	writer.write(invDocIndex.toString());
-		// 	writer.close();
-		// }catch (IOException e) {
-		// 	e.printStackTrace();
-		// }
-		
-
-	}
-	// ---- end of main ----
-
+	//				FileName 		Word 	   [(0)Count, (1>)Occurrence]
+	static Hashtable<String, Hashtable<String, ArrayList<Integer>>> invDocIndex = new Hashtable<>();	// for files with indexed words
+	static Hashtable<String, Hashtable<String, ArrayList<Integer>>> invDocIndexP = new Hashtable<>(); // for files with stemmed indexed words
 
 	// read all html files (corpus)
 	static public void compileCorpus() throws InterruptedException {
@@ -97,16 +108,26 @@ public class SearchEngine {
 								if(line.toLowerCase().indexOf("html") < 12 && 	// verify if <!DOCTYPE html
 									line.toLowerCase().indexOf("html") > 0) {									
 									isHTML = true;
+									break;
 								}
-								else {
+								else {	// read first 100 lines to check if its html doc
 									cutOff++;
-									if(cutOff == 100 || !reader.hasNextLine()) {
+									if(cutOff == 100) {
 										break;
 									}
 								}
 							}
+						}
 
-							else {
+						reader.close();
+
+						if(isHTML) {
+
+							reader = new Scanner(file[i]);
+
+							// read again from the beginning to accurately count index
+							while(reader.hasNextLine()) {
+								line = reader.nextLine();
 
 								String fileName = file[i].getName();	// current html file name
 								String[] stArr = line.split(" ");	// each word in html split in empty space
@@ -115,63 +136,135 @@ public class SearchEngine {
 									word.trim();
 									index++;	// indexed by each word
 
-									//compiling Inverted Document Index
-									if(!word.equals("")) {	// exclude empty strings
+									if(word.length() < 30) {	// ignore too long word, possibly useless html syntax
 
-										if(!invDocIndex.containsKey(fileName)) {	// if brand new file
+										if(!word.equals("")) {	// exclude empty strings
 
-											Hashtable<String, ArrayList<Integer>> iDoc = new Hashtable<>();
-											ArrayList<Integer> countArr = new ArrayList<>();
-											countArr.add(1);	// add total count
-											countArr.add(index);	// add index of first occurrence 
-											iDoc.put(word, countArr);
-											invDocIndex.put(fileName, iDoc);	// add (file, word, count, occurrence index)
-										}
+											// Stemming done here
+											Stemmer st = new Stemmer();
+											st.add(word.toCharArray(), word.length());
+											st.stem();
+											String wordP = st.toString();
 
-										else {	// if file has been added before
+											// compiling Inverted Document Index here
+											if(!invDocIndex.containsKey(fileName)) {	// if brand new file/doc
 
-											Hashtable<String, ArrayList<Integer>> iDoc = invDocIndex.get(fileName);
-
-											if(!iDoc.containsKey(word)) {	// if brand new word
-
-												ArrayList<Integer> countArr = new ArrayList<Integer>();
-												countArr.add(1);
-												countArr.add(index);
-												iDoc.put(word, countArr);	// add (word, count, occurence index)
+												// Without Stemming
+												Hashtable<String, ArrayList<Integer>> iDoc = new Hashtable<>();
+												ArrayList<Integer> countArr = new ArrayList<>();
+												countArr.add(1);	// index[0] contains total occurrence count
+												countArr.add(index);	// index[1] & onwards contains the index of occurrences
+												iDoc.put(word, countArr);
+												invDocIndex.put(fileName, iDoc);	// store (file, word, count, occurrence-index) basically
+																					// like [file [word [count, occurrences]]]
 											}
 
-											else {	// if both file and word is present
+											else {	// if file/doc has been added before, then just update
 
-												iDoc.get(word).set(0, iDoc.get(word).get(0)+1);	// total count increment
-												iDoc.get(word).add(index);	// add (count , occurence index)
-											}
-										}
-									}
+												Hashtable<String, ArrayList<Integer>> iDoc = invDocIndex.get(fileName);
 
-									// compiling Inverted Word Index
-									// same as above but only for inverted words (no occurence count)
-									if(!word.equals("") && !stopWords.containsKey(word)) {
+												// if brand new word
+												if(!iDoc.containsKey(word)) {
 
-										if(!invIndex.containsKey(word)) {
+													// No Stemming
+													ArrayList<Integer> countArr = new ArrayList<Integer>();
+													countArr.add(1);
+													countArr.add(index);
+													iDoc.put(word, countArr);	// store (word, count, occurence-index)
+												}
 
-											Hashtable<String, Integer> doc = new Hashtable<>();
-											doc.put(fileName, 1);
-											invIndex.put(word, doc);
-										}
+												else {	// if both file and word is present, then JUST UPDATE
 
-										else {
-
-											Hashtable<String, Integer> doc = invIndex.get(word);
-
-											if(!doc.containsKey(fileName)) {
-
-												doc.put(fileName, 1);
+													// No Stemming
+													iDoc.get(word).set(0, iDoc.get(word).get(0)+1);	// update total count increment
+													iDoc.get(word).add(index);	// update (count , occurence-index (for new word))
+												}
 											}
 
-											else {
 
-												int count = doc.get(fileName);
-												doc.put(fileName, ++count);
+											// compiling STEMMED Inverted Document Index here (Similar to above line 141)
+											if(!invDocIndexP.containsKey(fileName)) {
+
+												// With Stemming (Similar to above)
+												Hashtable<String, ArrayList<Integer>> iDocP = new Hashtable<>();
+												ArrayList<Integer> countArrP = new ArrayList<>();
+												countArrP.add(1);
+												countArrP.add(index);
+												iDocP.put(wordP, countArrP);
+												invDocIndexP.put(fileName, iDocP);
+											}
+
+											else {	// if file/doc has been added before, then just update
+
+												Hashtable<String, ArrayList<Integer>> iDocP = invDocIndexP.get(fileName);
+
+												// if brand new Stemmed word
+												if(!iDocP.containsKey(wordP)) {
+													ArrayList<Integer> countArrP = new ArrayList<>();
+													countArrP.add(1);
+													countArrP.add(index);
+													iDocP.put(wordP, countArrP);
+												}
+
+												else {	// if both file and word is present, then JUST UPDATE (Stemmed)
+
+													// WIth Stemming (Similar to above)
+													iDocP.get(wordP).set(0, iDocP.get(wordP).get(0)+1);
+													iDocP.get(wordP).add(index);
+												}
+
+											}	// ---- Compiling Inverted Documnets done ---- //
+
+
+											// compiling Inverted Word Index here
+											// same as above but only for inverted words (no occurence count)
+											if(!stopWords.containsKey(word)) {	// if not a stopWord
+
+												// if brand new word
+												if(!invWordIndex.containsKey(word)) {
+
+													Hashtable<String, Integer> doc = new Hashtable<>();
+													doc.put(fileName, 1);	// add which file contains word
+													invWordIndex.put(word, doc);	// store word & the file it exists in
+												}
+
+												else {	// if word exists already
+
+													Hashtable<String, Integer> doc = invWordIndex.get(word);
+
+													// if word exists but not the file/doc
+													if(!doc.containsKey(fileName))
+														doc.put(fileName, 1);													
+
+													else {	// if both word and file/doc exists
+
+														int count = doc.get(fileName);
+														doc.put(fileName, ++count);	// increment count
+													}
+												}
+
+												// if brand new Stemmed word (Similar to above)
+												if(!invWordIndexP.containsKey(wordP)) {
+
+													Hashtable<String, Integer> docP = new Hashtable<>();
+													docP.put(fileName, 1);	// add which file contains stemmed word
+													invWordIndexP.put(wordP, docP);	// store stemmed word & the file it exists in
+												}
+
+												else {	// if stemmed word exists
+
+													Hashtable<String, Integer> docP = invWordIndexP.get(wordP);
+
+													// if stemmed word exists but not file/doc
+													if(!docP.containsKey(fileName))
+														docP.put(fileName, 1);
+
+													else {	// if both stemmed word & file/doc exists
+
+														int countP = docP.get(fileName);
+														docP.put(fileName, ++countP);	// increment count
+													}
+												}
 											}
 										}
 									}
@@ -189,7 +282,7 @@ public class SearchEngine {
 		}		
 	}
 
-
+	// read query and output in result file
 	static public void readQueryFile() {
 
 		if(queryArg && resultsArg) {
@@ -208,18 +301,19 @@ public class SearchEngine {
 					line = reader.nextLine();
 					String[] query = line.split(" ");
 
-					if(query.length > 2) {
+					if(query.length != 2) {
 						System.out.println("Two words per line required");
 						System.exit(4);
 					}
 
 					else {
 
-						if(query[0].equals("Query")) {
+						// search which docs contains the word
+						if(query[0].toLowerCase().equals("query")) {
 
-							if(invIndex.containsKey(query[1])) {
+							if(invWordIndexP.containsKey(query[1])) {
 
-								Hashtable<String, Integer> result = invIndex.get(query[1]);
+								Hashtable<String, Integer> result = invWordIndexP.get(query[1]);
 								st+=(i+") Query Term: "+query[1]+"\n");
 								i++;
 
@@ -227,36 +321,44 @@ public class SearchEngine {
 									st+=("\tIn Doc: "+doc+"\t\tCount: "+result.get(doc)+"\n");
 								}
 							}
+
+							else {
+								System.out.println("Word: "+query[1]+" not in any document");
+								System.exit(6);
+							}
 						}
 
-						if(query[0].equals("Frequency")) {
+						// search the frequency of a word in all docs
+						if(query[0].toLowerCase().equals("frequency")) {
 
+							if(!stopWords.containsKey(query[1])) {	// continue search if searched word not a stopWord
 
-							for (String docs : invDocIndex.keySet()) {
-								// System.out.println(docs);
-								Hashtable<String, ArrayList<Integer>> words = invDocIndex.get(docs);
+								for (String docs : invDocIndexP.keySet()) {
+									// System.out.println(docs);
+									Hashtable<String, ArrayList<Integer>> words = invDocIndexP.get(docs);
 
-								if(words.containsKey(query[1])) {
-									// System.out.println("found");
-									ArrayList<Integer> list = words.get(query[1]);
-									st+=(i+") Frequency Term: "+query[1]+"\n");
-									i++;
+									if(words.containsKey(query[1])) {
+										// System.out.println("found");
+										ArrayList<Integer> list = words.get(query[1]);
+										st+=(i+") Frequency Term: "+query[1]+"\n");
+										i++;
 
-									st+=("\tDoc: "+docs+"\t\tCount: "+list.get(0)+"\t\tOccurrence Index: ");
+										st+=("\tDoc: "+docs+"\t\tCount: "+list.get(0)+"\t\tOccurrence Index: ");
 
-									for(int x=1; x<list.size(); x++) {
+										for(int x=1; x<list.size(); x++) {
 
-										st+="["+list.get(x)+"], ";
+											st+="["+list.get(x)+"], ";
+										}
+										st+="\n";
 									}
-									st+="\n";
 								}
 							}
 						}
 					}
 				}
+
 				reader.close();
 
-				// System.out.println(st);
 				try {
 
 					FileWriter writer = new FileWriter(resultsArgPath);

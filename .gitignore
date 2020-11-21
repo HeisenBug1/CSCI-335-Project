@@ -2,3 +2,5 @@
 SearchEngine.class
 .DS_Store
 *.zip
+InvertWordIndexP.txt
+Stemmer.class
