@@ -1,132 +1,109 @@
-1) Frequency Term: eat
-	Doc: top-london-attractions		Count: 1		Occurrence Index: [101975], 
-2) Frequency Term: eat
-	Doc: 11084145-steve-jobs		Count: 6		Occurrence Index: [14243], [14263], [14341], [14361], [45925], [46474], 
-3) Frequency Term: eat
-	Doc: Cyanide_poisoning		Count: 1		Occurrence Index: [398], 
-4) Frequency Term: eat
-	Doc: new-york-attractions		Count: 1		Occurrence Index: [69990], 
-5) Frequency Term: eat
-	Doc: best-things-to-do-in-new-york		Count: 2		Occurrence Index: [2843], [13526], 
-6) Frequency Term: eat
-	Doc: new-york-tourist-attractions-tips		Count: 9		Occurrence Index: [7814], [11816], [20699], [20985], [21269], [24044], [24057], [24265], [24278], 
-7) Frequency Term: eat
-	Doc: Attractions-g60763-Activities-c57-New_York_City_New_York.html?mcid=63709		Count: 4		Occurrence Index: [15629], [24713], [33346], [35215], 
-8) Frequency Term: eat
-	Doc: index.html		Count: 1		Occurrence Index: [3239], 
-9) Frequency Term: eat
-	Doc: Bill_Gates		Count: 1		Occurrence Index: [16811], 
-10) Frequency Term: eat
-	Doc: Attraction_Review-g60763-d102741-Reviews-Brooklyn_Bridge-New_York_City_New_York.html?mcid=63709		Count: 2		Occurrence Index: [34020], [46119], 
-11) Frequency Term: eat
-	Doc: Bill_Gates.6		Count: 1		Occurrence Index: [16811], 
-12) Frequency Term: eat
-	Doc: Bill_Gates.5		Count: 1		Occurrence Index: [16811], 
-13) Frequency Term: eat
-	Doc: Bill_Gates.4		Count: 1		Occurrence Index: [16811], 
-14) Frequency Term: eat
-	Doc: Bill_Gates.3		Count: 1		Occurrence Index: [16811], 
-15) Frequency Term: eat
-	Doc: Bill_Gates.2		Count: 1		Occurrence Index: [16811], 
-16) Frequency Term: eat
-	Doc: Bill_Gates.1		Count: 1		Occurrence Index: [16811], 
-17) Frequency Term: eat
-	Doc: index.html.14		Count: 1		Occurrence Index: [5583], 
-18) Frequency Term: eat
-	Doc: index.html.9		Count: 1		Occurrence Index: [13250], 
-19) Frequency Term: eat
-	Doc: index.html.8		Count: 1		Occurrence Index: [5583], 
-20) Frequency Term: eat
-	Doc: index.html.7		Count: 1		Occurrence Index: [5583], 
-21) Frequency Term: Gates
-	Doc: Bill-Gates.1		Count: 1		Occurrence Index: [18444], 
-22) Frequency Term: summer
-	Doc: top-london-attractions		Count: 1		Occurrence Index: [108756], 
-23) Frequency Term: summer
-	Doc: Timeline_of_Steve_Jobs_media		Count: 1		Occurrence Index: [7184], 
-24) Frequency Term: summer
-	Doc: london-eng-l-lon.htm		Count: 3		Occurrence Index: [2581], [2929], [6711], 
-25) Frequency Term: summer
-	Doc: lausannebio.html		Count: 1		Occurrence Index: [976], 
-26) Frequency Term: summer
-	Doc: Alan-Turing		Count: 1		Occurrence Index: [6647], 
-27) Frequency Term: summer
-	Doc: 11084145-steve-jobs		Count: 2		Occurrence Index: [24083], [29166], 
-28) Frequency Term: summer
-	Doc: london-attractions-map		Count: 2		Occurrence Index: [16220], [20529], 
-29) Frequency Term: summer
-	Doc: Harvard-University		Count: 1		Occurrence Index: [5732], 
-30) Frequency Term: summer
-	Doc: becoming-bernie-the-6-chapters-of-sanders-life		Count: 1		Occurrence Index: [11718], 
-31) Frequency Term: summer
-	Doc: Steve_Jobs.2		Count: 2		Occurrence Index: [2216], [3648], 
-32) Frequency Term: summer
-	Doc: new-york-attractions		Count: 2		Occurrence Index: [92486], [110651], 
-33) Frequency Term: summer
-	Doc: Steve_Jobs.1		Count: 2		Occurrence Index: [2216], [3648], 
-34) Frequency Term: summer
-	Doc: best-things-to-do-in-new-york		Count: 2		Occurrence Index: [6142], [14633], 
-35) Frequency Term: summer
-	Doc: new-york-tourist-attractions-tips		Count: 4		Occurrence Index: [5276], [15075], [15266], [15455], 
-36) Frequency Term: summer
-	Doc: short_bio.4		Count: 1		Occurrence Index: [10558], 
-37) Frequency Term: summer
-	Doc: short_bio.3		Count: 1		Occurrence Index: [10558], 
-38) Frequency Term: summer
-	Doc: Attraction_Review-g60763-d555629-Reviews-Central_Park_Summerstage-New_York_City_New_York.html?mcid=63709		Count: 7		Occurrence Index: [24314], [26331], [38302], [39462], [39488], [39506], [40171], 
-39) Frequency Term: summer
-	Doc: short_bio.2		Count: 1		Occurrence Index: [10558], 
-40) Frequency Term: summer
-	Doc: short_bio.1		Count: 1		Occurrence Index: [10558], 
-41) Frequency Term: summer
-	Doc: Steve_Jobs		Count: 2		Occurrence Index: [2216], [3648], 
-42) Frequency Term: summer
-	Doc: Attraction_Review-g60763-d136347-Reviews-Bryant_Park-New_York_City_New_York.html?mcid=63709		Count: 6		Occurrence Index: [31131], [31151], [42112], [42125], [43230], [43243], 
-43) Frequency Term: summer
-	Doc: Microsoft		Count: 1		Occurrence Index: [6093], 
-44) Frequency Term: summer
-	Doc: Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html?mcid=63709.2		Count: 1		Occurrence Index: [43278], 
-45) Frequency Term: summer
-	Doc: Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html?mcid=63709.1		Count: 1		Occurrence Index: [42931], 
-46) Frequency Term: summer
-	Doc: london-eng-l-lon.htm.2		Count: 3		Occurrence Index: [2581], [2929], [6711], 
-47) Frequency Term: summer
-	Doc: london-eng-l-lon.htm.1		Count: 3		Occurrence Index: [2581], [2929], [6711], 
-48) Frequency Term: summer
-	Doc: Bernie_Sanders		Count: 2		Occurrence Index: [3641], [20654], 
-49) Frequency Term: summer
-	Doc: Alan-Turing.1		Count: 1		Occurrence Index: [6654], 
-50) Frequency Term: summer
-	Doc: Bill_Gates		Count: 2		Occurrence Index: [2285], [2782], 
-51) Frequency Term: summer
-	Doc: short_bio		Count: 1		Occurrence Index: [10558], 
-52) Frequency Term: summer
-	Doc: Beatrice_Worsley		Count: 2		Occurrence Index: [1656], [2211], 
-53) Frequency Term: summer
-	Doc: Steve_Wozniak		Count: 1		Occurrence Index: [1976], 
-54) Frequency Term: summer
-	Doc: Bio of Alan Turing.html		Count: 1		Occurrence Index: [863], 
-55) Frequency Term: summer
-	Doc: Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html?mcid=63709		Count: 1		Occurrence Index: [42404], 
-56) Frequency Term: summer
-	Doc: Bill_Gates.6		Count: 2		Occurrence Index: [2285], [2782], 
-57) Frequency Term: summer
-	Doc: Bill_Gates.5		Count: 2		Occurrence Index: [2285], [2782], 
-58) Frequency Term: summer
-	Doc: Bernie_Sanders.2		Count: 2		Occurrence Index: [3641], [20654], 
-59) Frequency Term: summer
-	Doc: Bill_Gates.4		Count: 2		Occurrence Index: [2285], [2782], 
-60) Frequency Term: summer
-	Doc: Bernie_Sanders.1		Count: 2		Occurrence Index: [3641], [20654], 
-61) Frequency Term: summer
-	Doc: Bill_Gates.3		Count: 2		Occurrence Index: [2285], [2782], 
-62) Frequency Term: summer
-	Doc: Bill_Gates.2		Count: 2		Occurrence Index: [2285], [2782], 
-63) Frequency Term: summer
-	Doc: Bill_Gates.1		Count: 2		Occurrence Index: [2285], [2782], 
-64) Frequency Term: summer
-	Doc: San_Francisco		Count: 2		Occurrence Index: [10102], [32572], 
-65) Frequency Term: summer
-	Doc: index.html.2		Count: 1		Occurrence Index: [2345], 
-66) Frequency Term: summer
-	Doc: bernie-sanders-vermont-119927		Count: 2		Occurrence Index: [2523], [4036], 
+============================================================
+1) Query Term: food (Stemmed); Original: food
+
+	In Doc: Attractions-g60763-Activities-c57-New_York_City_New_York.html?mcid=63709		[Count: 6] Snippet: ' a variety of good exotic food & superb views of the  '
+
+	In Doc: Bernie-Sanders		[Count: 1] Snippet: ' History, Science, and Lore of Food </em>and others.<em></em></div> 		</div>  	  '
+
+	In Doc: index.html.9		[Count: 2] Snippet: ' fabulous West African and soul food restaurants, a dynamic local jazz  '
+
+	In Doc: Attraction_Review-g60763-d102741-Reviews-Brooklyn_Bridge-New_York_City_New_York.html?mcid=63709		[Count: 10] Snippet: ' Line Downtown</a></li><li class="subItemDust"><a href="/Attraction_Review-g60827-d4026493-Reviews-Ray_s_Food_and_Walking_Tours-Brooklyn_New_York.html" class="subLink">Ray's Food and Walking Tours</a></li></ul></ul></li><li class="expandSubItemDust secondLevelSubNav"><span  '
+
+	In Doc: Attractions-g60763-Activities-zft11306-New_York_City_New_York.html?mcid=63709		[Count: 8] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+
+	In Doc: index.html.8		[Count: 3] Snippet: ' is the Chelsea Market, a food hall located inside the former  '
+
+	In Doc: index.html.7		[Count: 3] Snippet: ' is the Chelsea Market, a food hall located inside the former  '
+
+	In Doc: Bernie_Sanders.2		[Count: 2] Snippet: ' the family never lacked for food or clothing, but major purchases,  '
+
+	In Doc: Bernie_Sanders.1		[Count: 2] Snippet: ' the family never lacked for food or clothing, but major purchases,  '
+
+	In Doc: Larry_Sanders_(politician)		[Count: 1] Snippet: ' child, his family never lacked food or clothing, but major purchases  '
+
+	In Doc: Attraction_Review-g60763-d587661-Reviews-Top_of_the_Rock-New_York_City_New_York.html?mcid=63709		[Count: 1] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+
+	In Doc: Attraction_Review-g60763-d105125-Reviews-The_Metropolitan_Museum_of_Art-New_York_City_New_York.html?mcid=63709		[Count: 2] Snippet: ' Minds Tours</a></li><li class="subItemDust"><a href="/Attraction_Review-g60763-d8499606-Reviews-In_Food_We_Trust_Culinary_Tours-New_York_City_New_York.html" class="subLink">In Food We Trust Culinary Tours</a></li><li class="subItemDust"><a  '
+
+	In Doc: 11084145-steve-jobs		[Count: 1] Snippet: ' />Yet he defined petulance. His food had to be just so.  '
+
+	In Doc: Attraction_Review-g60763-d519474-Reviews-The_High_Line-New_York_City_New_York.html?mcid=63709		[Count: 23] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+
+	In Doc: new-york-attractions		[Count: 10] Snippet: ' city, including great&nbsp;parks, art museums, food markets and historical venues. Landmarks  '
+
+	In Doc: Attraction_Review-g60763-d587661-Reviews-Top_of_the_Rock-New_York_City_New_York.html?mcid=63709.1		[Count: 1] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+
+	In Doc: Attraction_Review-g60763-d136053-Reviews-St_Patrick_s_Cathedral-New_York_City_New_York.html?mcid=63709		[Count: 7] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+
+	In Doc: Larry_Sanders_(politician).1		[Count: 1] Snippet: ' child, his family never lacked food or clothing, but major purchases  '
+
+	In Doc: Attractions-g60763-Activities-New_York_City_New_York.html?mcid=63709		[Count: 4] Snippet: ' New York City</a><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="_3dzhM29n">Other Food &amp; Drink in New York  '
+
+	In Doc: index.html.20		[Count: 3] Snippet: ' Shutterstock</span></span><div class="card-content"><h2>34. Borough Market</h2></p><p>A popular food market has existed on <strong><a  '
+
+	In Doc: top-london-attractions		[Count: 2] Snippet: '      Food &amp; Drink     '
+
+	In Doc: bernie-sanders-vermont-119927		[Count: 2] Snippet: ' Taxes and registering people for food stamps for a nonprofit called  '
+
+	In Doc: 069116472X		[Count: 1] Snippet: ' 4%"></td> <td class="navFooterDescItem"><a href='https://www.wholefoodsmarket.com' class='nav_a'>Whole Foods Market<br/> <span class="navFooterDescText">America’s Healthiest<br/> Grocery  '
+
+	In Doc: Attraction_Review-g60763-d1687489-Reviews-The_National_9_11_Memorial_Museum-New_York_City_New_York.html?mcid=63709		[Count: 4] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+
+	In Doc: Attraction_Review-g60763-d10535579-Reviews-World_Trade_Center_s_Liberty_Park-New_York_City_New_York.html?mcid=63709		[Count: 1] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+
+	In Doc: Cyanide_poisoning		[Count: 3] Snippet: ' roots, which are a primary food source in tropical Africa) results  '
+
+	In Doc: Bernie_Sanders		[Count: 2] Snippet: ' the family never lacked for food or clothing, but major purchases,  '
+
+	In Doc: Attraction_Review-g60763-d136347-Reviews-Bryant_Park-New_York_City_New_York.html?mcid=63709		[Count: 16] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+
+	In Doc: Bernie_Sanders_2016_presidential_campaign		[Count: 3] Snippet: ' a "<a href="/wiki/Fast_food_worker_strikes" class="mw-redirect" title="Fast food worker strikes">Fight for $15</a>" rally  '
+
+	In Doc: Attractions-g60763-Activities-New_York_City_New_York.html		[Count: 4] Snippet: ' New York City</a><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="_3dzhM29n">Other Food &amp; Drink in New York  '
+
+	In Doc: london-eng-l-lon.htm		[Count: 1] Snippet: ' the month, popular for their food and drink experiences, along with  '
+
+	In Doc: index.html.19		[Count: 13] Snippet: ' he's turned his passion into food tours, so Eating Europe guests  '
+
+	In Doc: index.html.18		[Count: 4] Snippet: ' the animals’ behaviour. The World Food Market ensures guests are well  '
+
+	In Doc: index.html.17		[Count: 4] Snippet: ' by: AndreySt/bigstock.com</figcaption></figure> <p style="text-align: justify;">The food in London is as diverse  '
+
+	In Doc: london-attractions-map		[Count: 1] Snippet: ' brands, souvenirs and its huge food hall.      '
+
+	In Doc: Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html?mcid=63709		[Count: 10] Snippet: ' class="subLink">Delacorte Theater</a></li><li class="subItemDust"><a href="/Attraction_Review-g60763-d8499606-Reviews-In_Food_We_Trust_Culinary_Tours-New_York_City_New_York.html" class="subLink">In Food We Trust Culinary Tours</a></li><li class="subItemDust"><a  '
+
+	In Doc: index.html.14		[Count: 3] Snippet: ' is the Chelsea Market, a food hall located inside the former  '
+
+	In Doc: index.html.13		[Count: 18] Snippet: ' taste of New York's unique food scene with Food On Foot  '
+
+	In Doc: Attraction_Review-g60763-d555629-Reviews-Central_Park_Summerstage-New_York_City_New_York.html?mcid=63709		[Count: 7] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+
+	In Doc: new-york-tourist-attractions-tips		[Count: 32] Snippet: ' to Eataly</a>, Mario Batali&#x2019;s Italian food emporium that&#x2019;s pretty much synonymous  '
+
+	In Doc: Attraction_Review-g60763-d267031-Reviews-Manhattan_Skyline-New_York_City_New_York.html?mcid=63709		[Count: 4] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+
+	In Doc: Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html?mcid=63709.2		[Count: 10] Snippet: ' class="subLink">Delacorte Theater</a></li><li class="subItemDust"><a href="/Attraction_Review-g60763-d8499606-Reviews-In_Food_We_Trust_Culinary_Tours-New_York_City_New_York.html" class="subLink">In Food We Trust Culinary Tours</a></li><li class="subItemDust"><a  '
+
+	In Doc: Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html?mcid=63709.1		[Count: 10] Snippet: ' class="subLink">Delacorte Theater</a></li><li class="subItemDust"><a href="/Attraction_Review-g60763-d8499606-Reviews-In_Food_We_Trust_Culinary_Tours-New_York_City_New_York.html" class="subLink">In Food We Trust Culinary Tours</a></li><li class="subItemDust"><a  '
+
+	In Doc: bill-gates.html		[Count: 1] Snippet: ' care of in terms of food and clothes,” he says, redundantly.  '
+
+	In Doc: San_Francisco		[Count: 1] Snippet: ' cs1">Rababy, Michael (2018). <i>Folsom Street Food Court</i>. 1133 Venice Boulevard Los  '
+
+	In Doc: Attractions-g186338-Activities-London_England.html		[Count: 3] Snippet: ' Classes in London</a><a href="/Attractions-g186338-Activities-c36-t262-London_England.html" class="_3dzhM29n">Other Food &amp; Drink in London</a></div><div class="UsrtonZ6"><a  '
+
+	In Doc: Attraction_Review-g60763-d104365-Reviews-Empire_State_Building-New_York_City_New_York.html?mcid=63709		[Count: 4] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+
+	In Doc: Steve_Jobs.2		[Count: 1] Snippet: ' rooms, returned Coke bottles for food money, and got weekly free  '
+
+	In Doc: best-things-to-do-in-new-york		[Count: 2] Snippet: ' definitely be impressed by the food and drinks—Totonno&#x27;s Pizza, Gargiulo&#x27;s and  '
+
+	In Doc: Steve_Jobs.1		[Count: 1] Snippet: ' rooms, returned Coke bottles for food money, and got weekly free  '
+
+	In Doc: london-eng-l-lon.htm.2		[Count: 1] Snippet: ' the month, popular for their food and drink experiences, along with  '
+
+	In Doc: london-eng-l-lon.htm.1		[Count: 1] Snippet: ' the month, popular for their food and drink experiences, along with  '
+
+	In Doc: Steve_Jobs		[Count: 1] Snippet: ' rooms, returned Coke bottles for food money, and got weekly free  '
+

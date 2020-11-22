@@ -3,6 +3,7 @@ import java.util.Hashtable;
 import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;
 import java.lang.ClassNotFoundException;
+import java.lang.StringBuilder;
 import java.io.*;
 
 public class Engine {
@@ -24,13 +25,20 @@ public class Engine {
 	boolean resultsArg = false;
 	String resultsArgPath;
 
-	// data structures to keep record of corpus etc
-	Hashtable<String, String> stopWords = new Hashtable<>();
+	boolean snip = false;
+	int snipVal = 0;
 
+	boolean stemmed = false;
+
+	// data structures to keep record of corpus etc
+	Hashtable<String, String> stopWords;
+
+	// to find which documents have the given word
 	// 		 Word 			  FileName	 Count
 	Hashtable<String, Hashtable<String, Integer>> invWordIndex;	// for words in a file
 	Hashtable<String, Hashtable<String, Integer>> invWordIndexP;	// for stemmed words in a file
 
+	// to find any word's count & occurence in a given document (index 0 holds total count and >0 hold occurrences)
 	//		FileName 		Word 	   [(0)Count, (1>)Occurrence]
 	Hashtable<String, Hashtable<String, ArrayList<Integer>>> invDocIndex;	// for files with indexed words
 	Hashtable<String, Hashtable<String, ArrayList<Integer>>> invDocIndexP;	// for files with stemmed indexed words
@@ -38,34 +46,31 @@ public class Engine {
 
 	public Engine(String[] args) {
 
+		this.readArgs(args);
+
 		String st = "PersistantData/";
 		
 		File file1 = new File(st+"invWordIndex.obj");
 		File file2 = new File(st+"invWordIndexP.obj");
 		File file3 = new File(st+"invDocIndex.obj");
 		File file4 = new File(st+"invDocIndexP.obj");
+		File file5 = new File(st+"stopWords.obj");
+		File file6 = new File(st+"corpusDir.obj");
 
-		if(file1.exists() && file2.exists() && file3.exists() && file4.exists()) {
-
-			try {
-				this.restore();
-			}
-			catch (InterruptedException ex) {
-				ex.printStackTrace();
-			}
-			
-			this.readArgs(args);
-			this.compileStopList();
+		if(file1.exists() && file2.exists() && file3.exists() && file4.exists() && file5.exists() && file6.exists()) {
+			this.corpusDirArg = false;
 		}
 			
 		else {
+
+			this.verifyRequired();
 
 			this.invWordIndex = new Hashtable<>();
 			this.invWordIndexP = new Hashtable<>();
 			this.invDocIndex = new Hashtable<>();
 			this.invDocIndexP = new Hashtable<>();
+			this.stopWords = new Hashtable<>();
 
-			this.readArgs(args);
 			this.compileStopList();
 			this.compileCorpus();
 
@@ -85,6 +90,11 @@ public class Engine {
 
 			File cDir = new File(corpusDirPath);
 			File[] file = cDir.listFiles();	// list of all html files
+
+			if(file.length == 0) {
+				System.out.println("No HTML files in Corpus Directory");
+				System.exit(7);
+			}
 
 			for(int i=0; i<file.length; i++) {	// for each file
 
@@ -130,6 +140,7 @@ public class Engine {
 
 								for(String word : stArr) {	// for each word in doc
 									word.trim();
+									word = word.toLowerCase();
 									index++;	// indexed by each word
 
 									if(word.length() < 30) {	// ignore too long word, possibly useless html syntax
@@ -275,15 +286,19 @@ public class Engine {
 					}
 				}
 			}
-		}		
+		}
+		else {
+			System.out.println("Corpur Directory Not Provided");
+			System.exit(9);
+		}	
 	}
 
 	// read query and output in result file
-	private void readQueryFile() {
+	public void readQueryFile() {
 
 		if(queryArg && resultsArg) {
 
-			String st="";
+			StringBuilder st = new StringBuilder();
 
 			try {
 
@@ -298,54 +313,115 @@ public class Engine {
 					String[] query = line.split(" ");
 
 					if(query.length != 2) {
-						System.out.println("Two words per line required");
-						System.exit(4);
+						System.out.println("Two words per line required in Query File. Skipping to next line");
+						continue;
 					}
 
 					else {
 
+						// restore corpus first
+						if(!this.corpusDirArg) {
+							try {
+								this.restore();
+								this.corpusDirArg = true;
+							}
+							catch (InterruptedException ex) {
+								ex.printStackTrace();
+							}
+						}
+
+						String q1 = query[0].toLowerCase();
+						String q2 = query[1].toLowerCase();
+
+						if(stemmed) {
+							// Stemming for query
+							Stemmer stm = new Stemmer();
+							stm.add(q2.toCharArray(), q2.length());
+							stm.stem();
+							q2 = stm.toString();
+						}
+
 						// search which docs contains the word
-						if(query[0].toLowerCase().equals("query")) {
+						if(q1.equals("query")) {
 
-							if(invWordIndexP.containsKey(query[1])) {
+							Hashtable<String, Integer> result = null;
 
-								Hashtable<String, Integer> result = invWordIndexP.get(query[1]);
-								st+=(i+") Query Term: "+query[1]+"\n");
-								i++;
-
-								for(String doc : result.keySet()) {
-									st+=("\tIn Doc: "+doc+"\t\tCount: "+result.get(doc)+"\n");
+							if(stemmed) {
+								if(invWordIndexP.containsKey(q2)) {
+									result = invWordIndexP.get(q2);
+								}
+							}
+							else {
+								if(invWordIndex.containsKey(q2)) {
+									result = invWordIndex.get(q2);
 								}
 							}
 
-							else {
-								System.out.println("Word: "+query[1]+" not in any document");
-								System.exit(6);
+							if(result != null) {
+								st.append("============================================================\n");
+								if(stemmed)
+									st.append((i+") Query Term: "+q2+" (Stemmed); Original: "+query[1]+"\n\n"));
+								else
+									st.append((i+") Query Term: "+q2+"\n\n"));
+								i++;
+
+								for(String doc : result.keySet()) {
+
+									String stt = "";
+
+									if(snip) {
+										stt = " Snippet: ' ";
+										if(stemmed) {
+											stt += this.getSnip(doc, invDocIndexP.get(doc).get(q2).get(1));
+										}
+										else
+											stt += this.getSnip(doc, invDocIndex.get(doc).get(q2).get(1));
+									}
+									
+									st.append(("\tIn Doc: "+doc+"\t\t[Count: "+result.get(doc)+"]"+stt+" '\n\n"));
+								}
 							}
 						}
 
 						// search the frequency of a word in all docs
-						if(query[0].toLowerCase().equals("frequency")) {
+						if(q1.toLowerCase().equals("frequency")) {
 
-							if(!stopWords.containsKey(query[1])) {	// continue search if searched word not a stopWord
+							if(!stopWords.containsKey(q2)) {	// continue search if searched word not a stopWord
 
-								for (String docs : invDocIndexP.keySet()) {
-									// System.out.println(docs);
-									Hashtable<String, ArrayList<Integer>> words = invDocIndexP.get(docs);
+								st.append("============================================================\n");
+								if(stemmed)
+									st.append((i+") Frequency Term: "+q2+" (Stemmed); Original: "+query[1]+"\n\n"));
+								else
+									st.append((i+") Frequency Term: "+q2+"\n\n"));
+								i++;
 
-									if(words.containsKey(query[1])) {
-										// System.out.println("found");
-										ArrayList<Integer> list = words.get(query[1]);
-										st+=(i+") Frequency Term: "+query[1]+"\n");
-										i++;
+								Hashtable<String, Hashtable<String, ArrayList<Integer>>> invDoc = null;
 
-										st+=("\tDoc: "+docs+"\t\tCount: "+list.get(0)+"\t\tOccurrence Index: ");
+								if(stemmed)
+									invDoc = invDocIndexP;
+								else
+									invDoc = invDocIndex;
+
+								for (String docs : invDoc.keySet()) {
+
+									Hashtable<String, ArrayList<Integer>> words = null;
+
+									if(stemmed)
+										words = invDocIndexP.get(docs);
+									else
+										words = invDocIndex.get(docs);
+
+									if(words.containsKey(q2)) {
+
+										ArrayList<Integer> list = words.get(q2);
+
+										st.append(("\tDoc: "+docs+"\t\t[Count: "+list.get(0)+"]"+"\tOccurrence Index: "));
 
 										for(int x=1; x<list.size(); x++) {
 
-											st+="["+list.get(x)+"], ";
+											st.append("["+list.get(x)+"], ");
 										}
-										st+="\n";
+										st.append("\n\n");
 									}
 								}
 							}
@@ -358,7 +434,7 @@ public class Engine {
 				try {
 
 					FileWriter writer = new FileWriter(resultsArgPath);
-					writer.write(st);
+					writer.write(st.toString());
 					writer.close();
 
 				} catch (IOException e) {
@@ -396,6 +472,11 @@ public class Engine {
 				e.printStackTrace();
 			}
 		}
+		else
+		{
+			System.out.println("Stop Word File not Provided");
+			System.exit(8);
+		}
 	}
 
 
@@ -403,91 +484,126 @@ public class Engine {
 	private void readArgs(String[] args) {
 
 		boolean failed = false;
+		boolean incrementOnce = false;
+		int i = 0;
 
-		for(int i=0; i<args.length; i=i+2) {
-			if(args[i].equals("-CorpusDir")) {
-				File tempFile = new File(args[i+1]);
-				if(tempFile.exists()) {
-					corpusDirArg = true;
-					corpusDirPath = args[i+1];
-				}
-				else {
-					System.out.println(args[i+1] +" is not a correct path for " + args[i]);
+		while(i < args.length) {
+			if(args[i].toLowerCase().equals("-corpusdir")) {
+				if(args[i+1].charAt(0) == '-') {
+					System.out.println("Invalid Argument: "+args[i+1]+" for Flag: "+args[i]);
 					failed = true;
 				}
-			}
-			if (args[i].equals("-InvertedIndex")) {
 				File tempFile = new File(args[i+1]);
 				if(tempFile.exists()) {
-					invertedIndexArg = true;
-					invertedIndexPath = args[i+1];
-				}
-				else {
-					System.out.println(args[i+1] +" is not a correct path for " + args[i]);
-					failed = true;
-				}
-			}
-			if (args[i].equals("-StopList")) {
-				File tempFile = new File(args[i+1]);
-				if(tempFile.exists()) {
-					stopListArg = true;
-					stopListPath = args[i+1];
-				}
-				else {
-					System.out.println(args[i+1] +" is not a correct path for " + args[i]);
-					failed = true;
-				}
-			}
-			if (args[i].equals("-Queries")) {
-				File tempFile = new File(args[i+1]);
-				if(tempFile.exists()) {
-					queryArg = true;
-					queryArgPath = args[i+1];
-				}
-				else {
-					System.out.println(args[i+1] +" is not a correct path for " + args[i]);
-					failed = true;
-				}
-			}
-			if (args[i].equals("-Results")) {
-				File tempFile = new File(args[i+1]);
-				if(tempFile.exists()) {
-					resultsArg = true;
-					resultsArgPath = args[i+1];
+					this.corpusDirArg = true;
+					this.corpusDirPath = args[i+1];
 				}
 				else {
 					System.out.println(args[i+1] +" does not exist for " + args[i]);
-					System.out.println("Create the file? (yes/no) ");
-					Scanner sc = new Scanner(System.in);
-					String create = sc.nextLine();
-					if(create.charAt(0) == 'y' || create.charAt(0) == 'Y') {
-						try {
-							tempFile.createNewFile();
-							resultsArg = true;
-							resultsArgPath = args[i+1];
-						} catch (IOException e) {
-							e.printStackTrace();
-						}
-					}
-					else {
-						System.out.println("Argument "+args[i]+" was unsuccesful");
-						failed = true;
+					failed = true;
+				}
+			}
+			else if (args[i].toLowerCase().equals("-invertedIndex")) {
+				if(args[i+1].charAt(0) == '-') {
+					System.out.println("Invalid Argument: "+args[i+1]+" for Flag: "+args[i]);
+					failed = true;
+				}
+				this.invertedIndexArg = true;
+				this.invertedIndexPath = args[i+1];
+			}
+			else if (args[i].toLowerCase().equals("-stoplist")) {
+				if(args[i+1].charAt(0) == '-') {
+					System.out.println("Invalid Argument: "+args[i+1]+" for Flag: "+args[i]);
+					failed = true;
+				}
+				File tempFile = new File(args[i+1]);
+				if(tempFile.exists()) {
+					this.stopListArg = true;
+					this.stopListPath = args[i+1];
+				}
+				else {
+					System.out.println(args[i+1] +" does not exist for " + args[i]);
+					failed = true;
+				}
+			}
+			else if (args[i].toLowerCase().equals("-queries")) {
+				if(args[i+1].charAt(0) == '-') {
+					System.out.println("Invalid Argument: "+args[i+1]+" for Flag: "+args[i]);
+					failed = true;
+				}
+				File tempFile = new File(args[i+1]);
+				if(tempFile.exists()) {
+					this.queryArg = true;
+					this.queryArgPath = args[i+1];
+				}
+				else {
+					System.out.println(args[i+1] +" does not exist for " + args[i]);
+					failed = true;
+				}
+			}
+			else if (args[i].toLowerCase().equals("-results")) {
+				if(args[i+1].charAt(0) == '-') {
+					System.out.println("Invalid Argument: "+args[i+1]+" for Flag: "+args[i]);
+					failed = true;
+				}
+				File tempFile = new File(args[i+1]);
+				if(tempFile.exists()) {
+					this.resultsArg = true;
+					this.resultsArgPath = args[i+1];
+				}
+				else {
+					try {
+						tempFile.createNewFile();
+						this.resultsArg = true;
+						this.resultsArgPath = args[i+1];
+					} catch (IOException e) {
+						e.printStackTrace();
 					}
 				}
 			}
+			else if(args[i].toLowerCase().equals("-snippet")){
+
+				try {
+					this.snipVal = Integer.parseInt(args[i+1]);
+					if(snipVal < 1) {
+						System.out.println("Snippet value needs to be greater than 0");
+						System.out.println("Remove -Snippet flag to not use it. Skipping Snippet");
+					}
+					else {
+						this.snip = true;
+					}
+				} catch (NumberFormatException ex) {
+					System.out.println("("+args[i+1]+") Not an integer value. Skipping Snippet");
+					this.snip = false;
+				}
+			}
+			else if (args[i].toLowerCase().equals("-stemmed")) {
+				this.stemmed = true;
+				incrementOnce = true;
+			}
+			else {
+				if(!failed)
+					System.out.println("Argument: "+args[i]+" not valid. Skipping");
+			}
+
+			if(incrementOnce) 
+				i++;
+			else
+				i = i+2;
+
+			incrementOnce = false;
 		}
 		if (failed) System.exit(2);
 	}
 
 
 	// verify if all required items are available
-	private boolean verifyRequired() {
-		if(corpusDirArg == false || invertedIndexArg == false ||
-			stopListArg == false || queryArg == false || resultsArg == false) {
-
-			return false;
+	private void verifyRequired() {
+		if(corpusDirArg == false || stopListArg == false || queryArg == false || resultsArg == false) {
+			System.out.println("Minumum required arguments not satisfied");
+			System.out.println("Needed: Corpus Directory, Stop Word List, Query File, Result File");
+			System.exit(6);
 		}
-		else return true;
 	}
 
 	// restore member hastables objects using Deserialization
@@ -499,17 +615,19 @@ public class Engine {
 			FileInputStream file2 = new FileInputStream(st+"invWordIndexP.obj");
 			FileInputStream file3 = new FileInputStream(st+"invDocIndex.obj");
 			FileInputStream file4 = new FileInputStream(st+"invDocIndexP.obj");
+			FileInputStream file5 = new FileInputStream(st+"stopWords.obj");
 
 			ObjectInputStream out1 = new ObjectInputStream(file1);
 			ObjectInputStream out2 = new ObjectInputStream(file2);
 			ObjectInputStream out3 = new ObjectInputStream(file3);
 			ObjectInputStream out4 = new ObjectInputStream(file4);
+			ObjectInputStream out5 = new ObjectInputStream(file5);
 			
 			// using threads to make things faster
 			Thread t1 = new Thread(){
 				public void run(){
 					try {
-						System.out.println("Restoring: Inverted Word Index");
+						// System.out.println("Restoring: Inverted Word Index");
 						invWordIndex = (Hashtable) out1.readObject();
 					}
 					catch (Exception ex) {
@@ -521,7 +639,7 @@ public class Engine {
 			Thread t2 = new Thread(){
 				public void run(){
 					try {
-						System.out.println("Restoring: Stemmed Inverted Word Index");
+						// System.out.println("Restoring: Stemmed Inverted Word Index");
 						invWordIndexP = (Hashtable) out2.readObject();
 					}
 					catch (Exception ex) {
@@ -533,7 +651,7 @@ public class Engine {
 			Thread t3 = new Thread(){
 				public void run(){
 					try {
-						System.out.println("Restoring: Inverted Document Index");
+						// System.out.println("Restoring: Inverted Document Index");
 						invDocIndex = (Hashtable) out3.readObject();
 					}
 					catch (Exception ex) {
@@ -545,7 +663,7 @@ public class Engine {
 			Thread t4 = new Thread(){
 				public void run(){
 					try {
-						System.out.println("Restoring: Stemmed Inverted Document Index");
+						// System.out.println("Restoring: Stemmed Inverted Document Index");
 						invDocIndexP = (Hashtable) out4.readObject();
 					}
 					catch (Exception ex) {
@@ -554,8 +672,37 @@ public class Engine {
 				}
 			};
 
-			t1.start(); t2.start(); t3.start(); t4.start();	// starts all threads at onece
-			t1.join(); t2.join(); t3.join(); t4.join();	// waits HERE for all of them to finish
+			Thread t5 = new Thread(){
+				public void run(){
+					try {
+						// System.out.println("Restoring: Stop Words");
+						stopWords = (Hashtable) out5.readObject();
+					}
+					catch (Exception ex) {
+						ex.printStackTrace();
+					}
+				}
+			};
+
+			System.out.println("Restoring Corpus");
+			t1.start(); t2.start(); t3.start(); t4.start(); t5.start();	// starts all threads at onece
+
+			// restore corpus path while waiting
+			FileInputStream cd = new FileInputStream(st+"corpusDir.obj");
+			ObjectInputStream cdIn = new ObjectInputStream(cd);
+			try {
+				corpusDirPath = (String) cdIn.readObject();
+			}
+			catch (ClassNotFoundException ex) {
+				ex.printStackTrace();
+			}
+			cdIn.close(); cd.close();
+
+			t1.join(); t2.join(); t3.join(); t4.join(); t5.join();	// waits HERE for all of them to finish
+			System.out.println("Done Restoring");
+
+			out1.close(); out2.close(); out3.close(); out4.close(); out5.close();
+			file1.close(); file2.close(); file3.close(); file4.close(); file5.close();
 
 		}
 		catch (IOException ex) {
@@ -576,16 +723,18 @@ public class Engine {
 			FileOutputStream file2 = new FileOutputStream(st+"invWordIndexP.obj");
 			FileOutputStream file3 = new FileOutputStream(st+"invDocIndex.obj");
 			FileOutputStream file4 = new FileOutputStream(st+"invDocIndexP.obj");
+			FileOutputStream file5 = new FileOutputStream(st+"stopWords.obj");
 
 			ObjectOutputStream out1 = new ObjectOutputStream(file1);
 			ObjectOutputStream out2 = new ObjectOutputStream(file2);
 			ObjectOutputStream out3 = new ObjectOutputStream(file3);
 			ObjectOutputStream out4 = new ObjectOutputStream(file4);
+			ObjectOutputStream out5 = new ObjectOutputStream(file5);
 			
 			Thread t1 = new Thread(){
 				public void run(){
 					try {
-						System.out.println("Writing: 1");
+						// System.out.println("Backing Up: invWordIndex");
 						out1.writeObject(invWordIndex);
 					}
 					catch (IOException ex) {
@@ -597,7 +746,7 @@ public class Engine {
 			Thread t2 = new Thread(){
 				public void run(){
 					try {
-						System.out.println("Writing: 2");
+						// System.out.println("Backing Up: invWordIndexP");
 						out2.writeObject(invWordIndexP);
 					}
 					catch (IOException ex) {
@@ -609,7 +758,7 @@ public class Engine {
 			Thread t3 = new Thread(){
 				public void run(){
 					try {
-						System.out.println("Writing: 3");
+						// System.out.println("Backing Up: invDocIndex");
 						out3.writeObject(invDocIndex);
 					}
 					catch (IOException ex) {
@@ -621,7 +770,7 @@ public class Engine {
 			Thread t4 = new Thread(){
 				public void run(){
 					try {
-						System.out.println("Writing: 4");
+						// System.out.println("Backing Up: invDocIndexP");
 						out4.writeObject(invDocIndexP);
 					}
 					catch (IOException ex) {
@@ -630,11 +779,78 @@ public class Engine {
 				}
 			};
 
-			t1.start(); t2.start(); t3.start(); t4.start();	// starts all threads at once
-			t1.join(); t2.join(); t3.join(); t4.join();	// waits HERE for all threads to finish
+			Thread t5 = new Thread(){
+				public void run(){
+					try {
+						// System.out.println("Backing Up: stopWords");
+						out5.writeObject(stopWords);
+					}
+					catch (IOException ex) {
+						ex.printStackTrace();
+					}
+				}
+			};
+
+			System.out.println("Backing Up Corpus");
+			t1.start(); t2.start(); t3.start(); t4.start(); t5.start();	// starts all threads at once
+
+			// backUp corpus path while waiting
+			FileOutputStream cd = new FileOutputStream(st+"corpusDir.obj");
+			ObjectOutputStream cdOut = new ObjectOutputStream(cd);
+			try {
+				cdOut.writeObject(corpusDirPath);
+			}
+			catch (IOException ex) {
+				ex.printStackTrace();
+			}
+			cdOut.close(); cd.close();
+
+			// waits HERE for all threads to finish
+			t1.join(); t2.join(); t3.join(); t4.join(); t5.join();
+			System.out.println("Done Backing Up");
+
+			out1.close(); out2.close(); out3.close(); out4.close(); out5.close();
+			file1.close(); file2.close(); file3.close(); file4.close(); file5.close();
 		}
 		catch (IOException ex) {
 			ex.printStackTrace();
 		}
+	}
+
+	public String getSnip(String fileName, int searchIndex) {
+
+		CircularQueue<String> fifo = new CircularQueue<String>((snipVal*2)+1);	// this is the magic trick
+
+		try {
+			File file = new File(corpusDirPath+"/"+fileName);
+			Scanner sc = new Scanner(file);
+			boolean found = false;
+			boolean exit = false;
+			int index = 0;
+			int snip = snipVal;
+
+			while(sc.hasNextLine()) {
+				String[] st = sc.nextLine().split(" ");	// use then same split your using in buinding corpus
+				for(int i=0; i<st.length; i++) {
+					index++;
+					fifo.add(st[i]);
+					if(!found && index == searchIndex)
+						found = true;
+					if(found)
+						snip--;
+					if(snip == -1)
+						exit = true;
+					if(exit)
+						break;
+				}
+				if(exit)
+					break;
+			}
+			sc.close();
+		} catch (FileNotFoundException ex) {
+			ex.printStackTrace();
+		}
+		
+		return fifo.getString();
 	}
 }
