@@ -490,6 +490,7 @@ public class Engine {
 		else return true;
 	}
 
+	// restore member hastables objects using Deserialization
 	private void restore() throws InterruptedException{
 		try {
 			String st = "PersistantData/";
@@ -504,10 +505,11 @@ public class Engine {
 			ObjectInputStream out3 = new ObjectInputStream(file3);
 			ObjectInputStream out4 = new ObjectInputStream(file4);
 			
+			// using threads to make things faster
 			Thread t1 = new Thread(){
 				public void run(){
 					try {
-						System.out.println("Restoring: 1");
+						System.out.println("Restoring: Inverted Word Index");
 						invWordIndex = (Hashtable) out1.readObject();
 					}
 					catch (Exception ex) {
@@ -519,7 +521,7 @@ public class Engine {
 			Thread t2 = new Thread(){
 				public void run(){
 					try {
-						System.out.println("Restoring: 2");
+						System.out.println("Restoring: Stemmed Inverted Word Index");
 						invWordIndexP = (Hashtable) out2.readObject();
 					}
 					catch (Exception ex) {
@@ -531,7 +533,7 @@ public class Engine {
 			Thread t3 = new Thread(){
 				public void run(){
 					try {
-						System.out.println("Restoring: 3");
+						System.out.println("Restoring: Inverted Document Index");
 						invDocIndex = (Hashtable) out3.readObject();
 					}
 					catch (Exception ex) {
@@ -543,7 +545,7 @@ public class Engine {
 			Thread t4 = new Thread(){
 				public void run(){
 					try {
-						System.out.println("Restoring: 4");
+						System.out.println("Restoring: Stemmed Inverted Document Index");
 						invDocIndexP = (Hashtable) out4.readObject();
 					}
 					catch (Exception ex) {
@@ -552,20 +554,16 @@ public class Engine {
 				}
 			};
 
-			t1.start(); t2.start(); t3.start(); t4.start();
-			t1.join(); t2.join(); t3.join(); t4.join();
+			t1.start(); t2.start(); t3.start(); t4.start();	// starts all threads at onece
+			t1.join(); t2.join(); t3.join(); t4.join();	// waits HERE for all of them to finish
 
-			// while(!t1.isAlive() && !t2.isAlive() && !t3.isAlive() && !t4.isAlive()) {
-			// 	out1.close(); out2.close(); out3.close(); out4.close();
-			// 	file1.close(); file2.close(); file3.close(); file4.close();
-			// 	break;
-			// }
 		}
 		catch (IOException ex) {
 			ex.printStackTrace();
 		}
 	}
 
+	// backing up Hastables using Serialization
 	private void backUp() throws InterruptedException {
 
 		try {
@@ -632,14 +630,8 @@ public class Engine {
 				}
 			};
 
-			t1.start(); t2.start(); t3.start(); t4.start();
-			t1.join(); t2.join(); t3.join(); t4.join();
-
-			// while(!t1.isAlive() && !t2.isAlive() && !t3.isAlive() && !t4.isAlive()) {
-			// 	out1.close(); out2.close(); out3.close(); out4.close();
-			// 	file1.close(); file2.close(); file3.close(); file4.close();
-			// 	break;
-			// }
+			t1.start(); t2.start(); t3.start(); t4.start();	// starts all threads at once
+			t1.join(); t2.join(); t3.join(); t4.join();	// waits HERE for all threads to finish
 		}
 		catch (IOException ex) {
 			ex.printStackTrace();
