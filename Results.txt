@@ -1,109 +1,109 @@
 ============================================================
 1) Query Term: food (Stemmed); Original: food
 
-	In Doc: Attractions-g60763-Activities-c57-New_York_City_New_York.html?mcid=63709		[Count: 6] Snippet: ' a variety of good exotic food & superb views of the  '
+	In Doc: Bernie_Sanders.2	[Count: 2] Snippet: ' the family never lacked for food or clothing, but major purchases,  '
 
-	In Doc: Bernie-Sanders		[Count: 1] Snippet: ' History, Science, and Lore of Food </em>and others.<em></em></div> 		</div>  	  '
+	In Doc: index.html.14	[Count: 3] Snippet: ' is the Chelsea Market, a food hall located inside the former  '
 
-	In Doc: index.html.9		[Count: 2] Snippet: ' fabulous West African and soul food restaurants, a dynamic local jazz  '
+	In Doc: index.html.13	[Count: 18] Snippet: ' taste of New York's unique food scene with Food On Foot  '
 
-	In Doc: Attraction_Review-g60763-d102741-Reviews-Brooklyn_Bridge-New_York_City_New_York.html?mcid=63709		[Count: 10] Snippet: ' Line Downtown</a></li><li class="subItemDust"><a href="/Attraction_Review-g60827-d4026493-Reviews-Ray_s_Food_and_Walking_Tours-Brooklyn_New_York.html" class="subLink">Ray's Food and Walking Tours</a></li></ul></ul></li><li class="expandSubItemDust secondLevelSubNav"><span  '
+	In Doc: Bernie_Sanders.1	[Count: 2] Snippet: ' the family never lacked for food or clothing, but major purchases,  '
 
-	In Doc: Attractions-g60763-Activities-zft11306-New_York_City_New_York.html?mcid=63709		[Count: 8] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+	In Doc: london-eng-l-lon.htm	[Count: 1] Snippet: ' the month, popular for their food and drink experiences, along with  '
 
-	In Doc: index.html.8		[Count: 3] Snippet: ' is the Chelsea Market, a food hall located inside the former  '
+	In Doc: best-things-to-do-in-new-york	[Count: 2] Snippet: ' definitely be impressed by the food and drinks—Totonno&#x27;s Pizza, Gargiulo&#x27;s and  '
 
-	In Doc: index.html.7		[Count: 3] Snippet: ' is the Chelsea Market, a food hall located inside the former  '
+	In Doc: new-york-tourist-attractions-tips	[Count: 32] Snippet: ' to Eataly</a>, Mario Batali&#x2019;s Italian food emporium that&#x2019;s pretty much synonymous  '
 
-	In Doc: Bernie_Sanders.2		[Count: 2] Snippet: ' the family never lacked for food or clothing, but major purchases,  '
+	In Doc: San_Francisco	[Count: 1] Snippet: ' cs1">Rababy, Michael (2018). <i>Folsom Street Food Court</i>. 1133 Venice Boulevard Los  '
 
-	In Doc: Bernie_Sanders.1		[Count: 2] Snippet: ' the family never lacked for food or clothing, but major purchases,  '
+	In Doc: Attraction_Review-g60763-d104365-Reviews-Empire_State_Building-New_York_City_New_York.html?mcid=63709	[Count: 4] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
 
-	In Doc: Larry_Sanders_(politician)		[Count: 1] Snippet: ' child, his family never lacked food or clothing, but major purchases  '
+	In Doc: Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html?mcid=63709.2	[Count: 10] Snippet: ' class="subLink">Delacorte Theater</a></li><li class="subItemDust"><a href="/Attraction_Review-g60763-d8499606-Reviews-In_Food_We_Trust_Culinary_Tours-New_York_City_New_York.html" class="subLink">In Food We Trust Culinary Tours</a></li><li class="subItemDust"><a  '
 
-	In Doc: Attraction_Review-g60763-d587661-Reviews-Top_of_the_Rock-New_York_City_New_York.html?mcid=63709		[Count: 1] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+	In Doc: Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html?mcid=63709.1	[Count: 10] Snippet: ' class="subLink">Delacorte Theater</a></li><li class="subItemDust"><a href="/Attraction_Review-g60763-d8499606-Reviews-In_Food_We_Trust_Culinary_Tours-New_York_City_New_York.html" class="subLink">In Food We Trust Culinary Tours</a></li><li class="subItemDust"><a  '
 
-	In Doc: Attraction_Review-g60763-d105125-Reviews-The_Metropolitan_Museum_of_Art-New_York_City_New_York.html?mcid=63709		[Count: 2] Snippet: ' Minds Tours</a></li><li class="subItemDust"><a href="/Attraction_Review-g60763-d8499606-Reviews-In_Food_We_Trust_Culinary_Tours-New_York_City_New_York.html" class="subLink">In Food We Trust Culinary Tours</a></li><li class="subItemDust"><a  '
+	In Doc: Attractions-g186338-Activities-London_England.html	[Count: 3] Snippet: ' Classes in London</a><a href="/Attractions-g186338-Activities-c36-t262-London_England.html" class="_3dzhM29n">Other Food &amp; Drink in London</a></div><div class="UsrtonZ6"><a  '
 
-	In Doc: 11084145-steve-jobs		[Count: 1] Snippet: ' />Yet he defined petulance. His food had to be just so.  '
+	In Doc: Attractions-g60763-Activities-New_York_City_New_York.html	[Count: 4] Snippet: ' New York City</a><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="_3dzhM29n">Other Food &amp; Drink in New York  '
 
-	In Doc: Attraction_Review-g60763-d519474-Reviews-The_High_Line-New_York_City_New_York.html?mcid=63709		[Count: 23] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+	In Doc: Attraction_Review-g60763-d105125-Reviews-The_Metropolitan_Museum_of_Art-New_York_City_New_York.html?mcid=63709	[Count: 2] Snippet: ' Minds Tours</a></li><li class="subItemDust"><a href="/Attraction_Review-g60763-d8499606-Reviews-In_Food_We_Trust_Culinary_Tours-New_York_City_New_York.html" class="subLink">In Food We Trust Culinary Tours</a></li><li class="subItemDust"><a  '
 
-	In Doc: new-york-attractions		[Count: 10] Snippet: ' city, including great&nbsp;parks, art museums, food markets and historical venues. Landmarks  '
+	In Doc: bernie-sanders-vermont-119927	[Count: 2] Snippet: ' Taxes and registering people for food stamps for a nonprofit called  '
 
-	In Doc: Attraction_Review-g60763-d587661-Reviews-Top_of_the_Rock-New_York_City_New_York.html?mcid=63709.1		[Count: 1] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+	In Doc: Attraction_Review-g60763-d102741-Reviews-Brooklyn_Bridge-New_York_City_New_York.html?mcid=63709	[Count: 10] Snippet: ' Line Downtown</a></li><li class="subItemDust"><a href="/Attraction_Review-g60827-d4026493-Reviews-Ray_s_Food_and_Walking_Tours-Brooklyn_New_York.html" class="subLink">Ray's Food and Walking Tours</a></li></ul></ul></li><li class="expandSubItemDust secondLevelSubNav"><span  '
 
-	In Doc: Attraction_Review-g60763-d136053-Reviews-St_Patrick_s_Cathedral-New_York_City_New_York.html?mcid=63709		[Count: 7] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+	In Doc: Steve_Jobs	[Count: 1] Snippet: ' rooms, returned Coke bottles for food money, and got weekly free  '
 
-	In Doc: Larry_Sanders_(politician).1		[Count: 1] Snippet: ' child, his family never lacked food or clothing, but major purchases  '
+	In Doc: Attraction_Review-g60763-d267031-Reviews-Manhattan_Skyline-New_York_City_New_York.html?mcid=63709	[Count: 4] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
 
-	In Doc: Attractions-g60763-Activities-New_York_City_New_York.html?mcid=63709		[Count: 4] Snippet: ' New York City</a><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="_3dzhM29n">Other Food &amp; Drink in New York  '
+	In Doc: Attractions-g60763-Activities-c57-New_York_City_New_York.html?mcid=63709	[Count: 6] Snippet: ' a variety of good exotic food & superb views of the  '
 
-	In Doc: index.html.20		[Count: 3] Snippet: ' Shutterstock</span></span><div class="card-content"><h2>34. Borough Market</h2></p><p>A popular food market has existed on <strong><a  '
+	In Doc: 11084145-steve-jobs	[Count: 1] Snippet: ' />Yet he defined petulance. His food had to be just so.  '
 
-	In Doc: top-london-attractions		[Count: 2] Snippet: '      Food &amp; Drink     '
+	In Doc: Bernie_Sanders_2016_presidential_campaign	[Count: 3] Snippet: ' a "<a href="/wiki/Fast_food_worker_strikes" class="mw-redirect" title="Fast food worker strikes">Fight for $15</a>" rally  '
 
-	In Doc: bernie-sanders-vermont-119927		[Count: 2] Snippet: ' Taxes and registering people for food stamps for a nonprofit called  '
+	In Doc: Attraction_Review-g60763-d136053-Reviews-St_Patrick_s_Cathedral-New_York_City_New_York.html?mcid=63709	[Count: 7] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
 
-	In Doc: 069116472X		[Count: 1] Snippet: ' 4%"></td> <td class="navFooterDescItem"><a href='https://www.wholefoodsmarket.com' class='nav_a'>Whole Foods Market<br/> <span class="navFooterDescText">America’s Healthiest<br/> Grocery  '
+	In Doc: Attraction_Review-g60763-d587661-Reviews-Top_of_the_Rock-New_York_City_New_York.html?mcid=63709.1	[Count: 1] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
 
-	In Doc: Attraction_Review-g60763-d1687489-Reviews-The_National_9_11_Memorial_Museum-New_York_City_New_York.html?mcid=63709		[Count: 4] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+	In Doc: bill-gates.html	[Count: 1] Snippet: ' care of in terms of food and clothes,” he says, redundantly.  '
 
-	In Doc: Attraction_Review-g60763-d10535579-Reviews-World_Trade_Center_s_Liberty_Park-New_York_City_New_York.html?mcid=63709		[Count: 1] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+	In Doc: index.html.9	[Count: 2] Snippet: ' fabulous West African and soul food restaurants, a dynamic local jazz  '
 
-	In Doc: Cyanide_poisoning		[Count: 3] Snippet: ' roots, which are a primary food source in tropical Africa) results  '
+	In Doc: index.html.8	[Count: 3] Snippet: ' is the Chelsea Market, a food hall located inside the former  '
 
-	In Doc: Bernie_Sanders		[Count: 2] Snippet: ' the family never lacked for food or clothing, but major purchases,  '
+	In Doc: index.html.7	[Count: 3] Snippet: ' is the Chelsea Market, a food hall located inside the former  '
 
-	In Doc: Attraction_Review-g60763-d136347-Reviews-Bryant_Park-New_York_City_New_York.html?mcid=63709		[Count: 16] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+	In Doc: Attraction_Review-g60763-d136347-Reviews-Bryant_Park-New_York_City_New_York.html?mcid=63709	[Count: 16] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
 
-	In Doc: Bernie_Sanders_2016_presidential_campaign		[Count: 3] Snippet: ' a "<a href="/wiki/Fast_food_worker_strikes" class="mw-redirect" title="Fast food worker strikes">Fight for $15</a>" rally  '
+	In Doc: Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html?mcid=63709	[Count: 10] Snippet: ' class="subLink">Delacorte Theater</a></li><li class="subItemDust"><a href="/Attraction_Review-g60763-d8499606-Reviews-In_Food_We_Trust_Culinary_Tours-New_York_City_New_York.html" class="subLink">In Food We Trust Culinary Tours</a></li><li class="subItemDust"><a  '
 
-	In Doc: Attractions-g60763-Activities-New_York_City_New_York.html		[Count: 4] Snippet: ' New York City</a><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="_3dzhM29n">Other Food &amp; Drink in New York  '
+	In Doc: Attraction_Review-g60763-d519474-Reviews-The_High_Line-New_York_City_New_York.html?mcid=63709	[Count: 23] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
 
-	In Doc: london-eng-l-lon.htm		[Count: 1] Snippet: ' the month, popular for their food and drink experiences, along with  '
+	In Doc: Attraction_Review-g60763-d555629-Reviews-Central_Park_Summerstage-New_York_City_New_York.html?mcid=63709	[Count: 7] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
 
-	In Doc: index.html.19		[Count: 13] Snippet: ' he's turned his passion into food tours, so Eating Europe guests  '
+	In Doc: Cyanide_poisoning	[Count: 3] Snippet: ' roots, which are a primary food source in tropical Africa) results  '
 
-	In Doc: index.html.18		[Count: 4] Snippet: ' the animals’ behaviour. The World Food Market ensures guests are well  '
+	In Doc: top-london-attractions	[Count: 2] Snippet: '      Food &amp; Drink     '
 
-	In Doc: index.html.17		[Count: 4] Snippet: ' by: AndreySt/bigstock.com</figcaption></figure> <p style="text-align: justify;">The food in London is as diverse  '
+	In Doc: Larry_Sanders_(politician)	[Count: 1] Snippet: ' child, his family never lacked food or clothing, but major purchases  '
 
-	In Doc: london-attractions-map		[Count: 1] Snippet: ' brands, souvenirs and its huge food hall.      '
+	In Doc: Attraction_Review-g60763-d1687489-Reviews-The_National_9_11_Memorial_Museum-New_York_City_New_York.html?mcid=63709	[Count: 4] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
 
-	In Doc: Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html?mcid=63709		[Count: 10] Snippet: ' class="subLink">Delacorte Theater</a></li><li class="subItemDust"><a href="/Attraction_Review-g60763-d8499606-Reviews-In_Food_We_Trust_Culinary_Tours-New_York_City_New_York.html" class="subLink">In Food We Trust Culinary Tours</a></li><li class="subItemDust"><a  '
+	In Doc: Attraction_Review-g60763-d10535579-Reviews-World_Trade_Center_s_Liberty_Park-New_York_City_New_York.html?mcid=63709	[Count: 1] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
 
-	In Doc: index.html.14		[Count: 3] Snippet: ' is the Chelsea Market, a food hall located inside the former  '
+	In Doc: index.html.20	[Count: 3] Snippet: ' Shutterstock</span></span><div class="card-content"><h2>34. Borough Market</h2></p><p>A popular food market has existed on <strong><a  '
 
-	In Doc: index.html.13		[Count: 18] Snippet: ' taste of New York's unique food scene with Food On Foot  '
+	In Doc: new-york-attractions	[Count: 10] Snippet: ' city, including great&nbsp;parks, art museums, food markets and historical venues. Landmarks  '
 
-	In Doc: Attraction_Review-g60763-d555629-Reviews-Central_Park_Summerstage-New_York_City_New_York.html?mcid=63709		[Count: 7] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+	In Doc: Bernie_Sanders	[Count: 2] Snippet: ' the family never lacked for food or clothing, but major purchases,  '
 
-	In Doc: new-york-tourist-attractions-tips		[Count: 32] Snippet: ' to Eataly</a>, Mario Batali&#x2019;s Italian food emporium that&#x2019;s pretty much synonymous  '
+	In Doc: london-eng-l-lon.htm.2	[Count: 1] Snippet: ' the month, popular for their food and drink experiences, along with  '
 
-	In Doc: Attraction_Review-g60763-d267031-Reviews-Manhattan_Skyline-New_York_City_New_York.html?mcid=63709		[Count: 4] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+	In Doc: Attractions-g60763-Activities-New_York_City_New_York.html?mcid=63709	[Count: 4] Snippet: ' New York City</a><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="_3dzhM29n">Other Food &amp; Drink in New York  '
 
-	In Doc: Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html?mcid=63709.2		[Count: 10] Snippet: ' class="subLink">Delacorte Theater</a></li><li class="subItemDust"><a href="/Attraction_Review-g60763-d8499606-Reviews-In_Food_We_Trust_Culinary_Tours-New_York_City_New_York.html" class="subLink">In Food We Trust Culinary Tours</a></li><li class="subItemDust"><a  '
+	In Doc: 069116472X	[Count: 1] Snippet: ' 4%"></td> <td class="navFooterDescItem"><a href='https://www.wholefoodsmarket.com' class='nav_a'>Whole Foods Market<br/> <span class="navFooterDescText">America’s Healthiest<br/> Grocery  '
 
-	In Doc: Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html?mcid=63709.1		[Count: 10] Snippet: ' class="subLink">Delacorte Theater</a></li><li class="subItemDust"><a href="/Attraction_Review-g60763-d8499606-Reviews-In_Food_We_Trust_Culinary_Tours-New_York_City_New_York.html" class="subLink">In Food We Trust Culinary Tours</a></li><li class="subItemDust"><a  '
+	In Doc: london-eng-l-lon.htm.1	[Count: 1] Snippet: ' the month, popular for their food and drink experiences, along with  '
 
-	In Doc: bill-gates.html		[Count: 1] Snippet: ' care of in terms of food and clothes,” he says, redundantly.  '
+	In Doc: Attraction_Review-g60763-d587661-Reviews-Top_of_the_Rock-New_York_City_New_York.html?mcid=63709	[Count: 1] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
 
-	In Doc: San_Francisco		[Count: 1] Snippet: ' cs1">Rababy, Michael (2018). <i>Folsom Street Food Court</i>. 1133 Venice Boulevard Los  '
+	In Doc: Bernie-Sanders	[Count: 1] Snippet: ' History, Science, and Lore of Food </em>and others.<em></em></div> 		</div>  	  '
 
-	In Doc: Attractions-g186338-Activities-London_England.html		[Count: 3] Snippet: ' Classes in London</a><a href="/Attractions-g186338-Activities-c36-t262-London_England.html" class="_3dzhM29n">Other Food &amp; Drink in London</a></div><div class="UsrtonZ6"><a  '
+	In Doc: Attractions-g60763-Activities-zft11306-New_York_City_New_York.html?mcid=63709	[Count: 8] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
 
-	In Doc: Attraction_Review-g60763-d104365-Reviews-Empire_State_Building-New_York_City_New_York.html?mcid=63709		[Count: 4] Snippet: ' York City</a></li><li class="subItemDust"><a href="/Attractions-g60763-Activities-c36-t262-New_York_City_New_York.html" class="subLink">Other Food &amp; Drink in New York  '
+	In Doc: london-attractions-map	[Count: 1] Snippet: ' brands, souvenirs and its huge food hall.      '
 
-	In Doc: Steve_Jobs.2		[Count: 1] Snippet: ' rooms, returned Coke bottles for food money, and got weekly free  '
+	In Doc: Steve_Jobs.2	[Count: 1] Snippet: ' rooms, returned Coke bottles for food money, and got weekly free  '
 
-	In Doc: best-things-to-do-in-new-york		[Count: 2] Snippet: ' definitely be impressed by the food and drinks—Totonno&#x27;s Pizza, Gargiulo&#x27;s and  '
+	In Doc: Steve_Jobs.1	[Count: 1] Snippet: ' rooms, returned Coke bottles for food money, and got weekly free  '
 
-	In Doc: Steve_Jobs.1		[Count: 1] Snippet: ' rooms, returned Coke bottles for food money, and got weekly free  '
+	In Doc: index.html.19	[Count: 13] Snippet: ' he's turned his passion into food tours, so Eating Europe guests  '
 
-	In Doc: london-eng-l-lon.htm.2		[Count: 1] Snippet: ' the month, popular for their food and drink experiences, along with  '
+	In Doc: Larry_Sanders_(politician).1	[Count: 1] Snippet: ' child, his family never lacked food or clothing, but major purchases  '
 
-	In Doc: london-eng-l-lon.htm.1		[Count: 1] Snippet: ' the month, popular for their food and drink experiences, along with  '
+	In Doc: index.html.18	[Count: 4] Snippet: ' the animals’ behaviour. The World Food Market ensures guests are well  '
 
-	In Doc: Steve_Jobs		[Count: 1] Snippet: ' rooms, returned Coke bottles for food money, and got weekly free  '
+	In Doc: index.html.17	[Count: 4] Snippet: ' by: AndreySt/bigstock.com</figcaption></figure> <p style="text-align: justify;">The food in London is as diverse  '
 

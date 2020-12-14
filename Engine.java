@@ -29,6 +29,7 @@ public class Engine {
 	int snipVal = 0;
 
 	boolean stemmed = false;
+	boolean gui = false;
 
 	// data structures to keep record of corpus etc
 	Hashtable<String, String> stopWords;
@@ -87,6 +88,8 @@ public class Engine {
 	private void compileCorpus() {
 
 		if(corpusDirArg) {
+
+			System.out.println("Compiling Corpus");
 
 			File cDir = new File(corpusDirPath);
 			File[] file = cDir.listFiles();	// list of all html files
@@ -288,17 +291,17 @@ public class Engine {
 			}
 		}
 		else {
-			System.out.println("Corpur Directory Not Provided");
+			System.out.println("Corpus Directory Not Provided");
 			System.exit(9);
 		}	
 	}
 
 	// read query and output in result file
-	public void readQueryFile() {
+	public String readQueryFile() {
 
-		if(queryArg && resultsArg) {
+		StringBuilder st = new StringBuilder();
 
-			StringBuilder st = new StringBuilder();
+		if(queryArg) {
 
 			try {
 
@@ -378,7 +381,7 @@ public class Engine {
 											stt += this.getSnip(doc, invDocIndex.get(doc).get(q2).get(1));
 									}
 									
-									st.append(("\tIn Doc: "+doc+"\t\t[Count: "+result.get(doc)+"]"+stt+" '\n\n"));
+									st.append(("\tIn Doc: "+doc+"\t[Count: "+result.get(doc)+"]"+stt+" '\n\n"));
 								}
 							}
 						}
@@ -415,7 +418,7 @@ public class Engine {
 
 										ArrayList<Integer> list = words.get(q2);
 
-										st.append(("\tDoc: "+docs+"\t\t[Count: "+list.get(0)+"]"+"\tOccurrence Index: "));
+										st.append(("\tDoc: "+docs+"\t[Count: "+list.get(0)+"]"+"\tOccurrence Index: "));
 
 										for(int x=1; x<list.size(); x++) {
 
@@ -431,14 +434,16 @@ public class Engine {
 
 				reader.close();
 
-				try {
+				if(resultsArg) {
+					try {
 
-					FileWriter writer = new FileWriter(resultsArgPath);
-					writer.write(st.toString());
-					writer.close();
+						FileWriter writer = new FileWriter(resultsArgPath);
+						writer.write(st.toString());
+						writer.close();
 
-				} catch (IOException e) {
-					e.printStackTrace();
+					} catch (IOException e) {
+						e.printStackTrace();
+					}
 				}
 
 
@@ -451,6 +456,11 @@ public class Engine {
 			System.out.println("Query file not provided");
 			System.exit(3);
 		}
+
+		if(gui)
+			return st.toString();
+		else
+			return "Results created in: "+resultsArgPath;
 	}
 
 
@@ -489,6 +499,10 @@ public class Engine {
 
 		while(i < args.length) {
 			if(args[i].toLowerCase().equals("-corpusdir")) {
+				if(i+1 == args.length) {
+					System.out.println("No argument provided for: "+args[i]);
+					System.exit(2);
+				}
 				if(args[i+1].charAt(0) == '-') {
 					System.out.println("Invalid Argument: "+args[i+1]+" for Flag: "+args[i]);
 					failed = true;
@@ -504,6 +518,10 @@ public class Engine {
 				}
 			}
 			else if (args[i].toLowerCase().equals("-invertedIndex")) {
+				if(i+1 == args.length) {
+					System.out.println("No argument provided for: "+args[i]);
+					System.exit(2);
+				}
 				if(args[i+1].charAt(0) == '-') {
 					System.out.println("Invalid Argument: "+args[i+1]+" for Flag: "+args[i]);
 					failed = true;
@@ -512,6 +530,10 @@ public class Engine {
 				this.invertedIndexPath = args[i+1];
 			}
 			else if (args[i].toLowerCase().equals("-stoplist")) {
+				if(i+1 == args.length) {
+					System.out.println("No argument provided for: "+args[i]);
+					System.exit(2);
+				}
 				if(args[i+1].charAt(0) == '-') {
 					System.out.println("Invalid Argument: "+args[i+1]+" for Flag: "+args[i]);
 					failed = true;
@@ -527,6 +549,10 @@ public class Engine {
 				}
 			}
 			else if (args[i].toLowerCase().equals("-queries")) {
+				if(i+1 == args.length) {
+					System.out.println("No argument provided for: "+args[i]);
+					System.exit(2);
+				}
 				if(args[i+1].charAt(0) == '-') {
 					System.out.println("Invalid Argument: "+args[i+1]+" for Flag: "+args[i]);
 					failed = true;
@@ -542,26 +568,29 @@ public class Engine {
 				}
 			}
 			else if (args[i].toLowerCase().equals("-results")) {
-				if(args[i+1].charAt(0) == '-') {
-					System.out.println("Invalid Argument: "+args[i+1]+" for Flag: "+args[i]);
-					failed = true;
-				}
-				File tempFile = new File(args[i+1]);
-				if(tempFile.exists()) {
-					this.resultsArg = true;
-					this.resultsArgPath = args[i+1];
+				this.resultsArg = true;
+				if(i+1 == args.length) {
+					System.out.println("No argument provided for: "+args[i]);
+					System.out.println("Using default: Results.txt");
+					this.resultsArgPath = "Results.txt";
 				}
 				else {
-					try {
-						tempFile.createNewFile();
-						this.resultsArg = true;
-						this.resultsArgPath = args[i+1];
-					} catch (IOException e) {
-						e.printStackTrace();
+					if(args[i+1].charAt(0) == '-') {
+						System.out.println("No argument provided for: "+args[i]);
+						System.out.println("Using default: Results.txt");
+						this.resultsArgPath = "Results.txt";
+						incrementOnce = true;
 					}
+					else
+						this.resultsArgPath = args[i+1];
 				}
 			}
 			else if(args[i].toLowerCase().equals("-snippet")){
+
+				if(i+1 == args.length) {
+					System.out.println("No argument provided for: "+args[i]);
+					System.exit(2);
+				}
 
 				try {
 					this.snipVal = Integer.parseInt(args[i+1]);
@@ -581,11 +610,14 @@ public class Engine {
 				this.stemmed = true;
 				incrementOnce = true;
 			}
+			else if(args[i].toLowerCase().equals("-gui")) {
+				this.gui = true;
+				incrementOnce = true;
+			}
 			else {
 				if(!failed)
 					System.out.println("Argument: "+args[i]+" not valid. Skipping");
 			}
-
 			if(incrementOnce) 
 				i++;
 			else
@@ -594,14 +626,20 @@ public class Engine {
 			incrementOnce = false;
 		}
 		if (failed) System.exit(2);
+		if(!resultsArg && !gui) {
+			System.out.println("No output method provided. (GUI or TextFile)");
+			System.out.println("Using TextFile as default to: Results.txt");
+			this.resultsArg = true;
+			this.resultsArgPath = "Results.txt";
+		}
 	}
 
 
 	// verify if all required items are available
 	private void verifyRequired() {
-		if(corpusDirArg == false || stopListArg == false || queryArg == false || resultsArg == false) {
+		if(corpusDirArg == false || stopListArg == false || queryArg == false) {
 			System.out.println("Minumum required arguments not satisfied");
-			System.out.println("Needed: Corpus Directory, Stop Word List, Query File, Result File");
+			System.out.println("Needed: Corpus Directory, Stop Word List, Query File");
 			System.exit(6);
 		}
 	}

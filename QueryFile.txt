@@ -1,5 +1,8 @@
--Frequency eat
+Query eat
 Query food
--Frequency Gates
--Frequency President
--Frequency summer
+Query Gates
+Query President
+Query summer
+Query Hotels
+Query Internet
+Query Smart
